@@ -1,0 +1,42 @@
+# =========================
+# SECRET / ENV
+# =========================
+.env
+*.env
+*.key
+*.pem
+credentials.json
+service-account*.json
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# =========================
+# LOG / TEMP
+# =========================
+logs/
+*.log
+scratch_pdf_text.txt
+
+# =========================
+# DATA - nếu không muốn đẩy dữ liệu lên GitHub
+# =========================
+data/
+
+# =========================
+# FILE GHI CHÚ NỘI BỘ
+# =========================
+FUTURE_DEVELOPMENT_NOTES.md
+PIPELINE_REFACTOR_PLAN.md
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/

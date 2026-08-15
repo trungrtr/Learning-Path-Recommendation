@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.3",
+  "stage": "layer_2_canonical_course",
+  "course": {
+    "course_id": null,
+    "course_code": null,
+    "internal_course_code": null,
+    "name_vi": null,
+    "name_en": null,
+    "credits": {
+      "total": null,
+      "theory": null,
+      "practice": null,
+      "self_study": null
+    },
+    "department": null,
+    "knowledge_block": null,
+    "education_level": null
+  },
+  "description": {
+    "description_id": null,
+    "text": null
+  },
+  "clos": [
+    {
+      "clo_id": null,
+      "clo_code": null,
+      "content": null,
+      "order_index": null
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_id": null,
+      "chapter_code": null,
+      "title": null,
+      "content_text": null,
+      "order_index": null
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_id": null,
+      "chapter_ref_id": null,
+      "title": null,
+      "order_index": null
+    }
+  ]
+}

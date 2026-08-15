@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://haui.local/schemas/kg_schema.json",
+  "title": "KGExport",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "stage",
+    "courses",
+    "descriptions",
+    "clos",
+    "chapters",
+    "lessons",
+    "esco_skills",
+    "occupations",
+    "entity_relationships",
+    "course_skill_relationships",
+    "occupation_skill_relationships"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "stage": {"const": "kg_export"},
+    "courses": {"type": "array", "items": {"$ref": "#/$defs/course"}},
+    "descriptions": {"type": "array", "items": {"$ref": "#/$defs/description"}},
+    "clos": {"type": "array", "items": {"$ref": "#/$defs/clo"}},
+    "chapters": {"type": "array", "items": {"$ref": "#/$defs/chapter"}},
+    "lessons": {"type": "array", "items": {"$ref": "#/$defs/lesson"}},
+    "esco_skills": {"type": "array", "items": {"$ref": "#/$defs/escoSkill"}},
+    "occupations": {"type": "array", "items": {"$ref": "#/$defs/occupation"}},
+    "entity_relationships": {"type": "array", "items": {"$ref": "#/$defs/entityRelationship"}},
+    "course_skill_relationships": {"type": "array", "items": {"$ref": "#/$defs/courseSkillRelationship"}},
+    "occupation_skill_relationships": {"type": "array", "items": {"$ref": "#/$defs/occupationSkillRelationship"}}
+  },
+  "$defs": {
+    "course": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["course_id"],
+      "properties": {
+        "course_id": {"type": "string", "minLength": 1},
+        "course_code": {"type": ["string", "null"]},
+        "internal_course_code": {"type": ["string", "null"]},
+        "name_vi": {"type": ["string", "null"]},
+        "name_en": {"type": ["string", "null"]}
+      }
+    },
+    "description": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["description_id"],
+      "properties": {
+        "description_id": {"type": "string", "minLength": 1},
+        "text_vi": {"type": ["string", "null"]},
+        "text_en": {"type": ["string", "null"]}
+      }
+    },
+    "clo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["clo_id"],
+      "properties": {
+        "clo_id": {"type": "string", "minLength": 1},
+        "clo_code": {"type": ["string", "null"]},
+        "content_vi": {"type": ["string", "null"]},
+        "content_en": {"type": ["string", "null"]}
+      }
+    },
+    "chapter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["chapter_id"],
+      "properties": {
+        "chapter_id": {"type": "string", "minLength": 1},
+        "chapter_code": {"type": ["string", "null"]},
+        "title_vi": {"type": ["string", "null"]},
+        "title_en": {"type": ["string", "null"]}
+      }
+    },
+    "lesson": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["lesson_id"],
+      "properties": {
+        "lesson_id": {"type": "string", "minLength": 1},
+        "course_code": {"type": ["string", "null"]},
+        "internal_course_code": {"type": ["string", "null"]},
+        "title_vi": {"type": ["string", "null"]},
+        "title_en": {"type": ["string", "null"]}
+      }
+    },
+    "escoSkill": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["skill_uri", "skill_id", "skill_label"],
+      "properties": {
+        "skill_uri": {"type": "string", "minLength": 1},
+        "skill_id": {"type": "string", "minLength": 1},
+        "skill_label": {"type": "string", "minLength": 1},
+        "skill_description": {"type": ["string", "null"]}
+      }
+    },
+    "occupation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["occupation_uri", "occupation_id", "occupation_label"],
+      "properties": {
+        "occupation_uri": {"type": "string", "minLength": 1},
+        "occupation_id": {"type": "string", "minLength": 1},
+        "occupation_label": {"type": "string", "minLength": 1},
+        "occupation_description": {"type": ["string", "null"]}
+      }
+    },
+    "entityRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id", "target_id", "relationship_type"],
+      "properties": {
+        "source_id": {"type": "string", "minLength": 1},
+        "target_id": {"type": "string", "minLength": 1},
+        "relationship_type": {"enum": ["HAS_DESCRIPTION", "HAS_CLO", "HAS_CHAPTER", "HAS_LESSON"]}
+      }
+    },
+    "courseSkillRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "course_id",
+        "skill_uri",
+        "relationship_type",
+        "retrieval_score",
+        "rerank_score",
+        "validation_confidence",
+        "evidence_unit_ids",
+        "evidence_quotes"
+      ],
+      "properties": {
+        "course_id": {"type": "string", "minLength": 1},
+        "skill_uri": {"type": "string", "minLength": 1},
+        "relationship_type": {"enum": ["TEACHES_SKILL", "SUPPORTS_SKILL"]},
+        "retrieval_score": {"type": "number", "minimum": -1.0, "maximum": 1.0},
+        "rerank_score": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+        "validation_confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+        "evidence_unit_ids": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+        "evidence_quotes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "occupationSkillRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["occupation_uri", "skill_uri", "relation_type", "kg_relationship"],
+      "properties": {
+        "occupation_uri": {"type": "string", "minLength": 1},
+        "skill_uri": {"type": "string", "minLength": 1},
+        "relation_type": {"enum": ["essential", "optional"]},
+        "kg_relationship": {"enum": ["REQUIRES_SKILL", "OPTIONAL_SKILL"]}
+      }
+    }
+  }
+}

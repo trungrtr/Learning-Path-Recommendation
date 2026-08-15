@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://haui.local/schemas/translated_unit_schema.json",
+  "title": "TranslatedUnit",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["course_id", "unit_id", "unit_type", "text_vi", "text_src", "text_en"],
+  "properties": {
+    "course_id": {"type": "string", "minLength": 1},
+    "unit_id": {"type": "string", "minLength": 1},
+    "unit_type": {"enum": ["name", "description", "clo", "chapter", "lesson"]},
+    "course_code": {"type": ["string", "null"]},
+    "internal_course_code": {"type": ["string", "null"]},
+    "knowledge_block": {"type": ["string", "null"]},
+    "course_name_vi": {"type": ["string", "null"]},
+    "course_name_en": {"type": ["string", "null"]},
+    "description_id": {"type": ["string", "null"]},
+    "clo_id": {"type": ["string", "null"]},
+    "chapter_id": {"type": ["string", "null"]},
+    "lesson_id": {"type": ["string", "null"]},
+    "chapter_title_vi": {"type": ["string", "null"]},
+    "chapter_title_en": {"type": ["string", "null"]},
+    "text_vi": {"type": "string", "minLength": 1},
+    "text_src": {"type": "string", "minLength": 1},
+    "text_en": {"type": "string", "minLength": 1}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"unit_type": {"const": "description"}}},
+      "then": {"required": ["description_id"], "properties": {"description_id": {"type": "string", "minLength": 1}}}
+    },
+    {
+      "if": {"properties": {"unit_type": {"const": "clo"}}},
+      "then": {"required": ["clo_id"], "properties": {"clo_id": {"type": "string", "minLength": 1}}}
+    },
+    {
+      "if": {"properties": {"unit_type": {"const": "chapter"}}},
+      "then": {"required": ["chapter_id"], "properties": {"chapter_id": {"type": "string", "minLength": 1}}}
+    },
+    {
+      "if": {"properties": {"unit_type": {"const": "lesson"}}},
+      "then": {"required": ["lesson_id"], "properties": {"lesson_id": {"type": "string", "minLength": 1}}}
+    }
+  ]
+}

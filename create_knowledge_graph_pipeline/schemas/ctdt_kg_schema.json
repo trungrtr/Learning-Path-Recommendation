@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://haui.local/schemas/ctdt_kg_schema.json",
+  "title": "CtdtKGExport",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "stage",
+    "programs",
+    "groups",
+    "program_group_relationships",
+    "group_relationships",
+    "course_relationships",
+    "course_dependency_relationships"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "stage": {"const": "ctdt_kg_export"},
+    "programs": {"type": "array", "items": {"$ref": "#/$defs/program"}},
+    "groups": {"type": "array", "items": {"$ref": "#/$defs/group"}},
+    "program_group_relationships": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/programGroupRelationship"}
+    },
+    "group_relationships": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/groupRelationship"}
+    },
+    "course_relationships": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/courseRelationship"}
+    },
+    "course_dependency_relationships": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/courseDependencyRelationship"}
+    }
+  },
+  "$defs": {
+    "program": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["program_id"],
+      "properties": {
+        "program_id": {"type": "string", "minLength": 1},
+        "ma_ctdt": {"type": ["string", "null"]},
+        "ten_nganh": {"type": ["string", "null"]}
+      }
+    },
+    "group": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["group_id", "program_id"],
+      "properties": {
+        "group_id": {"type": "string", "minLength": 1},
+        "program_id": {"type": "string", "minLength": 1},
+        "nhom_id": {"type": ["string", "null"]},
+        "ten_nhom": {"type": ["string", "null"]},
+        "nhom_cha_id": {"type": ["string", "null"]},
+        "tong_so_tin": {"type": ["number", "null"]}
+      }
+    },
+    "programGroupRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["program_id", "group_id", "relationship_type"],
+      "properties": {
+        "program_id": {"type": "string", "minLength": 1},
+        "group_id": {"type": "string", "minLength": 1},
+        "relationship_type": {"const": "HAS_GROUP"}
+      }
+    },
+    "groupRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["parent_group_id", "child_group_id", "relationship_type"],
+      "properties": {
+        "parent_group_id": {"type": "string", "minLength": 1},
+        "child_group_id": {"type": "string", "minLength": 1},
+        "relationship_type": {"const": "HAS_SUBGROUP"}
+      }
+    },
+    "courseRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["program_id", "group_id", "ma_hp", "relationship_type"],
+      "properties": {
+        "program_id": {"type": "string", "minLength": 1},
+        "group_id": {"type": "string", "minLength": 1},
+        "ma_hp": {"type": "string", "minLength": 1},
+        "hoc_ky": {"type": ["integer", "null"]},
+        "relationship_type": {"const": "INCLUDES_COURSE"}
+      }
+    },
+    "courseDependencyRelationship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["ma_hp", "dependency_ma_hp", "dependency_type", "relationship_type"],
+      "properties": {
+        "ma_hp": {"type": "string", "minLength": 1},
+        "dependency_ma_hp": {"type": "string", "minLength": 1},
+        "dependency_type": {"enum": ["TIEN_QUYET", "HOC_TRUOC"]},
+        "relationship_type": {"enum": ["REQUIRES_COURSE", "RECOMMENDS_PRIOR_COURSE"]}
+      }
+    }
+  }
+}

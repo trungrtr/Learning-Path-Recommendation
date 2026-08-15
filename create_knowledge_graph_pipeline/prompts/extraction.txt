@@ -1,0 +1,85 @@
+Trích xuất đề cương học phần từ Markdown theo schema LangExtract được cung cấp.
+Chỉ trả về bốn loại bản ghi: `course`, `clo`, `chapter`, `lesson`.
+
+Mục tiêu quan trọng nhất của bước này là GIỮ ĐỦ nội dung học thuật trong đề
+cương. Không được bỏ sót dòng nội dung chương trình chỉ vì bảng không ghi rõ
+từ "Chương" hoặc "Bài".
+
+Quy tắc bắt buộc:
+
+- Chỉ dùng thông tin xuất hiện trong Markdown. Không suy diễn kiến thức ngoài
+  tài liệu và không tự tạo nội dung học thuật mới.
+- Trường không có bằng chứng trong tài liệu phải là `null`.
+- Không tạo ID, hash, đường dẫn hoặc metadata; pipeline sẽ sinh các giá trị này.
+- Không trích xuất giờ học, ngày ban hành, giảng viên, số quyết định hoặc dữ
+  liệu quản trị khác.
+- `course_code` là giá trị tại mục "Mã học phần"; không dùng "Mã in" cho trường này.
+- `description_text` phải giữ đầy đủ nội dung mô tả học phần, không tóm tắt.
+- Mỗi CLO là một bản ghi `clo`; `content` giữ đầy đủ chuẩn đầu ra và `clo_code`
+  chỉ chứa mã như CLO1/C1 nếu tài liệu có mã.
+- `order_index` là thứ tự xuất hiện trong đúng phạm vi CLO/chapter/lesson; không
+  dùng số giờ hoặc mã học phần làm thứ tự.
+
+Quy tắc trích xuất nội dung chương trình:
+
+- Nếu tài liệu ghi rõ "Chương", "Chapter" hoặc mã chương tương đương, mỗi mục
+  đó là một bản ghi `chapter`.
+- Nếu tài liệu ghi rõ "Bài", "Lesson", mục con hoặc tiểu mục thuộc một chương,
+  mỗi mục đó là một bản ghi `lesson`.
+- `chapter.title` chỉ chứa tên chương/chủ đề lớn. `chapter.content_text` chứa
+  phần mô tả nội dung chương nếu có, nhưng không đưa các cột số giờ vào.
+- `lesson.title` giữ nguyên tên bài/mục nhỏ mang tính chất học thuật. Tuyệt đối không lấy tên các chuyên ngành/đối tượng sinh viên làm tên lesson. Không tóm tắt, không gộp nhiều
+  dòng học thuật khác nhau thành một lesson.
+- `lesson.chapter_code` phải tham chiếu mã chương chứa lesson đó khi quan hệ
+  này có thể xác định từ tài liệu. TUYỆT ĐỐI KHÔNG dùng STT (Số thứ tự dòng trong bảng)
+  làm `chapter_code`. Chỉ trích xuất `chapter_code` khi tài liệu ghi rõ mã
+  phân cấp (như "Chương 1", "Chương 2", "I.", "II."). Nếu chương không có mã rõ ràng,
+  hãy để `chapter_code` là null. Tránh nhầm lẫn STT dòng với mã chương.
+
+Quy tắc xử lý bảng không có cấu trúc chuẩn:
+
+- Với bảng "Nội dung chương trình" hoặc bảng tương tự, KHÔNG được bỏ qua các
+  dòng chỉ vì cột giờ học để trống hoặc dòng đó không ghi chữ "Chương"/"Bài".
+- Dòng mang tính chủ đề lớn thường có một hoặc nhiều dấu hiệu sau:
+  có tổng số giờ học ở các cột LT/TH/Tự học, định dạng nổi bật, STT cấp lớn
+  như `1`, `2`, `3`, hoặc là dòng bao quát nhiều dòng chi tiết ngay bên dưới.
+  Hãy trích dòng đó thành `chapter`.
+- Các dòng chi tiết nằm ngay sau một dòng chủ đề lớn, kể cả khi cột giờ học
+  trống, phải được trích thành `lesson` và map về chapter liền trước bằng
+  `chapter_code` nếu có thể.
+- Nếu bảng dùng đánh số phân cấp như `1`, `1.1`, `1.2`, `2`, `2.1`, hãy hiểu
+  dòng cấp lớn (`1`, `2`) là `chapter`, còn dòng cấp nhỏ (`1.1`, `1.2`, `2.1`)
+  là `lesson` thuộc chapter tương ứng.
+- Nếu bảng không có mã phân cấp nhưng có dòng chủ đề lớn kèm số giờ, các dòng
+  chi tiết không có giờ nằm dưới nó vẫn là `lesson` của chủ đề lớn đó cho đến
+  khi gặp dòng chủ đề lớn tiếp theo.
+- Nếu không thể phân biệt rõ chapter và lesson, hãy ưu tiên không bỏ sót:
+  trích tất cả các dòng nội dung học thuật thành `lesson`. Khi có tiêu đề bảng
+  như "Nội dung chương trình", có thể trích tiêu đề đó làm một `chapter` chung;
+  nếu không có căn cứ để map, đặt `lesson.chapter_code = null`.
+- Không coi các cột số giờ là nội dung học thuật. Số giờ chỉ là tín hiệu phụ
+  để nhận ra dòng chủ đề lớn; không đưa số giờ vào `title` hoặc `content_text`.
+- Không bỏ qua dòng học thuật chỉ vì dòng đó ngắn, không có giờ, không có mã
+  CLO, không có chữ "Bài", hoặc nằm trong bảng.
+
+Những dòng nên bỏ qua:
+
+- Tuyệt đối bỏ qua toàn bộ bảng "CĐR cấp độ 3 tham gia" hoặc các bảng tương tự phân bổ đối tượng học.
+- Tuyệt đối không trích tên ngành, tên chương trình, khóa/cohort hoặc đối tượng áp dụng thành
+  `chapter`/`lesson`, đặc biệt các dòng như "Công nghệ kỹ thuật cơ khí - ĐH K15",
+  "Hóa dược - ĐH K18", "Information Security - Cohort K19" hoặc mẫu tương đương `CĐ Kxx`.
+- Bỏ qua dòng phân bổ chương trình cho từng ngành/khóa. Các dòng này là metadata áp dụng, không
+  phải nội dung học thuật của học phần.
+- Dòng chỉ chứa tổng số giờ, phân bổ LT/TH/BT/Tự học, hình thức thi, điểm,
+  tài liệu học tập, điều kiện học trước, giảng viên, khoa/bộ môn, quyết định,
+  hoặc thông tin quản trị.
+- Dòng trống hoặc dòng chỉ là tiêu đề cột của bảng.
+
+Thuộc tính được phép:
+
+- `course`: `course_code`, `name_vi`, `name_en`, `credits_total`,
+  `credits_theory`, `credits_practice`, `credits_self_study`, `department`,
+  `knowledge_block`, `education_level`, `description_text`.
+- `clo`: `clo_code`, `content`, `order_index`.
+- `chapter`: `chapter_code`, `title`, `content_text`, `order_index`.
+- `lesson`: `chapter_code`, `title`, `order_index`.

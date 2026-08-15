@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.2",
+  "stage": "layer_1_source_extraction",
+  "source_document": {
+    "source_document_id": null,
+    "crawl_course_key": null
+  },
+  "course": {
+    "course_temp_id": null,
+    "course_code": null,
+    "internal_course_code": null,
+    "name_vi": null,
+    "name_en": null,
+    "credits": {
+      "total": null,
+      "theory": null,
+      "practice": null,
+      "self_study": null
+    },
+    "department": null,
+    "knowledge_block": null,
+    "education_level": null
+  },
+  "description": {
+    "description_temp_id": null,
+    "text": null
+  },
+  "clos": [
+    {
+      "clo_temp_id": null,
+      "clo_code": null,
+      "content": null,
+      "order_index": null
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_temp_id": null,
+      "chapter_code": null,
+      "title": null,
+      "content_text": null,
+      "order_index": null
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_temp_id": null,
+      "chapter_ref_temp_id": null,
+      "title": null,
+      "order_index": null
+    }
+  ]
+}

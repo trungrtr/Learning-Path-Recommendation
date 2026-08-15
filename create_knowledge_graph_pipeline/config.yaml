@@ -1,0 +1,105 @@
+# Cấu hình trung tâm — không hardcode các giá trị này trong code.
+
+paths:
+  markdown_input_dir: "data/00_input/courses"
+  ctdt_input_dir: "data/00_input/CTDT"
+  extracted_dir: "data/01_extracted"
+  ctdt_extracted_dir: "data/01_ctdt_extracted"
+  extraction_rejection_reports_dir: "data/01_extracted/rejection_reports"
+  canonical_dir: "data/02_merged"
+  translated_units_dir: "data/04_units_translated"
+  translation_cache_dir: "data/translation_cache"
+  skill_matches_dir: "data/05_skill_matches"
+  evidence_validation_cache_dir: "data/evidence_validation_cache"
+  skill_pool_cache_dir: "data/skill_matching_cache"
+  skill_matching_data_dir: "data/skill_matching"
+  skill_training_pairs_path: "data/skill_matching/training/it30_weak_pairs.jsonl"
+  skill_links_dir: "data/04_skill_candidates"
+  esco_dir: "resources/esco"
+  neo4j_import_dir: "data/06_kg_ready"
+
+extraction_llm:
+  extractor_model: "gemini-3.1-flash-lite"
+  prompts_dir: "prompts"
+  max_char_buffer: 6000
+  extraction_passes: 1
+
+ctdt_extraction_llm:
+  model: "gemini-3.1-flash-lite"
+  prompts_dir: "prompts"
+  max_chars: 120000
+  temperature: 0.0
+
+extraction_validation:
+  enabled: true
+  report_ambiguous: true
+
+translation:
+  model: "gemini-3.1-flash-lite"
+  prompt_version: "academic_vi_en_v2"
+  cache_schema_version: "2.0"
+
+  # LLM chỉ tạo cụm skill có bằng chứng trong đề cương; không được sinh ESCO URI/skill mới.
+#   model: "gemini-3.1-flash-lite"
+#   temperature: 0.0
+
+skill_matching:
+  # Runtime chỉ dùng artifact nằm trong create_knowledge_graph_pipline.
+  esco_occupations_csv: "data/skill_matching/esco_it30/occupations_30.csv"
+  esco_skills_csv: "data/skill_matching/esco_it30/skills.csv"
+  esco_relations_csv: "data/skill_matching/esco_it30/occupation_skill_relations.csv"
+  embedding_model_dir: "resources/models/all-MiniLM-L6-v2"
+  # Precision-first: chỉ đưa candidate có tín hiệu retrieval đủ rõ vào tầng UniSkill rerank.
+  retrieval_threshold: 0.35
+  retrieval_top_k: 20
+  retrieval_query_types: ["course", "clo", "chapter", "lesson"]
+  description_chunk_tokens: 180
+  description_chunk_overlap_tokens: 20
+  uniskill_seed_dir: "resources/models/uniskill_bert_it30_seed"
+  uniskill_model_dir: "resources/models/uniskill_bert_it30"
+  allow_seed_model_fallback: true
+  positive_label_id: 1
+  rerank_threshold: 0.85
+  max_validation_evidence: 5
+  validator_top_n_per_course: 25
+  max_skills_per_course: null
+  evidence_validator_enabled: true
+  evidence_validator_model: "gemini-3.1-flash-lite"
+  evidence_validator_prompt_version: "v1"
+  evidence_validator_temperature: 0.0
+  evidence_validator_max_retries: 2
+  validation_confidence_threshold: 0.92
+  output_calibration_status: "experimental"
+  device: null
+  embedding_batch_size: 64
+  rerank_batch_size: 16
+  max_length: 512
+  training_epochs: 1
+  training_batch_size: 16
+  training_learning_rate: 0.00002
+  negatives_per_positive: 1
+  training_seed: 42
+
+canonicalization:
+  flat_lessons: true                          # xem README mục "việc còn để ngỏ"
+  course_field_strategy:
+    course_code: most_recent
+    internal_course_code: most_recent
+    name_vi: most_recent
+    name_en: most_recent
+    department: most_recent
+    knowledge_block: most_recent
+    education_level: most_recent
+  numeric_field_strategy: most_complete        # credits.*, hours.*
+  title_similarity_threshold: 0.90             # dùng khi match chapter/lesson theo title
+
+neo4j:
+  node_labels:
+    course: "HocPhan"
+    description: "MoTaHocPhan"
+    clo: "CLO"
+    chapter: "Chuong"
+    lesson: "Bai"
+    skill: "ESCOSkill"
+    occupation: "NganhNghe"
+  import_batch_size: 5000

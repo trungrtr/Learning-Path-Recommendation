@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://haui.local/schemas/skill_candidate_schema.json",
+  "title": "SkillCandidate",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "course_id",
+    "query_id",
+    "query_type",
+    "retrieval_text_en",
+    "evidence_text_en",
+    "source_unit_ids",
+    "source_unit_types",
+    "skill_id",
+    "skill_uri",
+    "skill_label",
+    "retrieval_rank",
+    "retrieval_score"
+  ],
+  "properties": {
+    "course_id": {"type": "string", "minLength": 1},
+    "query_id": {"type": "string", "minLength": 1},
+    "query_type": {
+      "enum": ["course", "clo", "chapter", "lesson", "direct", "course_ability", "clo_ability", "topic_ability"]
+    },
+    "retrieval_text_en": {"type": "string", "minLength": 1},
+    "evidence_text_en": {"type": "string", "minLength": 1},
+    "source_unit_ids": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+    "source_unit_types": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"enum": ["name", "description", "clo", "chapter", "lesson"]}
+    },
+    "chunk_index": {"type": ["integer", "null"], "minimum": 0},
+    "skill_id": {"type": "string", "minLength": 1},
+    "skill_uri": {"type": "string", "minLength": 1},
+    "skill_label": {"type": "string", "minLength": 1},
+    "skill_description": {"type": ["string", "null"]},
+    "retrieval_rank": {"type": "integer", "minimum": 1},
+    "retrieval_score": {"type": "number", "minimum": -1.0, "maximum": 1.0}
+  }
+}
