@@ -1,0 +1,50 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+    "preferred_label": "plan product management",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.70092,
+    "cross_encoder_score": 0.9948,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "lesson_32",
+      "text": "Unit 9: Optimal Consumption",
+      "meta": {
+        "matched_mention": "optimal consumption theory"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": null,
+      "dense_score": 0.4317,
+      "rrf_score": 0.0152,
+      "retrieval_sources": [
+        "faiss"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

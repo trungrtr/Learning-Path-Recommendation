@@ -1,0 +1,43 @@
+{
+  "version": "v1",
+  "filtered_at": "2026-09-13",
+  "generated_at_utc": "2026-09-12T17:41:37.015839+00:00",
+  "source": "ESCO bulk download plus summary.csv",
+  "source_files": {
+    "summary.csv": "0a91df2d78640ee5a1a2cc9b0d5ae0d126429db6bb6e18c9f5e473f631bdade8",
+    "occupations.csv": "8034348d84b6d1dd24a5bcf9609186ecbba0a85457ee2eacd65bddec33a51b4a",
+    "relations.csv": "e1a46511f0ef4d505f106f1d41f528ef76d289f93e59d4d0cbaac38986102c44",
+    "skills.csv": "d03b10efca94b4bcfa260a992cfde89c375f0fa12095d6662a663cfd2f9f2950"
+  },
+  "filter_rule": "Keep the occupations in summary.csv and all related ESCO skills.",
+  "keys": {
+    "occupation": "conceptUri",
+    "skill": "conceptUri",
+    "relation": [
+      "occupationUri",
+      "skillUri",
+      "relationType",
+      "skillType"
+    ]
+  },
+  "domain_rule": "in_domain when every linked selected occupation has an ISCO code starting with 13, 25, or 35; otherwise out_of_domain.",
+  "counts": {
+    "occupation_count": 30,
+    "skill_count": 687,
+    "relation_count": 2380
+  },
+  "outputs": {
+    "filtered_occupations.csv": {
+      "sha256": "51b9bbed2bfadf1bdb55920078ac02fbb8fa6cf6da1eac4033648b3d70b39dc2",
+      "bytes": 32235
+    },
+    "filtered_skills.csv": {
+      "sha256": "7c2a4bbafd0c4c4d77a7acb311678c4ee54979d4ee23404c717fa33f611ace6e",
+      "bytes": 480154
+    },
+    "filtered_relations.csv": {
+      "sha256": "786ea7114b7b2bc37d12a4eff07db01318ef26e5b4274027d8d87c40e70af2e4",
+      "bytes": 404302
+    }
+  }
+}

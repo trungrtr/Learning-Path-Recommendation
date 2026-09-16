@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+    "preferred_label": "business ICT systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6267",
+    "course_title": "Major Project"
+  },
+  "support_context": {
+    "support_concept_origin": "professional communication; resource allocation; technical documentation standards",
+    "evidence_text": "Evaluate the developed software solution based on technical criteria, performance, and requirement compliance, thereby proposing improvements to enhance the quality and feasibility of the information system"
+  },
+  "scoring": {
+    "final_score": 0.602112,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses on the design, deployment, and management of information systems, which are core components of business ICT systems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

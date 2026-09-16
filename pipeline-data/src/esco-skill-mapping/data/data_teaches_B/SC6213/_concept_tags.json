@@ -1,0 +1,2224 @@
+{
+  "course_code": "SC6213",
+  "concept_tags": [
+    {
+      "text": "Java programming",
+      "normalized": "java programming"
+    },
+    {
+      "text": "graphical user interface programming",
+      "normalized": "graphical user interface programming"
+    },
+    {
+      "text": "Swing",
+      "normalized": "swing"
+    },
+    {
+      "text": "JavaFX",
+      "normalized": "javafx"
+    },
+    {
+      "text": "database connectivity",
+      "normalized": "database connectivity"
+    },
+    {
+      "text": "JPA",
+      "normalized": "jpa"
+    },
+    {
+      "text": "Hibernate",
+      "normalized": "hibernate"
+    },
+    {
+      "text": "HQL",
+      "normalized": "hql"
+    },
+    {
+      "text": "multithreading",
+      "normalized": "multithreading"
+    },
+    {
+      "text": "network programming",
+      "normalized": "network programming"
+    },
+    {
+      "text": "sockets",
+      "normalized": "sockets"
+    },
+    {
+      "text": "Spring framework",
+      "normalized": "spring framework"
+    },
+    {
+      "text": "Quarkus",
+      "normalized": "quarkus"
+    },
+    {
+      "text": "advanced Java knowledge",
+      "normalized": "advanced java knowledge"
+    },
+    {
+      "text": "advanced Java technologies",
+      "normalized": "advanced java technologies"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "software design",
+      "normalized": "software design"
+    },
+    {
+      "text": "software implementation",
+      "normalized": "software implementation"
+    },
+    {
+      "text": "Database Connectivity Programming",
+      "normalized": "database connectivity programming"
+    },
+    {
+      "text": "User Interface Programming",
+      "normalized": "user interface programming"
+    },
+    {
+      "text": "Multithreading Techniques",
+      "normalized": "multithreading techniques"
+    },
+    {
+      "text": "Java",
+      "normalized": "java"
+    },
+    {
+      "text": "Spring Core",
+      "normalized": "spring core"
+    },
+    {
+      "text": "Spring Design Patterns",
+      "normalized": "spring design patterns"
+    },
+    {
+      "text": "Spring Design Pattern Programming",
+      "normalized": "spring design pattern programming"
+    },
+    {
+      "text": "Spring Boot",
+      "normalized": "spring boot"
+    },
+    {
+      "text": "Spring Web",
+      "normalized": "spring web"
+    },
+    {
+      "text": "WebFlux Programming",
+      "normalized": "webflux programming"
+    },
+    {
+      "text": "Spring Boot Programming",
+      "normalized": "spring boot programming"
+    },
+    {
+      "text": "Advanced Frameworks",
+      "normalized": "advanced frameworks"
+    },
+    {
+      "text": "Quarkus Framework",
+      "normalized": "quarkus framework"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6213",
+      "concept_tag": "java programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "graphical user interface programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "swing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "javafx",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "database connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L03",
+        "SC6213_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "jpa",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "hibernate",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "hql",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "multithreading",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "network programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L04",
+        "SC6213_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "sockets",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN",
+        "SC6213_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "quarkus",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "advanced java knowledge",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "advanced java technologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "software design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "software implementation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "database connectivity programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "user interface programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "multithreading techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "java",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L06",
+        "SC6213_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring design patterns",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring design pattern programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring boot",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring web",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "webflux programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "spring boot programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "advanced frameworks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "quarkus framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6213_BAIHOC_L10"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7247783514367737,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7212470513909184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7050393090528817,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7125753087891269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7125753087891269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7125753087891269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7125753087891269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7125753087891269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quarkus framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7102758270661145,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6939711857099482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6921932793791065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6768186819282667,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6768186819282667,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6768186819282667,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6768186819282667,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6834132891820575,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6793773267654151,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6597097107375126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hibernate",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6421112940164655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.6570015504976799,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6374196338535589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring web",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.725024160872703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jpa",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring core",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring web",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quarkus framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7294806792330837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jpa",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7164701273414877,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring core",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.7057139229108541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring core",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051438338754501,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6895871888186846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6856616744627305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.677525246923582,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javafx",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.6704393478783153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multithreading techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.631950047498921,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6054370664593529,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring web",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5828830065410072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jpa",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.578472233926956,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced java knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jpa",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.5882639868461952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring core",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring design pattern programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webflux programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spring boot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.5749142268672321,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 31,
+    "total_has_concept_edges": 31,
+    "total_evidence_for_edges": 261
+  }
+}

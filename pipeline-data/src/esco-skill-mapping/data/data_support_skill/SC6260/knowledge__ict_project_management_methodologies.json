@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6260",
+    "course_title": "Major Project (Information Technology)"
+  },
+  "support_context": {
+    "support_concept_origin": "problem decomposition; project management",
+    "evidence_text": "Description: The specialized project aims to apply acquired information technology specialized knowledge to solve a small practical problem"
+  },
+  "scoring": {
+    "final_score": 0.758408,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Executing a major project requires planning, managing resources, and following a development lifecycle, which inherently supports the application of project management methodologies.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

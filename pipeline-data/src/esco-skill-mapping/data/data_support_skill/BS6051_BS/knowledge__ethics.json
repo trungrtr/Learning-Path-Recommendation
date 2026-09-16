@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "preferred_label": "ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6051_BS",
+    "course_title": "Nghệ thuật học đại cương"
+  },
+  "support_context": {
+    "support_concept_origin": "critical thinking; historical contextualization",
+    "evidence_text": "and content-form relationships in art"
+  },
+  "scoring": {
+    "final_score": 0.518518,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explores the roles and functions of art in society, which inherently touches upon cultural values and the ethical dimensions of artistic expression.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

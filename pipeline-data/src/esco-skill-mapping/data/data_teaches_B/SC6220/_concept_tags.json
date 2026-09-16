@@ -1,0 +1,2526 @@
+{
+  "course_code": "SC6220",
+  "concept_tags": [
+    {
+      "text": "open-source software",
+      "normalized": "open-source software"
+    },
+    {
+      "text": "open-source publishing",
+      "normalized": "open-source publishing"
+    },
+    {
+      "text": "software design",
+      "normalized": "software design"
+    },
+    {
+      "text": "software construction",
+      "normalized": "software construction"
+    },
+    {
+      "text": "software testing",
+      "normalized": "software testing"
+    },
+    {
+      "text": "open-source programming",
+      "normalized": "open-source programming"
+    },
+    {
+      "text": "open-source resource exploitation",
+      "normalized": "open-source resource exploitation"
+    },
+    {
+      "text": "open-source software development",
+      "normalized": "open-source software development"
+    },
+    {
+      "text": "legal principles",
+      "normalized": "legal principles"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "documentation research",
+      "normalized": "documentation research"
+    },
+    {
+      "text": "project planning",
+      "normalized": "project planning"
+    },
+    {
+      "text": "technical problem solving",
+      "normalized": "technical problem solving"
+    },
+    {
+      "text": "intellectual property regulations",
+      "normalized": "intellectual property regulations"
+    },
+    {
+      "text": "global software development",
+      "normalized": "global software development"
+    },
+    {
+      "text": "open-source software design",
+      "normalized": "open-source software design"
+    },
+    {
+      "text": "software construction solutions",
+      "normalized": "software construction solutions"
+    },
+    {
+      "text": "open-source tools",
+      "normalized": "open-source tools"
+    },
+    {
+      "text": "open-source information systems",
+      "normalized": "open-source information systems"
+    },
+    {
+      "text": "Open Source Software",
+      "normalized": "open source software"
+    },
+    {
+      "text": "Intellectual Property Rights",
+      "normalized": "intellectual property rights"
+    },
+    {
+      "text": "Software Licensing",
+      "normalized": "software licensing"
+    },
+    {
+      "text": "Development Models",
+      "normalized": "development models"
+    },
+    {
+      "text": "Open Source Principles",
+      "normalized": "open source principles"
+    },
+    {
+      "text": "Community Engagement",
+      "normalized": "community engagement"
+    },
+    {
+      "text": "Open Source Contribution",
+      "normalized": "open source contribution"
+    },
+    {
+      "text": "Software Evaluation",
+      "normalized": "software evaluation"
+    },
+    {
+      "text": "Selection Process",
+      "normalized": "selection process"
+    },
+    {
+      "text": "Website Development",
+      "normalized": "website development"
+    },
+    {
+      "text": "Open Source Tools",
+      "normalized": "open source tools"
+    },
+    {
+      "text": "Open Source Systems",
+      "normalized": "open source systems"
+    },
+    {
+      "text": "Open Source Databases",
+      "normalized": "open source databases"
+    },
+    {
+      "text": "Application Development",
+      "normalized": "application development"
+    },
+    {
+      "text": "Service-Oriented Software Development",
+      "normalized": "service-oriented software development"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN",
+        "SC6220_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source publishing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software construction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source resource exploitation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source software development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT1",
+        "SC6220_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "legal principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT1",
+        "SC6220_MUCTIEU_MT3",
+        "SC6220_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "documentation research",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "project planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "technical problem solving",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "intellectual property regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "global software development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source software design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software construction solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open-source information systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "intellectual property rights",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software licensing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "development models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "community engagement",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source contribution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "software evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "selection process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "website development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "open source databases",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "application development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6220",
+      "concept_tag": "service-oriented software development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6220_BAIHOC_L10"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "open-source programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "esco_label": "operate open source software",
+      "confidence": 0.7877120058075184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7629834063931111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7757035923080418,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.7607862844739605,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7581532662032424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.750690820696102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7622945579722673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.6797338458338867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "esco_label": "Open source model",
+      "confidence": 0.7897689194669322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7720740625485094,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7776048823684295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7518976599602747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7505418833268401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7458288894899929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.753790472573264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7513497782158305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7444460051194587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7434581873970936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7419803309911032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "esco_label": "Waterfall development",
+      "confidence": 0.7391406418444617,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software construction solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.7350817798709698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "global software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "service-oriented software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7282388040104215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source resource exploitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source contribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open source databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "esco_label": "WildFly",
+      "confidence": 0.7017359626738111,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 34,
+    "total_has_concept_edges": 34,
+    "total_evidence_for_edges": 300
+  }
+}

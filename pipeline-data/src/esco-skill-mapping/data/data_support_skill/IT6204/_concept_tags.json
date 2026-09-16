@@ -1,0 +1,259 @@
+{
+  "course_code": "IT6204",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "complex problem decomposition",
+      "normalized": "complex problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "stakeholder communication",
+      "normalized": "stakeholder communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "interdisciplinary collaboration",
+      "normalized": "interdisciplinary collaboration",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "critical evaluation",
+      "normalized": "critical evaluation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project management mindset",
+      "normalized": "project management mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "requirement ambiguity resolution",
+      "normalized": "requirement ambiguity resolution",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "iterative refinement",
+      "normalized": "iterative refinement",
+      "loai": "foundational"
+    },
+    {
+      "text": "strategic planning",
+      "normalized": "strategic planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "active listening",
+      "normalized": "active listening",
+      "loai": "cognitive"
+    },
+    {
+      "text": "visual communication",
+      "normalized": "visual communication",
+      "loai": "interpersonal"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6204",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "complex problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "stakeholder communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "interdisciplinary collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "critical evaluation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "project management mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "requirement ambiguity resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "iterative refinement",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "strategic planning",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "active listening",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6204",
+      "concept_tag": "visual communication",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.830947,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.830947,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative refinement",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.689845,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.689845,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative refinement",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.669941,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.669941,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.620572,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.620572,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.620572,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative refinement",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.569319,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.569319,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.569319,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "esco_label": "service-oriented modelling",
+      "confidence": 0.552522,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "esco_label": "service-oriented modelling",
+      "confidence": 0.552522,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "esco_label": "service-oriented modelling",
+      "confidence": 0.552522,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 15
+  }
+}

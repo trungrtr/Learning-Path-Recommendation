@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+    "preferred_label": "computer engineering",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6217_BS",
+    "course_title": "Nhập môn về kỹ thuật"
+  },
+  "support_context": {
+    "support_concept_origin": "academic discipline",
+    "evidence_text": "Course: Nhập môn về kỹ thuật"
+  },
+  "scoring": {
+    "final_score": 0.826338,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course provides foundational knowledge in hardware, software, and computer science, which are essential prerequisites for computer engineering.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+    "preferred_label": "industrial research and development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6014",
+    "course_title": "Foundation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "interdisciplinary synthesis; problem framing",
+    "evidence_text": "Implement teamwork in a project environment to assign tasks, coordinate execution, and complete a basic-level information system"
+  },
+  "scoring": {
+    "final_score": 0.498786,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course encourages innovative and entrepreneurial thinking to propose and design new systems, which supports the foundational mindset for industrial research and development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

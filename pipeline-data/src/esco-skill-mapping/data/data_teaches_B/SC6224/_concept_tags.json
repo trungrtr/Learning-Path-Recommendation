@@ -1,0 +1,2728 @@
+{
+  "course_code": "SC6224",
+  "concept_tags": [
+    {
+      "text": "HTML markup language",
+      "normalized": "html markup language"
+    },
+    {
+      "text": "CSS",
+      "normalized": "css"
+    },
+    {
+      "text": "Javascript",
+      "normalized": "javascript"
+    },
+    {
+      "text": "web page design",
+      "normalized": "web page design"
+    },
+    {
+      "text": "web page interfaces",
+      "normalized": "web page interfaces"
+    },
+    {
+      "text": "website design",
+      "normalized": "website design"
+    },
+    {
+      "text": "web development",
+      "normalized": "web development"
+    },
+    {
+      "text": "web interface design principles",
+      "normalized": "web interface design principles"
+    },
+    {
+      "text": "HTML",
+      "normalized": "html"
+    },
+    {
+      "text": "JavaScript languages",
+      "normalized": "javascript languages"
+    },
+    {
+      "text": "website interface requirements",
+      "normalized": "website interface requirements"
+    },
+    {
+      "text": "web page design errors",
+      "normalized": "web page design errors"
+    },
+    {
+      "text": "error handling solutions",
+      "normalized": "error handling solutions"
+    },
+    {
+      "text": "website interface design",
+      "normalized": "website interface design"
+    },
+    {
+      "text": "Basic HTML elements",
+      "normalized": "basic html elements"
+    },
+    {
+      "text": "embedding",
+      "normalized": "embedding"
+    },
+    {
+      "text": "HTML tags",
+      "normalized": "html tags"
+    },
+    {
+      "text": "inserting images",
+      "normalized": "inserting images"
+    },
+    {
+      "text": "hyperlinks",
+      "normalized": "hyperlinks"
+    },
+    {
+      "text": "forms",
+      "normalized": "forms"
+    },
+    {
+      "text": "Basic CSS formatting",
+      "normalized": "basic css formatting"
+    },
+    {
+      "text": "Box model",
+      "normalized": "box model"
+    },
+    {
+      "text": "advanced CSS",
+      "normalized": "advanced css"
+    },
+    {
+      "text": "JavaScript basics",
+      "normalized": "javascript basics"
+    },
+    {
+      "text": "JavaScript objects",
+      "normalized": "javascript objects"
+    },
+    {
+      "text": "Event handling",
+      "normalized": "event handling"
+    },
+    {
+      "text": "regular expressions",
+      "normalized": "regular expressions"
+    },
+    {
+      "text": "JavaScript arrays",
+      "normalized": "javascript arrays"
+    },
+    {
+      "text": "JavaScript strings",
+      "normalized": "javascript strings"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6224",
+      "concept_tag": "html markup language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "css",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MOTA_MAIN",
+        "SC6224_MUCTIEU_G2",
+        "SC6224_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MOTA_MAIN",
+        "SC6224_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "web page design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MOTA_MAIN",
+        "SC6224_CLO_L1",
+        "SC6224_CLO_L4"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "web page interfaces",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MOTA_MAIN",
+        "SC6224_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "website design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "web development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "web interface design principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "html",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MUCTIEU_G2",
+        "SC6224_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript languages",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "website interface requirements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "web page design errors",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "error handling solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_CLO_L4"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "website interface design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_CLO_L5"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "basic html elements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "embedding",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "html tags",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "inserting images",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "hyperlinks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "basic css formatting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "box model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "advanced css",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript basics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript objects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "event handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "regular expressions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript arrays",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "javascript strings",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6224_BAIHOC_L08"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7921122492577602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7861928216270734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7719687576257632,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7710217037633633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7594248041066873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hyperlinks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "event handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7482500820340807,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedding",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "box model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "event handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7549920298459533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html markup language",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "regular expressions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "esco_label": "use markup languages",
+      "confidence": 0.7341468089447414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hyperlinks",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7460317379408998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7450372225322387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7422863642139355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7412753021170264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7304125347811005,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedding",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "esco_label": "draw design sketches",
+      "confidence": 0.6512677514187786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.6208734793628518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html markup language",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inserting images",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "esco_label": "apply tools for content development",
+      "confidence": 0.5895106621666385,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7933904005680259,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html markup language",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7845197496608988,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7663788131838783,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.75862162036229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.753129695809985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hyperlinks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.743031374135555,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7362399095122685,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.7208289617892961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.7342832097405936,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hyperlinks",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7219979595825484,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7240285488516207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "error handling solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic css formatting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6935696739870837,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.6544354015831502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design errors",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic html elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html tags",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced css",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript basics",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript objects",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "javascript arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.510714961178715,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 29,
+    "total_has_concept_edges": 29,
+    "total_evidence_for_edges": 337
+  }
+}

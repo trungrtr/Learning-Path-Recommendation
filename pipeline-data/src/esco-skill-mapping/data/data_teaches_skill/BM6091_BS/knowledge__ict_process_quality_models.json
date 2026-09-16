@@ -1,0 +1,85 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66",
+    "preferred_label": "ICT process quality models",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "BM6091_BS",
+    "course_title": "Quản lý dự án",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.628642,
+    "cross_encoder_score": 0.822886,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": true
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The course equips students with knowledge of projects and project management, helping them understand the objectives and content of the process of forming and managing a project. Students will be able to analyze team organizational models, project management tools and methods to achieve goals within constraints of time and resources. In addition, students will acknowledge and respect the principles of project management, and properly perceive the role and responsibilities of a project manager."
+    },
+    {
+      "source_type": "CLO",
+      "source_id": null,
+      "text": "Evaluate and apply standards and contents of project quality management to ensure the achievement of established objectives.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L27",
+      "text": "Project management models",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L32",
+      "text": "Project quality management",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L36",
+      "text": "Quality and project quality management",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L37",
+      "text": "Contents of project quality management",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": false
+    },
+    "retrieval": {
+      "bm25_rank": 4,
+      "dense_rank": 9,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

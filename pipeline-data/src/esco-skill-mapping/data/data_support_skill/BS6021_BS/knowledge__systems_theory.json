@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+    "preferred_label": "systems theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6021_BS",
+    "course_title": "Con người và môi trường"
+  },
+  "support_context": {
+    "support_concept_origin": "evidence-based decision making; systems thinking",
+    "evidence_text": "Description: The course provides general theoretical foundations on the relationship between humans and the environment"
+  },
+  "scoring": {
+    "final_score": 0.657149,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers ecosystems, environmental stability, and the interaction between human systems and the environment, which are core applications of systems theory.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

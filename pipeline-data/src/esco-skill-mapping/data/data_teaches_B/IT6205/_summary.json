@@ -1,0 +1,241 @@
+{
+  "course_code": "IT6205",
+  "course_title": "Graduate Internship",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 20,
+    "skill_count": 10,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 20,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "comply with legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11",
+      "confidence": 0.7080831466151065,
+      "cross_encoder_score": 0.9974958300590515,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 1,
+      "llm_reasoning": "The course explicitly mentions evaluating situations based on legal regulations."
+    },
+    {
+      "preferred_label": "manage personal professional development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "confidence": 0.7065869076685471,
+      "cross_encoder_score": 0.9962199330329895,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 1,
+      "llm_reasoning": "The course content focuses on practical project deployment and professional responsibilities, but does not explicitly mention lifelong learning or personal development planning."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7084303314863937,
+      "cross_encoder_score": 0.9937328696250916,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course explicitly states that learners deploy an entire information system and design/analyze technology blueprints."
+    },
+    {
+      "preferred_label": "develop blockchain technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/93b22bbf-ece1-4e2d-8d47-0c9392c5a4fd",
+      "confidence": 0.7017826565946977,
+      "cross_encoder_score": 0.9847915172576904,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course content is general to IT/engineering projects and does not specifically mention blockchain technology."
+    },
+    {
+      "preferred_label": "identify legal requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "confidence": 0.7043684471866333,
+      "cross_encoder_score": 0.9927347898483276,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 1,
+      "llm_reasoning": "While the course mentions evaluating situations based on legal regulations, it does not explicitly teach the research and analysis of legal requirements for an organization."
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7065989827489733,
+      "cross_encoder_score": 0.9956621527671814,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course focuses on project execution and system deployment, not specifically on keeping up with the latest market solutions."
+    },
+    {
+      "preferred_label": "apply information security policies",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "confidence": 0.7055909284617213,
+      "cross_encoder_score": 0.9898704886436462,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "Information security is not explicitly mentioned in the provided course content."
+    },
+    {
+      "preferred_label": "lead technology development of an organisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883",
+      "confidence": 0.7055145178570266,
+      "cross_encoder_score": 0.9901407361030579,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course focuses on individual internship tasks and project deployment, not on leading an organization's technology strategy or innovation."
+    },
+    {
+      "preferred_label": "carry out project activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "confidence": 0.7027712420584648,
+      "cross_encoder_score": 0.9897378087043762,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course requires learners to execute tasks and deploy projects, which inherently involves carrying out project activities."
+    },
+    {
+      "preferred_label": "define technology strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+      "confidence": 0.7008704736696113,
+      "cross_encoder_score": 0.9840188026428223,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course focuses on project execution and system deployment rather than defining high-level organizational technology strategy."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "product comprehension",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "confidence": 0.7135159408278836,
+      "cross_encoder_score": 0.995964527130127,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course requires learners to design or analyze a product/service/technology/solution blueprint and evaluate situations based on legal regulations."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.709058234268791,
+      "cross_encoder_score": 0.9876515865325928,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course explicitly states that learners must deploy an entire information system or an IT/engineering technology project."
+    },
+    {
+      "preferred_label": "engineering processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "confidence": 0.6979638991248223,
+      "cross_encoder_score": 0.9800538420677185,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course involves executing tasks and deploying projects, which inherently requires following engineering processes."
+    },
+    {
+      "preferred_label": "network engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "confidence": 0.6927922812094047,
+      "cross_encoder_score": 0.9699734449386597,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "Network engineering is a specific subfield not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "legal requirements of ICT products",
+      "esco_uri": "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b",
+      "confidence": 0.6977280704311812,
+      "cross_encoder_score": 0.9798879623413086,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 2,
+      "llm_reasoning": "The course requires learners to evaluate situations based on legal regulations and professional ethics."
+    },
+    {
+      "preferred_label": "security engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "confidence": 0.7011445794989021,
+      "cross_encoder_score": 0.988289475440979,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "Security engineering is not explicitly mentioned as a required component of the internship projects."
+    },
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.6994283878182225,
+      "cross_encoder_score": 0.9825230836868286,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 3,
+      "llm_reasoning": "Project configuration management is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "safety engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e",
+      "confidence": 0.6975747769353525,
+      "cross_encoder_score": 0.9829521775245667,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "Safety engineering is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.6966441988801382,
+      "cross_encoder_score": 0.9813371300697327,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "Specific software design methodologies are not explicitly listed in the course content."
+    },
+    {
+      "preferred_label": "system backup best practice",
+      "esco_uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+      "confidence": 0.6386616023811309,
+      "cross_encoder_score": 0.8982329964637756,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 2,
+      "llm_reasoning": "System backup best practices are not explicitly mentioned in the course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

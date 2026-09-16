@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+    "preferred_label": "JavaScript Framework",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6224",
+    "course_title": "Web design"
+  },
+  "support_context": {
+    "support_concept_origin": "creative synthesis; visual communication",
+    "evidence_text": "Apply knowledge to design practical website interfaces"
+  },
+  "scoring": {
+    "final_score": 0.791596,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches foundational JavaScript, which is the prerequisite knowledge required to effectively use and understand JavaScript frameworks.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

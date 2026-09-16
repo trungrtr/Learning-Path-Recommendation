@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+    "preferred_label": "ICT accessibility standards",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6261",
+    "course_title": "Human - Computer Interaction"
+  },
+  "support_context": {
+    "support_concept_origin": "accessibility advocacy",
+    "evidence_text": "Objectives: Present fundamental issues regarding human-computer interaction"
+  },
+  "scoring": {
+    "final_score": 0.765096,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "ICT accessibility is a core component of modern human-computer interaction design, as designing for diverse user needs is a fundamental principle of the field.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

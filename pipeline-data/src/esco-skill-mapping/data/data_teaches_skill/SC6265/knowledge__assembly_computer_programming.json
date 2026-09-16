@@ -1,0 +1,162 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+    "preferred_label": "Assembly (computer programming)",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6265",
+    "course_title": "Basic Python Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.68858,
+    "cross_encoder_score": 0.86309,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": true
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The course provides learners with foundational knowledge of Python programming, control structures, basic data types, and several fundamental algorithms. Through this course, learners approach and solve problems naturally according to their inherent nature and implement them using the Python language, while also being introduced to basic programming techniques and applying them to solve specific problems."
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Proficient use of: basic Python commands, functions, modules, Data Structures.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Proficient manipulation of file processing, data input/output, Object-Oriented Programming.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Introduction to Python and Basic Commands",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "Object-Oriented Programming with Python: Core Characteristics",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L17",
+      "text": "Basic Python Installation and Usage",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L18",
+      "text": "Functions and Modules Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L20",
+      "text": "Review of Basic Python Programming and Data Structure Operations",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L21",
+      "text": "Data File Processing and Input/Output Operations",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L22",
+      "text": "Object-Oriented Programming with Python Practice: Basic Concepts",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L23",
+      "text": "Object-Oriented Programming with Python Practice: Core Characteristics",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L24",
+      "text": "Review of Data File Input/Output and Object-Oriented Programming",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": false
+    },
+    "retrieval": {
+      "bm25_rank": 35,
+      "dense_rank": 5,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

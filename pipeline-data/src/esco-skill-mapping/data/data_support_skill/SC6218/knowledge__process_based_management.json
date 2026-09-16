@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+    "preferred_label": "Process-based management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6218",
+    "course_title": "Game application development"
+  },
+  "support_context": {
+    "support_concept_origin": "project management; quality assurance mindset",
+    "evidence_text": "Course: Game application development"
+  },
+  "scoring": {
+    "final_score": 0.646906,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Building a game application involves a series of development processes that require management and oversight to reach the final product goal.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+    "preferred_label": "utilise machine learning",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6244",
+    "course_title": "Artificial Intelligence"
+  },
+  "support_context": {
+    "support_concept_origin": "pattern recognition; technical documentation skills",
+    "evidence_text": "Complete online lessons on the system"
+  },
+  "scoring": {
+    "final_score": 0.686819,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives explicitly include basic machine learning and the application of algorithms to solve problems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+    "preferred_label": "software design methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6241",
+    "course_title": "Software Testing"
+  },
+  "support_context": {
+    "support_concept_origin": "structured documentation; systems thinking",
+    "evidence_text": "The course helps students develop skills in requirements analysis, test case design and execution, and systematic bug tracking and management"
+  },
+  "scoring": {
+    "final_score": 0.666422,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers the role of testing within modern software development models such as Agile, DevOps, and CI/CD, which are integral to software design methodologies.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

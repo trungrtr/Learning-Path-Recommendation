@@ -1,0 +1,193 @@
+{
+  "course_code": "BS6051_BS",
+  "concept_tags": [
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "cultural literacy",
+      "normalized": "cultural literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "empathy development",
+      "normalized": "empathy development",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "multidisciplinary synthesis",
+      "normalized": "multidisciplinary synthesis",
+      "loai": "foundational"
+    },
+    {
+      "text": "observational skills",
+      "normalized": "observational skills",
+      "loai": "cognitive"
+    },
+    {
+      "text": "interpretive analysis",
+      "normalized": "interpretive analysis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "historical contextualization",
+      "normalized": "historical contextualization",
+      "loai": "foundational"
+    },
+    {
+      "text": "effective communication",
+      "normalized": "effective communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "aesthetic sensitivity",
+      "normalized": "aesthetic sensitivity",
+      "loai": "cognitive"
+    },
+    {
+      "text": "nuanced perspective taking",
+      "normalized": "nuanced perspective taking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "reflective practice",
+      "normalized": "reflective practice",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cross-cultural awareness",
+      "normalized": "cross-cultural awareness",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "cultural literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "empathy development",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "multidisciplinary synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "observational skills",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "interpretive analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "historical contextualization",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "effective communication",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "aesthetic sensitivity",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "nuanced perspective taking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "reflective practice",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6051_BS",
+      "concept_tag": "cross-cultural awareness",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "effective communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.744503,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.744503,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "effective communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f",
+      "esco_label": "advertising techniques",
+      "confidence": 0.704162,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "multidisciplinary synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/afda6ca0-7aa8-41ef-ba5e-8dc607839daf",
+      "esco_label": "computer graphics",
+      "confidence": 0.600267,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/afda6ca0-7aa8-41ef-ba5e-8dc607839daf",
+      "esco_label": "computer graphics",
+      "confidence": 0.600267,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.518518,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "historical contextualization",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.518518,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 7
+  }
+}

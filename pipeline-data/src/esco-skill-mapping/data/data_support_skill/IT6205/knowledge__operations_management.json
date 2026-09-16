@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+    "preferred_label": "operations management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "business acumen; stakeholder management; technical documentation standards",
+    "evidence_text": "Objectives: Equip learners with practical knowledge at organizations and enterprises"
+  },
+  "scoring": {
+    "final_score": 0.519052,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Implementing IT systems within an enterprise requires understanding how these systems integrate with and support the organization's operations management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

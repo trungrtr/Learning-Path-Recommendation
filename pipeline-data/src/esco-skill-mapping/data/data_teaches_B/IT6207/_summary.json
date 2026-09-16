@@ -1,0 +1,186 @@
+{
+  "course_code": "IT6207",
+  "course_title": "Graduation Internship",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 15,
+    "skill_count": 10,
+    "knowledge_count": 5,
+    "tier_distribution": {
+      "PRIMARY": 15,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7353194417568084,
+      "cross_encoder_score": 0.9895575642585754,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on applying existing knowledge and participating in production processes, but does not explicitly teach the design of information system architectures."
+    },
+    {
+      "preferred_label": "develop information standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "confidence": 0.7352715135061785,
+      "cross_encoder_score": 0.9884288907051086,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content does not mention the development of technical norms or standards for information management."
+    },
+    {
+      "preferred_label": "manage personal professional development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "confidence": 0.7325784880092859,
+      "cross_encoder_score": 0.9971402883529663,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course aims to help students systemize knowledge, approach professional culture, and evaluate situations in professional practice, which supports professional development."
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7306581864109913,
+      "cross_encoder_score": 0.9929714798927307,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "While the course involves working in an enterprise, it does not explicitly include a curriculum for researching or keeping up with the latest information systems solutions."
+    },
+    {
+      "preferred_label": "identify legal requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "confidence": 0.722995676717233,
+      "cross_encoder_score": 0.9915105104446411,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly mentions raising awareness of legal regulations and analyzing situations based on legal principles."
+    },
+    {
+      "preferred_label": "apply technical communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "confidence": 0.7196897936658679,
+      "cross_encoder_score": 0.99042809009552,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course explicitly mentions training in professional communication skills."
+    },
+    {
+      "preferred_label": "develop information security strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "confidence": 0.7320067023405026,
+      "cross_encoder_score": 0.9940515160560608,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content does not cover the creation of information security strategies."
+    },
+    {
+      "preferred_label": "provide user documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "confidence": 0.7185484859823913,
+      "cross_encoder_score": 0.9922337532043457,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "While the course involves writing an internship report and studying technical documentation, it does not explicitly teach the development of user documentation for products or systems."
+    },
+    {
+      "preferred_label": "apply research ethics and scientific integrity principles in research activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "confidence": 0.7119682864005442,
+      "cross_encoder_score": 0.9772243499755859,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course explicitly mentions training in professional ethics and evaluating situations based on professional ethics principles."
+    },
+    {
+      "preferred_label": "analyse ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "confidence": 0.723785329357458,
+      "cross_encoder_score": 0.9871816635131836,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course includes a lesson on 'System survey and study of technical documentation' and aims to equip students with an understanding of information system operation processes."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7268880058745364,
+      "cross_encoder_score": 0.9874667525291443,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content explicitly mentions that students participate in the production and business activities of an IT enterprise and learn about information system development and operation processes."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.7196818435355588,
+      "cross_encoder_score": 0.9735297560691833,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "While the course involves system surveys and technical documentation, there is no explicit mention of teaching the specific methods for generating, structuring, or maintaining information architecture."
+    },
+    {
+      "preferred_label": "decision support systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "confidence": 0.7143653659145944,
+      "cross_encoder_score": 0.9817443490028381,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on practical work and professional responsibilities, but does not explicitly cover the development or application of decision support systems."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.7186902085265694,
+      "cross_encoder_score": 0.9847676157951355,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course involves system surveys, but does not explicitly teach the creation or application of ICT architectural frameworks."
+    },
+    {
+      "preferred_label": "ICT security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "confidence": 0.706299866469568,
+      "cross_encoder_score": 0.9756715297698975,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course mentions legal regulations and professional ethics, but does not explicitly teach ICT security standards like ISO 27000."
+    }
+  ],
+  "schema_version": "3.0"
+}

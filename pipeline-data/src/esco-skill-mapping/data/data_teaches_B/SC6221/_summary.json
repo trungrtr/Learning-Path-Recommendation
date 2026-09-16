@@ -1,0 +1,109 @@
+{
+  "course_code": "SC6221",
+  "course_title": "Numerical Methods for Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 8,
+    "skill_count": 2,
+    "knowledge_count": 6,
+    "tier_distribution": {
+      "PRIMARY": 3,
+      "SECONDARY": 5,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6691499447772069,
+      "cross_encoder_score": 0.8527616858482361,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on numerical methods and general programming implementation, but does not specify functional programming paradigms."
+    },
+    {
+      "preferred_label": "analyse big data",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "confidence": 0.5933296097669045,
+      "cross_encoder_score": 0.7670649290084839,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers numerical methods for equations and systems, but does not address big data collection or pattern identification in large datasets."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.6460348791717516,
+      "cross_encoder_score": 0.8636423945426941,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on numerical algorithms and application-level programming, not system software or architecture development."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.6061888896683314,
+      "cross_encoder_score": 0.8100946545600891,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course explicitly mentions implementing numerical methods using programming languages, covering algorithms and coding."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.6008912011696111,
+      "cross_encoder_score": 0.7751396894454956,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers solving practical problems using numerical methods, which involves representing real-world problems as mathematical equations."
+    },
+    {
+      "preferred_label": "MATLAB",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "confidence": 0.5510286207964487,
+      "cross_encoder_score": 0.7119404673576355,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course mentions using popular programming languages, it does not explicitly name MATLAB as a required tool."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.5146675774163637,
+      "cross_encoder_score": 0.648740828037262,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content explicitly mentions algorithms for finding approximate solutions to equations, systems, and other mathematical problems."
+    },
+    {
+      "preferred_label": "Scala",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "confidence": 0.5165276068907257,
+      "cross_encoder_score": 0.6765251755714417,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not mention Scala as a programming language to be used."
+    }
+  ],
+  "schema_version": "3.0"
+}

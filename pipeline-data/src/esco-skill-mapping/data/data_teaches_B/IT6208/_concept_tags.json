@@ -1,0 +1,979 @@
+{
+  "course_code": "IT6208",
+  "concept_tags": [
+    {
+      "text": "Information Systems",
+      "normalized": "information systems"
+    },
+    {
+      "text": "software solutions",
+      "normalized": "software solutions"
+    },
+    {
+      "text": "technology transfer",
+      "normalized": "technology transfer"
+    },
+    {
+      "text": "information systems management",
+      "normalized": "information systems management"
+    },
+    {
+      "text": "information technology solutions",
+      "normalized": "information technology solutions"
+    },
+    {
+      "text": "product transfers",
+      "normalized": "product transfers"
+    },
+    {
+      "text": "report writing",
+      "normalized": "report writing"
+    },
+    {
+      "text": "presentation skills",
+      "normalized": "presentation skills"
+    },
+    {
+      "text": "graduation thesis products",
+      "normalized": "graduation thesis products"
+    },
+    {
+      "text": "project management",
+      "normalized": "project management"
+    },
+    {
+      "text": "solution quality",
+      "normalized": "solution quality"
+    },
+    {
+      "text": "information systems transfer",
+      "normalized": "information systems transfer"
+    },
+    {
+      "text": "information systems operation",
+      "normalized": "information systems operation"
+    },
+    {
+      "text": "data management",
+      "normalized": "data management"
+    },
+    {
+      "text": "risk management",
+      "normalized": "risk management"
+    },
+    {
+      "text": "system survey",
+      "normalized": "system survey"
+    },
+    {
+      "text": "technical documentation research",
+      "normalized": "technical documentation research"
+    },
+    {
+      "text": "solution design",
+      "normalized": "solution design"
+    },
+    {
+      "text": "solution implementation",
+      "normalized": "solution implementation"
+    },
+    {
+      "text": "evaluation of solution results",
+      "normalized": "evaluation of solution results"
+    },
+    {
+      "text": "graduation thesis report",
+      "normalized": "graduation thesis report"
+    },
+    {
+      "text": "council grade",
+      "normalized": "council grade"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6208",
+      "concept_tag": "information systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "software solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "technology transfer",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "information systems management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_G1",
+        "IT6208_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "information technology solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "product transfers",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "report writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "presentation skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "graduation thesis products",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "project management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "solution quality",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "information systems transfer",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "information systems operation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "data management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "risk management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "system survey",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "technical documentation research",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "solution design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "solution implementation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "evaluation of solution results",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "graduation thesis report",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "council grade",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6208_BAIHOC_L09"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7319970752832237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7360283834700256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7268996041878124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "council grade",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7317642668551765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7180139874884014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7180139874884014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7180139874884014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7180139874884014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7180139874884014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7171960487023371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7171960487023371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7171960487023371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7171960487023371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7171960487023371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "evaluation of solution results",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7221396041644477,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "esco_label": "attend to ICT systems quality",
+      "confidence": 0.7216263032500186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "esco_label": "attend to ICT systems quality",
+      "confidence": 0.7216263032500186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "esco_label": "attend to ICT systems quality",
+      "confidence": 0.7216263032500186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "esco_label": "attend to ICT systems quality",
+      "confidence": 0.7216263032500186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "council grade",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "esco_label": "attend to ICT systems quality",
+      "confidence": 0.7216263032500186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.716946625925873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.716946625925873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.716946625925873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.716946625925873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.716946625925873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graduation thesis products",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graduation thesis report",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "esco_label": "manage open publications",
+      "confidence": 0.6217331331116321,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product transfers",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "council grade",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7198886542068628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product transfers",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7131135486574346,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation research",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7036631411855785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7180283402867207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7180283402867207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7180283402867207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7180283402867207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7180283402867207,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems transfer",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "council grade",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.715309508454876,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7123060244538312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7123060244538312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7123060244538312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "evaluation of solution results",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7122551456990404,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 22,
+    "total_has_concept_edges": 22,
+    "total_evidence_for_edges": 100
+  }
+}

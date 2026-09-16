@@ -1,0 +1,3852 @@
+{
+  "course_code": "BS6019_BS",
+  "concept_tags": [
+    {
+      "text": "scientific methodology",
+      "normalized": "scientific methodology"
+    },
+    {
+      "text": "research topics",
+      "normalized": "research topics"
+    },
+    {
+      "text": "research methods",
+      "normalized": "research methods"
+    },
+    {
+      "text": "research processes",
+      "normalized": "research processes"
+    },
+    {
+      "text": "research proposals",
+      "normalized": "research proposals"
+    },
+    {
+      "text": "topic identification",
+      "normalized": "topic identification"
+    },
+    {
+      "text": "proposal development",
+      "normalized": "proposal development"
+    },
+    {
+      "text": "data processing",
+      "normalized": "data processing"
+    },
+    {
+      "text": "data analysis",
+      "normalized": "data analysis"
+    },
+    {
+      "text": "report writing",
+      "normalized": "report writing"
+    },
+    {
+      "text": "scientific research results",
+      "normalized": "scientific research results"
+    },
+    {
+      "text": "self-study capacity",
+      "normalized": "self-study capacity"
+    },
+    {
+      "text": "self-research capability",
+      "normalized": "self-research capability"
+    },
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking"
+    },
+    {
+      "text": "scientific research",
+      "normalized": "scientific research"
+    },
+    {
+      "text": "scientific research process",
+      "normalized": "scientific research process"
+    },
+    {
+      "text": "scientific research products",
+      "normalized": "scientific research products"
+    },
+    {
+      "text": "qualitative research methods",
+      "normalized": "qualitative research methods"
+    },
+    {
+      "text": "quantitative research methods",
+      "normalized": "quantitative research methods"
+    },
+    {
+      "text": "scientific research evaluation",
+      "normalized": "scientific research evaluation"
+    },
+    {
+      "text": "scientific research proposal",
+      "normalized": "scientific research proposal"
+    },
+    {
+      "text": "scientific research report",
+      "normalized": "scientific research report"
+    },
+    {
+      "text": "qualitative data analysis",
+      "normalized": "qualitative data analysis"
+    },
+    {
+      "text": "quantitative data analysis",
+      "normalized": "quantitative data analysis"
+    },
+    {
+      "text": "research data processing",
+      "normalized": "research data processing"
+    },
+    {
+      "text": "research proposal writing",
+      "normalized": "research proposal writing"
+    },
+    {
+      "text": "scientific report presentation",
+      "normalized": "scientific report presentation"
+    },
+    {
+      "text": "methodological concepts",
+      "normalized": "methodological concepts"
+    },
+    {
+      "text": "scientific research processes",
+      "normalized": "scientific research processes"
+    },
+    {
+      "text": "research themes",
+      "normalized": "research themes"
+    },
+    {
+      "text": "scientific research reports",
+      "normalized": "scientific research reports"
+    },
+    {
+      "text": "research results presentation",
+      "normalized": "research results presentation"
+    },
+    {
+      "text": "academic essay writing",
+      "normalized": "academic essay writing"
+    },
+    {
+      "text": "graduation thesis",
+      "normalized": "graduation thesis"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific methodology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research topics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MOTA_MAIN",
+        "BS6019_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research proposals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MOTA_MAIN",
+        "BS6019_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "topic identification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "proposal development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2",
+        "BS6019_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "report writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research results",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G2",
+        "BS6019_BS_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "self-study capacity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "self-research capability",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "critical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L01",
+        "BS6019_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research products",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "qualitative research methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L05",
+        "BS6019_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "quantitative research methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L06",
+        "BS6019_BS_BAIHOC_L10",
+        "BS6019_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research proposal",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research report",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L09",
+        "BS6019_BS_BAIHOC_L16",
+        "BS6019_BS_BAIHOC_L17"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "qualitative data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L11",
+        "BS6019_BS_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "quantitative data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L11",
+        "BS6019_BS_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research proposal writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L14",
+        "BS6019_BS_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific report presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_BAIHOC_L18",
+        "BS6019_BS_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "methodological concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research themes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "scientific research reports",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "research results presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "academic essay writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "graduation thesis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6019_BS_CLO_CLO3"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "esco_label": "perform scientific research",
+      "confidence": 0.9007529316628148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.8943241157784778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d",
+      "esco_label": "manage research data",
+      "confidence": 0.8928340347679269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+      "esco_label": "write scientific publications",
+      "confidence": 0.8901544769488191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "esco_label": "conduct research across disciplines",
+      "confidence": 0.872497754508283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "academic essay writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.8493002601957986,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+      "esco_label": "promote the participation of citizens in scientific and research activities",
+      "confidence": 0.8636627250927256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b1e2927-3542-48da-9063-02925e7562c1",
+      "esco_label": "disseminate results to the scientific community",
+      "confidence": 0.8485703014437316,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/5f0082ab-2131-49b5-94d6-a1821daf57d6",
+      "esco_label": "apply for research funding",
+      "confidence": 0.844848666488178,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "proposal development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "academic essay writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f",
+      "esco_label": "draft scientific or academic papers and technical documentation",
+      "confidence": 0.8244738098101378,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+      "esco_label": "perform market research",
+      "confidence": 0.8333462993852618,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "proposal development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research themes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+      "esco_label": "carry out strategic research",
+      "confidence": 0.8098595471851535,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+      "esco_label": "evaluate research activities",
+      "confidence": 0.8039325537649229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7928485818049038,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/872a1632-f1db-4feb-bb27-0a6a359b7591",
+      "esco_label": "promote open innovation in research",
+      "confidence": 0.8013134626255314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "methodological concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7947191142321102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29",
+      "esco_label": "interpret current data",
+      "confidence": 0.7862522764005335,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+      "esco_label": "increase the impact of science on policy and society",
+      "confidence": 0.7854158771877873,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.7798411453191496,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "esco_label": "integrate gender dimension in research",
+      "confidence": 0.7124642131697656,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+      "esco_label": "scientific research methodology",
+      "confidence": 0.9086214109533536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "proposal development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "methodological concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.8668628670567554,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "esco_label": "multidisciplinary research",
+      "confidence": 0.8612073432093892,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.8344921636491327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research topics",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.8134808967601929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.7822579916389796,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+      "esco_label": "operational research",
+      "confidence": 0.7813261711105315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research results",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "self-research capability",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research process",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research products",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "qualitative research methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research proposal",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research report",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposal writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific report presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "research proposals",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scientific research reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.7579802220612999,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 34,
+    "total_has_concept_edges": 34,
+    "total_evidence_for_edges": 488
+  }
+}

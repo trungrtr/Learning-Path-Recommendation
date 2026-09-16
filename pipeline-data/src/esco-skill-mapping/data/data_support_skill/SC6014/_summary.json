@@ -1,0 +1,41 @@
+{
+  "course_code": "SC6014",
+  "course_title": "Foundation Project",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 0,
+    "knowledge_count": 4
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "final_score": 0.7045,
+      "support_concept_origin": "accountability; professional communication; resource management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "final_score": 0.7041,
+      "support_concept_origin": "problem framing; resource management; time management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "decision support systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "final_score": 0.5945,
+      "support_concept_origin": "accountability; strategic decision-making",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "industrial research and development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "final_score": 0.4988,
+      "support_concept_origin": "interdisciplinary synthesis; problem framing",
+      "review_status": "accepted"
+    }
+  ]
+}

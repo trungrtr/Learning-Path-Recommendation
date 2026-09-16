@@ -1,0 +1,86 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+    "preferred_label": "develop information security strategy",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.720617,
+    "cross_encoder_score": 0.993979,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Equip learners with comprehensive knowledge to build software or solve practical problems based on information technology solutions.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Select information technology solutions that address security aspects to meet practical problem requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Develop and integrate secure software solutions that meet practical problem requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2",
+          "PI 6.4"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply and manage secure software systems that meet practical problem requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.3",
+          "PI 6.5"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 29,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

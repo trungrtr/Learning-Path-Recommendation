@@ -1,0 +1,159 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54",
+    "preferred_label": "ObjectStore",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6211",
+    "course_title": "Object Oriented Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6326721968307902,
+    "cross_encoder_score": 0.8434169292449951,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course content does not mention the use of ObjectStore database software."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The Object-Oriented Programming course provides basic knowledge and skills on the object-oriented programming methodology: concepts (class, object, data abstraction, encapsulation, inheritance, polymorphism...), object-oriented problem-solving approaches; skills in analyzing, designing, implementing, and testing programs using the object-oriented method.",
+      "meta": {
+        "matched_mention": "program testing; object-oriented programming"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Explain the fundamental knowledge of object-oriented programming, including concepts: class, object, attribute, method, inheritance, polymorphism, template. Design or read class diagram designs and implement programs using an object-oriented approach; Design and implement problems related to operator overloading, function overloading, and device-independent input/output streams.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "object-oriented programming"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Proficiently apply knowledge and skills in object-oriented programming and tools to solve specific problems using an object-oriented approach.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "object-oriented programming"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Proactively research and acquire knowledge, possess self-learning awareness and a serious attitude in practicing object-oriented programming skills.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "object-oriented programming"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Explain basic concepts in object-oriented programming; read simple class diagrams; implement classes, class diagrams, relationships between classes, and implement and test programs.",
+      "meta": {
+        "pi_so": [
+          "PI 2.1PI 5.1PI 5.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "program testing; object-oriented programming"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Perform operator overloading techniques in object-oriented programming; perform specific techniques in object-oriented programming such as: virtual methods, abstract base classes, templates.",
+      "meta": {
+        "pi_so": [
+          "PI 2.1PI 5.1PI 5.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "abstract base classes"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L4",
+      "text": "Identify and fix basic errors in the program.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "program debugging"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Class Definition and Usage",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Class Definition"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Constructors, Destructors, and Private Attribute Access",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "Private Attribute Access"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 10,
+      "dense_rank": 3,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

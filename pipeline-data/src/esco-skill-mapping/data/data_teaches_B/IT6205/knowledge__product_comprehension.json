@@ -1,0 +1,75 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+    "preferred_label": "product comprehension",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7135159408278836,
+    "cross_encoder_score": 0.995964527130127,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course requires learners to design or analyze a product/service/technology/solution blueprint and evaluate situations based on legal regulations."
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Design or analyze a product/service/technology/solution blueprint for a practical problem and execute tasks meeting the requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1",
+          "PI 5.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "product design"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Clearly define professional responsibilities; evaluate situations based on legal regulations and professional ethics.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1",
+          "PI 4.2",
+          "PI 4.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "legal regulations"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

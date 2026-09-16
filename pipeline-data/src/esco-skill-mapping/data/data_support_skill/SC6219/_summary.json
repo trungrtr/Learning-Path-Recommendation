@@ -1,0 +1,34 @@
+{
+  "course_code": "SC6219",
+  "course_title": "Mobile application development",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 3,
+    "skill_count": 0,
+    "knowledge_count": 3
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.7963,
+      "support_concept_origin": "complex problem decomposition; debugging and troubleshooting methodology; iterative development process",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "application usability",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "final_score": 0.6738,
+      "support_concept_origin": "adaptability to evolving technology stacks; usability evaluation",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.5605,
+      "support_concept_origin": "system architecture awareness",
+      "review_status": "accepted"
+    }
+  ]
+}

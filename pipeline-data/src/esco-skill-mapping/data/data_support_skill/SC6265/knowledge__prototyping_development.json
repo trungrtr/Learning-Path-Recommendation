@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "preferred_label": "Prototyping development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6265",
+    "course_title": "Basic Python Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "structured workflow management; systematic debugging",
+    "evidence_text": "Proficient manipulation of file processing, data input/output, Object-Oriented Programming"
+  },
+  "scoring": {
+    "final_score": 0.605287,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Basic programming skills allow learners to create simple scripts and prototypes, which is a foundational step in software prototyping.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

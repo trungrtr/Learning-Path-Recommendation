@@ -1,0 +1,63 @@
+{
+  "course_code": "BS6038_BS",
+  "course_title": "Giải tích",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 7,
+    "skill_count": 2,
+    "knowledge_count": 5
+  },
+  "skills": [
+    {
+      "preferred_label": "demonstrate disciplinary expertise",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "final_score": 0.6665,
+      "support_concept_origin": "attention to detail; persistence in complex problem solving; quantitative literacy",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "final_score": 0.6418,
+      "support_concept_origin": "algorithmic thinking; logical structuring of arguments; mathematical modeling",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "game theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "final_score": 0.7848,
+      "support_concept_origin": "logical structuring of arguments; mathematical modeling; systematic problem decomposition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.757,
+      "support_concept_origin": "abstract reasoning; algorithmic thinking; logical structuring of arguments",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "final_score": 0.7207,
+      "support_concept_origin": "logical structuring of arguments; persistence in complex problem solving; quantitative literacy",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "image recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "final_score": 0.6546,
+      "support_concept_origin": "pattern recognition; quantitative literacy",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "artificial neural networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "final_score": 0.6038,
+      "support_concept_origin": "algorithmic thinking; persistence in complex problem solving; quantitative literacy",
+      "review_status": "accepted"
+    }
+  ]
+}

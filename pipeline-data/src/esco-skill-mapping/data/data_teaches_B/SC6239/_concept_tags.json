@@ -1,0 +1,2899 @@
+{
+  "course_code": "SC6239",
+  "concept_tags": [
+    {
+      "text": "software engineering",
+      "normalized": "software engineering"
+    },
+    {
+      "text": "artificial intelligence",
+      "normalized": "artificial intelligence"
+    },
+    {
+      "text": "systematic thinking",
+      "normalized": "systematic thinking"
+    },
+    {
+      "text": "process-oriented working methods",
+      "normalized": "process-oriented working methods"
+    },
+    {
+      "text": "information system development",
+      "normalized": "information system development"
+    },
+    {
+      "text": "software development trends",
+      "normalized": "software development trends"
+    },
+    {
+      "text": "automation",
+      "normalized": "automation"
+    },
+    {
+      "text": "digital transformation",
+      "normalized": "digital transformation"
+    },
+    {
+      "text": "industrial software projects",
+      "normalized": "industrial software projects"
+    },
+    {
+      "text": "requirements analysis",
+      "normalized": "requirements analysis"
+    },
+    {
+      "text": "software design",
+      "normalized": "software design"
+    },
+    {
+      "text": "programming",
+      "normalized": "programming"
+    },
+    {
+      "text": "software testing",
+      "normalized": "software testing"
+    },
+    {
+      "text": "software project management",
+      "normalized": "software project management"
+    },
+    {
+      "text": "software quality assurance",
+      "normalized": "software quality assurance"
+    },
+    {
+      "text": "analytical skills",
+      "normalized": "analytical skills"
+    },
+    {
+      "text": "software development process",
+      "normalized": "software development process"
+    },
+    {
+      "text": "international guidelines",
+      "normalized": "international guidelines"
+    },
+    {
+      "text": "software documentation",
+      "normalized": "software documentation"
+    },
+    {
+      "text": "software process model",
+      "normalized": "software process model"
+    },
+    {
+      "text": "software development projects",
+      "normalized": "software development projects"
+    },
+    {
+      "text": "result presentation",
+      "normalized": "result presentation"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "team cooperation",
+      "normalized": "team cooperation"
+    },
+    {
+      "text": "technical thinking",
+      "normalized": "technical thinking"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking"
+    },
+    {
+      "text": "process-oriented working style",
+      "normalized": "process-oriented working style"
+    },
+    {
+      "text": "international standards",
+      "normalized": "international standards"
+    },
+    {
+      "text": "software solutions",
+      "normalized": "software solutions"
+    },
+    {
+      "text": "software product control",
+      "normalized": "software product control"
+    },
+    {
+      "text": "business requirement documents",
+      "normalized": "business requirement documents"
+    },
+    {
+      "text": "software requirement specification",
+      "normalized": "software requirement specification"
+    },
+    {
+      "text": "system design documents",
+      "normalized": "system design documents"
+    },
+    {
+      "text": "user manuals",
+      "normalized": "user manuals"
+    },
+    {
+      "text": "project reports",
+      "normalized": "project reports"
+    },
+    {
+      "text": "Software Development Models",
+      "normalized": "software development models"
+    },
+    {
+      "text": "Systems Analysis",
+      "normalized": "systems analysis"
+    },
+    {
+      "text": "Systems Design",
+      "normalized": "systems design"
+    },
+    {
+      "text": "Software Release",
+      "normalized": "software release"
+    },
+    {
+      "text": "AI in Software Engineering",
+      "normalized": "ai in software engineering"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software engineering",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MOTA_MAIN",
+        "SC6239_MUCTIEU_MT1",
+        "SC6239_MUCTIEU_MT2",
+        "SC6239_MUCTIEU_MT4",
+        "SC6239_CLO_L1",
+        "SC6239_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "artificial intelligence",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MOTA_MAIN",
+        "SC6239_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "systematic thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "process-oriented working methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "information system development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT1",
+        "SC6239_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software development trends",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "automation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "digital transformation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT2",
+        "SC6239_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "industrial software projects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3",
+        "SC6239_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3",
+        "SC6239_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3",
+        "SC6239_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software project management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software quality assurance",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "analytical skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software development process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "international guidelines",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software process model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software development projects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "result presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "team cooperation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT11"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "technical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "systems thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "process-oriented working style",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "international standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software product control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "business requirement documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software requirement specification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "system design documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "user manuals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "project reports",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software development models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "systems analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "systems design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "software release",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "ai in software engineering",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6239_BAIHOC_L05"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.802690843183032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7889959621337174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "result presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "team cooperation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7726777009796916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.7720475284406723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.7660535255968655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_label": "analyse software specifications",
+      "confidence": 0.7659792923148643,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7628253862720059,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.765352182460041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7441260926604816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.7496580067848075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "result presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7412875838968327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7327124614150278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.8004124055657212,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.7941211696299031,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.7743425199272563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7639299483797237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "esco_label": "software components suppliers",
+      "confidence": 0.7735359649565832,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.743776730609654,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.747185066502965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7454820608511565,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "esco_label": "Agile development",
+      "confidence": 0.7550810341334081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "international standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7334958297578422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user manuals",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.747555864738725,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user manuals",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7364478427658299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software product control",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirement specification",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7299377503121339,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development trends",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software release",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7395835472900412,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial software projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development projects",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software process model",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process-oriented working style",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development models",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ai in software engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.7262482617869395,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 40,
+    "total_has_concept_edges": 40,
+    "total_evidence_for_edges": 342
+  }
+}

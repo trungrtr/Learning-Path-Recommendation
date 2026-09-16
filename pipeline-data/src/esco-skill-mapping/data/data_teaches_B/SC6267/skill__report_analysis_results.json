@@ -1,0 +1,137 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+    "preferred_label": "report analysis results",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6267",
+    "course_title": "Major Project",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7254459613190039,
+    "cross_encoder_score": 0.9959379434585571,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course includes 'Project Presentation' and 'specialized project reporting skills' as key learning outcomes."
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Develop skills in information systems design and deployment, collection and processing of practical data, and evaluation of software solutions; practice teamwork, planning, presentation, and specialized project reporting skills.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project reporting"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Formulate the capacity for self-study, independent research, systems thinking, and innovation; enhance personal and team responsibility during the execution of specialized projects, preparing for internships and graduation theses.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "independent research"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Evaluate the developed software solution based on technical criteria, performance, and requirement compliance, thereby proposing improvements to enhance the quality and feasibility of the information system.",
+      "meta": {
+        "pi_so": [
+          "PI 5.3"
+        ],
+        "muc_do": "T, U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "performance analysis"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Plan and execute self-study and self-research; apply innovative thinking and entrepreneurial mindset in teamwork, design, and presentation of Information Systems specialized projects.",
+      "meta": {
+        "pi_so": [
+          "PI 7.1",
+          "PI 7.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project presentation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Project Initiation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L3"
+        ],
+        "matched_mention": "Project Initiation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Project Documentation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2; L3"
+        ],
+        "matched_mention": "Project Documentation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Project Presentation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "Project Presentation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

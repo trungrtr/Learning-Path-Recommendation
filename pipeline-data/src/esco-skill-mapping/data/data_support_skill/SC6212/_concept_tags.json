@@ -1,0 +1,207 @@
+{
+  "course_code": "SC6212",
+  "concept_tags": [
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic problem decomposition",
+      "normalized": "systematic problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "architectural design mindset",
+      "normalized": "architectural design mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "computational logic",
+      "normalized": "computational logic",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional coding ethics",
+      "normalized": "professional coding ethics",
+      "loai": "cognitive"
+    },
+    {
+      "text": "persistence in problem-solving",
+      "normalized": "persistence in problem-solving",
+      "loai": "methodological"
+    },
+    {
+      "text": "resource management awareness",
+      "normalized": "resource management awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "adaptability to new syntax and frameworks",
+      "normalized": "adaptability to new syntax and frameworks",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6212",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "systematic problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "architectural design mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "computational logic",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "professional coding ethics",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "persistence in problem-solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "resource management awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "adaptability to new syntax and frameworks",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.803481,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.803481,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.761516,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.761516,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.716586,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "persistence in problem-solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.716586,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.716586,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.681723,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.681723,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 9
+  }
+}

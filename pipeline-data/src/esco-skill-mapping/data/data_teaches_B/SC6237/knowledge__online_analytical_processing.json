@@ -1,0 +1,256 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+    "preferred_label": "online analytical processing",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6237",
+    "course_title": "Big data Analysis",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7687841058635567,
+    "cross_encoder_score": 0.9874891638755798,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "While the course covers data analysis tools, there is no specific mention of OLAP (Online Analytical Processing) or multi-dimensional data cube technologies."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course provides learners with basic concepts of data, big data, and big data analytics. Next, learners are introduced to data analysis methods such as: Data preprocessing, descriptive analysis, predictive analysis, and network data analysis. The final section covers tools for data and big data analytics.",
+      "meta": {
+        "matched_mention": "data concepts; big data analytics"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "explain basic concepts of data, big data, and big data analytics; compare data analysis methods and stages such as preprocessing, descriptive analytics, predictive analytics, and network data analysis; proficiently use appropriate data and big data analysis tools for specific problems.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "big data analysis tools; descriptive analytics"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "execute the data processing and analysis workflow using learned methods and tools; present and interpret analysis results; propose solutions or recommendations based on data.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "data processing"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "work independently or in teams to execute data analysis projects; take responsibility for the quality and accuracy of analysis results; proactively seek, approach, and apply new analysis technologies and tools.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "analysis technologies"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Execute big data collection and preprocessing techniques/algorithms using software tools.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2PI 5."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "big data collection"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Execute certain big data analysis techniques/algorithms using software tools.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2PI 5.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "analysis algorithms"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply big data analysis techniques to practical problems.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2PI 6.1PI 6.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "big data analysis techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Big Data Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Big Data Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Data Preprocessing",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Data Preprocessing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Descriptive and Predictive Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Descriptive Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Complex Network Data Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Complex Network Data Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Big Data Analysis Tools",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Big Data Analysis Tools"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Data Preprocessing Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Data Preprocessing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Descriptive and Predictive Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2 L3"
+        ],
+        "matched_mention": "Descriptive Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Complex Network Data Preprocessing Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L4"
+        ],
+        "matched_mention": "Complex Network Data Preprocessing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Big Data Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2 L3"
+        ],
+        "matched_mention": "Big Data Practice"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 3,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+    "preferred_label": "computer science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6223",
+    "course_title": "Discrete Mathematics"
+  },
+  "support_context": {
+    "support_concept_origin": "formal reasoning; systematic analysis",
+    "evidence_text": "Course: Discrete Mathematics"
+  },
+  "scoring": {
+    "final_score": 0.717785,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Discrete Mathematics is a core pillar of computer science, providing the essential mathematical and logical foundations for algorithms and data structures.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

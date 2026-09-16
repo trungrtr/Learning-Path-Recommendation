@@ -1,0 +1,1771 @@
+{
+  "course_code": "BS6042_BS",
+  "concept_tags": [
+    {
+      "text": "random variables",
+      "normalized": "random variables"
+    },
+    {
+      "text": "probability distributions",
+      "normalized": "probability distributions"
+    },
+    {
+      "text": "two-dimensional random vectors",
+      "normalized": "two-dimensional random vectors"
+    },
+    {
+      "text": "statistical hypothesis testing",
+      "normalized": "statistical hypothesis testing"
+    },
+    {
+      "text": "statistical data collection",
+      "normalized": "statistical data collection"
+    },
+    {
+      "text": "data processing skills",
+      "normalized": "data processing skills"
+    },
+    {
+      "text": "analysis and decision-making",
+      "normalized": "analysis and decision-making"
+    },
+    {
+      "text": "observation skills",
+      "normalized": "observation skills"
+    },
+    {
+      "text": "analysis skills",
+      "normalized": "analysis skills"
+    },
+    {
+      "text": "data-based decision-making",
+      "normalized": "data-based decision-making"
+    },
+    {
+      "text": "logical thinking",
+      "normalized": "logical thinking"
+    },
+    {
+      "text": "probability",
+      "normalized": "probability"
+    },
+    {
+      "text": "statistics",
+      "normalized": "statistics"
+    },
+    {
+      "text": "probability distribution functions",
+      "normalized": "probability distribution functions"
+    },
+    {
+      "text": "parameter estimation",
+      "normalized": "parameter estimation"
+    },
+    {
+      "text": "data collection",
+      "normalized": "data collection"
+    },
+    {
+      "text": "data processing",
+      "normalized": "data processing"
+    },
+    {
+      "text": "data analysis",
+      "normalized": "data analysis"
+    },
+    {
+      "text": "characteristics of random variables",
+      "normalized": "characteristics of random variables"
+    },
+    {
+      "text": "common probability distributions",
+      "normalized": "common probability distributions"
+    },
+    {
+      "text": "functions of random variables",
+      "normalized": "functions of random variables"
+    },
+    {
+      "text": "parameter estimation problems",
+      "normalized": "parameter estimation problems"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "random variables",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN",
+        "BS6042_BS_CLO_L1",
+        "BS6042_BS_BAIHOC_L01",
+        "BS6042_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "probability distributions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "two-dimensional random vectors",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN",
+        "BS6042_BS_CLO_L1",
+        "BS6042_BS_BAIHOC_L07",
+        "BS6042_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "statistical hypothesis testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN",
+        "BS6042_BS_CLO_L2",
+        "BS6042_BS_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "statistical data collection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN",
+        "BS6042_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data processing skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN",
+        "BS6042_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "analysis and decision-making",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "observation skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "analysis skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data-based decision-making",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "logical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "probability",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "statistics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "probability distribution functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_CLO_L1",
+        "BS6042_BS_BAIHOC_L01",
+        "BS6042_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "parameter estimation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data collection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "characteristics of random variables",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_BAIHOC_L03",
+        "BS6042_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "common probability distributions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_BAIHOC_L03",
+        "BS6042_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "functions of random variables",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_BAIHOC_L05",
+        "BS6042_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "parameter estimation problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6042_BS_BAIHOC_L09",
+        "BS6042_BS_BAIHOC_L10"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data-based decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+      "esco_label": "build predictive models",
+      "confidence": 0.8009890191671543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7812017626977432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "esco_label": "carry out statistical forecasts",
+      "confidence": 0.7944428571231197,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data-based decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7664745152276206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7494024940224608,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7365631182655081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7389439557930251,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7478707843154727,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7462939488460686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7451717411538279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c08d63d-1c5e-4b9b-ad3e-f7ba7debb2d1",
+      "esco_label": "forecast organisational risks",
+      "confidence": 0.7336259514897417,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2",
+      "esco_label": "develop statistical software",
+      "confidence": 0.7219460476612843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7216530725992748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+      "esco_label": "statistics",
+      "confidence": 0.7725582575740578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.7655588348576405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7565719886737571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7377680917625122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e",
+      "esco_label": "product usage risks analysis",
+      "confidence": 0.7421431636814889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis and decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea",
+      "esco_label": "empirical analysis",
+      "confidence": 0.72729161204552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data-based decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data collection",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7271284711440558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distributions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistics",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "esco_label": "state estimation",
+      "confidence": 0.70552453975209,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7121072944031128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6892146285911267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.6856647225988485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6443009349994071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "statistical hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability distribution functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "characteristics of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of random variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "two-dimensional random vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "parameter estimation problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6125658651764314,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 22,
+    "total_has_concept_edges": 22,
+    "total_evidence_for_edges": 211
+  }
+}

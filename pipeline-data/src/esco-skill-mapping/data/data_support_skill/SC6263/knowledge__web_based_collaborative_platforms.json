@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+    "preferred_label": "web based collaborative platforms",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6263",
+    "course_title": "Advanced Web Design"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative workflow management",
+    "evidence_text": "Ready to collaborate in teamwork when solving practical problems"
+  },
+  "scoring": {
+    "final_score": 0.867206,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives explicitly mention teamwork and solving practical problems, which provides a foundation for using collaborative platforms in a web development context.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

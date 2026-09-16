@@ -1,0 +1,2389 @@
+{
+  "course_code": "SC6214",
+  "concept_tags": [
+    {
+      "text": "ASP.NET Core MVC",
+      "normalized": "asp.net core mvc"
+    },
+    {
+      "text": "modern web architecture",
+      "normalized": "modern web architecture"
+    },
+    {
+      "text": "MVC pattern",
+      "normalized": "mvc pattern"
+    },
+    {
+      "text": "Entity Framework Core",
+      "normalized": "entity framework core"
+    },
+    {
+      "text": "Razor",
+      "normalized": "razor"
+    },
+    {
+      "text": "Authentication & Authorization",
+      "normalized": "authentication & authorization"
+    },
+    {
+      "text": "ASP.NET Core",
+      "normalized": "asp.net core"
+    },
+    {
+      "text": "Middleware",
+      "normalized": "middleware"
+    },
+    {
+      "text": "Dependency Injection",
+      "normalized": "dependency injection"
+    },
+    {
+      "text": "Model-View-Controller pattern",
+      "normalized": "model-view-controller pattern"
+    },
+    {
+      "text": "Object-Relational Mapping",
+      "normalized": "object-relational mapping"
+    },
+    {
+      "text": "database management",
+      "normalized": "database management"
+    },
+    {
+      "text": "Authentication",
+      "normalized": "authentication"
+    },
+    {
+      "text": "Authorization",
+      "normalized": "authorization"
+    },
+    {
+      "text": "software licensing",
+      "normalized": "software licensing"
+    },
+    {
+      "text": "user data security",
+      "normalized": "user data security"
+    },
+    {
+      "text": "Razor Pages",
+      "normalized": "razor pages"
+    },
+    {
+      "text": "HTML5",
+      "normalized": "html5"
+    },
+    {
+      "text": "CSS3",
+      "normalized": "css3"
+    },
+    {
+      "text": "form handling",
+      "normalized": "form handling"
+    },
+    {
+      "text": "business logic",
+      "normalized": "business logic"
+    },
+    {
+      "text": "data validation",
+      "normalized": "data validation"
+    },
+    {
+      "text": "exception handling",
+      "normalized": "exception handling"
+    },
+    {
+      "text": "data query statements",
+      "normalized": "data query statements"
+    },
+    {
+      "text": "LINQ",
+      "normalized": "linq"
+    },
+    {
+      "text": "EF Core",
+      "normalized": "ef core"
+    },
+    {
+      "text": "requirements analysis",
+      "normalized": "requirements analysis"
+    },
+    {
+      "text": "product deployment",
+      "normalized": "product deployment"
+    },
+    {
+      "text": "Basic Full-stack",
+      "normalized": "basic full-stack"
+    },
+    {
+      "text": "application configuration",
+      "normalized": "application configuration"
+    },
+    {
+      "text": "application testing",
+      "normalized": "application testing"
+    },
+    {
+      "text": "server deployment",
+      "normalized": "server deployment"
+    },
+    {
+      "text": "security standards",
+      "normalized": "security standards"
+    },
+    {
+      "text": "legal regulations",
+      "normalized": "legal regulations"
+    },
+    {
+      "text": "personal data processing",
+      "normalized": "personal data processing"
+    },
+    {
+      "text": ".NET ecosystem",
+      "normalized": ".net ecosystem"
+    },
+    {
+      "text": "web programming",
+      "normalized": "web programming"
+    },
+    {
+      "text": "MVC architectural pattern",
+      "normalized": "mvc architectural pattern"
+    },
+    {
+      "text": "software development processes",
+      "normalized": "software development processes"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "Razor Views",
+      "normalized": "razor views"
+    },
+    {
+      "text": "Layouts",
+      "normalized": "layouts"
+    },
+    {
+      "text": "Data Passing",
+      "normalized": "data passing"
+    },
+    {
+      "text": "ASP.NET Core Fundamentals",
+      "normalized": "asp.net core fundamentals"
+    },
+    {
+      "text": "File Upload",
+      "normalized": "file upload"
+    },
+    {
+      "text": "Searching",
+      "normalized": "searching"
+    },
+    {
+      "text": "Pagination",
+      "normalized": "pagination"
+    },
+    {
+      "text": "Basic Security",
+      "normalized": "basic security"
+    },
+    {
+      "text": "Advanced Security",
+      "normalized": "advanced security"
+    },
+    {
+      "text": "Project Deployment",
+      "normalized": "project deployment"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6214",
+      "concept_tag": "asp.net core mvc",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "modern web architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "mvc pattern",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN",
+        "SC6214_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "entity framework core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN",
+        "SC6214_MUCTIEU_G3",
+        "SC6214_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "razor",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "authentication & authorization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "asp.net core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G1",
+        "SC6214_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "middleware",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "dependency injection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "model-view-controller pattern",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "object-relational mapping",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "database management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "authentication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G4"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "authorization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_G4"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "software licensing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "user data security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "razor pages",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "html5",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "css3",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "form handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "business logic",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "data validation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "exception handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "data query statements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "linq",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "ef core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "product deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "basic full-stack",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "application configuration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "application testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "server deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "security standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "legal regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "personal data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": ".net ecosystem",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_MUCTIEU_MT13"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "web programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "mvc architectural pattern",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "software development processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "razor views",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "layouts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "data passing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "asp.net core fundamentals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "file upload",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "searching",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "pagination",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "basic security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "advanced security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "project deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6214_BAIHOC_L07"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic full-stack",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layouts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pagination",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7117953183128541,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core mvc",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dependency injection",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data validation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic full-stack",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data passing",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "esco_label": "normalise data",
+      "confidence": 0.7063590134328797,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "personal data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.6823955950649567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dependency injection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "exception handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query statements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6743626533346494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.6768855402993952,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layouts",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6796675508073552,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linq",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.6682081579488205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data validation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query statements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "personal data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data passing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.6424232812872622,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data passing",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.6336679187924179,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dependency injection",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data validation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query statements",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "personal data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc architectural pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data passing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.6279823736753958,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css3",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc architectural pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layouts",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.623433568375411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core mvc",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.7374170893688126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.729316871841765,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7139912585129186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7139912585129186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7139912585129186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7139912585129186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layouts",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7139912585129186,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor pages",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic full-stack",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor views",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7189918666272184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7184511346575707,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css3",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc architectural pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layouts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7021644392865659,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor pages",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css3",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7008263130785453,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor views",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file upload",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7070121342631813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core mvc",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor pages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor views",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file upload",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.685302456026191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data validation",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linq",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.6867378157702814,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software licensing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css3",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc architectural pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "razor views",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6735882499849779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.6722171283103234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "middleware",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html5",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "asp.net core fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6571000924827606,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css3",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.5700355165066712,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication & authorization",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user data security",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data validation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query statements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "personal data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data passing",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic security",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.5493266629610181,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 50,
+    "total_has_concept_edges": 50,
+    "total_evidence_for_edges": 253
+  }
+}

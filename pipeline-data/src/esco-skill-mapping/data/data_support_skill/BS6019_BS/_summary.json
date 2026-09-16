@@ -1,0 +1,49 @@
+{
+  "course_code": "BS6019_BS",
+  "course_title": "Nhập môn nghiên cứu khoa học",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 2,
+    "knowledge_count": 3
+  },
+  "skills": [
+    {
+      "preferred_label": "demonstrate disciplinary expertise",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "final_score": 0.7909,
+      "support_concept_origin": "evidence-based reasoning; information literacy; synthesizing complex information",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "publish academic research",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "final_score": 0.7163,
+      "support_concept_origin": "academic integrity; structured communication",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "final_score": 0.7306,
+      "support_concept_origin": "project planning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "scientific literature",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "final_score": 0.6763,
+      "support_concept_origin": "academic integrity; structured communication; time management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "research design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "final_score": 0.6438,
+      "support_concept_origin": "objective analysis; project planning",
+      "review_status": "accepted"
+    }
+  ]
+}

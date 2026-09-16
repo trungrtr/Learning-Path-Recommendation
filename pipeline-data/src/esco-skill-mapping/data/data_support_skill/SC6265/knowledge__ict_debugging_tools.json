@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+    "preferred_label": "ICT debugging tools",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6265",
+    "course_title": "Basic Python Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "structured workflow management; systematic debugging",
+    "evidence_text": "Proficient manipulation of file processing, data input/output, Object-Oriented Programming"
+  },
+  "scoring": {
+    "final_score": 0.801765,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Learning to program in Python inherently requires the use of basic debugging techniques and tools to identify and fix syntax and logic errors in code.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

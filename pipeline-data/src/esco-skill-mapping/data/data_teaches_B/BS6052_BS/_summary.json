@@ -1,0 +1,43 @@
+{
+  "course_code": "BS6052_BS",
+  "course_title": "Mỹ thuật đại cương",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 2,
+    "skill_count": 1,
+    "knowledge_count": 1,
+    "tier_distribution": {
+      "PRIMARY": 2,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "confidence": 0.7007127687799937,
+      "cross_encoder_score": 0.9870800375938416,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 1,
+      "llm_reasoning": "The course content explicitly includes 'Graphic Language and Graphic Genres' and 'Application of Graphics in Industrial Product Design', which involves applying visual techniques and graphical elements."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "industrial research and development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "confidence": 0.6993707515216264,
+      "cross_encoder_score": 0.986361026763916,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 1,
+      "llm_reasoning": "While the course covers industrial design principles and aesthetics, it does not cover the broader scope of industrial research and development activities such as innovation processes, engineering product development, or production process management."
+    }
+  ],
+  "schema_version": "3.0"
+}

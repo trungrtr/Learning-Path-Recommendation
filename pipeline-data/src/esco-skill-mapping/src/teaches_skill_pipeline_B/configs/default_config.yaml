@@ -1,0 +1,174 @@
+# ============================================================
+# teaches-skill pipeline v3 — Default Configuration
+# ============================================================
+
+# Đường dẫn đầu vào (4 file JSON / học phần)
+contract_dir: "../../contract"
+
+# --- Tầng 1: Extraction ---
+extraction:
+  use_escoxlmr: true
+  use_esco_extract_skill: true
+  use_skillspan: false
+  use_llm_fallback: true
+  target_head: "all"  # Các tuỳ chọn: "all", "skill", "knowledge"
+  escoxlmr_skill_model: "jjzha/escoxlmr_skill_extraction"
+  escoxlmr_knowledge_model: "jjzha/escoxlmr_knowledge_extraction"
+  skillspan_model: null              # Tắt — cần xác nhận checkpoint trước
+  llm_model: "gemini-3.1-flash-lite"
+  llm_temperature: 0.0
+  enable_skillspan: false
+  enable_llm_fallback: true
+  cache_dir: "cache/extraction"
+
+# --- Tầng 2+3: Retrieval + Fusion ---
+retrieval:
+  embedding_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  faiss_index_path: "data/esco_filtered/v1/faiss/esco_full.index"
+  faiss_metadata_path: "data/esco_filtered/v1/faiss/esco_metadata.json"
+  bm25_index_path: "data/esco_filtered/v1/bm25/bm25_corpus.pkl"
+  top_k_per_channel: 50
+  rrf_k: 60
+
+# --- Tầng 4: Reranking ---
+rerank:
+  model: "nurlanm/UniSkill_Bert"
+  rerank_top_k: 100
+  rerank_weight: 0.7
+  rrf_weight: 0.3
+
+# --- Tầng 5: Decision Thresholds ---
+threshold:
+  skill_primary: 0.88
+  skill_secondary: 0.80
+  skill_optional: 0.75
+  skill_overflow: 0.60
+  knowledge_primary: 0.85
+  knowledge_secondary: 0.75
+  knowledge_optional: 0.70
+  knowledge_overflow: 0.55
+
+# --- Hard Caps (per course_type x concept_type) ---
+hard_cap:
+  foundational_skill: 7
+  foundational_knowledge: 13
+  core_skill: 15
+  core_knowledge: 15
+  specialized_skill: 25
+  specialized_knowledge: 15
+
+# --- Tầng 9: Evidence Weights ---
+evidence_weight:
+  mo_ta: 1.0
+  muc_tieu: 1.2
+  clo: 1.0
+  bai_hoc_full: 0.7
+  bai_hoc_title_only: 0.3
+
+# --- Output ---
+output:
+  output_dir: "data/data_teaches_skill"
+  write_candidate_log: true
+  write_audit_log: true
+  write_provenance: true
+
+# --- Neo4j ---
+neo4j_uri: "bolt://localhost:7687"
+neo4j_database: "neo4j"
+
+# --- Schema ---
+schema_version: "3.0"
+
+# ============================================================
+# False Positive Reduction Patches Configuration (v3)
+# ============================================================
+
+# [PATCH v3.0 — Evidence Quality Weighting]
+evidence_weighting:
+  enabled: true
+  low_quality_threshold: 0.35
+  weight_map:
+    BAI_HOC_full: 1.00
+    BAI_HOC_title_only: 0.30
+    CLO_KIEN_THUC: 0.90
+    CLO_KY_NANG: 0.85
+    CLO_TU_CHU_TRACH_NHIEM: 0.20
+    MUC_TIEU_KIEN_THUC: 0.70
+    MUC_TIEU_KY_NANG: 0.65
+    MUC_TIEU_TU_CHU_TRACH_NHIEM: 0.15
+    MO_TA: 0.25
+    default: 0.30
+
+# [PATCH v3.0 — Boilerplate Sentence Filter]
+boilerplate_filter:
+  enabled: true
+  sparse_course_boilerplate_ratio: 0.60
+
+# [PATCH v3.0 — Course Subject Filter]
+course_filter:
+  enabled: true
+  ignored_keywords:
+    - "triết học"
+    - "chính trị"
+    - "mác - lênin"
+    - "mác-lênin"
+    - "tư tưởng hồ chí minh"
+    - "đảng cộng sản"
+    - "chủ nghĩa xã hội"
+    - "pháp luật đại cương"
+
+# [PATCH v3.0 — Domain Block List]
+domain_filter:
+  enabled: true
+  blocked_uris:
+    - "http://data.europa.eu/esco/skill/e8f80ec5-c423-4eb2-9f0f-805d22f844ae"
+    - "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070"
+    - "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904"
+    - "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100"
+    - "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871"
+    - "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c"
+    - "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+  keyword_block_enabled: true
+
+# [PATCH v3.0 — Security Cluster Drift Guard]
+security_drift_guard:
+  enabled: true
+  offensive_uris:
+    - "http://data.europa.eu/esco/skill/af313ba1-a39e-49ac-99ec-94630fbe4f7f"
+
+# [PATCH v3.0 — IT Governance Framework Guard]
+framework_guard:
+  enabled: true
+  frameworks:
+    - label: "control objectives for information and related technology"
+      aliases: ["cobit"]
+    - label: "information technology infrastructure library"
+      aliases: ["itil"]
+    - label: "iso/iec 27001"
+      aliases: ["iso 27001", "iso27001", "isms"]
+    - label: "information security management system"
+      aliases: ["isms", "iso 27001", "iso27001"]
+
+# [PATCH v3.0 — Capstone Course Stricter Rules]
+capstone_courses:
+  enabled: true
+  course_codes:
+    - "IT6205"   # Graduate Internship
+    - "IT6206"   # Graduation Thesis
+    - "IT6207"   # (nếu có)
+    - "IT6208"   # Graduation Project
+  detection_keywords:
+    - "internship"
+    - "graduation thesis"
+    - "graduation project"
+    - "final project"
+  hard_cap_override: 10
+  confidence_threshold_override: 0.820
+  require_min_avg_evidence_weight: 0.50
+  reject_if_sparse_and_mismatch: true
+
+# [PATCH v3.0 — Mismatch Confidence Penalty]
+mismatch_penalty:
+  enabled: true
+  penalty_value: 0.025
+

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+    "preferred_label": "web based collaborative platforms",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "corporate culture navigation; interpersonal collaboration",
+    "evidence_text": "Objectives: Equip learners with practical knowledge at organizations and enterprises"
+  },
+  "scoring": {
+    "final_score": 0.51699,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Working in a corporate internship environment typically requires the use of collaborative platforms to facilitate team work and project workflow.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

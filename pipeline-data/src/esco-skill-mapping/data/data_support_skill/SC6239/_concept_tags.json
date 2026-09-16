@@ -1,0 +1,245 @@
+{
+  "course_code": "SC6239",
+  "concept_tags": [
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "collaborative teamwork",
+      "normalized": "collaborative teamwork",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "technical documentation standards",
+      "normalized": "technical documentation standards",
+      "loai": "foundational"
+    },
+    {
+      "text": "project lifecycle management",
+      "normalized": "project lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of methodologies",
+      "normalized": "critical evaluation of methodologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to emerging technologies",
+      "normalized": "adaptability to emerging technologies",
+      "loai": "cognitive"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "cognitive"
+    },
+    {
+      "text": "stakeholder expectation management",
+      "normalized": "stakeholder expectation management",
+      "loai": "foundational"
+    },
+    {
+      "text": "complex problem decomposition",
+      "normalized": "complex problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "quality-oriented mindset",
+      "normalized": "quality-oriented mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "interdisciplinary collaboration",
+      "normalized": "interdisciplinary collaboration",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "structured reporting",
+      "normalized": "structured reporting",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6239",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "collaborative teamwork",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "technical documentation standards",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "project lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "critical evaluation of methodologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "adaptability to emerging technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "stakeholder expectation management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "complex problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "quality-oriented mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "interdisciplinary collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6239",
+      "concept_tag": "structured reporting",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.838827,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.836959,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.836959,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.790025,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.790025,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder expectation management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.732797,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.732797,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.673496,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.673496,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.669661,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.669661,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.643866,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.643866,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 13
+  }
+}

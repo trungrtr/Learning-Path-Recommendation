@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+    "preferred_label": "Rapid application development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6222_BS",
+    "course_title": "Tích hợp hệ thống phần mềm"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; debugging and troubleshooting methodology; technical adaptability",
+    "evidence_text": "Enhance proactivity, personal responsibility, self-learning capability, and the ability to update new technologies to solve practical problems in modern software development"
+  },
+  "scoring": {
+    "final_score": 0.741045,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses on building Web APIs and consuming them across platforms, which is a core activity in rapid application development where modular services are integrated quickly.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

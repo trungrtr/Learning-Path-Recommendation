@@ -1,0 +1,113 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+    "preferred_label": "problem-solving with digital tools",
+    "skill_type": "",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6208",
+    "course_title": "Graduation Project",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.727881,
+    "cross_encoder_score": 0.995851,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "The course trains students in skills for evaluating information technology solutions, deploying product transfers, operating and managing information systems; developing report writing, presentation, and defense skills for solutions in a scientific, logical, and persuasive manner.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Upon completion of the course, students are capable of working independently, taking responsibility for graduation thesis products; being proactive in organizing, managing progress, solution quality, and making professional decisions within the scope of the assigned project.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Execute the transfer and operation of information systems, ensuring that the systems operate according to technical requirements and established objectives.",
+      "meta": {
+        "pi_so": [
+          "PI 6.1",
+          "PI 6.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "System survey and technical documentation research",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Solution design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Solution implementation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L3"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L14",
+      "text": "Evaluation of solution results",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 12,
+      "dense_rank": 5,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

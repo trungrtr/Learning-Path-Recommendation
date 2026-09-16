@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95",
+    "preferred_label": "business strategy concepts",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BM6091_BS",
+    "course_title": "Quản lý dự án"
+  },
+  "support_context": {
+    "support_concept_origin": "strategic thinking",
+    "evidence_text": "Form an attitude of respect for principles in project management, along with a proper awareness of the role, responsibilities, and professional ethics of a project manager"
+  },
+  "scoring": {
+    "final_score": 0.639716,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Project management is inherently linked to business strategy as projects are the vehicles for implementing organizational goals and managing resources.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

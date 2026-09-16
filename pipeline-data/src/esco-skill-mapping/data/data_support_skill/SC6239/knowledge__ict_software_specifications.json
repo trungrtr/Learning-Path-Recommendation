@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+    "preferred_label": "ICT software specifications",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6239",
+    "course_title": "Introduction to Software Engineering"
+  },
+  "support_context": {
+    "support_concept_origin": "stakeholder expectation management; technical documentation standards",
+    "evidence_text": "software requirement specification documents"
+  },
+  "scoring": {
+    "final_score": 0.732797,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers requirements analysis and the creation of software requirement specification documents, which are essential for defining ICT software specifications.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

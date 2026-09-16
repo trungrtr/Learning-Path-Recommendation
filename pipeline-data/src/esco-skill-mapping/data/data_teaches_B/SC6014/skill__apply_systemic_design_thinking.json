@@ -1,0 +1,131 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4d30ad07-9e39-4899-81dd-02b280f162f9",
+    "preferred_label": "apply systemic design thinking",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6014",
+    "course_title": "Foundation Project",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7385007653244514,
+    "cross_encoder_score": 0.9965894222259521,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly states that learners develop 'systems thinking' and apply 'innovative and entrepreneurial thinking'."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course aims to introduce students to the working environment and job requirements in the field of Information Systems, shaping ideas for information systems design and development. This course helps reinforce learners' knowledge and skills in databases, basic programming, and computer foundations. Through the course, learners develop systems thinking, discipline awareness, and CDIO competencies to confidently solve new problems; students practice teamwork skills acquired in previous courses; and gain skills in planning and operating a basic information systems project.",
+      "meta": {
+        "matched_mention": "systems thinking"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Consolidate and integrate foundational knowledge of the Information Systems discipline to understand and apply the process of conceiving, designing, and developing an information system at an introductory level, serving as a foundation for specialized project courses.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "system design"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Develop teamwork, project planning, and execution skills; apply innovative and entrepreneurial thinking to propose, design, and present an introductory-level information system or hypothetical startup idea.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "entrepreneurial thinking"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply foundational industry knowledge combined with innovative and entrepreneurial thinking to propose, design, and present a hypothetical information system or startup idea with basic practicality and feasibility.",
+      "meta": {
+        "pi_so": [
+          "PI 7.2"
+        ],
+        "muc_do": "T, U",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "entrepreneurial thinking; system design"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Analysis and solution design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ],
+        "matched_mention": "solution design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Solution implementation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ],
+        "matched_mention": "solution implementation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Solution evaluation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2; L3"
+        ],
+        "matched_mention": "solution evaluation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

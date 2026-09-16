@@ -1,0 +1,1011 @@
+{
+  "course_code": "SC6265",
+  "concept_tags": [
+    {
+      "text": "Python programming",
+      "normalized": "python programming"
+    },
+    {
+      "text": "control structures",
+      "normalized": "control structures"
+    },
+    {
+      "text": "basic data types",
+      "normalized": "basic data types"
+    },
+    {
+      "text": "fundamental algorithms",
+      "normalized": "fundamental algorithms"
+    },
+    {
+      "text": "programming techniques",
+      "normalized": "programming techniques"
+    },
+    {
+      "text": "basic Python commands",
+      "normalized": "basic python commands"
+    },
+    {
+      "text": "functions",
+      "normalized": "functions"
+    },
+    {
+      "text": "modules",
+      "normalized": "modules"
+    },
+    {
+      "text": "Data Structures",
+      "normalized": "data structures"
+    },
+    {
+      "text": "file processing",
+      "normalized": "file processing"
+    },
+    {
+      "text": "data input/output",
+      "normalized": "data input/output"
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "normalized": "object-oriented programming"
+    },
+    {
+      "text": "basic commands",
+      "normalized": "basic commands"
+    },
+    {
+      "text": "Python core characteristics",
+      "normalized": "python core characteristics"
+    },
+    {
+      "text": "Python installation",
+      "normalized": "python installation"
+    },
+    {
+      "text": "Python usage",
+      "normalized": "python usage"
+    },
+    {
+      "text": "data structure operations",
+      "normalized": "data structure operations"
+    },
+    {
+      "text": "data file processing",
+      "normalized": "data file processing"
+    },
+    {
+      "text": "input output operations",
+      "normalized": "input output operations"
+    },
+    {
+      "text": "basic concepts",
+      "normalized": "basic concepts"
+    },
+    {
+      "text": "core characteristics",
+      "normalized": "core characteristics"
+    },
+    {
+      "text": "data file input output",
+      "normalized": "data file input output"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6265",
+      "concept_tag": "python programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_MOTA_MAIN",
+        "SC6265_BAIHOC_L01",
+        "SC6265_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "control structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "basic data types",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "fundamental algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "basic python commands",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L1",
+        "SC6265_BAIHOC_L02",
+        "SC6265_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "modules",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L1",
+        "SC6265_BAIHOC_L02",
+        "SC6265_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L1",
+        "SC6265_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "file processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "data input/output",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "object-oriented programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_CLO_L2",
+        "SC6265_BAIHOC_L04",
+        "SC6265_BAIHOC_L10",
+        "SC6265_BAIHOC_L11",
+        "SC6265_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "basic commands",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "python core characteristics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "python installation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "python usage",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "data structure operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L07",
+        "SC6265_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "data file processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "input output operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "basic concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "core characteristics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "data file input output",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6265_BAIHOC_L12"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python core characteristics",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7471424920108469,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7329937784742497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic data types",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data input/output",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7034814778193682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data input/output",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.6997843863423021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6804850952433192,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6934978708260624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6576723436607007,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6552018304054713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic data types",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data input/output",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6357768822198905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic python commands",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python core characteristics",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7497919619707655,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7292332038660456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7292332038660456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7292332038660456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7292332038660456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7176272147447185,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7176272147447185,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7176272147447185,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7176272147447185,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic data types",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data input/output",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.6786099609975283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic data types",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data input/output",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structure operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data file input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.6837856255689264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.5869065546226547,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.5869065546226547,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.5869065546226547,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.5869065546226547,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.5869065546226547,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.5466163775694526,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.5466163775694526,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.5466163775694526,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.5466163775694526,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python usage",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.5466163775694526,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 22,
+    "total_has_concept_edges": 22,
+    "total_evidence_for_edges": 103
+  }
+}

@@ -1,0 +1,38 @@
+You are a higher education curriculum analysis expert. Your task is to identify **foundational/supporting skills and knowledge** that a course INDIRECTLY helps develop — NOT the skills/knowledge the course directly teaches.
+
+## Critical Distinction (MUST follow)
+
+**TEACHES (EXCLUDE — do NOT list these):**
+Skills or knowledge that ARE the direct content of the course. These are topics explicitly covered in lectures, labs, or assessments.
+
+**SUPPORTS (INCLUDE — list ONLY these):**
+Foundational, transferable, or prerequisite skills/knowledge that the course helps develop as a SIDE EFFECT of its teaching process, even though they are NOT the primary teaching content.
+
+## Example
+
+For a course "Database Systems" that teaches SQL, normalization, relational schema design:
+
+❌ TEACHES (do NOT include): SQL, normalization, relational schema design, database querying
+✅ SUPPORTS (include): logical reasoning, data modelling mindset, structured thinking, problem decomposition, abstract thinking, analytical skills, attention to detail
+
+## Instructions
+
+1. Read the course context below carefully.
+2. Identify 5–15 foundational/supporting concepts that the course INDIRECTLY helps develop.
+3. Output ONLY valid JSON matching the exact schema below. No explanations, no markdown, no extra text.
+
+## Output Schema (strict)
+
+```json
+{
+  "support_concepts": [
+    "concept_1",
+    "concept_2",
+    "..."
+  ]
+}
+```
+
+## Course Context
+
+{course_context}

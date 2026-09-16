@@ -1,0 +1,1712 @@
+{
+  "course_code": "IT6217_BS",
+  "concept_tags": [
+    {
+      "text": "computer science",
+      "normalized": "computer science"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management"
+    },
+    {
+      "text": "planning skills",
+      "normalized": "planning skills"
+    },
+    {
+      "text": "technical report delivery",
+      "normalized": "technical report delivery"
+    },
+    {
+      "text": "teamwork skills",
+      "normalized": "teamwork skills"
+    },
+    {
+      "text": "professional responsibilities",
+      "normalized": "professional responsibilities"
+    },
+    {
+      "text": "ethics and law",
+      "normalized": "ethics and law"
+    },
+    {
+      "text": "planning",
+      "normalized": "planning"
+    },
+    {
+      "text": "effective study methods",
+      "normalized": "effective study methods"
+    },
+    {
+      "text": "technical documentation writing",
+      "normalized": "technical documentation writing"
+    },
+    {
+      "text": "technical presentation reporting",
+      "normalized": "technical presentation reporting"
+    },
+    {
+      "text": "teamwork",
+      "normalized": "teamwork"
+    },
+    {
+      "text": "ethical standards",
+      "normalized": "ethical standards"
+    },
+    {
+      "text": "legal standards",
+      "normalized": "legal standards"
+    },
+    {
+      "text": "information technology",
+      "normalized": "information technology"
+    },
+    {
+      "text": "hardware",
+      "normalized": "hardware"
+    },
+    {
+      "text": "software",
+      "normalized": "software"
+    },
+    {
+      "text": "information representation",
+      "normalized": "information representation"
+    },
+    {
+      "text": "computing applications",
+      "normalized": "computing applications"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation"
+    },
+    {
+      "text": "presentation",
+      "normalized": "presentation"
+    },
+    {
+      "text": "information technology practitioner",
+      "normalized": "information technology practitioner"
+    },
+    {
+      "text": "computers",
+      "normalized": "computers"
+    },
+    {
+      "text": "industrial revolution",
+      "normalized": "industrial revolution"
+    },
+    {
+      "text": "curriculum framework",
+      "normalized": "curriculum framework"
+    },
+    {
+      "text": "programming",
+      "normalized": "programming"
+    },
+    {
+      "text": "programming profession",
+      "normalized": "programming profession"
+    },
+    {
+      "text": "effective learning methods",
+      "normalized": "effective learning methods"
+    },
+    {
+      "text": "documentation skills",
+      "normalized": "documentation skills"
+    },
+    {
+      "text": "presentation skills",
+      "normalized": "presentation skills"
+    },
+    {
+      "text": "professional responsibility",
+      "normalized": "professional responsibility"
+    },
+    {
+      "text": "final project",
+      "normalized": "final project"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "computer science",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN",
+        "IT6217_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "time management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN",
+        "IT6217_BS_MUCTIEU_G2",
+        "IT6217_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "planning skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "technical report delivery",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "teamwork skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN",
+        "IT6217_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "professional responsibilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN",
+        "IT6217_BS_MUCTIEU_G3",
+        "IT6217_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "ethics and law",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "effective study methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "technical documentation writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "technical presentation reporting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "teamwork",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G2",
+        "IT6217_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "ethical standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G3",
+        "IT6217_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "legal standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G3",
+        "IT6217_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "information technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "hardware",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO1",
+        "IT6217_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO1",
+        "IT6217_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "information representation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO1",
+        "IT6217_BS_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "computing applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "technical documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "information technology practitioner",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_CLO_CLO3"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "computers",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "industrial revolution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "curriculum framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "programming profession",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "effective learning methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "documentation skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "presentation skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "professional responsibility",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "final project",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6217_BS_BAIHOC_L10"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7360679465078486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7360679465078486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7360679465078486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7360679465078486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7360679465078486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7359157959283925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7359157959283925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7359157959283925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7359157959283925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7359157959283925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.74578329522325,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7298238765138454,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7262222149896135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7262222149896135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7262222149896135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7262222149896135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7262222149896135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming profession",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "esco_label": "develop reporting software",
+      "confidence": 0.7239733077992558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.7232516552592401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.7232516552592401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.7232516552592401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.7232516552592401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.7232516552592401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "esco_label": "interpret technical texts",
+      "confidence": 0.7357124684338997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7167080210135628,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective study methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "esco_label": "manage staff",
+      "confidence": 0.7297233758080853,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "esco_label": "provide technical training",
+      "confidence": 0.7247453950295366,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.704827364585236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7192667749350485,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7037326116536397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7037326116536397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7037326116536397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7037326116536397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7037326116536397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7013651876894478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7065549887336103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computers",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6837795319823402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective study methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.676407140390364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "esco_label": "interact professionally in research and professional environments",
+      "confidence": 0.6733428442999861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork",
+      "esco_uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "esco_label": "interact professionally in research and professional environments",
+      "confidence": 0.6733428442999861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "esco_label": "interact professionally in research and professional environments",
+      "confidence": 0.6733428442999861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "esco_label": "interact professionally in research and professional environments",
+      "confidence": 0.6733428442999861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "planning skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming profession",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "final project",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "esco_label": "oversee development of software",
+      "confidence": 0.6818413835977987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethics and law",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.5707861801310704,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective study methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6921517126486755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computers",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "curriculum framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7052488081277244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computers",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.691294973516614,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology practitioner",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computers",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6701617266113229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical report delivery",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.6816605394934073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical presentation reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "esco_label": "visual presentation techniques",
+      "confidence": 0.6726123622274139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information representation",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "esco_label": "visual presentation techniques",
+      "confidence": 0.6726123622274139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "esco_label": "visual presentation techniques",
+      "confidence": 0.6726123622274139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "effective learning methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "esco_label": "visual presentation techniques",
+      "confidence": 0.6726123622274139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "presentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "esco_label": "visual presentation techniques",
+      "confidence": 0.6726123622274139,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 32,
+    "total_has_concept_edges": 32,
+    "total_evidence_for_edges": 186
+  }
+}

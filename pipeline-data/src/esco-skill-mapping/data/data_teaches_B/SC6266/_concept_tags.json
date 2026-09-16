@@ -1,0 +1,847 @@
+{
+  "course_code": "SC6266",
+  "concept_tags": [
+    {
+      "text": "advanced Python programming",
+      "normalized": "advanced python programming"
+    },
+    {
+      "text": "GUI programming",
+      "normalized": "gui programming"
+    },
+    {
+      "text": "database programming",
+      "normalized": "database programming"
+    },
+    {
+      "text": "database systems",
+      "normalized": "database systems"
+    },
+    {
+      "text": "software development process",
+      "normalized": "software development process"
+    },
+    {
+      "text": "Python programming",
+      "normalized": "python programming"
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "normalized": "object-oriented programming"
+    },
+    {
+      "text": "XML data format",
+      "normalized": "xml data format"
+    },
+    {
+      "text": "JSON data format",
+      "normalized": "json data format"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6266",
+      "concept_tag": "advanced python programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_MOTA_MAIN",
+        "SC6266_CLO_L1",
+        "SC6266_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "gui programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_MOTA_MAIN",
+        "SC6266_BAIHOC_L03",
+        "SC6266_BAIHOC_L04",
+        "SC6266_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "database programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_MOTA_MAIN",
+        "SC6266_BAIHOC_L05",
+        "SC6266_BAIHOC_L06",
+        "SC6266_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "database systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "software development process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "python programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_CLO_L3",
+        "SC6266_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "object-oriented programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "xml data format",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_BAIHOC_L02",
+        "SC6266_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "json data format",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6266_BAIHOC_L02",
+        "SC6266_BAIHOC_L07"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7652491472440849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7652491472440849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7652491472440849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7652491472440849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7357703156784762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7357703156784762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7357703156784762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7357703156784762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7278310549896871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7221358945630647,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7221358945630647,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7221358945630647,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7221358945630647,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7221358945630647,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6914285319834762,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6814329902519558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6814329902519558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6814329902519558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6814329902519558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6814329902519558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6484479707627805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6484479707627805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6484479707627805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6484479707627805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6484479707627805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6253043687889326,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6253043687889326,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7408718933231616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7408718933231616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.7408718933231616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7410251006940847,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.699190953776902,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "esco_label": "Scratch (computer programming)",
+      "confidence": 0.6610122977189609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "esco_label": "Scratch (computer programming)",
+      "confidence": 0.6610122977189609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "esco_label": "Scratch (computer programming)",
+      "confidence": 0.6610122977189609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "esco_label": "Scratch (computer programming)",
+      "confidence": 0.6610122977189609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.6536475983653708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.6536475983653708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.6536475983653708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.6536475983653708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.6536475983653708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6456248124638364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6456248124638364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6456248124638364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6456248124638364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6456248124638364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6153826363881855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6153826363881855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6153826363881855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6153826363881855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.6060242417905856,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.6060242417905856,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.6060242417905856,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.6060242417905856,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.6060242417905856,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.5935691755729791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.5935691755729791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.5935691755729791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.594208121070124,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_label": "C++",
+      "confidence": 0.525987239106982,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.521143732934948,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.521143732934948,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.521143732934948,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.521143732934948,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.521143732934948,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "python programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json data format",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "gui programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.5145943482191409,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 9,
+    "total_has_concept_edges": 9,
+    "total_evidence_for_edges": 102
+  }
+}

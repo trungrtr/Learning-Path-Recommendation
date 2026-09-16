@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6220",
+    "course_title": "Open Source Software"
+  },
+  "support_context": {
+    "support_concept_origin": "ethical decision-making; project management",
+    "evidence_text": "build a sense of strict compliance with regulations on intellectual property and professional ethics"
+  },
+  "scoring": {
+    "final_score": 0.825998,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives include planning and managing software development tasks, which provides a foundation for understanding ICT project management methodologies.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

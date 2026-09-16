@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+    "preferred_label": "contract law",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6020_BS",
+    "course_title": "Quan hệ lao động và việc làm"
+  },
+  "support_context": {
+    "support_concept_origin": "legal literacy; negotiation strategy; professional ethics",
+    "evidence_text": "Apply knowledge of labor contracts, social dialogue, collective bargaining, and the job interview process to solve practical issues regarding employment and labor relations"
+  },
+  "scoring": {
+    "final_score": 0.614101,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers labor contracts, which are a specific and fundamental application of contract law.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

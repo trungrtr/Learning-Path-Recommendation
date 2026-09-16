@@ -1,0 +1,241 @@
+{
+  "course_code": "SC6212",
+  "course_title": "Java Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 20,
+    "skill_count": 5,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 19,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.8201302918736305,
+      "cross_encoder_score": 0.9629079103469849,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content explicitly mentions Object-Oriented Programming (OOP) in Java, including classes, objects, encapsulation, inheritance, polymorphism, and abstraction."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.7630241190013738,
+      "cross_encoder_score": 0.9298320412635803,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on Java programming and OOP, not logic programming languages like Prolog or Datalog."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.7536712459589037,
+      "cross_encoder_score": 0.9229797720909119,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content focuses on imperative and object-oriented programming in Java, not functional programming paradigms."
+    },
+    {
+      "preferred_label": "use scripting programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "confidence": 0.7662450030084645,
+      "cross_encoder_score": 0.9723035097122192,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers Java application development, not scripting languages like Python, Ruby, or JavaScript."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6697672382333011,
+      "cross_encoder_score": 0.8328920602798462,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "There is no mention of automatic code generation tools or techniques in the course content."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7910554819277115,
+      "cross_encoder_score": 0.9671235084533691,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers Java desktop/application programming (GUI, JDBC), not web programming technologies like HTML, CSS, or JavaScript."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.7738841360982994,
+      "cross_encoder_score": 0.921723484992981,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers fundamental programming techniques, problem analysis, design, and implementation of programs, which are core to computer programming."
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "confidence": 0.7709329319140852,
+      "cross_encoder_score": 0.9560385346412659,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The entire course is dedicated to Java programming, covering syntax, OOP, libraries, and application development."
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.7601882773076766,
+      "cross_encoder_score": 0.9810591340065002,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly teaches OOP concepts including classes, objects, and design principles for structured and maintainable programs."
+    },
+    {
+      "preferred_label": "JavaScript",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "confidence": 0.7443192464110634,
+      "cross_encoder_score": 0.9322717189788818,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content is focused on Java, not JavaScript."
+    },
+    {
+      "preferred_label": "Smalltalk (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "confidence": 0.7100467411673668,
+      "cross_encoder_score": 0.9075927138328552,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Smalltalk."
+    },
+    {
+      "preferred_label": "Assembly (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "confidence": 0.7079631299711088,
+      "cross_encoder_score": 0.9014775156974792,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Assembly."
+    },
+    {
+      "preferred_label": "Visual Basic",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "confidence": 0.6945786029615861,
+      "cross_encoder_score": 0.8827915787696838,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Visual Basic."
+    },
+    {
+      "preferred_label": "ML (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "confidence": 0.6899069085485998,
+      "cross_encoder_score": 0.8850231766700745,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not ML."
+    },
+    {
+      "preferred_label": "Lisp",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "confidence": 0.6854809603641084,
+      "cross_encoder_score": 0.8413532972335815,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Lisp."
+    },
+    {
+      "preferred_label": "AJAX",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "confidence": 0.6813165716399211,
+      "cross_encoder_score": 0.8566520810127258,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not AJAX."
+    },
+    {
+      "preferred_label": "C#",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "confidence": 0.6754096771431054,
+      "cross_encoder_score": 0.8245646357536316,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not C#."
+    },
+    {
+      "preferred_label": "Ruby (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "confidence": 0.6733638374917916,
+      "cross_encoder_score": 0.8573527932167053,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Ruby."
+    },
+    {
+      "preferred_label": "Haskell",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "confidence": 0.6729636168840597,
+      "cross_encoder_score": 0.8280383944511414,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not Haskell."
+    },
+    {
+      "preferred_label": "R",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "confidence": 0.6525681422302285,
+      "cross_encoder_score": 0.8009600043296814,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content is exclusively focused on Java programming, not R."
+    }
+  ],
+  "schema_version": "3.0"
+}

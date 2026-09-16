@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+    "preferred_label": "data ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "ethical decision-making; technical documentation standards",
+    "evidence_text": "evaluate situations based on legal regulations and professional ethics"
+  },
+  "scoring": {
+    "final_score": 0.745154,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly requires students to evaluate situations based on professional ethics, which includes the ethical handling of data within an organizational context.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

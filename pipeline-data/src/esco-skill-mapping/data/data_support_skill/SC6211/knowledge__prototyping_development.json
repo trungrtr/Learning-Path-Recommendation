@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "preferred_label": "Prototyping development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6211",
+    "course_title": "Object Oriented Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "debugging methodology; systems thinking",
+    "evidence_text": "Identify and fix basic errors in the program"
+  },
+  "scoring": {
+    "final_score": 0.82685,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches object-oriented design and problem-solving, which provides the foundational structure necessary for creating software prototypes.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

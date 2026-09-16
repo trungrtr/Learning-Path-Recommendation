@@ -1,0 +1,41 @@
+{
+  "course_code": "BS6051_BS",
+  "course_title": "Nghệ thuật học đại cương",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 0,
+    "knowledge_count": 4
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "interactive media",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "final_score": 0.7445,
+      "support_concept_origin": "effective communication; pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "advertising techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f",
+      "final_score": 0.7042,
+      "support_concept_origin": "effective communication",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/afda6ca0-7aa8-41ef-ba5e-8dc607839daf",
+      "final_score": 0.6003,
+      "support_concept_origin": "multidisciplinary synthesis; pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "final_score": 0.5185,
+      "support_concept_origin": "critical thinking; historical contextualization",
+      "review_status": "accepted"
+    }
+  ]
+}

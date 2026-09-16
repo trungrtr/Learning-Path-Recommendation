@@ -1,0 +1,51 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d3e9b00a-0891-4fa8-836d-8240ec3d2758",
+    "preferred_label": "GDPR",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.64279,
+    "cross_encoder_score": 0.9061,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "lesson_29",
+      "text": "Unit 6: Government Intervention in the Market",
+      "meta": {
+        "matched_mention": "market regulation"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": 7.7477,
+      "dense_score": 0.4178,
+      "rrf_score": 0.0284,
+      "retrieval_sources": [
+        "faiss",
+        "bm25"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "course_code": "SC6229",
+  "course_title": "Enterprise resource planning software",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 0,
+    "knowledge_count": 5
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "final_score": 0.8225,
+      "support_concept_origin": "data-driven decision making; project lifecycle management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT project management methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "final_score": 0.7785,
+      "support_concept_origin": "operational efficiency mindset; project lifecycle management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "decision support systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "final_score": 0.7383,
+      "support_concept_origin": "data-driven decision making",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "final_score": 0.7285,
+      "support_concept_origin": "business process mapping; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems development life-cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "final_score": 0.5871,
+      "support_concept_origin": "change management awareness; data-driven decision making; project lifecycle management",
+      "review_status": "accepted"
+    }
+  ]
+}

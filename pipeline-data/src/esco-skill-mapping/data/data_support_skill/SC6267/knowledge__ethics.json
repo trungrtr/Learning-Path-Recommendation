@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "preferred_label": "ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6267",
+    "course_title": "Major Project"
+  },
+  "support_context": {
+    "support_concept_origin": "professional ethics",
+    "evidence_text": "enhance personal and team responsibility during the execution of specialized projects, preparing for internships and graduation theses"
+  },
+  "scoring": {
+    "final_score": 0.550648,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course emphasizes personal and team responsibility, which provides a practical context for applying professional ethics in a project environment.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

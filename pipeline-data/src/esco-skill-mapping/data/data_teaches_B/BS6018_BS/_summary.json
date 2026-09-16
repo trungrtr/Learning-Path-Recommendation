@@ -1,0 +1,230 @@
+{
+  "course_code": "BS6018_BS",
+  "course_title": "Giao tiếp trong môi trường làm việc",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 19,
+    "skill_count": 14,
+    "knowledge_count": 5,
+    "tier_distribution": {
+      "PRIMARY": 19,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "apply technical communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "confidence": 0.8260284266319747,
+      "cross_encoder_score": 0.9935165643692017,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers general communication skills and report writing, but does not explicitly mention explaining technical details to non-technical parties."
+    },
+    {
+      "preferred_label": "digital communication and collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "confidence": 0.7721060819980432,
+      "cross_encoder_score": 0.9800686836242676,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers cross-cultural communication, it does not explicitly mention the use of digital tools or online environments for collaboration."
+    },
+    {
+      "preferred_label": "use different communication channels",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "confidence": 0.7677367114957846,
+      "cross_encoder_score": 0.9602639079093933,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content explicitly includes 'Forms and means of communication' and 'Report writing skills', which involve using different channels to share information."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.769489717362337,
+      "cross_encoder_score": 0.9700978994369507,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on human interpersonal communication, not the technical design of interaction models or conversational AI."
+    },
+    {
+      "preferred_label": "communicate with stakeholders",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "confidence": 0.7780732148440118,
+      "cross_encoder_score": 0.977882444858551,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly mentions establishing communication relationships with partners and colleagues in the working environment."
+    },
+    {
+      "preferred_label": "communicate with customers",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "confidence": 0.7496634289870175,
+      "cross_encoder_score": 0.9867333769798279,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers establishing relationships with partners and general communication skills, which are applicable to customer interaction."
+    },
+    {
+      "preferred_label": "speak different languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "confidence": 0.7386807174644029,
+      "cross_encoder_score": 0.9849742650985718,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers cross-cultural communication but does not teach the mastery of specific foreign languages."
+    },
+    {
+      "preferred_label": "consult with business clients",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "confidence": 0.7451689749161227,
+      "cross_encoder_score": 0.982826828956604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes questioning skills and conflict resolution, which are essential for consulting and problem-solving with business partners/clients."
+    },
+    {
+      "preferred_label": "provide information",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "confidence": 0.7315858209965284,
+      "cross_encoder_score": 0.9590948224067688,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes report writing and public speaking, which involve the preparation and provision of information to an audience."
+    },
+    {
+      "preferred_label": "collaborate with engineers",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "confidence": 0.7277924367346998,
+      "cross_encoder_score": 0.9658463001251221,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers general workplace communication but does not specifically address collaboration with engineers."
+    },
+    {
+      "preferred_label": "install electronic communication equipment",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "confidence": 0.7065230131951588,
+      "cross_encoder_score": 0.9367783069610596,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on interpersonal communication skills and theory, not the technical installation of electronic communication hardware."
+    },
+    {
+      "preferred_label": "ensure cross-department cooperation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "confidence": 0.7022522992211028,
+      "cross_encoder_score": 0.900960385799408,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly covers establishing communication relationships with colleagues and partners, which is fundamental to cross-department cooperation."
+    },
+    {
+      "preferred_label": "manage a team",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "confidence": 0.6954481617924624,
+      "cross_encoder_score": 0.9102842807769775,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers communication, it does not include management-specific tasks like recruitment, disciplinary procedures, or performance management."
+    },
+    {
+      "preferred_label": "use e-services",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "confidence": 0.6569794988900749,
+      "cross_encoder_score": 0.8765982389450073,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not mention the use of digital public or private e-services."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "interactive media",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "confidence": 0.7559173566601549,
+      "cross_encoder_score": 0.9717521667480469,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers general communication media and forms, but does not specifically address interactive digital media or computerized customer interaction."
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.7460304397393103,
+      "cross_encoder_score": 0.9745624661445618,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on human-to-human communication, not software design or user-interface methodologies."
+    },
+    {
+      "preferred_label": "social network analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "confidence": 0.7331075893687651,
+      "cross_encoder_score": 0.9601374864578247,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers communication theory but does not include the research methodology of social network analysis."
+    },
+    {
+      "preferred_label": "human-computer interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "confidence": 0.7037298717211915,
+      "cross_encoder_score": 0.9342352151870728,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on interpersonal workplace communication, not the study of human-computer interaction."
+    },
+    {
+      "preferred_label": "web based collaborative platforms",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "confidence": 0.6582453927134184,
+      "cross_encoder_score": 0.8531613945960999,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover the use or management of web-based collaborative platforms."
+    }
+  ],
+  "schema_version": "3.0"
+}

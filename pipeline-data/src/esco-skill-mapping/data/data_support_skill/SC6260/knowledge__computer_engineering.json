@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+    "preferred_label": "computer engineering",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6260",
+    "course_title": "Major Project (Information Technology)"
+  },
+  "support_context": {
+    "support_concept_origin": "professional communication; professional ethics",
+    "evidence_text": "Course: Major Project (Information Technology)"
+  },
+  "scoring": {
+    "final_score": 0.47892,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course requires the design, deployment, and testing of systems, which relies on foundational knowledge of computer engineering principles.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

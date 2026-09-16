@@ -1,0 +1,213 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+    "preferred_label": "task algorithmisation",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "BS6038_BS",
+    "course_title": "Giải tích",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7088473365245502,
+    "cross_encoder_score": 0.9460092186927795,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on mathematical problem-solving rather than the algorithmic conversion of processes for computing."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course provides fundamental knowledge of single-variable and multivariable calculus, including limits, derivatives, integrals, extrema, and their applications in science and engineering. The content focuses on developing analytical thinking and practical problem-solving skills such as optimization, work, force calculations, and multivariable function analysis. This is a foundational course in the training program, supporting students in accessing specialized subjects and applying mathematics effectively in the engineering field.",
+      "meta": {
+        "matched_mention": "optimization"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Develops analytical thinking and problem-solving skills for practical problems such as optimization, work, force calculations, double integrals, and line integrals to support specialized engineering courses.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "computational skills"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Present and explain basic concepts, theorems, and formulas regarding limits, derivatives, and integrals of single-variable and multi-variable functions, as well as mathematical applications in engineering.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "multivariable functions"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Proficiently apply computational methods for derivatives, integrals, multi-variable optimization, and solve practical problems regarding optimization, work, and force.",
+      "meta": {
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "computational skills"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "LIMITS AND CONTINUITY OF FUNCTIONS OF A SINGLE VARIABLE",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "single variable functions"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "EXTREMA OF FUNCTIONS OF SEVERAL VARIABLES",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "multivariable function extrema"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "CONCEPTS AND PROPERTIES OF DOUBLE INTEGRALS",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "double integral concepts"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "EVALUATING DOUBLE INTEGRALS IN CARTESIAN COORDINATE SYSTEMS",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "double integrals"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "SOME APPLICATIONS OF DOUBLE INTEGRALS",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "double integral applications"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "CHANGE OF VARIABLES IN DOUBLE INTEGRALS",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "change of variables; double integrals"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "LINE INTEGRALS",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "line integrals"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "LINE INTEGRALS (CONTINUED)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "line integrals"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G3",
+      "text": "Builds proactivity, meticulousness, logical thinking, self-learning ability, and the effective application of mathematical tools to analyze and solve practical problems in the engineering field.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "mathematical tools"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 3,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

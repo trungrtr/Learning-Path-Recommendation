@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+    "preferred_label": "data science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6206",
+    "course_title": "Database"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; data modeling mindset",
+    "evidence_text": "Develop students' capability to proactively analyze data requirements, propose and execute basic database designs"
+  },
+  "scoring": {
+    "final_score": 0.799653,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Data science relies heavily on the ability to query, structure, and manage data, which are the core competencies taught in this course.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

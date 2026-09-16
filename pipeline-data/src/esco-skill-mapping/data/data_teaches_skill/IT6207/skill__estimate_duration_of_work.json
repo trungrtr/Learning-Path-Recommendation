@@ -1,0 +1,93 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+    "preferred_label": "estimate duration of work",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.719854,
+    "cross_encoder_score": 0.981665,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Train students in the ability to apply specialized knowledge to practical work at enterprises; develop teamwork and professional communication skills; and initially analyze and evaluate situations arising in professional practice based on legal principles and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Determine the role and professional responsibilities of an Information Systems professional and successfully complete assigned tasks when participating in practical activities at an enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "System survey and study of technical documentation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Execution of assigned tasks",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Execution of assigned tasks (continued)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 2,
+      "dense_rank": 8,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

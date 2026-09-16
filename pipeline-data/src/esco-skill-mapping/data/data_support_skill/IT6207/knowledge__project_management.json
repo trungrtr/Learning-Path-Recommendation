@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "preferred_label": "project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "initiative and proactivity; time management",
+    "evidence_text": "while raising awareness of legal regulations, ethical standards, and professional responsibility in practice"
+  },
+  "scoring": {
+    "final_score": 0.590556,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The internship requires students to perform assigned tasks, manage professional responsibilities, and operate within an enterprise, which supports the practical application of project management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

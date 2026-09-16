@@ -1,0 +1,256 @@
+{
+  "course_code": "SC6210",
+  "concept_tags": [
+    {
+      "text": "system architecture design",
+      "normalized": "system architecture design",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "complex problem solving",
+      "normalized": "complex problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "software lifecycle management",
+      "normalized": "software lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative version control workflows",
+      "normalized": "collaborative version control workflows",
+      "loai": "foundational"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to complex frameworks",
+      "normalized": "adaptability to complex frameworks",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "critical evaluation of technical requirements",
+      "normalized": "critical evaluation of technical requirements",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to architectural patterns",
+      "normalized": "attention to architectural patterns",
+      "loai": "cognitive"
+    },
+    {
+      "text": "intellectual property awareness",
+      "normalized": "intellectual property awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6210",
+      "concept_tag": "system architecture design",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "complex problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "software lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "collaborative version control workflows",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "adaptability to complex frameworks",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "critical evaluation of technical requirements",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "attention to architectural patterns",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "intellectual property awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.839978,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.839978,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to complex frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.704511,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.704511,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.704511,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to complex frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.69735,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.69735,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.69735,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to complex frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.684191,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.684191,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.633088,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.633088,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.631657,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.631657,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative version control workflows",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.610586,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.610586,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 16
+  }
+}

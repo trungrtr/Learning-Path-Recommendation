@@ -1,0 +1,208 @@
+{
+  "course_code": "IT6208",
+  "course_title": "Graduation Project",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 17,
+    "skill_count": 10,
+    "knowledge_count": 7,
+    "tier_distribution": {
+      "PRIMARY": 17,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7319970752832237,
+      "cross_encoder_score": 0.9920468330383301,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course focuses on applying existing knowledge to a specific project rather than explicitly teaching the process of gathering information on the latest industry-wide solutions."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7360283834700256,
+      "cross_encoder_score": 0.9943369030952454,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly includes 'Solution design' as a lesson and requires students to analyze and design software solutions/information systems."
+    },
+    {
+      "preferred_label": "analyse ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "confidence": 0.7268996041878124,
+      "cross_encoder_score": 0.992905855178833,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'System survey' and the objective to analyze information systems to meet specific computing requirements."
+    },
+    {
+      "preferred_label": "develop information standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "confidence": 0.7317642668551765,
+      "cross_encoder_score": 0.9900407195091248,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on project implementation and management rather than the development of industry-wide technical standards or norms."
+    },
+    {
+      "preferred_label": "manage ICT data architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "confidence": 0.7180139874884014,
+      "cross_encoder_score": 0.988000214099884,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "While the course covers system management, it does not explicitly teach the high-level management of organizational data architecture."
+    },
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.7171960487023371,
+      "cross_encoder_score": 0.9890838265419006,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content is general and does not explicitly mention the operation or management of relational database management systems."
+    },
+    {
+      "preferred_label": "optimise choice of ICT solution",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "confidence": 0.7221396041644477,
+      "cross_encoder_score": 0.9764601588249207,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course objectives explicitly mention evaluating information technology solutions and making professional decisions regarding solution quality."
+    },
+    {
+      "preferred_label": "attend to ICT systems quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "confidence": 0.7216263032500186,
+      "cross_encoder_score": 0.9933156371116638,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course includes 'Evaluation of solution results' and objectives related to ensuring systems operate according to technical requirements."
+    },
+    {
+      "preferred_label": "develop information security strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "confidence": 0.716946625925873,
+      "cross_encoder_score": 0.9885452389717102,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "While the course mentions risk management, it does not explicitly cover the development of an information security strategy."
+    },
+    {
+      "preferred_label": "manage open publications",
+      "esco_uri": "http://data.europa.eu/esco/skill/da930e2f-6047-4616-a598-bba8ecef3039",
+      "confidence": 0.6217331331116321,
+      "cross_encoder_score": 0.8496198654174805,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course content does not cover open publication strategies, bibliometrics, or institutional repositories."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.7198886542068628,
+      "cross_encoder_score": 0.9930714964866638,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While the course involves project management and documentation, it does not explicitly mention configuration management, version control, or the establishment of baselines."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.7131135486574346,
+      "cross_encoder_score": 0.9682208299636841,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on information systems rather than the specific tracking of product data, specifications, and production costs as defined in product data management."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.7036631411855785,
+      "cross_encoder_score": 0.9625583291053772,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Solution design' and 'System survey', which inherently involve the structuring and management of information within information systems."
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "confidence": 0.7180283402867207,
+      "cross_encoder_score": 0.9887112379074097,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course explicitly mentions the application of specialized knowledge in Information Systems, including their analysis, design, and operation."
+    },
+    {
+      "preferred_label": "decision support systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "confidence": 0.715309508454876,
+      "cross_encoder_score": 0.9764088988304138,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers information systems generally, but does not specifically teach the development or application of decision support systems."
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7123060244538312,
+      "cross_encoder_score": 0.9832525253295898,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course focuses on the analysis, design, and management of information systems, which are synonymous with business ICT systems in a practical context."
+    },
+    {
+      "preferred_label": "ICT problem management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "confidence": 0.7122551456990404,
+      "cross_encoder_score": 0.9810436367988586,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers system operation and management, but does not explicitly teach root cause analysis or specific ICT problem management techniques."
+    }
+  ],
+  "schema_version": "3.0"
+}

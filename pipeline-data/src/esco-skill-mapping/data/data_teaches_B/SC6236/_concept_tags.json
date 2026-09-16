@@ -1,0 +1,2383 @@
+{
+  "course_code": "SC6236",
+  "concept_tags": [
+    {
+      "text": "data prediction",
+      "normalized": "data prediction"
+    },
+    {
+      "text": "data description",
+      "normalized": "data description"
+    },
+    {
+      "text": "classification",
+      "normalized": "classification"
+    },
+    {
+      "text": "clustering",
+      "normalized": "clustering"
+    },
+    {
+      "text": "association rules",
+      "normalized": "association rules"
+    },
+    {
+      "text": "data mining methods",
+      "normalized": "data mining methods"
+    },
+    {
+      "text": "data mining algorithms",
+      "normalized": "data mining algorithms"
+    },
+    {
+      "text": "data mining",
+      "normalized": "data mining"
+    },
+    {
+      "text": "association rule mining",
+      "normalized": "association rule mining"
+    },
+    {
+      "text": "data mining techniques",
+      "normalized": "data mining techniques"
+    },
+    {
+      "text": "software tools",
+      "normalized": "software tools"
+    },
+    {
+      "text": "data mining models",
+      "normalized": "data mining models"
+    },
+    {
+      "text": "data analysis",
+      "normalized": "data analysis"
+    },
+    {
+      "text": "method selection",
+      "normalized": "method selection"
+    },
+    {
+      "text": "Data Classification",
+      "normalized": "data classification"
+    },
+    {
+      "text": "Data Clustering",
+      "normalized": "data clustering"
+    },
+    {
+      "text": "Data Mining Applications",
+      "normalized": "data mining applications"
+    },
+    {
+      "text": "Decision Tree Classification",
+      "normalized": "decision tree classification"
+    },
+    {
+      "text": "Probability Based Classification",
+      "normalized": "probability based classification"
+    },
+    {
+      "text": "Neural Network Classification",
+      "normalized": "neural network classification"
+    },
+    {
+      "text": "K-Means Clustering",
+      "normalized": "k-means clustering"
+    },
+    {
+      "text": "Agglomerative Clustering Algorithms",
+      "normalized": "agglomerative clustering algorithms"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data prediction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data description",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN",
+        "SC6236_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "clustering",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN",
+        "SC6236_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "association rules",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MOTA_MAIN",
+        "SC6236_MUCTIEU_MT1",
+        "SC6236_MUCTIEU_MT2",
+        "SC6236_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT1",
+        "SC6236_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "association rule mining",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT2",
+        "SC6236_BAIHOC_L02",
+        "SC6236_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT3",
+        "SC6236_MUCTIEU_MT4",
+        "SC6236_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "software tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT3",
+        "SC6236_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "method selection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data clustering",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "data mining applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L05",
+        "SC6236_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "decision tree classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "probability based classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "neural network classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "k-means clustering",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6236",
+      "concept_tag": "agglomerative clustering algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6236_BAIHOC_L09"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.8283574616570493,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining models",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability based classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "esco_label": "apply statistical analysis techniques",
+      "confidence": 0.7927428752014317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.8016736421418696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7975941241263784,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability based classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7819241592807782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7700332989640855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability based classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "esco_label": "handle data samples",
+      "confidence": 0.7720884203987278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7718979427929672,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "esco_label": "perform data cleansing",
+      "confidence": 0.7718165549717345,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability based classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "esco_label": "perform data analysis",
+      "confidence": 0.7689020191315695,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.768305624415205,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "esco_label": "manage data",
+      "confidence": 0.7679400784873405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7603197152543444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.7571628900554397,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.7554268063318852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7553794262825867,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "esco_label": "collect cyber defence data",
+      "confidence": 0.7546351799022237,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.7105841637328048,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "esco_label": "data mining",
+      "confidence": 0.8286727224431014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7893430060910248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "k-means clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7858566651068131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7856210274647218,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.7939676365397382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "probability based classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "esco_label": "data analytics",
+      "confidence": 0.7890125077820551,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "decision tree classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "esco_label": "data quality assessment",
+      "confidence": 0.7779083844836874,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "esco_label": "blockchain mining principles",
+      "confidence": 0.7527978051037119,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "k-means clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.764799014340651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data description",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "association rule mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7566593875107432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data prediction",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data clustering",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data mining applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "neural network classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agglomerative clustering algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "esco_label": "online analytical processing",
+      "confidence": 0.7560335273826478,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 22,
+    "total_has_concept_edges": 22,
+    "total_evidence_for_edges": 299
+  }
+}

@@ -1,0 +1,1356 @@
+{
+  "course_code": "SC6222_BS",
+  "concept_tags": [
+    {
+      "text": "XML",
+      "normalized": "xml"
+    },
+    {
+      "text": "JSON",
+      "normalized": "json"
+    },
+    {
+      "text": "Web APIs",
+      "normalized": "web apis"
+    },
+    {
+      "text": "software system integration",
+      "normalized": "software system integration"
+    },
+    {
+      "text": "requirements analysis",
+      "normalized": "requirements analysis"
+    },
+    {
+      "text": "Web API design",
+      "normalized": "web api design"
+    },
+    {
+      "text": "Web API construction",
+      "normalized": "web api construction"
+    },
+    {
+      "text": "client applications",
+      "normalized": "client applications"
+    },
+    {
+      "text": "modern software development",
+      "normalized": "modern software development"
+    },
+    {
+      "text": "data representation technologies",
+      "normalized": "data representation technologies"
+    },
+    {
+      "text": "XSD",
+      "normalized": "xsd"
+    },
+    {
+      "text": "XSLT",
+      "normalized": "xslt"
+    },
+    {
+      "text": "DOM",
+      "normalized": "dom"
+    },
+    {
+      "text": "RESTful Web Services",
+      "normalized": "restful web services"
+    },
+    {
+      "text": "RESTful Web Service",
+      "normalized": "restful web service"
+    },
+    {
+      "text": "Web API Development",
+      "normalized": "web api development"
+    },
+    {
+      "text": "Web API",
+      "normalized": "web api"
+    },
+    {
+      "text": "Consumer Applications",
+      "normalized": "consumer applications"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "xml",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MOTA_MAIN",
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "json",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MOTA_MAIN",
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L06",
+        "SC6222_BS_BAIHOC_L07",
+        "SC6222_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "web apis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MOTA_MAIN",
+        "SC6222_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "software system integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MOTA_MAIN",
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "web api design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "web api construction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "client applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "modern software development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "data representation technologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "xsd",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L02",
+        "SC6222_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "xslt",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L04",
+        "SC6222_BS_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "dom",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_CLO_CLO1",
+        "SC6222_BS_BAIHOC_L06",
+        "SC6222_BS_BAIHOC_L07",
+        "SC6222_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "restful web services",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "restful web service",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "web api development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "web api",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_BAIHOC_L11",
+        "SC6222_BS_BAIHOC_L12",
+        "SC6222_BS_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "consumer applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6222_BS_BAIHOC_L11",
+        "SC6222_BS_BAIHOC_L12",
+        "SC6222_BS_BAIHOC_L13"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.7429549986494272,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7212061499225924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7223442166238283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7223442166238283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7223442166238283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7223442166238283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7223442166238283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.701390243827245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.6972037420513455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.6972037420513455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.6972037420513455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "esco_label": "utilise computer-aided software engineering tools",
+      "confidence": 0.6972037420513455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7599160435342255,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xslt",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "esco_label": "web services",
+      "confidence": 0.7529192146990332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7529050614252857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7520440347988849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7601008277082939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7437314304416425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.7409043371387287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7308654810473354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "esco_label": "mobile device software frameworks",
+      "confidence": 0.7143904534739602,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data representation technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xsd",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xslt",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7202062120404282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xml",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7189651255198445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xsd",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "consumer applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xslt",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.712663275991849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "json",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7067151576060972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web apis",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api design",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dom",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "restful web service",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "esco_label": "proxy servers",
+      "confidence": 0.7049630799096065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "client applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xsd",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web api development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "xslt",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6981387993286458,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 18,
+    "total_has_concept_edges": 18,
+    "total_evidence_for_edges": 158
+  }
+}

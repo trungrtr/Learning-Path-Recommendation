@@ -1,0 +1,2859 @@
+{
+  "course_code": "SC6229",
+  "concept_tags": [
+    {
+      "text": "Enterprise Resource Planning",
+      "normalized": "enterprise resource planning"
+    },
+    {
+      "text": "real-time decision making",
+      "normalized": "real-time decision making"
+    },
+    {
+      "text": "network connectivity",
+      "normalized": "network connectivity"
+    },
+    {
+      "text": "Supply Chain Management",
+      "normalized": "supply chain management"
+    },
+    {
+      "text": "Customer Relationship Management",
+      "normalized": "customer relationship management"
+    },
+    {
+      "text": "business operations management",
+      "normalized": "business operations management"
+    },
+    {
+      "text": "Enterprise Resource Planning systems",
+      "normalized": "enterprise resource planning systems"
+    },
+    {
+      "text": "operating principles",
+      "normalized": "operating principles"
+    },
+    {
+      "text": "management needs analysis",
+      "normalized": "management needs analysis"
+    },
+    {
+      "text": "ERP system functions",
+      "normalized": "erp system functions"
+    },
+    {
+      "text": "ERP system design",
+      "normalized": "erp system design"
+    },
+    {
+      "text": "ERP system deployment",
+      "normalized": "erp system deployment"
+    },
+    {
+      "text": "ERP system operation",
+      "normalized": "erp system operation"
+    },
+    {
+      "text": "e-business management software",
+      "normalized": "e-business management software"
+    },
+    {
+      "text": "enterprise management requirements",
+      "normalized": "enterprise management requirements"
+    },
+    {
+      "text": "enterprise management functions",
+      "normalized": "enterprise management functions"
+    },
+    {
+      "text": "management information systems",
+      "normalized": "management information systems"
+    },
+    {
+      "text": "Electronic Enterprise Management Systems",
+      "normalized": "electronic enterprise management systems"
+    },
+    {
+      "text": "Enterprise Management Models",
+      "normalized": "enterprise management models"
+    },
+    {
+      "text": "ERP System Software",
+      "normalized": "erp system software"
+    },
+    {
+      "text": "Purchasing Management",
+      "normalized": "purchasing management"
+    },
+    {
+      "text": "Sales Management",
+      "normalized": "sales management"
+    },
+    {
+      "text": "E-Commerce Activities",
+      "normalized": "e-commerce activities"
+    },
+    {
+      "text": "ERP System Module Development",
+      "normalized": "erp system module development"
+    },
+    {
+      "text": "ERP System Module Components",
+      "normalized": "erp system module components"
+    },
+    {
+      "text": "ERP System Module Building",
+      "normalized": "erp system module building"
+    },
+    {
+      "text": "ERP System Databases",
+      "normalized": "erp system databases"
+    },
+    {
+      "text": "ERP System Module Creation",
+      "normalized": "erp system module creation"
+    },
+    {
+      "text": "ERP System Module Views",
+      "normalized": "erp system module views"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6229",
+      "concept_tag": "enterprise resource planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "real-time decision making",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "network connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "supply chain management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "customer relationship management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "business operations management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "enterprise resource planning systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "operating principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "management needs analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system operation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "e-business management software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "enterprise management requirements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "enterprise management functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "management information systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "electronic enterprise management systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "enterprise management models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "purchasing management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L04",
+        "SC6229_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "sales management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L05",
+        "SC6229_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "e-commerce activities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L07",
+        "SC6229_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system module development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system module components",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system module building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system databases",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system module creation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L13",
+        "SC6229_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "erp system module views",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6229_BAIHOC_L14",
+        "SC6229_BAIHOC_L15"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.8246100874548379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7666198316552011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7764280593117392,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7571563706878349,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7707475449614258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer relationship management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7553799889795062,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.7546011089427744,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7538298040584576,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7677956783779589,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.7392213873080072,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer relationship management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.736835949933135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "real-time decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "esco_label": "utilise decision support system",
+      "confidence": 0.7508050629879502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.7388045460553391,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7279362508375222,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7256007744483233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.8103570164153439,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business operations management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7771189317214374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business operations management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7684176883018818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business operations management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7633042444229937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.7562460142591946,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7457766791709871,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "esco_label": "Outsourcing model",
+      "confidence": 0.7546097144799374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.754581845223191,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7367040151988691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "esco_label": "hybrid model",
+      "confidence": 0.750741698689804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7449082160885313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise resource planning systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management needs analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7318499500077673,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.7375411068034263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "supply chain management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-business management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "enterprise management functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "management information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "electronic enterprise management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "purchasing management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module components",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module building",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module creation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "erp system module views",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7173081124092898,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 29,
+    "total_has_concept_edges": 29,
+    "total_evidence_for_edges": 356
+  }
+}

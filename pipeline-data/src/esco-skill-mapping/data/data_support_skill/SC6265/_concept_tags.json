@@ -1,0 +1,253 @@
+{
+  "course_code": "SC6265",
+  "concept_tags": [
+    {
+      "text": "computational thinking",
+      "normalized": "computational thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "algorithmic problem solving",
+      "normalized": "algorithmic problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical reasoning",
+      "normalized": "logical reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic debugging",
+      "normalized": "systematic debugging",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "syntax precision",
+      "normalized": "syntax precision",
+      "loai": "cognitive"
+    },
+    {
+      "text": "procedural thinking",
+      "normalized": "procedural thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "structured workflow management",
+      "normalized": "structured workflow management",
+      "loai": "foundational"
+    },
+    {
+      "text": "resilience in troubleshooting",
+      "normalized": "resilience in troubleshooting",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6265",
+      "concept_tag": "computational thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "algorithmic problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "logical reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "systematic debugging",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "syntax precision",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "procedural thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "structured workflow management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6265",
+      "concept_tag": "resilience in troubleshooting",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.801765,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.801765,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.696464,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resilience in troubleshooting",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.696464,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.696464,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.695044,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.695044,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.605287,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.605287,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.596217,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.596217,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_label": "KDevelop",
+      "confidence": 0.590012,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_label": "KDevelop",
+      "confidence": 0.590012,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.577991,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.577991,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.540987,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.540987,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 17
+  }
+}

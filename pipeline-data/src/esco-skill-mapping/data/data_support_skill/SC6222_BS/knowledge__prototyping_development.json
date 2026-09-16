@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "preferred_label": "Prototyping development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6222_BS",
+    "course_title": "Tích hợp hệ thống phần mềm"
+  },
+  "support_context": {
+    "support_concept_origin": "debugging and troubleshooting methodology; interface design principles; interoperability mindset",
+    "evidence_text": "Objectives: Equip students with advanced concepts, methods, techniques, and technologies such as XML, XSD, XSLT, JSON, DOM, and Web APIs in software system integration"
+  },
+  "scoring": {
+    "final_score": 0.714854,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Building Web APIs and client applications to test integration is a form of prototyping that allows developers to validate system interoperability early in the development cycle.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

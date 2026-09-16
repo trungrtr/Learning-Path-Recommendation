@@ -1,0 +1,162 @@
+{
+  "course_code": "IT6202_BS",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "analytical reasoning",
+      "normalized": "analytical reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical evaluation of trade-offs",
+      "normalized": "critical evaluation of trade-offs",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical deduction",
+      "normalized": "logical deduction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technological adaptability",
+      "normalized": "technological adaptability",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource management mindset",
+      "normalized": "resource management mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "performance optimization awareness",
+      "normalized": "performance optimization awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "structured problem solving",
+      "normalized": "structured problem solving",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "analytical reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "critical evaluation of trade-offs",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "logical deduction",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "technological adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "resource management mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "performance optimization awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "structured problem solving",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.755147,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technological adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.755147,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.550911,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technological adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.550911,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 4
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+    "preferred_label": "application usability",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6219",
+    "course_title": "Mobile application development"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to evolving technology stacks; usability evaluation",
+    "evidence_text": "Apply a systems approach to deploy software solutions on the Android platform ensuring user goals, compliance with laws, and professional ethics"
+  },
+  "scoring": {
+    "final_score": 0.673751,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers UI design and event handling, which are core components of ensuring application usability.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,1788 @@
+{
+  "course_code": "IT6203_BS",
+  "concept_tags": [
+    {
+      "text": "Operating System principles",
+      "normalized": "operating system principles"
+    },
+    {
+      "text": "process management",
+      "normalized": "process management"
+    },
+    {
+      "text": "CPU scheduling",
+      "normalized": "cpu scheduling"
+    },
+    {
+      "text": "deadlock handling",
+      "normalized": "deadlock handling"
+    },
+    {
+      "text": "memory management",
+      "normalized": "memory management"
+    },
+    {
+      "text": "peripheral device management",
+      "normalized": "peripheral device management"
+    },
+    {
+      "text": "CPU scheduling algorithms",
+      "normalized": "cpu scheduling algorithms"
+    },
+    {
+      "text": "deadlock issues",
+      "normalized": "deadlock issues"
+    },
+    {
+      "text": "peripheral device mechanisms",
+      "normalized": "peripheral device mechanisms"
+    },
+    {
+      "text": "operating systems overview",
+      "normalized": "operating systems overview"
+    },
+    {
+      "text": "deadlock",
+      "normalized": "deadlock"
+    },
+    {
+      "text": "main memory management",
+      "normalized": "main memory management"
+    },
+    {
+      "text": "secondary storage management",
+      "normalized": "secondary storage management"
+    },
+    {
+      "text": "I/O device management",
+      "normalized": "i/o device management"
+    },
+    {
+      "text": "system protection",
+      "normalized": "system protection"
+    },
+    {
+      "text": "technical literature",
+      "normalized": "technical literature"
+    },
+    {
+      "text": "system protection regulations",
+      "normalized": "system protection regulations"
+    },
+    {
+      "text": "information security",
+      "normalized": "information security"
+    },
+    {
+      "text": "operating systems architecture",
+      "normalized": "operating systems architecture"
+    },
+    {
+      "text": "thread management",
+      "normalized": "thread management"
+    },
+    {
+      "text": "system resource management",
+      "normalized": "system resource management"
+    },
+    {
+      "text": "deadlock prevention",
+      "normalized": "deadlock prevention"
+    },
+    {
+      "text": "secondary memory management",
+      "normalized": "secondary memory management"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "operating system principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "process management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN",
+        "IT6203_BS_BAIHOC_L02",
+        "IT6203_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "cpu scheduling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN",
+        "IT6203_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "deadlock handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "memory management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN",
+        "IT6203_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "peripheral device management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MOTA_MAIN",
+        "IT6203_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "cpu scheduling algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G2",
+        "IT6203_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "deadlock issues",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "peripheral device mechanisms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "operating systems overview",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "deadlock",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "main memory management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L05",
+        "IT6203_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "secondary storage management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "i/o device management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "system protection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "technical literature",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "system protection regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "information security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "operating systems architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "thread management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "system resource management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "deadlock prevention",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "secondary memory management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6203_BS_CLO_L2"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "deadlock prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7312663103600403,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "esco_label": "identify software for warehouse management",
+      "confidence": 0.7342407698902148,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7330649005540153,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "esco_label": "establish an Information Security Management System",
+      "confidence": 0.742165966064474,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "esco_label": "manage schedule of tasks",
+      "confidence": 0.7265050004103446,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "esco_label": "manage schedule of tasks",
+      "confidence": 0.7265050004103446,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "esco_label": "manage schedule of tasks",
+      "confidence": 0.7265050004103446,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "esco_label": "manage schedule of tasks",
+      "confidence": 0.7265050004103446,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "esco_label": "manage schedule of tasks",
+      "confidence": 0.7265050004103446,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.7394723121055631,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical literature",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.714053738595053,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7283051202466317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7283051202466317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7283051202466317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7283051202466317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7283051202466317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7243132007275929,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7141687351193221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7162096978571044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.7029591502318309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical literature",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.6826697418038019,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "esco_label": "manage changes in ICT system",
+      "confidence": 0.67179158166669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cpu scheduling",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.6481742480731337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7495611383182792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7368974402608036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7368974402608036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7368974402608036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7368974402608036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7368974402608036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "esco_label": "mobile device management",
+      "confidence": 0.7364671188093203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7369584205727624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7297134202668937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7297134202668937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7297134202668937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7297134202668937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7297134202668937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating system principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_label": "mobile operating systems",
+      "confidence": 0.7188698119258514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "deadlock handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7252250021015129,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical literature",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7127312354926444,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7119875193865841,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thread management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.6687489438252786,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thread management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "esco_label": "document management",
+      "confidence": 0.662960657398666,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "peripheral device mechanisms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "operating systems overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.6513925701857375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "esco_label": "SAS Data Management",
+      "confidence": 0.6364509431726472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "process management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "esco_label": "Filemaker (database management systems)",
+      "confidence": 0.5429777881956231,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "esco_label": "Filemaker (database management systems)",
+      "confidence": 0.5429777881956231,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "main memory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "esco_label": "Filemaker (database management systems)",
+      "confidence": 0.5429777881956231,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secondary storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "esco_label": "Filemaker (database management systems)",
+      "confidence": 0.5429777881956231,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "esco_label": "Filemaker (database management systems)",
+      "confidence": 0.5429777881956231,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 23,
+    "total_has_concept_edges": 23,
+    "total_evidence_for_edges": 213
+  }
+}

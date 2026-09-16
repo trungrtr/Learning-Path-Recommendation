@@ -1,0 +1,284 @@
+{
+  "course_code": "SC6244",
+  "concept_tags": [
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "computational complexity awareness",
+      "normalized": "computational complexity awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic experimentation",
+      "normalized": "systematic experimentation",
+      "loai": "foundational"
+    },
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "decision-making under uncertainty",
+      "normalized": "decision-making under uncertainty",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of trade-offs",
+      "normalized": "critical evaluation of trade-offs",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "foundational"
+    },
+    {
+      "text": "logical deduction",
+      "normalized": "logical deduction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "quantitative analysis",
+      "normalized": "quantitative analysis",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6244",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "computational complexity awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "systematic experimentation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "decision-making under uncertainty",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "critical evaluation of trade-offs",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "logical deduction",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "quantitative analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6244",
+      "concept_tag": "resource management",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "iterative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.829579,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.829579,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.827436,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.827436,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.827436,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.730581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.730581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "self-directed learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.730581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.710905,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.686819,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.686819,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.670956,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of trade-offs",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.670956,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.669611,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.669611,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.669611,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.635352,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic experimentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.635352,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+      "esco_label": "computer vision",
+      "confidence": 0.622323,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+      "esco_label": "computer vision",
+      "confidence": 0.622323,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 20
+  }
+}

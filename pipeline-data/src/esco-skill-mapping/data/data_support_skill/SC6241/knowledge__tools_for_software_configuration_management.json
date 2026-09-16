@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+    "preferred_label": "tools for software configuration management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6241",
+    "course_title": "Software Testing"
+  },
+  "support_context": {
+    "support_concept_origin": "process orientation; professional collaboration",
+    "evidence_text": "evaluate teamwork effectiveness in complying with quality processes"
+  },
+  "scoring": {
+    "final_score": 0.583023,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers CI/CD and Jenkins, which are deeply integrated with software configuration management and version control workflows.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

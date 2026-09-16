@@ -1,0 +1,239 @@
+{
+  "course_code": "SC6232",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "hardware-software integration",
+      "normalized": "hardware-software integration",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource-constrained optimization",
+      "normalized": "resource-constrained optimization",
+      "loai": "foundational"
+    },
+    {
+      "text": "troubleshooting methodology",
+      "normalized": "troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "iterative design process",
+      "normalized": "iterative design process",
+      "loai": "foundational"
+    },
+    {
+      "text": "cross-disciplinary synthesis",
+      "normalized": "cross-disciplinary synthesis",
+      "loai": "foundational"
+    },
+    {
+      "text": "real-time constraint awareness",
+      "normalized": "real-time constraint awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "computational efficiency",
+      "normalized": "computational efficiency",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "methodological"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "foundational"
+    },
+    {
+      "text": "analytical problem solving",
+      "normalized": "analytical problem solving",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6232",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "hardware-software integration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "resource-constrained optimization",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iterative design process",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "cross-disciplinary synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "real-time constraint awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "computational efficiency",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "analytical problem solving",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "cross-disciplinary synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.705749,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "hardware-software integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.705749,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative design process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.676768,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource-constrained optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.676768,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.676768,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative design process",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.624348,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource-constrained optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.624348,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.624348,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "hardware-software integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.563924,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource-constrained optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.563924,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "hardware-software integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.518979,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative design process",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.518979,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.518979,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource-constrained optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.497103,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.497103,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 15
+  }
+}

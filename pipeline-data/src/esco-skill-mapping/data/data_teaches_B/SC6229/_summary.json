@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6229",
+  "course_title": "Enterprise resource planning software",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 15,
+    "knowledge_count": 14,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "manage standard enterprise resource planning system",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "confidence": 0.8246100874548379,
+      "cross_encoder_score": 0.9956093430519104,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course covers using ERP systems for purchasing, sales, and management, which aligns with managing data related to inventory and resources."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7666198316552011,
+      "cross_encoder_score": 0.9826298952102661,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes modules on the process of developing new modules, basic components, and database design within an ERP system."
+    },
+    {
+      "preferred_label": "implement ICT recovery system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "confidence": 0.7764280593117392,
+      "cross_encoder_score": 0.993623673915863,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no mention of ICT recovery plans, crisis management, or system restoration in the course content."
+    },
+    {
+      "preferred_label": "acquire system component",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "confidence": 0.7571563706878349,
+      "cross_encoder_score": 0.9893466830253601,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on using and developing modules within an existing ERP system rather than the procurement of hardware or software components."
+    },
+    {
+      "preferred_label": "administer ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "confidence": 0.7707475449614258,
+      "cross_encoder_score": 0.9911451935768127,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content does not cover system administration tasks like user management, hardware installation, or performing backups."
+    },
+    {
+      "preferred_label": "use customer relationship management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "confidence": 0.7553799889795062,
+      "cross_encoder_score": 0.9960929751396179,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course description explicitly mentions the role of ERP in supporting CRM (Customer Relationship Management)."
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.7546011089427744,
+      "cross_encoder_score": 0.9849867224693298,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers the design and development of new modules and views within an ERP system, which requires alignment with the existing system architecture."
+    },
+    {
+      "preferred_label": "plan product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "confidence": 0.7538298040584576,
+      "cross_encoder_score": 0.9923208355903625,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course includes practical practice in using ERP systems for purchasing and sales management, which involves managing sales objectives and procedures."
+    },
+    {
+      "preferred_label": "design enterprise architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "confidence": 0.7677956783779589,
+      "cross_encoder_score": 0.9924352765083313,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers enterprise management models and the design/deployment of ERP systems to meet management requirements."
+    },
+    {
+      "preferred_label": "manage changes in ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "confidence": 0.7392213873080072,
+      "cross_encoder_score": 0.9586922526359558,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on building new modules rather than managing version control, upgrades, or reverting to older system versions."
+    },
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.736835949933135,
+      "cross_encoder_score": 0.9724776744842529,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course mentions databases in the ERP system but does not explicitly cover the operation of relational database management systems (RDBMS) like SQL Server or Oracle."
+    },
+    {
+      "preferred_label": "utilise decision support system",
+      "esco_uri": "http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c",
+      "confidence": 0.7508050629879502,
+      "cross_encoder_score": 0.9865362048149109,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course description explicitly states that students will understand the role of ERP in supporting real-time decision making."
+    },
+    {
+      "preferred_label": "manage system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "confidence": 0.7388045460553391,
+      "cross_encoder_score": 0.9777187705039978,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers development and operation of ERP modules, but does not explicitly include formal system testing methodologies or management."
+    },
+    {
+      "preferred_label": "maintain ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "confidence": 0.7279362508375222,
+      "cross_encoder_score": 0.9628483057022095,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on using and developing ERP modules rather than the maintenance, monitoring, or troubleshooting of ICT infrastructure."
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.7256007744483233,
+      "cross_encoder_score": 0.9583218693733215,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes lessons on databases in the ERP system and the process of building/creating modules, which involves managing data structures within the ERP."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.8103570164153439,
+      "cross_encoder_score": 0.9913415312767029,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course is entirely focused on ERP systems, which are explicitly listed as a type of business ICT system in the skill description."
+    },
+    {
+      "preferred_label": "operations management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "confidence": 0.7771189317214374,
+      "cross_encoder_score": 0.9923513531684875,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers managing business operations through ERP, including purchasing, sales, and e-commerce activities."
+    },
+    {
+      "preferred_label": "Process-based management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "confidence": 0.7684176883018818,
+      "cross_encoder_score": 0.9884877800941467,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers ERP, it does not explicitly teach process-based management methodologies for ICT resources."
+    },
+    {
+      "preferred_label": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "confidence": 0.7633042444229937,
+      "cross_encoder_score": 0.9948291182518005,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers purchasing and sales management, but does not explicitly focus on cost management or financial planning."
+    },
+    {
+      "preferred_label": "network management system tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "confidence": 0.7562460142591946,
+      "cross_encoder_score": 0.9888789653778076,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on ERP software application and development, not on network management system tools."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7457766791709871,
+      "cross_encoder_score": 0.9586999416351318,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on ERP application development and module creation, not low-level ICT system programming or network architecture."
+    },
+    {
+      "preferred_label": "Outsourcing model",
+      "esco_uri": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+      "confidence": 0.7546097144799374,
+      "cross_encoder_score": 0.9952985644340515,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers ERP systems and business models but does not explicitly teach outsourcing models or service-oriented modeling principles."
+    },
+    {
+      "preferred_label": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "confidence": 0.754581845223191,
+      "cross_encoder_score": 0.9886443614959717,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content is focused on enterprise management software, not embedded systems or hardware-integrated software."
+    },
+    {
+      "preferred_label": "unified modelling language",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "confidence": 0.7367040151988691,
+      "cross_encoder_score": 0.9612421989440918,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While the course covers module design, there is no mention of UML or specific visual modeling languages."
+    },
+    {
+      "preferred_label": "hybrid model",
+      "esco_uri": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "confidence": 0.750741698689804,
+      "cross_encoder_score": 0.9956037998199463,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course does not cover hybrid models or service-oriented architectural styles."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.7449082160885313,
+      "cross_encoder_score": 0.9839072227478027,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers purchasing, sales, and e-commerce, but does not explicitly teach product data management (PDM) systems."
+    },
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.7318499500077673,
+      "cross_encoder_score": 0.9506580829620361,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly includes a lesson on 'Databases in the ERP System', which involves managing data within the ERP context."
+    },
+    {
+      "preferred_label": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "confidence": 0.7375411068034263,
+      "cross_encoder_score": 0.9758729934692383,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course includes lessons on the process of developing new modules, components, and views, which constitutes system design."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.7173081124092898,
+      "cross_encoder_score": 0.9480689764022827,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers module development but does not teach software configuration management tools like GIT or SVN."
+    }
+  ],
+  "schema_version": "3.0"
+}

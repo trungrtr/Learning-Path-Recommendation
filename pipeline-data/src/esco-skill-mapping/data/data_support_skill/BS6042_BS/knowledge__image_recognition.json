@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+    "preferred_label": "image recognition",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6042_BS",
+    "course_title": "Xác suất thống kê"
+  },
+  "support_context": {
+    "support_concept_origin": "evidence-based decision making; pattern recognition",
+    "evidence_text": "Proficiently solve problems of parameter estimation and statistical hypothesis testing, while applying data collection, processing, and analysis skills for decision-making"
+  },
+  "scoring": {
+    "final_score": 0.570961,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Image recognition often utilizes statistical methods and probability distributions for feature extraction and classification, providing a foundational link.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

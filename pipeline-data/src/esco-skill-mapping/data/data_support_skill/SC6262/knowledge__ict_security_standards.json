@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+    "preferred_label": "ICT security standards",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6262",
+    "course_title": "Advanced PHP Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "quality assurance mindset; risk assessment",
+    "evidence_text": "Take personal responsibility for progress, product quality, and proactively resolve complex technical issues during development"
+  },
+  "scoring": {
+    "final_score": 0.57111,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers essential security methods and principles for web applications, providing a foundation for understanding ICT security standards.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

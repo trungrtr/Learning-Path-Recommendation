@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "preferred_label": "project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6019_BS",
+    "course_title": "Nhập môn nghiên cứu khoa học"
+  },
+  "support_context": {
+    "support_concept_origin": "project planning",
+    "evidence_text": "Proficiently apply the steps in the process to build a research proposal, process and analyze data, write reports, and present scientific research results"
+  },
+  "scoring": {
+    "final_score": 0.73062,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches research processes, proposal development, and project execution, which share core management principles like planning, resource allocation, and meeting deadlines.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

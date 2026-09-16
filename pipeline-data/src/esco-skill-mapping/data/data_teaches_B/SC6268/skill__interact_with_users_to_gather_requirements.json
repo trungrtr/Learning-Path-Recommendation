@@ -1,0 +1,218 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+    "preferred_label": "interact with users to gather requirements",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6268",
+    "course_title": "Bussiness Analysis",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7856881448890219,
+    "cross_encoder_score": 0.9976593255996704,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course includes 'Requirements Elicitation from Stakeholders' and 'Developing Requirement Survey Reports'."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course equips students with basic concepts of business analysis, strategies, analysis phases, and introduces techniques and tools used by a business analyst to develop an information technology project. Upon completion of the course, students can proficiently use software business analysis methods and tools, elicit needs from stakeholders; have the ability to plan analysis; manage requirements, and make evaluations to meet changes in the project.",
+      "meta": {
+        "matched_mention": "requirements management"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Present and explain foundational knowledge of business analysis technology, including: the BACCM core model, the systems development life cycle, and scientific methodologies for classifying and managing software requirements.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "software requirements management"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Apply tools (such as UML, BPMN, requirements management software) and system logic thinking to model processes, specify requirements, and design business solutions for real-world IT projects.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "requirements management software"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Demonstrate basic knowledge of business analysis such as the BACCM framework, needs, requirements, and risks from stakeholders.",
+      "meta": {
+        "pi_so": [
+          "PI1.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "stakeholder requirements"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Ability to plan business analysis and manage requirements by applying knowledge of business analysis processes and methodologies.",
+      "meta": {
+        "pi_so": [
+          "PI1.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "requirements management"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Select appropriate solutions to meet business requirements using modern techniques and tools.",
+      "meta": {
+        "pi_so": [
+          "PI1.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "business requirements"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Business Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Business Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Requirements Elicitation from Stakeholders",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Requirements Elicitation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Practical: Developing Requirement Survey Reports",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "Requirement Survey Reports"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Practical: Developing Requirements Analysis and Specification Documents",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Requirements Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Business Requirements Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Business Requirements Management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Practical: Requirements Management Techniques",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Requirements Management Techniques"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Business Problem and Organizational Current State Analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "Business Problem Analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

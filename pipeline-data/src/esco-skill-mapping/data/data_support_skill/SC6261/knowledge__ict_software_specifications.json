@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+    "preferred_label": "ICT software specifications",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6261",
+    "course_title": "Human - Computer Interaction"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative design; technical documentation",
+    "evidence_text": "Thông qua học phần này, người học thiết kế được giao diện và tương tác giữa người dùng và máy tính"
+  },
+  "scoring": {
+    "final_score": 0.552066,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "HCI design requires understanding how to translate user requirements into functional software specifications, which is a core part of the design process.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

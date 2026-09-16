@@ -1,0 +1,116 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về công nghệ, các vấn đề cơ bản của lập trình Java.",
+      "noi_dung_tom_tat": "Bài học giới thiệu về lịch sử, kiến trúc của nền tảng Java và các khái niệm cơ bản như biên dịch, chạy chương trình. Sinh viên sẽ được làm quen với cú pháp, các kiểu dữ liệu và cấu trúc điều khiển sơ khai trong ngôn ngữ Java.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of technology and fundamental issues of Java programming.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Các kỹ thuật lập trình cơ bản của Java.",
+      "noi_dung_tom_tat": "Sinh viên thực hành xây dựng các chương trình đơn giản áp dụng biến, toán tử và cấu trúc rẽ nhánh, vòng lặp. Qua đó, người học rèn luyện tư duy logic và kỹ năng giải quyết các thuật toán cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Basic Java programming techniques.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình hướng đối tượng trong Java.",
+      "noi_dung_tom_tat": "Bài học cung cấp các kiến thức nền tảng về lập trình hướng đối tượng như lớp, đối tượng, tính đóng gói, kế thừa và đa hình. Đây là tư duy cốt lõi để xây dựng các hệ thống phần mềm Java phức tạp.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Object-Oriented Programming in Java.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình hướng đối tượng.",
+      "noi_dung_tom_tat": "Sinh viên áp dụng các nguyên lý lập trình hướng đối tượng để thiết kế và hiện thực hóa các lớp, xây dựng mối quan hệ giữa các đối tượng trong môi trường thực tế. Bài học tập trung vào việc tổ chức mã nguồn có cấu trúc và khả năng tái sử dụng.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Practice: Object-Oriented Programming.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xử lý măng, chuỗi và lập trình tập hợp.",
+      "noi_dung_tom_tat": "Nội dung bài học hướng dẫn cách làm việc với mảng, xử lý chuỗi ký tự và sử dụng các tập hợp (Collections Framework) để lưu trữ dữ liệu. Học viên sẽ học cách quản lý danh sách và ánh xạ dữ liệu hiệu quả trong Java.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Array, string manipulation, and collections programming.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Xử lý măng, chuỗi và tập hợp.",
+      "noi_dung_tom_tat": "Sinh viên thực hành thao tác trên mảng, chuỗi và các loại cấu trúc tập hợp như List, Set, Map thông qua các bài tập lập trình cụ thể. Mục tiêu là giúp sinh viên lựa chọn cấu trúc dữ liệu phù hợp để tối ưu hóa hiệu suất chương trình.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Practice: Array, string manipulation, and collections.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình I/O và xử lý ngoại lệ.",
+      "noi_dung_tom_tat": "Bài học tập trung vào kỹ thuật đọc ghi file, luồng dữ liệu và cơ chế xử lý ngoại lệ để đảm bảo tính ổn định của ứng dụng. Sinh viên sẽ học cách quản lý lỗi chủ động và tương tác với hệ thống tệp tin.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "I/O programming and exception handling.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình I/O và xử lý ngoại lệ",
+      "noi_dung_tom_tat": "Sinh viên thực hiện lập trình I/O để đọc ghi dữ liệu từ file và áp dụng các khối try-catch-finally để xử lý các tình huống lỗi tiềm ẩn. Kỹ năng này giúp xây dựng các chương trình Java bền bỉ và chuyên nghiệp hơn.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: I/O programming and exception handling.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Cơ sở dữ liệu với JDBC.",
+      "noi_dung_tom_tat": "Giới thiệu cách kết nối và thao tác với cơ sở dữ liệu quan hệ thông qua JDBC API. Sinh viên sẽ tìm hiểu cách thực hiện các truy vấn SQL để lưu trữ, cập nhật và truy xuất dữ liệu từ ứng dụng Java.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Database programming with JDBC.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình làm việc với CSDL",
+      "noi_dung_tom_tat": "Thực hành xây dựng các ứng dụng Java có tương tác thực tế với cơ sở dữ liệu MySQL hoặc SQL Server. Sinh viên sẽ nắm vững quy trình làm việc với Driver, Statement, PreparedStatement và ResultSet.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: Database programming.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình giao diện người sử dụng cơ bản trong Java",
+      "noi_dung_tom_tat": "Bài học giới thiệu về xây dựng giao diện người dùng bằng thư viện Swing hoặc JavaFX. Người học sẽ học cách bố trí các thành phần như nút bấm, ô nhập liệu và xử lý các sự kiện tương tác từ người dùng.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Basic Graphical User Interface programming in Java.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình giao diện người sử dụng",
+      "noi_dung_tom_tat": "Sinh viên thực hành thiết kế và xây dựng một ứng dụng Java hoàn chỉnh có giao diện đồ họa. Mục tiêu là kết hợp kiến thức OOP, xử lý dữ liệu và giao diện để tạo ra phần mềm có trải nghiệm người dùng tốt.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: Graphical User Interface programming.",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "a7ff660b2d75c217a625f335ff4d8d98"
+}

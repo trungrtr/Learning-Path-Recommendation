@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+    "preferred_label": "operations management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "initiative and proactivity; organizational navigation; time management",
+    "evidence_text": "CLO: Determine the role and professional responsibilities of an Information Systems professional and successfully complete assigned tasks when participating in practical activities at an enterprise"
+  },
+  "scoring": {
+    "final_score": 0.644004,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives include understanding business processes and information system operation processes, which are core components of operations management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

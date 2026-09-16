@@ -1,0 +1,245 @@
+{
+  "course_code": "IT6208",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "foundational"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resource allocation",
+      "normalized": "resource allocation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "strategic planning",
+      "normalized": "strategic planning",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6208",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "professional ethics",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "resource allocation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "conflict resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6208",
+      "concept_tag": "strategic planning",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.900865,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.847905,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.847905,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.835074,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.835074,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.786294,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.786294,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.772709,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.762461,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.762461,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.677167,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.677167,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.594359,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 13
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+    "preferred_label": "software metrics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6239",
+    "course_title": "Introduction to Software Engineering"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of methodologies; technical documentation standards",
+    "evidence_text": "software requirement specification documents"
+  },
+  "scoring": {
+    "final_score": 0.669661,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers software quality assurance and the use of tools to control software products, which provides a foundation for understanding software metrics.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

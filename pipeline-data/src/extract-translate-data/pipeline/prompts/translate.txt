@@ -1,0 +1,5 @@
+# Prompt cho M3 — pipeline/m3/translate.py
+# Dịch từng entity và chỉ các field được module chỉ định.
+# Không dịch: mã học phần, entity_id, mã CLO, mã PI, số liệu và JSON keys.
+# Giữ nguyên null và không thêm field hoặc giải thích ngoài JSON kết quả.
+# ten_en đã có từ nguồn phải được giữ nguyên ở bước assemble.

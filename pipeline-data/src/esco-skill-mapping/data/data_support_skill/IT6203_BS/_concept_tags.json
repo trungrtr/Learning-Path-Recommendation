@@ -1,0 +1,183 @@
+{
+  "course_code": "IT6203_BS",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resource management mindset",
+      "normalized": "resource management mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "algorithmic efficiency analysis",
+      "normalized": "algorithmic efficiency analysis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "concurrency awareness",
+      "normalized": "concurrency awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstraction of hardware layers",
+      "normalized": "abstraction of hardware layers",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical evaluation of trade-offs",
+      "normalized": "critical evaluation of trade-offs",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "logical troubleshooting",
+      "normalized": "logical troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "understanding of system-level constraints",
+      "normalized": "understanding of system-level constraints",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional ethics in computing",
+      "normalized": "professional ethics in computing",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "resource management mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "algorithmic efficiency analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "concurrency awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "abstraction of hardware layers",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "critical evaluation of trade-offs",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "logical troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "understanding of system-level constraints",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "professional ethics in computing",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6203_BS",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "abstraction of hardware layers",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.688581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "concurrency awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.688581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics in computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.688581,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics in computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.613316,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "understanding of system-level constraints",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.613316,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of trade-offs",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.541615,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics in computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.541615,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 7
+  }
+}

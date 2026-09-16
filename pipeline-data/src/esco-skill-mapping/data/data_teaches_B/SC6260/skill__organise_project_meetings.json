@@ -1,0 +1,100 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+    "preferred_label": "organise project meetings",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6260",
+    "course_title": "Major Project (Information Technology)",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7296349097231778,
+    "cross_encoder_score": 0.9910402894020081,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course content does not mention organizing meetings or managing meeting logistics."
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Project/Thesis Initialization",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Project Initialization"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Project/Thesis Implementation Planning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Project Implementation Planning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Project/Thesis Deployment and Execution",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Project Deployment; Project Execution"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Synthesis and Reporting of Project/Thesis Results",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "Project Results Synthesis; Project Reporting"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 5,
+      "dense_rank": 5,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

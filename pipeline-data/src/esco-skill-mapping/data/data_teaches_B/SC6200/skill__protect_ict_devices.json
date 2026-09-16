@@ -1,0 +1,212 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+    "preferred_label": "protect ICT devices",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6200",
+    "course_title": "Cryptography and Information Security",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7578145217404371,
+    "cross_encoder_score": 0.983626663684845,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course covers digital signatures, encryption, and protective measures for information systems and computer networks."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides knowledge related to secure cryptography, digital signatures, and digital authentication. After completing the course, students understand data encryption algorithms, electronic signatures, and information authentication; students are capable of executing data encryption and decryption algorithms, and using electronic signatures to authenticate information transmitted and received over the network.",
+      "meta": {
+        "matched_mention": "digital signatures; secure cryptography"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "The course equips students with knowledge of secure encryption, digital signatures, and digital authentication.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "digital signatures; secure encryption"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Trains students in skills for implementing encryption algorithms, data decryption, and electronic signatures.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "encryption algorithms"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Recognize and explain the fundamental principles of cybersecurity, the role of teamwork, and identify professional, legal, and ethical responsibilities in cybersecurity practice.",
+      "meta": {
+        "pi_so": [
+          "PI 3.1",
+          "PI 4.1",
+          "PI 4.2",
+          "PI 4.3",
+          "PI 1.2",
+          "PI 8.1"
+        ],
+        "muc_do": "I, T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "cybersecurity principles"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply cybersecurity knowledge to implement protective measures for information systems, computing systems, and computer networks; participate effectively in teamwork during the analysis, operation, and handling of cybersecurity incidents.",
+      "meta": {
+        "pi_so": [
+          "PI 3.2",
+          "PI 6.3"
+        ],
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "computing systems protection"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Analyze, evaluate, and propose comprehensive cybersecurity solutions for IT systems; coordinate teams, manage and safely operate computing systems/information systems to meet the requirements of users and organizations.",
+      "meta": {
+        "pi_so": [
+          "PI 3.3; PI 6.3",
+          "PI 6.5",
+          "PI 6.2"
+        ],
+        "muc_do": "T, U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "cybersecurity solutions"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Security",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Security Overview"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Mathematical Foundations for Cryptography",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Cryptography Foundations"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Hash Functions and Digital Signatures (KT TX2)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Digital Signatures"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Classical Cryptography",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "Classical Cryptography"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Symmetric-Key Cryptography (KT TX1)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "Symmetric-Key Cryptography"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Public-Key Cryptography",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Public-Key Cryptography"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 12,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

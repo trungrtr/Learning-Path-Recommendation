@@ -1,0 +1,69 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+    "preferred_label": "apply technical communication skills",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6217_BS",
+    "course_title": "Nhập môn về kỹ thuật",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.463338,
+    "cross_encoder_score": 0.639025,
+    "tier": "OPTIONAL",
+    "confidence_level": "LOW",
+    "decision_status": "REVIEW",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "An introductory course for students in Computing and Information Technology, covering fundamental knowledge related to the major and basic computer science. Furthermore, the course focuses on teaching soft skills such as: time management and planning skills; writing, presentation, and technical report delivery skills; teamwork skills, as well as the ability to determine professional responsibilities based on ethics and law. Upon completion of the course, students can explain issues related to the field of study, apply basic computer science knowledge in subsequent courses, and acquire the soft skills necessary for their studies."
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "Information Representation in Computers",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L17",
+      "text": "Documentation and Presentation Skills",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L19",
+      "text": "Teamwork Skills",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 7,
+      "dense_rank": 6,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

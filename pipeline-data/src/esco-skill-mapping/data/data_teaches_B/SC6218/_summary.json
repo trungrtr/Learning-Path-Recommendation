@@ -1,0 +1,296 @@
+{
+  "course_code": "SC6218",
+  "course_title": "Game application development",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 25,
+    "skill_count": 10,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 24,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "develop virtual game engine",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "confidence": 0.8116342851583593,
+      "cross_encoder_score": 0.9677783846855164,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on using existing game engines like Unity rather than creating or developing a new game engine framework."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7738553147749825,
+      "cross_encoder_score": 0.9867442846298218,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes topics on UI development and handling inputs (mouse/keyboard), which are core components of application interface design."
+    },
+    {
+      "preferred_label": "develop software prototype",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "confidence": 0.7512260278332372,
+      "cross_encoder_score": 0.9923619031906128,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly lists 'Prototyping games based on scripts' as a lesson topic."
+    },
+    {
+      "preferred_label": "provide user documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "confidence": 0.7444863154505729,
+      "cross_encoder_score": 0.9858714938163757,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no mention of creating user documentation or manuals for the developed products in the course content."
+    },
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.7279911616471522,
+      "cross_encoder_score": 0.9373304843902588,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers 'Graphics, UI, special effects' and practical handling of UI, which involves designing user interaction components."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7420909605820081,
+      "cross_encoder_score": 0.9817391037940979,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes 'Game Scripting and Design' and requires learners to design a 2D game product."
+    },
+    {
+      "preferred_label": "create prototype of user experience solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "confidence": 0.7330797854973742,
+      "cross_encoder_score": 0.9722918272018433,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "While the course covers prototyping games, it does not explicitly focus on UX-specific research, mock-ups, or user feedback collection methodologies."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.7291386105046015,
+      "cross_encoder_score": 0.9749484062194824,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content focuses on basic scripting and Unity components rather than formal software design patterns."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.7278547109960015,
+      "cross_encoder_score": 0.9653289318084717,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course does not cover low-level device driver development."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.6073197306944315,
+      "cross_encoder_score": 0.783512532711029,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers game input handling, but not the design of complex interaction models like multi-turn conversations or multi-modal service interfaces."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "digital game genres",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "confidence": 0.7969687201971545,
+      "cross_encoder_score": 0.9520032405853271,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers game application development processes and Unity, but does not explicitly mention the classification or study of game genres."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.7620036191650155,
+      "cross_encoder_score": 0.9782081246376038,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly includes 'Prototyping games based on scripts'."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.7549565695853998,
+      "cross_encoder_score": 0.9523904919624329,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course involves using the Unity Game Development Platform, which is an integrated development environment for game applications."
+    },
+    {
+      "preferred_label": "Rapid application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "confidence": 0.7485207432242482,
+      "cross_encoder_score": 0.9799808859825134,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "While the course covers development processes, it does not explicitly teach the Rapid Application Development (RAD) methodology."
+    },
+    {
+      "preferred_label": "incremental development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "confidence": 0.7493831936209804,
+      "cross_encoder_score": 0.9808219075202942,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not explicitly cover the incremental development model."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7420187273543425,
+      "cross_encoder_score": 0.933967649936676,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers UI in the context of game development, but does not explicitly teach formal software UI design patterns."
+    },
+    {
+      "preferred_label": "application usability",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "confidence": 0.7386547462802571,
+      "cross_encoder_score": 0.9883825182914734,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on building and launching games, but does not explicitly cover the formal process of measuring application usability."
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.748731579589384,
+      "cross_encoder_score": 0.9896724224090576,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers input handling and UI, but does not explicitly teach formal software interaction design methodologies."
+    },
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "confidence": 0.7472016157962904,
+      "cross_encoder_score": 0.97992342710495,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not explicitly cover the iterative development model."
+    },
+    {
+      "preferred_label": "content development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "confidence": 0.7383169232846621,
+      "cross_encoder_score": 0.9790945649147034,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers graphics, UI, and special effects development within the context of game application development."
+    },
+    {
+      "preferred_label": "game theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "confidence": 0.7255428922903815,
+      "cross_encoder_score": 0.8711295127868652,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on game application development and Unity programming, not the mathematical study of strategic decision-making models."
+    },
+    {
+      "preferred_label": "unified modelling language",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "confidence": 0.7189833156226924,
+      "cross_encoder_score": 0.9539912343025208,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content does not mention the use of UML for system design or visualization."
+    },
+    {
+      "preferred_label": "Spiral development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "confidence": 0.7324750270522267,
+      "cross_encoder_score": 0.9675447344779968,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course covers game development processes, it does not explicitly teach the Spiral development methodology."
+    },
+    {
+      "preferred_label": "graphics editor software",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "confidence": 0.7190222037111291,
+      "cross_encoder_score": 0.9401882886886597,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers graphics within the context of Unity, but does not teach the use of external graphics editor software like Photoshop or GIMP."
+    },
+    {
+      "preferred_label": "computer simulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "confidence": 0.7057076919083805,
+      "cross_encoder_score": 0.9377836585044861,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on game application development rather than the creation of computer simulations for modeling real-world systems."
+    }
+  ],
+  "schema_version": "3.0"
+}

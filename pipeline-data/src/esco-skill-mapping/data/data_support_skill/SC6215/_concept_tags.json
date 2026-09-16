@@ -1,0 +1,200 @@
+{
+  "course_code": "SC6215",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "collaborative workflow management",
+      "normalized": "collaborative workflow management",
+      "loai": "foundational"
+    },
+    {
+      "text": "security-conscious mindset",
+      "normalized": "security-conscious mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "user-centric design perspective",
+      "normalized": "user-centric design perspective",
+      "loai": "foundational"
+    },
+    {
+      "text": "project lifecycle management",
+      "normalized": "project lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "adaptability to evolving technologies",
+      "normalized": "adaptability to evolving technologies",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to technical standards",
+      "normalized": "attention to technical standards",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resourcefulness in technical research",
+      "normalized": "resourcefulness in technical research",
+      "loai": "methodological"
+    },
+    {
+      "text": "logical flow analysis",
+      "normalized": "logical flow analysis",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6215",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "collaborative workflow management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "security-conscious mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "user-centric design perspective",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "project lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "adaptability to evolving technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "attention to technical standards",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "resourcefulness in technical research",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "logical flow analysis",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.672228,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.672228,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user-centric design perspective",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.672228,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.636487,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user-centric design perspective",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.636487,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.620673,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.620673,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user-centric design perspective",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.620673,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 8
+  }
+}

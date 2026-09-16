@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+    "preferred_label": "Java (computer programming)",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6212",
+    "course_title": "Java Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "computational logic; debugging and troubleshooting methodology",
+    "evidence_text": "Apply Java programming techniques to solve specific problems"
+  },
+  "scoring": {
+    "final_score": 0.681723,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course is specifically designed to teach Java programming, covering syntax, standard libraries, and application development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

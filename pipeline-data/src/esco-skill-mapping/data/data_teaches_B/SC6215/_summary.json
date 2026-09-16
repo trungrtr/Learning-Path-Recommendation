@@ -1,0 +1,307 @@
+{
+  "course_code": "SC6215",
+  "course_title": "Web programming with PHP",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 26,
+    "skill_count": 11,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 22,
+      "SECONDARY": 4,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.7515412923456686,
+      "cross_encoder_score": 0.9444279074668884,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly mentions connecting and processing data with MySQL databases and implementing database operations in PHP."
+    },
+    {
+      "preferred_label": "use query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "confidence": 0.7504443619095167,
+      "cross_encoder_score": 0.9586738348007202,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course includes lessons on using SQL in PHP applications and implementing database operations."
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.740173537982488,
+      "cross_encoder_score": 0.9386975765228271,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "There is no mention of writing documentation for databases in the provided course content."
+    },
+    {
+      "preferred_label": "develop with cloud services",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "confidence": 0.7209033316561066,
+      "cross_encoder_score": 0.9360700845718384,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on server-side web programming with PHP and MySQL; cloud services are not mentioned."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.7032920740218076,
+      "cross_encoder_score": 0.8676241040229797,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course covers building dynamic web applications that process data using PHP and MySQL."
+    },
+    {
+      "preferred_label": "use databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "confidence": 0.7021400284794506,
+      "cross_encoder_score": 0.8869420886039734,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course includes modules on database connectivity, SQL usage, and implementing database operations in PHP applications."
+    },
+    {
+      "preferred_label": "implement data warehousing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "confidence": 0.67327599232452,
+      "cross_encoder_score": 0.8692910075187683,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "Data warehousing techniques are not mentioned in the course content."
+    },
+    {
+      "preferred_label": "design database in the cloud",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "confidence": 0.6643837200482964,
+      "cross_encoder_score": 0.83563232421875,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "Cloud-based database design is not covered in the course content."
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.6490691075076405,
+      "cross_encoder_score": 0.7964836955070496,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers using SQL and PHP to manage database operations and connectivity."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.6503671721241175,
+      "cross_encoder_score": 0.8300653696060181,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course uses databases, it does not explicitly teach the design of database schemas (e.g., normalization, ER modeling)."
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.6325532911516885,
+      "cross_encoder_score": 0.8067398071289062,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers database connectivity and operations, but does not include the low-level physical configuration of database files or indexing specifications."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7817210205747945,
+      "cross_encoder_score": 0.9746313095092773,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly focuses on server-side web programming, building dynamic web applications, and the relationship between PHP, HTML, CSS, and databases."
+    },
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.7673465473010134,
+      "cross_encoder_score": 0.9514887928962708,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content includes modules on database overview, SQL usage, and PHP-MySQL connection techniques, which are core aspects of managing databases."
+    },
+    {
+      "preferred_label": "PHP",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "confidence": 0.7547675241199463,
+      "cross_encoder_score": 0.8881773948669434,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers PHP syntax, structures, functions, and application development, which aligns with the principles of software development in PHP."
+    },
+    {
+      "preferred_label": "MySQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "confidence": 0.7535546975335368,
+      "cross_encoder_score": 0.933059811592102,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course explicitly lists 'PHP - MySQL Connection Techniques' and 'Implementing Database Operations in PHP' as part of the curriculum."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.7497482992615875,
+      "cross_encoder_score": 0.9705842137336731,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no mention of AJAX or specific AJAX frameworks in the provided course content."
+    },
+    {
+      "preferred_label": "Drupal",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "confidence": 0.7509327470498143,
+      "cross_encoder_score": 0.9554219841957092,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on custom PHP programming rather than the use of specific content management systems like Drupal."
+    },
+    {
+      "preferred_label": "Apache Tomcat",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "confidence": 0.7364026601752206,
+      "cross_encoder_score": 0.9540151953697205,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on PHP and MySQL; Apache Tomcat is a Java-based server environment not mentioned in the content."
+    },
+    {
+      "preferred_label": "World Wide Web Consortium standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "confidence": 0.7463969303346742,
+      "cross_encoder_score": 0.968228280544281,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course involves web programming, it does not explicitly teach W3C standards or technical specifications."
+    },
+    {
+      "preferred_label": "Joomla",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "confidence": 0.7377057735262926,
+      "cross_encoder_score": 0.962379515171051,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on custom PHP programming rather than the use of specific content management systems like Joomla."
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7356281646289355,
+      "cross_encoder_score": 0.9556732177734375,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course focuses on connecting to and using MySQL databases, but does not explicitly cover methodologies for creating logical/physical structures, diagrams, or modelling."
+    },
+    {
+      "preferred_label": "NoSQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "confidence": 0.7105122861471131,
+      "cross_encoder_score": 0.909692645072937,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content explicitly mentions MySQL, which is a relational database, and does not mention NoSQL technologies."
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.7168894249350543,
+      "cross_encoder_score": 0.933020293712616,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on PHP and MySQL, not Java EE-based application servers like Oracle WebLogic."
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "confidence": 0.6986432656842567,
+      "cross_encoder_score": 0.9024824500083923,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers the use of MySQL databases in web applications, including database operations and connectivity."
+    },
+    {
+      "preferred_label": "query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "confidence": 0.699922258923187,
+      "cross_encoder_score": 0.8987846374511719,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly includes 'Using SQL in PHP Applications' and 'Practice Using SQL in PHP'."
+    },
+    {
+      "preferred_label": "SPARQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "confidence": 0.691887156840621,
+      "cross_encoder_score": 0.8634902834892273,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course focuses on SQL for MySQL databases and does not mention SPARQL."
+    }
+  ],
+  "schema_version": "3.0"
+}

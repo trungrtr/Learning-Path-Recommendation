@@ -1,0 +1,268 @@
+{
+  "course_code": "IT6204",
+  "course_title": "System Analysis and Design",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 25,
+    "skill_count": 17,
+    "knowledge_count": 8,
+    "tier_distribution": {
+      "PRIMARY": 25
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7548,
+      "cross_encoder_score": 0.9783,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.7536,
+      "cross_encoder_score": 0.985,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.7495,
+      "cross_encoder_score": 0.9768,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7457,
+      "cross_encoder_score": 0.9805,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "integrate system components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "confidence": 0.744,
+      "cross_encoder_score": 0.9883,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "use methodologies for user-centered design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4",
+      "confidence": 0.7429,
+      "cross_encoder_score": 0.9922,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "report analysis results",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "confidence": 0.7393,
+      "cross_encoder_score": 0.9889,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.7327,
+      "cross_encoder_score": 0.9642,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7254,
+      "cross_encoder_score": 0.9773,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "interact with users to gather requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "confidence": 0.7228,
+      "cross_encoder_score": 0.9934,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.7222,
+      "cross_encoder_score": 0.9783,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "manage system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "confidence": 0.7222,
+      "cross_encoder_score": 0.9812,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.7188,
+      "cross_encoder_score": 0.9068,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7171,
+      "cross_encoder_score": 0.9342,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7161,
+      "cross_encoder_score": 0.9437,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.711,
+      "cross_encoder_score": 0.9802,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "deliver visual presentation of data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "confidence": 0.699,
+      "cross_encoder_score": 0.9535,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.765,
+      "cross_encoder_score": 0.9775,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.747,
+      "cross_encoder_score": 0.9913,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "confidence": 0.7419,
+      "cross_encoder_score": 0.987,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7389,
+      "cross_encoder_score": 0.9508,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7216,
+      "cross_encoder_score": 0.964,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "market analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "confidence": 0.7147,
+      "cross_encoder_score": 0.9817,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7082,
+      "cross_encoder_score": 0.9435,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7,
+      "cross_encoder_score": 0.9671,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    }
+  ],
+  "schema_version": "3.0"
+}

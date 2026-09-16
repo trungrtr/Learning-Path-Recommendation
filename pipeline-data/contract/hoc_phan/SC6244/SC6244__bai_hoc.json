@@ -1,0 +1,131 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về TTNT và không gian trạng thái",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về Trí tuệ nhân tạo và lịch sử phát triển của ngành. Người học sẽ làm quen với việc mô hình hóa các bài toán thông qua khái niệm không gian trạng thái.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of AI and State Space",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các phương pháp tìm kiếm",
+      "noi_dung_tom_tat": "Nghiên cứu các thuật toán tìm kiếm mù và tìm kiếm heuristic để giải quyết bài toán trên không gian trạng thái. Tập trung vào việc tối ưu hóa chiến lược tìm kiếm để đạt hiệu quả cao nhất.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Search Methods",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Biểu diễn và xử lý tri thức bằng logic",
+      "noi_dung_tom_tat": "Tìm hiểu cách biểu diễn tri thức thông qua các hệ thống logic vị từ và mệnh đề. Nội dung bao gồm các phương pháp suy diễn để giải quyết vấn đề dựa trên cơ sở tri thức đã cho.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Knowledge Representation and Processing Using Logic",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Học máy cơ bản",
+      "noi_dung_tom_tat": "Cung cấp nền tảng về học máy, phân loại các bài toán học có giám sát và không giám sát. Giới thiệu các khái niệm quan trọng như dữ liệu huấn luyện, kiểm thử và quá trình học.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Introduction to Machine Learning",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Hồi quy tuyến tính, logistic",
+      "noi_dung_tom_tat": "Đi sâu vào thuật toán hồi quy tuyến tính và hồi quy logistic để giải quyết bài toán dự báo và phân loại. Phân tích các hàm mất mát và thuật toán tối ưu hóa đi kèm.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Linear and Logistic Regression",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Học bằng mạng noron một lớp",
+      "noi_dung_tom_tat": "Giới thiệu kiến trúc Perceptron và mạng nơ-ron một lớp đơn giản. Tìm hiểu cơ chế cập nhật trọng số và khả năng giải quyết các bài toán phân loại tuyến tính.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Learning with Single-Layer Neural Networks",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Học bằng mạng",
+      "noi_dung_tom_tat": "Giới thiệu tổng quan về cấu trúc mạng nơ-ron sâu và vai trò của các lớp ẩn. Nội dung bao gồm cách mạng nơ-ron mô phỏng quá trình xử lý thông tin phức tạp.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Learning with Multi-Layer",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "noron nhiều lớp",
+      "noi_dung_tom_tat": "Tập trung vào kiến trúc mạng nơ-ron nhiều lớp (MLP) và thuật toán lan truyền ngược (Backpropagation). Người học sẽ hiểu cách huấn luyện mạng nơ-ron để giải quyết các vấn đề phi tuyến tính.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Neural Networks",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm sử dụng công cụ",
+      "noi_dung_tom_tat": "Hướng dẫn sử dụng các thư viện và công cụ lập trình phổ biến trong AI như Python, Scikit-learn hoặc TensorFlow. Thực hiện cài đặt môi trường và các thao tác cơ bản.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Experiments Using Tools",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm biểu diễn không gian trạng thái",
+      "noi_dung_tom_tat": "Thực hành thiết kế và biểu diễn bài toán thực tế dưới dạng không gian trạng thái. Áp dụng các cấu trúc dữ liệu phù hợp để cài đặt không gian bài toán.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "State Space Representation Experiments",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm bài toán tìm kiếm",
+      "noi_dung_tom_tat": "Triển khai lập trình các thuật toán tìm kiếm phổ biến như DFS, BFS, A* trên ngôn ngữ lập trình. Kiểm thử hiệu quả của thuật toán thông qua các bài toán mẫu.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Search Problem Experiments",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm biểu diễn và xử lý tri thức bằng logic",
+      "noi_dung_tom_tat": "Xây dựng chương trình máy tính có khả năng suy diễn logic dựa trên tập các sự kiện và luật tri thức đã biết. Thực hành trên các bài toán giải đố hoặc suy luận logic.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Knowledge Representation and Logic Processing Experiments",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm học máy cơ bản",
+      "noi_dung_tom_tat": "Thực hành xử lý dữ liệu và xây dựng mô hình học máy cơ bản trên tập dữ liệu thực tế. Đánh giá kết quả của mô hình thông qua các chỉ số đo lường hiệu suất.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Basic Machine Learning Experiments",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm mạng noron",
+      "noi_dung_tom_tat": "Xây dựng và huấn luyện mạng nơ-ron hoàn chỉnh để giải quyết bài toán nhận dạng hoặc dự báo. Thực hành tinh chỉnh siêu tham số để tối ưu hóa mô hình.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Neural Network Experiments",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "326edaded066515f85338c90299c6467"
+}

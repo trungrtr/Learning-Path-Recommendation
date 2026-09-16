@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+    "preferred_label": "business ICT systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6229",
+    "course_title": "Enterprise resource planning software"
+  },
+  "support_context": {
+    "support_concept_origin": "business process mapping; systems thinking",
+    "evidence_text": "Be able to analyze management needs and utilize the basic functions of enterprise resource planning systems"
+  },
+  "scoring": {
+    "final_score": 0.728544,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses directly on ERP systems, which are a fundamental category of business ICT systems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

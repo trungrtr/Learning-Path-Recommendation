@@ -1,0 +1,97 @@
+{
+  "records": [
+    {
+      "ten_bai": "Lập trình giao diện người sử dụng nâng cao",
+      "noi_dung_tom_tat": "Bài học tập trung vào việc sử dụng các thư viện nâng cao như JavaFX hoặc Swing để xây dựng giao diện người dùng chuyên nghiệp. Sinh viên sẽ học cách xử lý sự kiện phức tạp và tùy chỉnh các thành phần giao diện để tối ưu hóa trải nghiệm người dùng.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Advanced Graphical User Interface Programming",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình kết nối với CSDL (JPA/Hibernate/HQL)",
+      "noi_dung_tom_tat": "Nội dung bài học giới thiệu về cách làm việc với cơ sở dữ liệu thông qua JPA và Hibernate để thực hiện ánh xạ đối tượng-quan hệ (ORM). Sinh viên sẽ nắm vững cách viết truy vấn thông qua HQL để thao tác dữ liệu hiệu quả.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Database Connectivity Programming (JPA/Hibernate/HQL)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành lập trình giao diện người sử dụng và kết nối CSDL",
+      "noi_dung_tom_tat": "Đây là bài thực hành tổng hợp giúp sinh viên áp dụng kiến thức về GUI và kết nối CSDL vào một ứng dụng cụ thể. Qua đó, sinh viên rèn luyện kỹ năng kết nối, truy xuất và hiển thị dữ liệu từ hệ quản trị CSDL lên giao diện.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "User Interface Programming and Database Connectivity",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kỹ thuật lập trình đa luồng và Lập trình mạng với Java",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức nền tảng về lập trình đa luồng (Multi-threading) nhằm tối ưu hiệu năng ứng dụng và lập trình mạng (Socket) để xây dựng ứng dụng phân tán. Sinh viên sẽ hiểu cách quản lý tài nguyên và truyền tải dữ liệu giữa các tiến trình.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Multithreading Techniques and Network Programming with Java",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành lập trình đa luồng và lập trình mạng (Kiểm tra TX1)",
+      "noi_dung_tom_tat": "Sinh viên thực hành xây dựng các ứng dụng đa luồng và mạng thực tế, đồng thời thực hiện bài kiểm tra định kỳ (TX1). Mục tiêu là củng cố tư duy xử lý đồng thời và giao tiếp dữ liệu trong môi trường mạng.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Multithreading and Network Programming Practice (Midterm Test 1)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Spring Framework, Spring Core, Các mẫu thiết kế Spring.",
+      "noi_dung_tom_tat": "Bài học tập trung vào Spring Framework, bao gồm cơ chế Dependency Injection (DI) và Inversion of Control (IoC) trong Spring Core. Sinh viên sẽ nghiên cứu các mẫu thiết kế phổ biến được áp dụng trong hệ sinh thái Spring.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Spring Framework, Spring Core, Spring Design Patterns",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành lập trình Spring core và lập trình theo mẫu thiết kế spring.",
+      "noi_dung_tom_tat": "Sinh viên thực hành xây dựng cấu trúc dự án dựa trên Spring Core và áp dụng các Design Patterns vào bài toán thực tế. Bài học nhấn mạnh việc thiết lập môi trường và tổ chức mã nguồn theo tiêu chuẩn của Spring.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Spring Core and Spring Design Pattern Programming Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Spring Boot, Spring Web/WebFlux và kết nối CSDL trong Spring.",
+      "noi_dung_tom_tat": "Nội dung bài học giới thiệu về phát triển ứng dụng Web hiện đại với Spring Boot và các module Spring Web/WebFlux. Sinh viên sẽ học cách kết nối CSDL mạnh mẽ trong môi trường microservices.",
+      "ma_clo": [
+        "L2",
+        "L4"
+      ],
+      "ten_bai_en": "Spring Boot, Spring Web/WebFlux Programming and Database Connectivity in Spring",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành lập trình với Spring boot. (Kiểm tra TX2)",
+      "noi_dung_tom_tat": "Sinh viên thực hiện bài tập thực hành xây dựng dịch vụ web với Spring Boot và tham gia bài kiểm tra (TX2). Đây là cơ hội để đánh giá khả năng vận dụng framework vào dự án thực tế.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Spring Boot Programming Practice (Midterm Test 2)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số framework tiên tiến khác (Quarkus Framework)",
+      "noi_dung_tom_tat": "Bài học giới thiệu về các xu hướng framework hiện đại như Quarkus để tối ưu hóa ứng dụng đám mây (Cloud-native). Sinh viên sẽ khám phá ưu điểm của các framework mới so với các giải pháp truyền thống.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Other Advanced Frameworks (Quarkus Framework)",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "f72bffeea3d69459dec3df7d61b2ea65"
+}

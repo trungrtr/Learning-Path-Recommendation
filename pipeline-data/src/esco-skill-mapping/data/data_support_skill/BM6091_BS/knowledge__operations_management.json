@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+    "preferred_label": "operations management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BM6091_BS",
+    "course_title": "Quản lý dự án"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability; resource optimization; time management",
+    "evidence_text": "Apply technical tools for time, cost, quality management, and resource allocation (such as network diagrams, PERT, GANTT) to practical project planning and management"
+  },
+  "scoring": {
+    "final_score": 0.574415,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Project management and operations management share foundational concepts regarding resource allocation, efficiency, and process management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

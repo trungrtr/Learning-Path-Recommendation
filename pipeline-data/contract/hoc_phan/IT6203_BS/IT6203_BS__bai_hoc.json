@@ -1,0 +1,72 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về Hệ điều hành",
+      "noi_dung_tom_tat": "Bài học này cung cấp cái nhìn tổng quan về định nghĩa, chức năng và vai trò của hệ điều hành trong hệ thống máy tính. Người học sẽ tìm hiểu về các kiến trúc cơ bản và các thành phần chính cấu tạo nên một hệ điều hành hiện đại.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Operating Systems Overview",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý tiến trình",
+      "noi_dung_tom_tat": "Nội dung tập trung vào khái niệm tiến trình, trạng thái của tiến trình và cơ chế giao tiếp giữa các tiến trình. Sinh viên sẽ hiểu cách hệ điều hành tạo lập, kiểm soát và điều phối các tác vụ đang thực thi trong hệ thống.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Process Management",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập lịch cho CPU",
+      "noi_dung_tom_tat": "Bài học giới thiệu các thuật toán lập lịch CPU nhằm tối ưu hóa hiệu năng và thời gian phản hồi của hệ thống. Người học sẽ phân tích ưu nhược điểm của các giải thuật như FCFS, SJF và Round Robin.",
+      "ma_clo": [
+        "L2",
+        "L4"
+      ],
+      "ten_bai_en": "CPU Scheduling",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Hiện tượng bế tắc",
+      "noi_dung_tom_tat": "Nghiên cứu về các điều kiện gây ra hiện tượng bế tắc trong hệ thống đa chương và các phương pháp phòng tránh, ngăn chặn. Nội dung bao gồm cách phát hiện và phục hồi hệ thống khi xảy ra trạng thái chờ đợi lẫn nhau vô hạn.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Deadlock",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý bộ nhớ chính",
+      "noi_dung_tom_tat": "Khám phá các kỹ thuật quản lý bộ nhớ chính như phân trang (paging) và phân đoạn (segmentation). Bài học giúp sinh viên hiểu cách hệ điều hành cấp phát và bảo vệ không gian bộ nhớ cho các ứng dụng đang chạy.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Main Memory Management",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý bộ nhớ ngoài",
+      "noi_dung_tom_tat": "Nội dung tập trung vào cách tổ chức, lưu trữ và truy cập dữ liệu trên các thiết bị lưu trữ ngoại vi như đĩa cứng. Sinh viên sẽ tìm hiểu về các cấu trúc hệ thống tập tin và thuật toán lập lịch cho đĩa.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Secondary Storage Management",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý thiết bị nhập/xuất và bảo vệ hệ thống",
+      "noi_dung_tom_tat": "Bài học trình bày cơ chế điều khiển thiết bị nhập/xuất và các kỹ thuật bảo mật, bảo vệ tài nguyên hệ thống. Người học sẽ nắm vững cách thức quản lý quyền truy cập nhằm đảm bảo an toàn và tính toàn vẹn cho hệ thống máy tính.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "I/O Device Management and System Protection",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "e34985786b683e1332c026c75c5dea17"
+}

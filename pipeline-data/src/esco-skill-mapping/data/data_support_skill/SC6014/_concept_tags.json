@@ -1,0 +1,214 @@
+{
+  "course_code": "SC6014",
+  "concept_tags": [
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "foundational"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical evaluation",
+      "normalized": "critical evaluation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "foundational"
+    },
+    {
+      "text": "presentation literacy",
+      "normalized": "presentation literacy",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "interdisciplinary synthesis",
+      "normalized": "interdisciplinary synthesis",
+      "loai": "foundational"
+    },
+    {
+      "text": "goal setting",
+      "normalized": "goal setting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "accountability",
+      "normalized": "accountability",
+      "loai": "foundational"
+    },
+    {
+      "text": "strategic decision-making",
+      "normalized": "strategic decision-making",
+      "loai": "foundational"
+    },
+    {
+      "text": "active listening",
+      "normalized": "active listening",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem framing",
+      "normalized": "problem framing",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6014",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "conflict resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "critical evaluation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "resource management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "presentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "interdisciplinary synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "goal setting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "strategic decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "active listening",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6014",
+      "concept_tag": "problem framing",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.704476,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.704476,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.704476,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem framing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.704053,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.704053,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.704053,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.594508,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.594508,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "interdisciplinary synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.498786,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem framing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.498786,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 10
+  }
+}

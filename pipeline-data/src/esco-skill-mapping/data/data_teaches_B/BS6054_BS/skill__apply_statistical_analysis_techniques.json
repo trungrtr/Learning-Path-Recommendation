@@ -1,0 +1,131 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+    "preferred_label": "apply statistical analysis techniques",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BS6054_BS",
+    "course_title": "Vật lý đại cương",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7315757641087831,
+    "cross_encoder_score": 0.9898894429206848,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "While the course involves error calculation and data analysis, there is no mention of advanced statistical analysis techniques like data mining or machine learning."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The General Physics course consists of two parts: theory and laboratory. - The theory part provides students with basic knowledge of Physics in the fields of Mechanics (particle mechanics, systems of particles, and rigid body mechanics) and Electromagnetism (electrostatic fields, capacitors, direct current, magnetic fields of direct current, electromagnetic induction phenomena, and electromagnetic fields). + Mechanics equips students with basic knowledge of acceleration, velocity, angular acceleration, angular velocity, angle of rotation, force, torque, and the investigation of basic motion types of rigid bodies and mechanical systems in practice: translational motion, rotational motion; the transformation of work, energy, and momentum of objects and systems of objects during motion. + Electromagnetism equips students with basic knowledge of electric fields, electric field intensity, electric potential, elements in practical electrical circuits: resistors, capacitors, diodes, transistors, power sources, methods of applying Ohm's law and Kirchhoff's rules to investigate direct current circuits; magnetic interactions, magnetic fields, magnetic induction, magnetic field strength; electromagnetic induction phenomena, applications of electromagnetic induction in engineering and daily life; electromagnetic fields, electromagnetic waves, Maxwell's postulates and Maxwell's equations, the electromagnetic spectrum. - The laboratory part helps reinforce knowledge of mechanics and electromagnetism, trains experimental skills, skills in using measuring instruments, analyzing experimental data, and calculating errors. The knowledge and skills that students acquire from the General Physics course will serve as a basis for conveniently absorbing knowledge in technology and engineering foundational courses such as Electrical Engineering, Mechanical Processes and Equipment, Food Physics, Computer Architecture and Operating Systems, etc. In addition, the General Physics course will contribute to forming a scientific worldview and logical thinking for students.",
+      "meta": {
+        "matched_mention": "experimental data analysis"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Develop experimental skills, proficiency in using physical measuring instruments, analysis of experimental data, error calculation, and application of physical laws to solve basic problems in mechanics and electromagnetism.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "experimental data analysis"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G3",
+      "text": "Form a scientific worldview, logical thinking, carefulness, and honesty in the process of collecting and processing experimental data, along with a sense of responsibility in study and research.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "experimental data processing"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Present and apply basic knowledge of Mechanics (material points, systems of material points, rigid bodies) and Electricity and Magnetism (electric fields, electric current, magnetic fields, electromagnetic induction, electromagnetic fields) to explain related technical phenomena and problems.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "electricity and magnetism"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Proficiently perform physics experiments, correctly use measurement instruments, accurately analyze experimental data, calculate errors, and apply physical laws to investigate mechanical and electromagnetic systems.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "experimental data analysis"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "General Physics Laboratory – Investigation of Dynamics Laws on Atwood's Machine. Determination of the Moment of Inertia of a Wheel and Friction Force in Journal Bearings",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "atwood's machine"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Direct Current. Magnetic Field of Direct Current",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "magnetic field"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "General Physics Laboratory – Study of the Magnetic Field of a Long Straight Solenoid. Thematic Presentation",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "magnetic field"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 3,
+      "dense_rank": 9,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

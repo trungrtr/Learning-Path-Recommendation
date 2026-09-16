@@ -1,0 +1,291 @@
+{
+  "course_code": "SC6234",
+  "concept_tags": [
+    {
+      "text": "risk assessment mindset",
+      "normalized": "risk assessment mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "adversarial thinking",
+      "normalized": "adversarial thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "regulatory compliance awareness",
+      "normalized": "regulatory compliance awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "foundational"
+    },
+    {
+      "text": "incident response planning",
+      "normalized": "incident response planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of complex systems",
+      "normalized": "critical evaluation of complex systems",
+      "loai": "foundational"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "strategic planning",
+      "normalized": "strategic planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "continuous monitoring mindset",
+      "normalized": "continuous monitoring mindset",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6234",
+      "concept_tag": "risk assessment mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "adversarial thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "regulatory compliance awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "incident response planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "critical evaluation of complex systems",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "strategic planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "continuous monitoring mindset",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "incident response planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.804819,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.804819,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "continuous monitoring mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.701676,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.701676,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.701676,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adversarial thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.659132,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of complex systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.659132,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "regulatory compliance awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.659132,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of complex systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.650993,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.650993,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.650993,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of complex systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.635666,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.635666,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.635666,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "continuous monitoring mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.608515,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.608515,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.576822,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of complex systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.567056,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "incident response planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.567056,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "incident response planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+      "esco_label": "telecom regulations",
+      "confidence": 0.520952,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "regulatory compliance awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+      "esco_label": "telecom regulations",
+      "confidence": 0.520952,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 21
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+    "preferred_label": "use automatic programming",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6213",
+    "course_title": "Advanced Java Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6793773267654151,
+    "cross_encoder_score": 0.9101759195327759,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on manual programming and framework usage rather than automatic code generation from specifications."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course is part of the specialized knowledge block designed to provide students with in-depth, advanced, and modern knowledge of Java programming. It is offered after students have acquired foundational knowledge in databases, computer networking, and basic Java programming. The advanced curriculum includes: advanced graphical user interface programming (advanced Swing, JavaFX), database connectivity programming (JPA, Hibernate, HQL), multithreading, network programming (sockets), and modern Java programming techniques using frameworks such as Spring, Quarkus, etc. Upon completion of the course, students are expected to apply advanced Java programming techniques to solve practical problems and meet enterprise requirements.",
+      "meta": {
+        "matched_mention": "Java programming; graphical user interface programming"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Solid understanding of modern advanced Java knowledge and its application in real-world projects.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "advanced Java knowledge"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply modern techniques and technologies to design software solutions for specific problems.",
+      "meta": {
+        "pi_so": [
+          "PI5.2"
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software design"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Implement software according to design and meet practical requirements.",
+      "meta": {
+        "pi_so": [
+          "PI5.2 1",
+          "2 ; PI4.1 3",
+          "4",
+          "PI4.2 3",
+          "4",
+          "PI4.3 3",
+          "4 ; PI6.2 4"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software implementation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Advanced Graphical User Interface Programming",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Graphical User Interface Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "User Interface Programming and Database Connectivity",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "User Interface Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Spring Core and Spring Design Pattern Programming Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Spring Design Pattern Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Spring Boot, Spring Web/WebFlux Programming and Database Connectivity in Spring",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L4"
+        ],
+        "matched_mention": "WebFlux Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Spring Boot Programming Practice (Midterm Test 2)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Spring Boot Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Other Advanced Frameworks (Quarkus Framework)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Advanced Frameworks"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 42,
+      "dense_rank": 6,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

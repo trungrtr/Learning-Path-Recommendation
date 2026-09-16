@@ -1,0 +1,248 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+    "preferred_label": "manage software releases",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6220",
+    "course_title": "Open Source Software",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7757035923080418,
+    "cross_encoder_score": 0.987169623374939,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course covers publishing and evaluating open-source software, which includes release requirements."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course provides students with basic knowledge of open-source software, principles of use, open-source publishing, and principles in design, construction, testing, and open-source programming. Upon completion, students can apply these skills to build and release software on open-source platforms that meet user objectives in compliance with laws and professional ethics.",
+      "meta": {
+        "matched_mention": "open-source software; software design"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Explain the principles of open-source resource exploitation; apply modern methods, tools, and techniques to develop open-source software meeting user objectives; publish open-source software in compliance with legal principles and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "open-source software development"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Ability to research documentation, proficiency in planning, and application of acquired knowledge to deploy open-source software development solutions; present and defend the results of assigned tasks.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "open-source software development"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Develop autonomy in solving complex technical problems; build a sense of strict compliance with regulations on intellectual property and professional ethics; readiness to adapt and collaborate in a global software development environment.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "global software development"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Select and apply methods, tools, and techniques to provide open-source software design and construction solutions.",
+      "meta": {
+        "pi_so": [
+          "PI5."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software construction solutions"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Publish and evaluate open-source software that meets the measurement and release requirements of open-source information systems.",
+      "meta": {
+        "pi_so": [
+          "PI5.2",
+          "PI5.1",
+          "PI5.3",
+          "PI6.1",
+          "PI6.2",
+          "PI6.3"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "open-source software"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Open Source Software (OSS)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Open Source Software"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Intellectual Property Rights and Licensing",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3"
+        ],
+        "matched_mention": "Software Licensing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Principles and Development Models of Open Source Software",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Development Models; Open Source Principles"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Open Source Community Engagement and Contribution",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3"
+        ],
+        "matched_mention": "Open Source Contribution"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Evaluation and Selection Process for Open Source Software",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Software Evaluation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Website Development Using Open Source Tools",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "Website Development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Popular Open Source Software Systems",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Open Source Systems"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Application Development with Open Source Software",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Application Development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Open Source Service-Oriented Software Development",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L4"
+        ],
+        "matched_mention": "Service-Oriented Software Development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 8,
+      "dense_rank": 9,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

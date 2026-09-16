@@ -1,0 +1,224 @@
+{
+  "course_code": "SC6260",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resourcefulness",
+      "normalized": "resourcefulness",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "foundational"
+    },
+    {
+      "text": "troubleshooting methodology",
+      "normalized": "troubleshooting methodology",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics",
+      "loai": "cognitive"
+    },
+    {
+      "text": "iterative refinement",
+      "normalized": "iterative refinement",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6260",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "resourcefulness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "professional ethics",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6260",
+      "concept_tag": "iterative refinement",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.758408,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.758408,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.500337,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resourcefulness",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.48562,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.48562,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.47892,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.47892,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.477659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.477659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative refinement",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.332599,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 10
+  }
+}

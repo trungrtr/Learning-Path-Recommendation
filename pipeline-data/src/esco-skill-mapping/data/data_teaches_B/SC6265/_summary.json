@@ -1,0 +1,197 @@
+{
+  "course_code": "SC6265",
+  "course_title": "Basic Python Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 16,
+    "skill_count": 9,
+    "knowledge_count": 7,
+    "tier_distribution": {
+      "PRIMARY": 10,
+      "SECONDARY": 6,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use scripting programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "confidence": 0.7471424920108469,
+      "cross_encoder_score": 0.9676830172538757,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly covers Python programming, which is a scripting language, and focuses on implementing solutions to problems using Python."
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.7329937784742497,
+      "cross_encoder_score": 0.9687744379043579,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content focuses on foundational Python, data structures, and OOP; there is no mention of concurrent or parallel programming."
+    },
+    {
+      "preferred_label": "process data",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "confidence": 0.7034814778193682,
+      "cross_encoder_score": 0.9297041296958923,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course includes specific modules on data file processing and data input/output operations."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.6997843863423021,
+      "cross_encoder_score": 0.9149977564811707,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course teaches learners to solve problems by implementing them in Python, which involves creating code to process input and produce output."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6804850952433192,
+      "cross_encoder_score": 0.8398509621620178,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on imperative and object-oriented programming paradigms, not functional programming."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.6934978708260624,
+      "cross_encoder_score": 0.893155574798584,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "There is no mention of logic programming or languages like Prolog in the course content."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6576723436607007,
+      "cross_encoder_score": 0.8458324670791626,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on manual coding and implementation, not automatic code generation tools."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6552018304054713,
+      "cross_encoder_score": 0.8198292851448059,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly includes modules on Object-Oriented Programming with Python, covering core characteristics and practice."
+    },
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.6357768822198905,
+      "cross_encoder_score": 0.8236543536186218,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers data structures and data file processing, which are fundamental techniques for gathering and processing data."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.7497919619707655,
+      "cross_encoder_score": 0.955585241317749,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course is titled 'Basic Python Programming' and covers foundational Python commands, algorithms, and programming paradigms."
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.7292332038660456,
+      "cross_encoder_score": 0.9494521021842957,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content explicitly includes 'Object-Oriented Programming with Python' as both a core topic and a practice module."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7176272147447185,
+      "cross_encoder_score": 0.9405999183654785,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on foundational Python programming and does not mention web technologies like HTML, JavaScript, or web frameworks."
+    },
+    {
+      "preferred_label": "data warehouse",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "confidence": 0.6786099609975283,
+      "cross_encoder_score": 0.8894873857498169,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers basic data structures and file processing, but does not address data warehousing or large-scale data storage systems."
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.6837856255689264,
+      "cross_encoder_score": 0.9016126990318298,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content is limited to basic programming and file I/O, lacking the scope of large-scale data engineering systems."
+    },
+    {
+      "preferred_label": "Pascal (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "confidence": 0.5869065546226547,
+      "cross_encoder_score": 0.758917510509491,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course is specifically focused on Python programming and does not cover the Pascal programming language."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.5466163775694526,
+      "cross_encoder_score": 0.6674287915229797,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers fundamental programming concepts, algorithms, and coding in Python, which falls under the definition of computer programming."
+    }
+  ],
+  "schema_version": "3.0"
+}

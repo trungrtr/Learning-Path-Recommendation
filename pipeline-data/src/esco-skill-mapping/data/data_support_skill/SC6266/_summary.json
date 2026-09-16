@@ -1,0 +1,48 @@
+{
+  "course_code": "SC6266",
+  "course_title": "Advanced Python Programming",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 0,
+    "knowledge_count": 5
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.7652,
+      "support_concept_origin": "debugging and troubleshooting methodology; system architecture design; user interface design principles",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.649,
+      "support_concept_origin": "system architecture design; user interface design principles",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.6176,
+      "support_concept_origin": "integration of disparate technologies; system architecture design; user interface design principles",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems development life-cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "final_score": 0.5764,
+      "support_concept_origin": "software lifecycle management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "final_score": 0.5734,
+      "support_concept_origin": "integration of disparate technologies; software lifecycle management; user interface design principles",
+      "review_status": "accepted"
+    }
+  ]
+}

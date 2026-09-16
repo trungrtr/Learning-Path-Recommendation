@@ -1,0 +1,274 @@
+{
+  "course_code": "BS6020_BS",
+  "course_title": "Quan hệ lao động và việc làm",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 23,
+    "skill_count": 17,
+    "knowledge_count": 6,
+    "tier_distribution": {
+      "PRIMARY": 22,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "recruit employees",
+      "esco_uri": "http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b",
+      "confidence": 0.8336335236771281,
+      "cross_encoder_score": 0.9790027737617493,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course covers the job interview process from the perspective of a candidate (job seeker), not the recruitment process from the perspective of an employer."
+    },
+    {
+      "preferred_label": "train employees",
+      "esco_uri": "http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+      "confidence": 0.7979177375204256,
+      "cross_encoder_score": 0.9742461442947388,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course content does not mention training employees or developing organizational performance systems."
+    },
+    {
+      "preferred_label": "manage contracts",
+      "esco_uri": "http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7",
+      "confidence": 0.7833652117482722,
+      "cross_encoder_score": 0.9783096313476562,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course explicitly covers labor contracts and collective labor bargaining, which involves negotiating terms and conditions."
+    },
+    {
+      "preferred_label": "analyse business processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "confidence": 0.7811498919027295,
+      "cross_encoder_score": 0.9837920665740967,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course focuses on labor relations and employment rather than analyzing internal business work processes for efficiency."
+    },
+    {
+      "preferred_label": "engage with stakeholders",
+      "esco_uri": "http://data.europa.eu/esco/skill/99c4c69a-025c-464f-adda-874c7f107a31",
+      "confidence": 0.7639695575333028,
+      "cross_encoder_score": 0.9416677355766296,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course covers social dialogue and collective labor bargaining, which are processes for building consensus and agreements between stakeholders in labor relations."
+    },
+    {
+      "preferred_label": "maintain relationship with suppliers",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c",
+      "confidence": 0.7785513921047277,
+      "cross_encoder_score": 0.9753894805908203,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course focuses on labor relations (employer-employee) rather than supply chain or supplier management."
+    },
+    {
+      "preferred_label": "manage staff",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "confidence": 0.7754774605834935,
+      "cross_encoder_score": 0.9925421476364136,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course covers labor relations theory and employment, but does not include the operational management of staff performance or daily supervision."
+    },
+    {
+      "preferred_label": "ensure compliance with company regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+      "confidence": 0.7713251189266968,
+      "cross_encoder_score": 0.9797327518463135,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course focuses on labor law and relations rather than internal company policy compliance."
+    },
+    {
+      "preferred_label": "perform business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "confidence": 0.7614667651956757,
+      "cross_encoder_score": 0.9840835928916931,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course does not cover business analysis or competitive domain research."
+    },
+    {
+      "preferred_label": "build business relationships",
+      "esco_uri": "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+      "confidence": 0.7528420864588063,
+      "cross_encoder_score": 0.9689573645591736,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course focuses on labor relations between employers and employees, not general business relationship management with external third parties."
+    },
+    {
+      "preferred_label": "consult with business clients",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "confidence": 0.7423957157817191,
+      "cross_encoder_score": 0.9686134457588196,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course focuses on labor relations and employment rather than consulting with business clients to introduce ideas or solve business problems."
+    },
+    {
+      "preferred_label": "perform procurement processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74",
+      "confidence": 0.7421824329746396,
+      "cross_encoder_score": 0.965244710445404,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course content does not cover procurement processes, ordering services, or cost comparison for organizational payoff."
+    },
+    {
+      "preferred_label": "integrate gender dimension in research",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d",
+      "confidence": 0.7170663584973934,
+      "cross_encoder_score": 0.899828314781189,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "There is no mention of research methodology or integrating gender dimensions in research within the provided course content."
+    },
+    {
+      "preferred_label": "promote the transfer of knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e",
+      "confidence": 0.7213430602643769,
+      "cross_encoder_score": 0.9351755380630493,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course does not cover technology transfer or knowledge valorization between research and industry."
+    },
+    {
+      "preferred_label": "collaborate with engineers",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "confidence": 0.7172017734412773,
+      "cross_encoder_score": 0.9169170260429382,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 22,
+      "llm_reasoning": "The course content does not involve engineering or technical collaboration."
+    },
+    {
+      "preferred_label": "communicate with stakeholders",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "confidence": 0.7139184811474203,
+      "cross_encoder_score": 0.919637143611908,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers social dialogue and collective bargaining, which involves communicating with stakeholders (employers, employees, and representatives) regarding labor relations."
+    },
+    {
+      "preferred_label": "conduct research across disciplines",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61",
+      "confidence": 0.6048300194220823,
+      "cross_encoder_score": 0.7692159414291382,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course is focused on labor relations theory and practice, not on conducting interdisciplinary research."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "contract law",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+      "confidence": 0.7643431029577638,
+      "cross_encoder_score": 0.958968997001648,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly includes 'Labor Contract' as a lesson topic, covering the legal principles governing the employment relationship."
+    },
+    {
+      "preferred_label": "social network analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "confidence": 0.7536455193324894,
+      "cross_encoder_score": 0.8810736536979675,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course discusses labor relations, it does not teach social network analysis as a research method."
+    },
+    {
+      "preferred_label": "ICT market",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5609f89-0daf-40bb-bd6b-94f5d7498131",
+      "confidence": 0.7626287440921169,
+      "cross_encoder_score": 0.971898078918457,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course content does not cover the ICT market or its specific dynamics."
+    },
+    {
+      "preferred_label": "business requirements techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "confidence": 0.7568024094311717,
+      "cross_encoder_score": 0.9727421402931213,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course focuses on labor relations, employment, and job interview skills, not on identifying or analyzing business and organizational requirements."
+    },
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "confidence": 0.7174721649870344,
+      "cross_encoder_score": 0.9369219541549683,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course content does not cover project management methodologies, resource allocation, or deadline management."
+    },
+    {
+      "preferred_label": "insourcing strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/eff1bb34-b454-4482-8c29-65f820619f3c",
+      "confidence": 0.693159575191864,
+      "cross_encoder_score": 0.8954349160194397,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course covers labor relations and employment, but does not address internal business process planning or insourcing strategies."
+    }
+  ],
+  "schema_version": "3.0"
+}

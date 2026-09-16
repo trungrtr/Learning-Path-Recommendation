@@ -1,0 +1,51 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13",
+    "preferred_label": "perform market research",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.70799,
+    "cross_encoder_score": 0.9977,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "CLO_2",
+      "text": "Giải thích và phân tích được lý thuyết cung – cầu, sự cân bằng thị trường và tác động từ sự can thiệp của chính phủ vào thị trường.",
+      "meta": {
+        "matched_mention": "market equilibrium analysis"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": 7.5603,
+      "dense_score": 0.5197,
+      "rrf_score": 0.032,
+      "retrieval_sources": [
+        "faiss",
+        "bm25"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

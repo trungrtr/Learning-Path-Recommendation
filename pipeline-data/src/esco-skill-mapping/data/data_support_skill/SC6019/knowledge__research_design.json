@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+    "preferred_label": "research design",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6019",
+    "course_title": "Machine Learning"
+  },
+  "support_context": {
+    "support_concept_origin": "experimental design; hypothesis testing",
+    "evidence_text": "On this basis, students can design learning systems and conduct deeper research into specific problems such as diagnosis and forecasting"
+  },
+  "scoring": {
+    "final_score": 0.633582,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives include researching documentation, updating new technologies, and conducting deeper research into specific problems like diagnosis and forecasting.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

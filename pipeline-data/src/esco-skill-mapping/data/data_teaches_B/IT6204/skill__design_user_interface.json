@@ -1,0 +1,190 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+    "preferred_label": "design user interface",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6204",
+    "course_title": "System Analysis and Design",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7856075755149322,
+    "cross_encoder_score": 0.9922771453857422,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course content explicitly lists 'User Interface Design' as a lesson topic."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with knowledge and skills in systems analysis and design, including: techniques for system investigation and requirements elicitation, functional analysis, structural and behavioral systems analysis, class design, data design, and user interface design.",
+      "meta": {
+        "matched_mention": "user interface design"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Explain the role of analysis and design in the software development life cycle;",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "user interface design"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Explain the process of class design, data design, and user interface design;",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "user interface design"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Apply the analysis and design process, use software design tools and the UML language to model a specific software system, and build technical design documentation and software solution designs meeting requirements.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software design tools"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT6",
+      "text": "Develop a sense of responsibility and professional ethics in performing system analysis and design activities.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "system design"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT8",
+      "text": "Take responsibility for one's role in the team, with the ability to coordinate, critique, and provide creative solutions during the software design process.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "software design process"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT9",
+      "text": "Cultivate the capability to conceive ideas, design solutions, build models and documentation",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "design solutions"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Propose system design solutions using UML modeling language and software design tools.",
+      "meta": {
+        "pi_so": [
+          "PI 5."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software design tools"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Software Systems Analysis and Design.",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "software systems design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Object Interaction Analysis Using Sequence Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "object interaction analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Class and Data Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "Class design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "User Interface Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "User interface design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 2,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

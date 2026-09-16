@@ -1,0 +1,168 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+    "preferred_label": "manage project information",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6267",
+    "course_title": "Major Project",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7611048037479,
+    "cross_encoder_score": 0.9958356618881226,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "Managing project information is not explicitly listed as a learning topic."
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Develop skills in information systems design and deployment, collection and processing of practical data, and evaluation of software solutions; practice teamwork, planning, presentation, and specialized project reporting skills.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project reporting"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Design and implement a software solution for an information system based on practical or hypothetical requirements, using appropriate tools, techniques, and processes in the field of Information Systems.",
+      "meta": {
+        "pi_so": [
+          "PI 5."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "information systems"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Evaluate the developed software solution based on technical criteria, performance, and requirement compliance, thereby proposing improvements to enhance the quality and feasibility of the information system.",
+      "meta": {
+        "pi_so": [
+          "PI 5.3"
+        ],
+        "muc_do": "T, U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "information system quality"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Plan and execute self-study and self-research; apply innovative thinking and entrepreneurial mindset in teamwork, design, and presentation of Information Systems specialized projects.",
+      "meta": {
+        "pi_so": [
+          "PI 7.1",
+          "PI 7.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project presentation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Project Initiation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L3"
+        ],
+        "matched_mention": "Project Initiation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Project Planning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2"
+        ],
+        "matched_mention": "Project Planning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Project Execution",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2"
+        ],
+        "matched_mention": "Project Execution"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Project Documentation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2; L3"
+        ],
+        "matched_mention": "Project Documentation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Project Presentation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "Project Presentation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 9,
+      "dense_rank": 3,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

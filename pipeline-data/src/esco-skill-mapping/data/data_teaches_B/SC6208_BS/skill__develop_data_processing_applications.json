@@ -1,0 +1,216 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+    "preferred_label": "develop data processing applications",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6208_BS",
+    "course_title": "Kỹ thuật lập trình",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7133994172995507,
+    "cross_encoder_score": 0.9179784059524536,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly mentions developing programming applications to solve real-world problems and processing data using arrays, strings, and file handling."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The Programming Techniques course provides students with essential foundational knowledge in programming. The course content includes: algorithmic flowchart design, programming languages (basic data types, basic statements, control structures, modular programming), basic data structures, and application programming to solve real-world problems. Through this course, students develop the ability to analyze and solve problems intuitively based on the nature of each problem. Additionally, students learn to apply the acquired knowledge and programming techniques to solve practical problems across various fields, contributing to enhanced logical thinking and programming skills.",
+      "meta": {
+        "matched_mention": "modular programming; application programming"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Phát triển kỹ năng phân tích, thiết kế giải thuật và lập trình ứng dụng để giải quyết các bài toán thực tế; thành thạo kỹ năng sử dụng hàm, mảng, con trỏ và tệp tin trong lập trình.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G3",
+      "text": "Nâng cao tư duy logic, tính cẩn trọng, khả năng tự học và tinh thần trách nhiệm khi giải quyết các vấn đề thực tiễn bằng lập trình.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO1",
+      "text": "Present and apply basic knowledge of flowchart algorithms, data types, control structures, and structured programming (functions) to solve problems.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "algorithm flowchart design"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO2",
+      "text": "Proficiently use data structures such as arrays, strings, pointers, and file operations to program and solve practical problems.",
+      "meta": {
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Programming Fundamentals",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "programming fundamentals"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Programming Techniques with Functions",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Programming Techniques with Arrays",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "String Processing, Pointers, and File Handling Techniques",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "string processing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Practice: Variables / Expressions / Input / Output / Control Structures",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "input output"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Practice: Programming Techniques with Functions",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "programming techniques"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Practice: Array Processing Techniques",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "array processing techniques"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Practice: String Processing, Pointers, and File Handling Techniques",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "string processing"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "course_code": "BS6001_BS",
+  "concept_tags": [
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "mathematical modeling",
+      "normalized": "mathematical modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "deductive reasoning",
+      "normalized": "deductive reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "computational fluency",
+      "normalized": "computational fluency",
+      "loai": "foundational"
+    },
+    {
+      "text": "formal notation literacy",
+      "normalized": "formal notation literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systemic analysis",
+      "normalized": "systemic analysis",
+      "loai": "foundational"
+    },
+    {
+      "text": "precision in communication",
+      "normalized": "precision in communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "multidimensional visualization",
+      "normalized": "multidimensional visualization",
+      "loai": "foundational"
+    },
+    {
+      "text": "rigorous proof-based thinking",
+      "normalized": "rigorous proof-based thinking",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "mathematical modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "deductive reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "computational fluency",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "formal notation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "systemic analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "precision in communication",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "multidimensional visualization",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "rigorous proof-based thinking",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "abstract reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826658,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826658,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826658,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "multidimensional visualization",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.743695,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.743695,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.743166,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational fluency",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.743166,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "precision in communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.743166,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.666807,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational fluency",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.629816,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "rigorous proof-based thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.629816,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "multidimensional visualization",
+      "esco_uri": "http://data.europa.eu/esco/skill/afda6ca0-7aa8-41ef-ba5e-8dc607839daf",
+      "esco_label": "computer graphics",
+      "confidence": 0.625485,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/afda6ca0-7aa8-41ef-ba5e-8dc607839daf",
+      "esco_label": "computer graphics",
+      "confidence": 0.625485,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.587751,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 14
+  }
+}

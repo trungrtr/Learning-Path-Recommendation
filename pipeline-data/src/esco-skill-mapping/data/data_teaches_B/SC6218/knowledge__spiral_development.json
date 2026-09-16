@@ -1,0 +1,168 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+    "preferred_label": "Spiral development",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6218",
+    "course_title": "Game application development",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7324750270522267,
+    "cross_encoder_score": 0.9675447344779968,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "While the course covers game development processes, it does not explicitly teach the Spiral development methodology."
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Equips learners with foundational knowledge of processes for building and developing game applications.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "game application development"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Learners design and complete a 2D game product.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "2D game design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply basic knowledge, techniques, and tools to the development of Game applications.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1",
+          "PI 4.2",
+          "PI 4.3",
+          "PI 6.2"
+        ],
+        "muc_do": "ITU",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "game application development"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of games, game applications, and the game application development process",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "game development process"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Game Engines and the Unity Game Development Platform",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "unity game development platform"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Handling coordinates, cameras, scene hierarchy structures, and Prefabs",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "coordinate systems; scene hierarchy structures"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Graphics, UI, special effects, and other related topics in game development",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "user interface design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Game Scripting and Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "game design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Building and Publishing Games",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L4"
+        ],
+        "matched_mention": "game building"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 9,
+      "dense_rank": 12,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,3382 @@
+{
+  "course_code": "SC6268",
+  "concept_tags": [
+    {
+      "text": "business analysis",
+      "normalized": "business analysis"
+    },
+    {
+      "text": "analysis phases",
+      "normalized": "analysis phases"
+    },
+    {
+      "text": "information technology project",
+      "normalized": "information technology project"
+    },
+    {
+      "text": "software business analysis",
+      "normalized": "software business analysis"
+    },
+    {
+      "text": "requirements management",
+      "normalized": "requirements management"
+    },
+    {
+      "text": "business analysis technology",
+      "normalized": "business analysis technology"
+    },
+    {
+      "text": "BACCM core model",
+      "normalized": "baccm core model"
+    },
+    {
+      "text": "systems development life cycle",
+      "normalized": "systems development life cycle"
+    },
+    {
+      "text": "software requirements management",
+      "normalized": "software requirements management"
+    },
+    {
+      "text": "UML",
+      "normalized": "uml"
+    },
+    {
+      "text": "BPMN",
+      "normalized": "bpmn"
+    },
+    {
+      "text": "requirements management software",
+      "normalized": "requirements management software"
+    },
+    {
+      "text": "system logic thinking",
+      "normalized": "system logic thinking"
+    },
+    {
+      "text": "business solutions design",
+      "normalized": "business solutions design"
+    },
+    {
+      "text": "business documentation",
+      "normalized": "business documentation"
+    },
+    {
+      "text": "BRD",
+      "normalized": "brd"
+    },
+    {
+      "text": "SRS",
+      "normalized": "srs"
+    },
+    {
+      "text": "BACCM framework",
+      "normalized": "baccm framework"
+    },
+    {
+      "text": "stakeholder requirements",
+      "normalized": "stakeholder requirements"
+    },
+    {
+      "text": "stakeholder risks",
+      "normalized": "stakeholder risks"
+    },
+    {
+      "text": "business analysis planning",
+      "normalized": "business analysis planning"
+    },
+    {
+      "text": "analysis methodologies",
+      "normalized": "analysis methodologies"
+    },
+    {
+      "text": "business requirements",
+      "normalized": "business requirements"
+    },
+    {
+      "text": "modern analysis techniques",
+      "normalized": "modern analysis techniques"
+    },
+    {
+      "text": "Software Development Life Cycle",
+      "normalized": "software development life cycle"
+    },
+    {
+      "text": "Requirements Elicitation",
+      "normalized": "requirements elicitation"
+    },
+    {
+      "text": "Stakeholder Management",
+      "normalized": "stakeholder management"
+    },
+    {
+      "text": "Requirement Survey Reports",
+      "normalized": "requirement survey reports"
+    },
+    {
+      "text": "Business Process Analysis",
+      "normalized": "business process analysis"
+    },
+    {
+      "text": "Business Data Analysis",
+      "normalized": "business data analysis"
+    },
+    {
+      "text": "Requirements Analysis",
+      "normalized": "requirements analysis"
+    },
+    {
+      "text": "Specification Documents",
+      "normalized": "specification documents"
+    },
+    {
+      "text": "Business Requirements Management",
+      "normalized": "business requirements management"
+    },
+    {
+      "text": "Requirements Management Techniques",
+      "normalized": "requirements management techniques"
+    },
+    {
+      "text": "Business Prototyping",
+      "normalized": "business prototyping"
+    },
+    {
+      "text": "Prototype Design Documents",
+      "normalized": "prototype design documents"
+    },
+    {
+      "text": "Business Problem Analysis",
+      "normalized": "business problem analysis"
+    },
+    {
+      "text": "Organizational Current State Analysis",
+      "normalized": "organizational current state analysis"
+    },
+    {
+      "text": "Software Development Solution Evaluation",
+      "normalized": "software development solution evaluation"
+    },
+    {
+      "text": "Solution Evaluation Documents",
+      "normalized": "solution evaluation documents"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MOTA_MAIN",
+        "SC6268_CLO_L1",
+        "SC6268_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "analysis phases",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "information technology project",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "software business analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirements management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MOTA_MAIN",
+        "SC6268_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business analysis technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "baccm core model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "systems development life cycle",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "software requirements management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "uml",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "bpmn",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirements management software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "system logic thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business solutions design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "brd",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "srs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "baccm framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "stakeholder requirements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "stakeholder risks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business analysis planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L2",
+        "SC6268_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "analysis methodologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business requirements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "modern analysis techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "software development life cycle",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirements elicitation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "stakeholder management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirement survey reports",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business process analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business data analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "specification documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business requirements management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "requirements management techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business prototyping",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "prototype design documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "business problem analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "organizational current state analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "software development solution evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "solution evaluation documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6268_BAIHOC_L15"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "esco_label": "perform business analysis",
+      "confidence": 0.8346638452202775,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e",
+      "esco_label": "analyse business processes",
+      "confidence": 0.813628672230601,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+      "esco_label": "analyse business requirements",
+      "confidence": 0.8083514039646549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "prototype design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+      "esco_label": "create business process models",
+      "confidence": 0.8059252652751154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34",
+      "esco_label": "analyse business plans",
+      "confidence": 0.7997542612629824,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.7928907578636136,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.7856881448890219,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+      "esco_label": "identify customer requirements",
+      "confidence": 0.781677310542126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "prototype design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0",
+      "esco_label": "design enterprise architecture",
+      "confidence": 0.7826872324066264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bpmn",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+      "esco_label": "manage business knowledge",
+      "confidence": 0.7920195528178811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specification documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "prototype design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "esco_label": "develop documentation in accordance with legal requirements",
+      "confidence": 0.7683811221677258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7723159782267172,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specification documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7655281737636082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "brd",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.776053635198868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.7730483472798229,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "organizational current state analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "esco_label": "conduct impact evaluation of ICT processes on business",
+      "confidence": 0.772460345295307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development life cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specification documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "prototype design documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7607499935742174,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+      "esco_label": "perform product planning",
+      "confidence": 0.7704873664386374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development life cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specification documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "organizational current state analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7511208775232961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7654969260119365,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder risks",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution evaluation documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7621262896157044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements elicitation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirement survey reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+      "esco_label": "business requirements techniques",
+      "confidence": 0.8487540522482732,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.8225841756964052,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "baccm core model",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bpmn",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+      "esco_label": "business process modelling",
+      "confidence": 0.7935321495659726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bpmn",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+      "esco_label": "business intelligence",
+      "confidence": 0.7850124601849465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.7782140043046278,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7873386679460763,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7627689486361653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business requirements management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "organizational current state analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.7708631390116122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business analysis planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analysis methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business process analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "requirements management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+      "esco_label": "audit techniques",
+      "confidence": 0.7646882932458525,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 40,
+    "total_has_concept_edges": 40,
+    "total_evidence_for_edges": 412
+  }
+}

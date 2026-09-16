@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "preferred_label": "data models",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6206",
+    "course_title": "Database"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; data modeling mindset",
+    "evidence_text": "Develop students' capability to proactively analyze data requirements, propose and execute basic database designs"
+  },
+  "scoring": {
+    "final_score": 0.750257,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers relational data models, ER modeling, and schema normalization, which are central to the skill of data modeling.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

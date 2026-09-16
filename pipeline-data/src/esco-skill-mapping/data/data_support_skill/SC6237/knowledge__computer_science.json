@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+    "preferred_label": "computer science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6237",
+    "course_title": "Big data Analysis"
+  },
+  "support_context": {
+    "support_concept_origin": "data-driven storytelling; information synthesis",
+    "evidence_text": "Objectives: explain basic concepts of data, big data, and big data analytics"
+  },
+  "scoring": {
+    "final_score": 0.545524,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers data processing, algorithms, and analysis workflows, which are fundamental topics within the broader field of computer science.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

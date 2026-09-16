@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+    "preferred_label": "telecom regulations",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6240",
+    "course_title": "Computer network"
+  },
+  "support_context": {
+    "support_concept_origin": "infrastructure lifecycle management; regulatory compliance awareness",
+    "evidence_text": "Demonstrate professional responsibility and ethics in deploying, designing, and administering basic network systems in compliance with legal principles"
+  },
+  "scoring": {
+    "final_score": 0.611823,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course includes professional responsibility and compliance with legal principles in network administration, which supports the understanding of telecom regulations.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

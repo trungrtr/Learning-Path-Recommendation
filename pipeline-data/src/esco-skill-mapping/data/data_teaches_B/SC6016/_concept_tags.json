@@ -1,0 +1,1174 @@
+{
+  "course_code": "SC6016",
+  "concept_tags": [
+    {
+      "text": "system analysis",
+      "normalized": "system analysis"
+    },
+    {
+      "text": "database design",
+      "normalized": "database design"
+    },
+    {
+      "text": "programming languages",
+      "normalized": "programming languages"
+    },
+    {
+      "text": "information technology solutions",
+      "normalized": "information technology solutions"
+    },
+    {
+      "text": "information technology",
+      "normalized": "information technology"
+    },
+    {
+      "text": "it solutions",
+      "normalized": "it solutions"
+    },
+    {
+      "text": "task determination",
+      "normalized": "task determination"
+    },
+    {
+      "text": "implementation plan",
+      "normalized": "implementation plan"
+    },
+    {
+      "text": "IT solutions analysis",
+      "normalized": "it solutions analysis"
+    },
+    {
+      "text": "IT solutions design",
+      "normalized": "it solutions design"
+    },
+    {
+      "text": "IT solutions implementation",
+      "normalized": "it solutions implementation"
+    },
+    {
+      "text": "project report synthesis",
+      "normalized": "project report synthesis"
+    },
+    {
+      "text": "major-based project report",
+      "normalized": "major-based project report"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6016",
+      "concept_tag": "system analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "database design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "programming languages",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "information technology solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_MOTA_MAIN",
+        "SC6016_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "information technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "it solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_CLO_L1",
+        "SC6016_CLO_L2",
+        "SC6016_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "task determination",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "implementation plan",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "it solutions analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "it solutions design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "it solutions implementation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "project report synthesis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "major-based project report",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6016_BAIHOC_L05"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7699252571186195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.758632074959269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.758632074959269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.758632074959269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.758632074959269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "esco_label": "propose ICT solutions to business problems",
+      "confidence": 0.758632074959269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7481887531357558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7481887531357558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7481887531357558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7481887531357558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7481887531357558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project report synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7325375995043054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "implementation plan",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7473422351118447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "task determination",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.7354991710856276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7323131061836246,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7323131061836246,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7323131061836246,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7323131061836246,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7323131061836246,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "task determination",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project report synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7302690132092262,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project report synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7279501392284893,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "task determination",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7274321294455024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+      "esco_label": "execute ICT audits",
+      "confidence": 0.726972577058128,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+      "esco_label": "provide ICT consulting advice",
+      "confidence": 0.7260856497146734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+      "esco_label": "provide ICT consulting advice",
+      "confidence": 0.7260856497146734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+      "esco_label": "provide ICT consulting advice",
+      "confidence": 0.7260856497146734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+      "esco_label": "provide ICT consulting advice",
+      "confidence": 0.7260856497146734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+      "esco_label": "provide ICT consulting advice",
+      "confidence": 0.7260856497146734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0dc7aa1b-b5af-4f4b-81ce-ee22ed8b6926",
+      "esco_label": "assess ICT knowledge",
+      "confidence": 0.7105129839841684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7224216148192113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7183574109857127,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7171668957312354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7171668957312354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7171668957312354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7171668957312354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7171668957312354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7171624701283833,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "task determination",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7091459762887781,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100",
+      "esco_label": "perform escalation procedure",
+      "confidence": 0.7013702892133677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100",
+      "esco_label": "perform escalation procedure",
+      "confidence": 0.7013702892133677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100",
+      "esco_label": "perform escalation procedure",
+      "confidence": 0.7013702892133677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100",
+      "esco_label": "perform escalation procedure",
+      "confidence": 0.7013702892133677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7602738227919772,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.7151487146994644,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.703838832038227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "implementation plan",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.703838832038227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.703838832038227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.703838832038227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.703838832038227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7152044355992284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6255950299087284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6255950299087284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6255950299087284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6255950299087284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6255950299087284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "implementation plan",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it solutions implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project report synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.5910131611063745,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 143
+  }
+}

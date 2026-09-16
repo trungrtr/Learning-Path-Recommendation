@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+    "preferred_label": "social network analysis",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6223",
+    "course_title": "Discrete Mathematics"
+  },
+  "support_context": {
+    "support_concept_origin": "pattern recognition; systematic analysis",
+    "evidence_text": "Apply algorithms to a number of practical problems"
+  },
+  "scoring": {
+    "final_score": 0.599134,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Social network analysis is fundamentally based on graph theory, which is a core component of the Discrete Mathematics curriculum.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

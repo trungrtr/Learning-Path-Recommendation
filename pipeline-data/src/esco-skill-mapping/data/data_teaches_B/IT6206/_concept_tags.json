@@ -1,0 +1,702 @@
+{
+  "course_code": "IT6206",
+  "concept_tags": [
+    {
+      "text": "software development",
+      "normalized": "software development"
+    },
+    {
+      "text": "information technology solutions",
+      "normalized": "information technology solutions"
+    },
+    {
+      "text": "security aspects",
+      "normalized": "security aspects"
+    },
+    {
+      "text": "secure software solutions",
+      "normalized": "secure software solutions"
+    },
+    {
+      "text": "secure software systems",
+      "normalized": "secure software systems"
+    },
+    {
+      "text": "system survey",
+      "normalized": "system survey"
+    },
+    {
+      "text": "system design",
+      "normalized": "system design"
+    },
+    {
+      "text": "system deployment",
+      "normalized": "system deployment"
+    },
+    {
+      "text": "product evaluation",
+      "normalized": "product evaluation"
+    },
+    {
+      "text": "thesis defense preparation",
+      "normalized": "thesis defense preparation"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6206",
+      "concept_tag": "software development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "information technology solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_MUCTIEU_G1",
+        "IT6206_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "security aspects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "secure software solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "secure software systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "system survey",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "system design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "system deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "product evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "thesis defense preparation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6206_BAIHOC_L06"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7331918747672099,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7331918747672099,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7331918747672099,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7331918747672099,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7331918747672099,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.73052899863562,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.73052899863562,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.73052899863562,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.73052899863562,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.73052899863562,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7182287385873993,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7185766828054979,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7185766828054979,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7185766828054979,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7185766828054979,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7185766828054979,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7156663126656649,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7156663126656649,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7156663126656649,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "esco_label": "implement ICT recovery system",
+      "confidence": 0.7156663126656649,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7141658589780793,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7141658589780793,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7141658589780793,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "esco_label": "ensure information privacy",
+      "confidence": 0.7141658589780793,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7138709059752579,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7138709059752579,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7138709059752579,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7138709059752579,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7138709059752579,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7128394495244371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7128394495244371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7128394495244371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7128394495244371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7128394495244371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7273793209185064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7273793209185064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7273793209185064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7273793209185064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7273793209185064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7186119255217085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7186119255217085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7186119255217085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7186119255217085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7186119255217085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7131971980679757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7131971980679757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7131971980679757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thesis defense preparation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7131971980679757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7087736020337523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7087736020337523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7087736020337523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7087736020337523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7087736020337523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.718238823256118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.718238823256118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.718238823256118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.718238823256118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.718238823256118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.7137966233264041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.7137966233264041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.7137966233264041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.7137966233264041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.7137966233264041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.713039711244308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.713039711244308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7068277686485941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7068277686485941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7068277686485941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7068277686485941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security aspects",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.6877823714561221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.6877823714561221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.6877823714561221,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6739917573960297,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6739917573960297,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure software solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6739917573960297,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.6739917573960297,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 10,
+    "total_has_concept_edges": 10,
+    "total_evidence_for_edges": 81
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "course_code": "BS6054_BS",
+  "course_title": "Vật lý đại cương",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 18,
+    "skill_count": 8,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 17,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7602294714867042,
+      "cross_encoder_score": 0.9910362958908081,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course explicitly mentions applying Ohm's law, Kirchhoff's rules, and calculating errors to solve theoretical and practical problems."
+    },
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.7404964974613845,
+      "cross_encoder_score": 0.9802694916725159,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content includes 'Data Processing in Physics Experiments' and explicitly mentions analyzing experimental data."
+    },
+    {
+      "preferred_label": "perform data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "confidence": 0.7372753716850169,
+      "cross_encoder_score": 0.993485152721405,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course requires students to analyze experimental data and investigate physical phenomena, which involves testing and evaluating data."
+    },
+    {
+      "preferred_label": "perform scientific research",
+      "esco_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+      "confidence": 0.7280223391851348,
+      "cross_encoder_score": 0.9727961421012878,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course includes laboratory work where students use scientific methods to investigate physical laws and phenomena."
+    },
+    {
+      "preferred_label": "manage data collection systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "confidence": 0.7326581884114131,
+      "cross_encoder_score": 0.9891903400421143,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While students collect data in labs, the course does not focus on developing or managing large-scale data collection systems."
+    },
+    {
+      "preferred_label": "report analysis results",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "confidence": 0.7306152731211324,
+      "cross_encoder_score": 0.98714280128479,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly includes 'Thematic Presentation' as a lesson, which involves reporting analysis results."
+    },
+    {
+      "preferred_label": "collaborate with engineers",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "confidence": 0.7191359822630714,
+      "cross_encoder_score": 0.9684111475944519,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course provides a foundation for engineering but does not include collaborative work with engineers on designs or products."
+    },
+    {
+      "preferred_label": "establish data processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "confidence": 0.6826596336554471,
+      "cross_encoder_score": 0.9012580513954163,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on manual data processing and calculation rather than using ICT tools to establish automated data manipulation processes."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7582739641758381,
+      "cross_encoder_score": 0.9884144067764282,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover the development or construction of large-scale data engineering systems."
+    },
+    {
+      "preferred_label": "state estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "confidence": 0.7531481672910302,
+      "cross_encoder_score": 0.9909054040908813,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "While the course involves physical measurements, it does not cover the specific engineering process of state estimation for energy systems."
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7412431454199889,
+      "cross_encoder_score": 0.9856518507003784,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly includes training in experimental data analysis and error calculation, which are forms of quantitative analysis."
+    },
+    {
+      "preferred_label": "market analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "confidence": 0.7434454795083499,
+      "cross_encoder_score": 0.9807652831077576,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content focuses on physics, mechanics, and electromagnetism, with no mention of market research or analysis."
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7397432305971428,
+      "cross_encoder_score": 0.9890069961547852,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course involves data processing, it does not cover the structural design of data models or database systems."
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "confidence": 0.7395492599126189,
+      "cross_encoder_score": 0.9863891005516052,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not cover machine learning, AI, or big data analytics."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.7371989145328712,
+      "cross_encoder_score": 0.9859718680381775,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course involves using physical laws (like Maxwell's equations and Ohm's law) to represent and solve real-world physical problems, which constitutes mathematical modelling."
+    },
+    {
+      "preferred_label": "computational biology",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "confidence": 0.7116409573697439,
+      "cross_encoder_score": 0.9465864300727844,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is limited to physics and does not include biological systems."
+    },
+    {
+      "preferred_label": "digital curation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3",
+      "confidence": 0.6689920250468568,
+      "cross_encoder_score": 0.889309823513031,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of digital curation or the management of digital research assets."
+    },
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "confidence": 0.5162922918171742,
+      "cross_encoder_score": 0.6545636057853699,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course integrates physics theory with experimental data processing and analysis, which falls under the scope of scientific computing."
+    }
+  ],
+  "schema_version": "3.0"
+}

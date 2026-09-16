@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+    "preferred_label": "ICT project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6262",
+    "course_title": "Advanced PHP Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to new technologies; technical project management",
+    "evidence_text": "Take personal responsibility for progress, product quality, and proactively resolve complex technical issues during development"
+  },
+  "scoring": {
+    "final_score": 0.667534,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves the planning, implementation, and deployment of a complete web application, which supports the foundational aspects of ICT project management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

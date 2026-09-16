@@ -1,0 +1,270 @@
+{
+  "course_code": "SC6265",
+  "course_title": "Basic Python Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 25,
+    "skill_count": 7,
+    "knowledge_count": 18,
+    "tier_distribution": {
+      "PRIMARY": 10,
+      "SECONDARY": 12,
+      "OPTIONAL": 3
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.8092,
+      "cross_encoder_score": 0.9725,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.7834,
+      "cross_encoder_score": 0.9279,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.7694,
+      "cross_encoder_score": 0.946,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.6986,
+      "cross_encoder_score": 0.8872,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6598,
+      "cross_encoder_score": 0.8226,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.6465,
+      "cross_encoder_score": 0.8265,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "establish data processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "confidence": 0.623,
+      "cross_encoder_score": 0.7925,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.8335,
+      "cross_encoder_score": 0.9657,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.7995,
+      "cross_encoder_score": 0.9549,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.7523,
+      "cross_encoder_score": 0.9076,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "Visual Basic",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "confidence": 0.7001,
+      "cross_encoder_score": 0.8572,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "Smalltalk (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "confidence": 0.699,
+      "cross_encoder_score": 0.8746,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "Prolog (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+      "confidence": 0.6981,
+      "cross_encoder_score": 0.8811,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "Pascal (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "confidence": 0.6948,
+      "cross_encoder_score": 0.8957,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "confidence": 0.6902,
+      "cross_encoder_score": 0.8833,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "Assembly (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "confidence": 0.6886,
+      "cross_encoder_score": 0.8631,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.6656,
+      "cross_encoder_score": 0.8526,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "Objective-C",
+      "esco_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "confidence": 0.6596,
+      "cross_encoder_score": 0.8391,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "Ruby (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "confidence": 0.6431,
+      "cross_encoder_score": 0.8008,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "Lisp",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "confidence": 0.6422,
+      "cross_encoder_score": 0.7825,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "C#",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "confidence": 0.642,
+      "cross_encoder_score": 0.792,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.6358,
+      "cross_encoder_score": 0.7707,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "Haskell",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "confidence": 0.6332,
+      "cross_encoder_score": 0.8048,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "APL",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "confidence": 0.6055,
+      "cross_encoder_score": 0.7211,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 11
+    },
+    {
+      "preferred_label": "R",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "confidence": 0.5952,
+      "cross_encoder_score": 0.7203,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 11
+    }
+  ],
+  "schema_version": "3.0"
+}

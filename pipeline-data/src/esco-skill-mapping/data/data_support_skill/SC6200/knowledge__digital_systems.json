@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+    "preferred_label": "digital systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6200",
+    "course_title": "Cryptography and Information Security"
+  },
+  "support_context": {
+    "support_concept_origin": "complex system analysis; systems thinking",
+    "evidence_text": "Analyze, evaluate, and propose comprehensive cybersecurity solutions for IT systems"
+  },
+  "scoring": {
+    "final_score": 0.656871,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course deals with securing information systems and networks, which are core components of digital systems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

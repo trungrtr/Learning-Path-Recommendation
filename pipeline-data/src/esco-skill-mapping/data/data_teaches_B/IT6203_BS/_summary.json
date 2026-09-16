@@ -1,0 +1,340 @@
+{
+  "course_code": "IT6203_BS",
+  "course_title": "Nguyên lý hệ điều hành",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 15,
+    "knowledge_count": 14,
+    "tier_distribution": {
+      "PRIMARY": 28,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "advice on security risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "confidence": 0.7312663103600403,
+      "cross_encoder_score": 0.9931938648223877,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers system protection and information security at a foundational level, but does not provide training on advising organizations on security risk management policies."
+    },
+    {
+      "preferred_label": "identify software for warehouse management",
+      "esco_uri": "http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08",
+      "confidence": 0.7342407698902148,
+      "cross_encoder_score": 0.9855022430419922,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on operating system principles and does not cover warehouse management software."
+    },
+    {
+      "preferred_label": "plan product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "confidence": 0.7330649005540153,
+      "cross_encoder_score": 0.9724618792533875,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers CPU scheduling algorithms, which is a technical computing concept, not product management or sales planning."
+    },
+    {
+      "preferred_label": "establish an Information Security Management System",
+      "esco_uri": "http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8",
+      "confidence": 0.742165966064474,
+      "cross_encoder_score": 0.9933397173881531,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course mentions information security, it does not teach the design or application of an Information Security Management System (ISMS)."
+    },
+    {
+      "preferred_label": "manage schedule of tasks",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+      "confidence": 0.7265050004103446,
+      "cross_encoder_score": 0.9881076216697693,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course explicitly teaches CPU scheduling, which involves managing and prioritizing the execution of tasks (processes) within an operating system."
+    },
+    {
+      "preferred_label": "ensure proper document management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "confidence": 0.7394723121055631,
+      "cross_encoder_score": 0.9884992241859436,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course does not cover document management systems or tracking standards for documents."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.714053738595053,
+      "cross_encoder_score": 0.9528815746307373,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers I/O device management principles, but does not teach the development of device drivers."
+    },
+    {
+      "preferred_label": "process data",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "confidence": 0.7283051202466317,
+      "cross_encoder_score": 0.9840615391731262,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on system resource management rather than general data entry or large-scale data processing tasks."
+    },
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.7243132007275929,
+      "cross_encoder_score": 0.9729059338569641,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not cover relational database management systems."
+    },
+    {
+      "preferred_label": "administer ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "confidence": 0.7141687351193221,
+      "cross_encoder_score": 0.9497025012969971,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers resource management, system protection, and I/O device management, which are core components of administering an ICT system."
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.7162096978571044,
+      "cross_encoder_score": 0.9693911671638489,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on operating system principles like process and memory management, not database design or DBMS usage."
+    },
+    {
+      "preferred_label": "manage ICT data architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "confidence": 0.7029591502318309,
+      "cross_encoder_score": 0.9511448740959167,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers operating system architecture, not the broader information systems architecture or organizational data management."
+    },
+    {
+      "preferred_label": "use ICT hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "confidence": 0.6826697418038019,
+      "cross_encoder_score": 0.9234127402305603,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While the course covers I/O device management, it focuses on the OS-level principles of managing these devices, not the physical operation of hardware peripherals."
+    },
+    {
+      "preferred_label": "manage changes in ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755",
+      "confidence": 0.67179158166669,
+      "cross_encoder_score": 0.9004864692687988,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover the planning, realization, or version control of ICT system upgrades."
+    },
+    {
+      "preferred_label": "maintain ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "confidence": 0.6481742480731337,
+      "cross_encoder_score": 0.8630695343017578,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers system protection and resource management principles, but not the maintenance of ICT systems in a professional or organizational context."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "Process-based management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "confidence": 0.7495611383182792,
+      "cross_encoder_score": 0.9911113381385803,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on OS process management (CPU scheduling, etc.), not the methodology of process-based management for ICT resources."
+    },
+    {
+      "preferred_label": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "confidence": 0.7368974402608036,
+      "cross_encoder_score": 0.9934718608856201,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content does not include financial or cost management topics."
+    },
+    {
+      "preferred_label": "mobile device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "confidence": 0.7364671188093203,
+      "cross_encoder_score": 0.9821537733078003,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not cover mobile device management or organizational mobile security policies."
+    },
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.7369584205727624,
+      "cross_encoder_score": 0.9930500984191895,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not cover project configuration management or the management of project artifacts."
+    },
+    {
+      "preferred_label": "operations management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "confidence": 0.7297134202668937,
+      "cross_encoder_score": 0.9865617156028748,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on technical OS principles, not business operations management."
+    },
+    {
+      "preferred_label": "mobile operating systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "confidence": 0.7188698119258514,
+      "cross_encoder_score": 0.9749583601951599,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers general operating system principles and architecture, but does not specifically address mobile operating systems like Android or iOS."
+    },
+    {
+      "preferred_label": "lean project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "confidence": 0.7252250021015129,
+      "cross_encoder_score": 0.9864971041679382,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on technical operating system concepts such as CPU scheduling and memory management, not project management methodologies."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.7127312354926444,
+      "cross_encoder_score": 0.9483935236930847,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "Product data management is not mentioned in the course content, which is focused on computer system resource management."
+    },
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.7119875193865841,
+      "cross_encoder_score": 0.9531112909317017,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers memory and storage management at the OS level, not database management systems or their specific tools."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.6687489438252786,
+      "cross_encoder_score": 0.8942254185676575,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "Software configuration management tools are not part of the operating system principles curriculum provided."
+    },
+    {
+      "preferred_label": "document management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea1bf5e5-e7f0-4d2c-a415-1c39c00512b1",
+      "confidence": 0.662960657398666,
+      "cross_encoder_score": 0.8857393264770508,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "Document management is not included in the course objectives or lesson topics."
+    },
+    {
+      "preferred_label": "network management system tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "confidence": 0.6513925701857375,
+      "cross_encoder_score": 0.8740808367729187,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers I/O device management, but not network management system tools."
+    },
+    {
+      "preferred_label": "SAS Data Management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47",
+      "confidence": 0.6364509431726472,
+      "cross_encoder_score": 0.8526376485824585,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "SAS Data Management is a specific software tool not covered in this foundational OS course."
+    },
+    {
+      "preferred_label": "Filemaker (database management systems)",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+      "confidence": 0.5429777881956231,
+      "cross_encoder_score": 0.7258153557777405,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "FileMaker is a database management tool and is not part of the operating system principles curriculum."
+    }
+  ],
+  "schema_version": "3.0"
+}

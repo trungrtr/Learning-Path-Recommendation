@@ -1,0 +1,707 @@
+{
+  "course_code": "SC6221",
+  "concept_tags": [
+    {
+      "text": "numerical methods",
+      "normalized": "numerical methods"
+    },
+    {
+      "text": "error analysis",
+      "normalized": "error analysis"
+    },
+    {
+      "text": "algorithm stability",
+      "normalized": "algorithm stability"
+    },
+    {
+      "text": "differential equations",
+      "normalized": "differential equations"
+    },
+    {
+      "text": "numerical results",
+      "normalized": "numerical results"
+    },
+    {
+      "text": "approximate solutions",
+      "normalized": "approximate solutions"
+    },
+    {
+      "text": "programming languages",
+      "normalized": "programming languages"
+    },
+    {
+      "text": "basic algorithms",
+      "normalized": "basic algorithms"
+    },
+    {
+      "text": "approximation methods",
+      "normalized": "approximation methods"
+    },
+    {
+      "text": "numerical approximation techniques",
+      "normalized": "numerical approximation techniques"
+    },
+    {
+      "text": "Polynomials",
+      "normalized": "polynomials"
+    },
+    {
+      "text": "Mathematical Functions",
+      "normalized": "mathematical functions"
+    },
+    {
+      "text": "Approximate Solution of Equations",
+      "normalized": "approximate solution of equations"
+    },
+    {
+      "text": "Matrices",
+      "normalized": "matrices"
+    },
+    {
+      "text": "Systems of Linear Equations",
+      "normalized": "systems of linear equations"
+    },
+    {
+      "text": "Eigenvalues",
+      "normalized": "eigenvalues"
+    },
+    {
+      "text": "Eigenvectors",
+      "normalized": "eigenvectors"
+    },
+    {
+      "text": "Interpolation",
+      "normalized": "interpolation"
+    },
+    {
+      "text": "Least Squares Method",
+      "normalized": "least squares method"
+    },
+    {
+      "text": "Numerical Differentiation",
+      "normalized": "numerical differentiation"
+    },
+    {
+      "text": "Definite Integration",
+      "normalized": "definite integration"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6221",
+      "concept_tag": "numerical methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MOTA_MAIN",
+        "SC6221_MUCTIEU_MT1",
+        "SC6221_MUCTIEU_MT2",
+        "SC6221_MUCTIEU_MT3",
+        "SC6221_CLO_L1",
+        "SC6221_CLO_L3",
+        "SC6221_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "error analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "algorithm stability",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "differential equations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "numerical results",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "approximate solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "programming languages",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_MUCTIEU_MT3",
+        "SC6221_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "basic algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "approximation methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "numerical approximation techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "polynomials",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "mathematical functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "approximate solution of equations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "matrices",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "systems of linear equations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "eigenvalues",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "eigenvectors",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "interpolation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "least squares method",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "numerical differentiation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "definite integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6221_BAIHOC_L07"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximation methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "least squares method",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interpolation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "definite integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6691499447772069,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical results",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical approximation techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interpolation",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical differentiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.5933296097669045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximation methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interpolation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "definite integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6460348791717516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6061888896683314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6061888896683314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6061888896683314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6061888896683314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximate solution of equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6061888896683314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximation methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximate solution of equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interpolation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical differentiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.6008912011696111,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical approximation techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximation methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximate solution of equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "least squares method",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical differentiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_label": "MATLAB",
+      "confidence": 0.5510286207964487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm stability",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximation methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximate solution of equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interpolation",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical differentiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.5146675774163637,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical approximation techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "approximate solution of equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "numerical differentiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_label": "Scala",
+      "confidence": 0.5165276068907257,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 21,
+    "total_has_concept_edges": 21,
+    "total_evidence_for_edges": 62
+  }
+}

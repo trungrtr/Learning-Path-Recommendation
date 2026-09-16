@@ -1,0 +1,211 @@
+{
+  "course_code": "SC6224",
+  "concept_tags": [
+    {
+      "text": "visual communication",
+      "normalized": "visual communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "user experience empathy",
+      "normalized": "user experience empathy",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical sequencing",
+      "normalized": "logical sequencing",
+      "loai": "cognitive"
+    },
+    {
+      "text": "debugging mindset",
+      "normalized": "debugging mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "creative synthesis",
+      "normalized": "creative synthesis",
+      "loai": "foundational"
+    },
+    {
+      "text": "information architecture",
+      "normalized": "information architecture",
+      "loai": "foundational"
+    },
+    {
+      "text": "systematic troubleshooting",
+      "normalized": "systematic troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "adaptability to evolving technologies",
+      "normalized": "adaptability to evolving technologies",
+      "loai": "cognitive"
+    },
+    {
+      "text": "aesthetic judgment",
+      "normalized": "aesthetic judgment",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6224",
+      "concept_tag": "visual communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "user experience empathy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "logical sequencing",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "debugging mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "creative synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "information architecture",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "systematic troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "adaptability to evolving technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6224",
+      "concept_tag": "aesthetic judgment",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "creative synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.791596,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "visual communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.791596,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "creative synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.580659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.580659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "creative synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794",
+      "esco_label": "style sheet languages",
+      "confidence": 0.536937,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "visual communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794",
+      "esco_label": "style sheet languages",
+      "confidence": 0.536937,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.517004,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "visual communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.517004,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.494327,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "creative synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.487287,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.487287,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 11
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+    "preferred_label": "systems development life-cycle",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6016",
+    "course_title": "Foundation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; iterative development mindset; systems thinking",
+    "evidence_text": "Ability to apply foundational knowledge and techniques of the discipline to design IT solutions"
+  },
+  "scoring": {
+    "final_score": 0.637691,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers the analysis, design, and deployment of IT solutions, which maps directly to the stages of the systems development life-cycle.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

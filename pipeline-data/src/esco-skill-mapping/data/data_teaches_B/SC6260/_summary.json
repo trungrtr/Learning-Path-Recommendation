@@ -1,0 +1,351 @@
+{
+  "course_code": "SC6260",
+  "course_title": "Major Project (Information Technology)",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 19,
+    "knowledge_count": 11,
+    "tier_distribution": {
+      "PRIMARY": 30,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "carry out project activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "confidence": 0.7342747755366889,
+      "cross_encoder_score": 0.9947943091392517,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course includes 'Project/Thesis Deployment and Execution' and 'Project/Thesis Implementation Planning', which directly involve carrying out project activities."
+    },
+    {
+      "preferred_label": "manage project information",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "confidence": 0.7345529237761872,
+      "cross_encoder_score": 0.9954545497894287,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content does not explicitly mention managing or communicating project information to stakeholders."
+    },
+    {
+      "preferred_label": "draft project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "confidence": 0.7271930363794669,
+      "cross_encoder_score": 0.9847951531410217,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course includes 'Synthesis and Reporting of Project/Thesis Results', which implies drafting project documentation."
+    },
+    {
+      "preferred_label": "execute software tests",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "confidence": 0.7318499860208838,
+      "cross_encoder_score": 0.988590657711029,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly lists 'Evaluating the implemented software' and 'Product Evaluation' as key components."
+    },
+    {
+      "preferred_label": "develop reporting software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "confidence": 0.7210927997998765,
+      "cross_encoder_score": 0.9843712449073792,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on general software solutions for practical problems, not specifically on developing reporting software."
+    },
+    {
+      "preferred_label": "perform resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "confidence": 0.7229448162488084,
+      "cross_encoder_score": 0.9881616234779358,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "While planning is mentioned, there is no explicit mention of estimating human or financial resources."
+    },
+    {
+      "preferred_label": "analyse software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "confidence": 0.7222147983418844,
+      "cross_encoder_score": 0.9858242273330688,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Designing software solutions for real-world problems', which requires analyzing requirements and specifications."
+    },
+    {
+      "preferred_label": "manage project changes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "confidence": 0.7313883033695942,
+      "cross_encoder_score": 0.9951808452606201,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content does not mention managing project changes or stakeholder communication regarding changes."
+    },
+    {
+      "preferred_label": "create project specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "confidence": 0.715982235344639,
+      "cross_encoder_score": 0.961746871471405,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Project/Thesis Initialization' and 'Project/Thesis Implementation Planning', which cover defining project goals and implementation scenarios."
+    },
+    {
+      "preferred_label": "organise project meetings",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "confidence": 0.7296349097231778,
+      "cross_encoder_score": 0.9910402894020081,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content does not mention organizing meetings or managing meeting logistics."
+    },
+    {
+      "preferred_label": "perform risk analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "confidence": 0.728205355650061,
+      "cross_encoder_score": 0.9929043650627136,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course content does not explicitly mention risk analysis or the identification of factors jeopardizing project success."
+    },
+    {
+      "preferred_label": "perform project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "confidence": 0.7265455460783553,
+      "cross_encoder_score": 0.9944367408752441,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course includes 'Project/Thesis Implementation Planning' and 'Project/Thesis Deployment and Execution', which involve managing project progress."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.7109578859589281,
+      "cross_encoder_score": 0.9647737145423889,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course includes 'Synthesis and Reporting of Project/Thesis Results' and 'Product Evaluation', which implies documenting outcomes."
+    },
+    {
+      "preferred_label": "maintain a central project repository",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "confidence": 0.724763599162487,
+      "cross_encoder_score": 0.9922887682914734,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "There is no explicit mention of maintaining a central project repository or version control systems."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7196440672133387,
+      "cross_encoder_score": 0.969235360622406,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course explicitly lists 'Designing software solutions for real-world problems' as a CLO."
+    },
+    {
+      "preferred_label": "measure software usability",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "confidence": 0.7189169199877148,
+      "cross_encoder_score": 0.9852659106254578,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Evaluating the implemented software' and 'Product Evaluation', which covers assessing the product."
+    },
+    {
+      "preferred_label": "oversee development of software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "confidence": 0.7170844868808761,
+      "cross_encoder_score": 0.974037766456604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers the full lifecycle from 'Project/Thesis Initialization' to 'Product Evaluation'."
+    },
+    {
+      "preferred_label": "utilise computer-aided software engineering tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "confidence": 0.6794434658588635,
+      "cross_encoder_score": 0.913921058177948,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly mentions the use of 'supporting tools to design, deploy, and test the system'."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.694403438792148,
+      "cross_encoder_score": 0.945889949798584,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course content does not explicitly mention the study or application of software design patterns."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7308189124036746,
+      "cross_encoder_score": 0.9802179336547852,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content does not explicitly mention specific software design methodologies like Scrum or Waterfall."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.7234256400742952,
+      "cross_encoder_score": 0.9785810112953186,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly includes 'Project/Thesis Deployment and Execution' and the objective to 'deploy' the system."
+    },
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.7296029733892697,
+      "cross_encoder_score": 0.9926226139068604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content mentions project planning and implementation but does not explicitly cover configuration management processes like version control, baselines, or CI tracking."
+    },
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "confidence": 0.7279015087865437,
+      "cross_encoder_score": 0.9887363314628601,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Project/Thesis Implementation Planning' and 'Project/Thesis Deployment and Execution', which are core project management activities."
+    },
+    {
+      "preferred_label": "lean project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "confidence": 0.7232934404369048,
+      "cross_encoder_score": 0.9889188408851624,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content does not mention lean methodologies or specific lean project management approaches."
+    },
+    {
+      "preferred_label": "ICT project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "confidence": 0.7231963794771779,
+      "cross_encoder_score": 0.9906179308891296,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course covers the lifecycle of an ICT project, including planning, implementation, and reporting, which aligns with ICT project management."
+    },
+    {
+      "preferred_label": "ICT project management methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "confidence": 0.7229490752200515,
+      "cross_encoder_score": 0.9911962747573853,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "While the course covers project management, it does not explicitly mention teaching specific methodologies like Waterfall, Scrum, or Agile."
+    },
+    {
+      "preferred_label": "software metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "confidence": 0.7203606867409585,
+      "cross_encoder_score": 0.985442042350769,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'Product Evaluation' and 'Evaluating the implemented software', which involves measuring software characteristics."
+    },
+    {
+      "preferred_label": "Agile project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "confidence": 0.7194021071975363,
+      "cross_encoder_score": 0.9868791699409485,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content does not explicitly mention Agile methodology."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.6933439870000302,
+      "cross_encoder_score": 0.9492920637130737,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course mentions using supporting tools generally, but does not explicitly teach software configuration management tools."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.6792527917622913,
+      "cross_encoder_score": 0.9258148074150085,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course mentions using supporting tools to design and implement, but does not explicitly teach the use of IDEs."
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "preferred_label": "ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6021_BS",
+    "course_title": "Con người và môi trường"
+  },
+  "support_context": {
+    "support_concept_origin": "complex problem solving; ethical reasoning; resource management mindset",
+    "evidence_text": "Enhances awareness and demonstrates personal responsibility in environmental protection and resource conservation in present and future life"
+  },
+  "scoring": {
+    "final_score": 0.807695,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course emphasizes personal responsibility and ethical commitment toward environmental protection, which serves as a practical application of moral reasoning and ethics.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

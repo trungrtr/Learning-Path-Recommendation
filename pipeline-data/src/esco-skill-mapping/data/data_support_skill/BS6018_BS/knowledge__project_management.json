@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "preferred_label": "project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6018_BS",
+    "course_title": "Giao tiếp trong môi trường làm việc"
+  },
+  "support_context": {
+    "support_concept_origin": "critical social awareness; interpersonal sensitivity",
+    "evidence_text": "Form a proactive and open attitude"
+  },
+  "scoring": {
+    "final_score": 0.525802,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Project management relies heavily on communication, conflict resolution, and reporting, all of which are core objectives of this course.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

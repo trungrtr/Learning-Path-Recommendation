@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+    "preferred_label": "software frameworks",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6220",
+    "course_title": "Open Source Software"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to new environments; project management; version control mindset",
+    "evidence_text": "readiness to adapt and collaborate in a global software development environment"
+  },
+  "scoring": {
+    "final_score": 0.82875,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves building and constructing software, which inherently requires the use of software frameworks and development tools.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

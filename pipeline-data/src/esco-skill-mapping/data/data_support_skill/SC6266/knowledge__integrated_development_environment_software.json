@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+    "preferred_label": "integrated development environment software",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6266",
+    "course_title": "Advanced Python Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "integration of disparate technologies; software lifecycle management; user interface design principles",
+    "evidence_text": "Apply the software development process to solve practical problems using Python"
+  },
+  "scoring": {
+    "final_score": 0.573441,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Advanced programming tasks inherently require the use of IDEs for coding, debugging, and managing complex software projects.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+    "preferred_label": "software architecture models",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6206",
+    "course_title": "Database"
+  },
+  "support_context": {
+    "support_concept_origin": "data modeling mindset; information architecture",
+    "evidence_text": "Develop students' capability to proactively analyze data requirements, propose and execute basic database designs"
+  },
+  "scoring": {
+    "final_score": 0.84228,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Database design and schema normalization are foundational components of software architecture, as they define how data structures interact within a system.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

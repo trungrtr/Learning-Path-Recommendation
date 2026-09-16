@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "preferred_label": "game theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6020_BS",
+    "course_title": "Quan hệ lao động và việc làm"
+  },
+  "support_context": {
+    "support_concept_origin": "analytical reasoning; professional ethics; social awareness",
+    "evidence_text": "It helps students proactively engage in the professional world after graduation"
+  },
+  "scoring": {
+    "final_score": 0.591098,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Collective bargaining and social dialogue are essentially strategic interactions between stakeholders where game theory principles regarding negotiation and equilibrium are applicable.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,218 @@
+{
+  "course_code": "SC6240",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "regulatory compliance awareness",
+      "normalized": "regulatory compliance awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "troubleshooting methodology",
+      "normalized": "troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "spatial reasoning",
+      "normalized": "spatial reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project planning",
+      "normalized": "project planning",
+      "loai": "methodological"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "infrastructure lifecycle management",
+      "normalized": "infrastructure lifecycle management",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6240",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "regulatory compliance awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "spatial reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "project planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "infrastructure lifecycle management",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "infrastructure lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.806562,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "regulatory compliance awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.806562,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.806562,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "infrastructure lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.721663,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.721663,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.67462,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.67462,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "infrastructure lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.647394,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.647394,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "infrastructure lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+      "esco_label": "telecom regulations",
+      "confidence": 0.611823,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "regulatory compliance awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+      "esco_label": "telecom regulations",
+      "confidence": 0.611823,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "infrastructure lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.578295,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 12
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+    "preferred_label": "iterative development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6019",
+    "course_title": "Machine Learning"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to evolving technologies; iterative problem solving",
+    "evidence_text": "Apply machine learning theory in creating computer-based solutions"
+  },
+  "scoring": {
+    "final_score": 0.805811,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves designing learning systems and evaluating solutions, which inherently requires iterative cycles of testing, refining, and improving models.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

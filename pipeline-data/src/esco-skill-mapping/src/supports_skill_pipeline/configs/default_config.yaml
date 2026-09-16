@@ -1,0 +1,48 @@
+# ============================================================
+# supports-skill pipeline M5 — Default Configuration
+# ============================================================
+
+# Đường dẫn đầu vào (4 file JSON / học phần)
+contract_dir: "../../contract"
+
+# --- Bước 2: LLM Concept Extraction ---
+llm:
+  model: "gemini-3.1-flash-lite"
+  temperature: 0.0
+  max_concepts: 15
+  prompt_template_path: "prompts/support_concept_extraction.txt"
+
+# --- Bước 3: Retrieval ---
+retrieval:
+  embedding_model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  faiss_index_path: "data/esco_filtered/v1/faiss/esco_full.index"
+  faiss_metadata_path: "data/esco_filtered/v1/faiss/esco_metadata.json"
+  bm25_index_path: "data/esco_filtered/v1/bm25/bm25_corpus.pkl"
+  escoxlmr_model: "jjzha/escoxlmr_skill_extraction"
+  top_k_per_channel: 50
+
+# --- Bước 4: RRF Fusion ---
+fusion:
+  rrf_k: 60
+  top_n: 30
+
+# --- Bước 5: Multi-signal Ranking ---
+# Trọng số khởi tạo (chưa tối ưu, cần ablation)
+ranking:
+  alpha: 0.333    # Weight cho RRF score
+  beta: 0.333     # Weight cho ESCOXLM-R score
+  gamma: 0.334    # Weight cho Evidence score
+  top_k: 10
+
+# --- Output ---
+output:
+  output_dir: "data/data_support_skill"
+  review_dir: "data_support_skill/_review"
+  write_cypher: true
+
+# --- Neo4j ---
+neo4j_uri: "bolt://localhost:7687"
+neo4j_database: "neo4j"
+
+# --- Schema ---
+schema_version: "1.0"

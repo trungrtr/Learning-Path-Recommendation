@@ -1,0 +1,263 @@
+{
+  "course_code": "SC6019",
+  "concept_tags": [
+    {
+      "text": "statistical intuition",
+      "normalized": "statistical intuition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "experimental design",
+      "normalized": "experimental design",
+      "loai": "foundational"
+    },
+    {
+      "text": "computational thinking",
+      "normalized": "computational thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "system architecture mindset",
+      "normalized": "system architecture mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "quantitative reasoning",
+      "normalized": "quantitative reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "hypothesis testing",
+      "normalized": "hypothesis testing",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical evaluation of evidence",
+      "normalized": "critical evaluation of evidence",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to evolving technologies",
+      "normalized": "adaptability to evolving technologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "complex system debugging",
+      "normalized": "complex system debugging",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6019",
+      "concept_tag": "statistical intuition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "experimental design",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "computational thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "system architecture mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "quantitative reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "hypothesis testing",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "resource management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "critical evaluation of evidence",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "adaptability to evolving technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6019",
+      "concept_tag": "complex system debugging",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "adaptability to evolving technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.805811,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.805811,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.763138,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.763138,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to evolving technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.651837,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.651837,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "experimental design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.633582,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "hypothesis testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.633582,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "complex system debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.620349,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "experimental design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.620349,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.617961,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "complex system debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.572203,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "experimental design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.572203,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.572203,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "complex system debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.55798,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.55798,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of evidence",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.55798,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 17
+  }
+}

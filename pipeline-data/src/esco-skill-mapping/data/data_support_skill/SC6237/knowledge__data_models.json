@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "preferred_label": "data models",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6237",
+    "course_title": "Big data Analysis"
+  },
+  "support_context": {
+    "support_concept_origin": "evidence-based decision making; technical adaptability",
+    "evidence_text": "take responsibility for the quality and accuracy of analysis results"
+  },
+  "scoring": {
+    "final_score": 0.521644,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Data preprocessing and analysis require an understanding of how data is structured and the relationships between data elements, which supports data modeling skills.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

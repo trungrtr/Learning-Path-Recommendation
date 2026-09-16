@@ -1,0 +1,86 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về Hệ quản trị CSDL và xây dựng CSDL trên hệ quản trị CSDL SQL Server",
+      "noi_dung_tom_tat": "Bài học giới thiệu tổng quan về vai trò của hệ quản trị CSDL trong doanh nghiệp và các bước cài đặt, cấu hình môi trường SQL Server. Sinh viên sẽ được làm quen với giao diện làm việc và cách thức quản lý một hệ thống CSDL cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of DBMS and Database Construction in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xây dựng CSDL trên hệ quản trị SQL Server",
+      "noi_dung_tom_tat": "Nội dung bài học tập trung vào kỹ năng thiết kế và tạo mới cơ sở dữ liệu trên SQL Server. Sinh viên thực hành định nghĩa các kiểu dữ liệu, cấu trúc bảng, ràng buộc khóa chính và khóa ngoại để đảm bảo tính toàn vẹn dữ liệu.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Database Construction in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Khung nhìn và Hàm trong SQL Server",
+      "noi_dung_tom_tat": "Bài học hướng dẫn cách sử dụng View (khung nhìn) để đơn giản hóa các truy vấn phức tạp và tạo các Function (hàm) tùy chỉnh. Kiến thức này giúp tối ưu hóa khả năng tái sử dụng mã nguồn và bảo mật dữ liệu cấp độ bảng.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Programming Views and Functions in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Khung nhìn và Hàm trong SQL Server- Kiểm tra TX1",
+      "noi_dung_tom_tat": "Bài kiểm tra TX1 nhằm đánh giá khả năng thực hành thiết kế CSDL, tạo lập khung nhìn và xây dựng các hàm chức năng trên SQL Server của sinh viên. Đây là cột mốc quan trọng để kiểm tra mức độ nắm vững các kiến thức nền tảng đã học.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Programming Views and Functions in SQL Server - Regular Test 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Thủ tục và Trigger trong SQL Server",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về cơ chế lập trình thủ tục (Stored Procedure) và cơ chế kích hoạt (Trigger) trong SQL Server. Sinh viên sẽ học cách kết hợp cả hai kỹ thuật này để thực hiện các thao tác dữ liệu tự động và nghiệp vụ phức tạp.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Programming Stored Procedures and Triggers in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình thủ tục trong SQL Server",
+      "noi_dung_tom_tat": "Nội dung tập trung sâu vào kỹ thuật lập trình Stored Procedure bao gồm tham số đầu vào, đầu ra và xử lý ngoại lệ. Sinh viên học cách đóng gói các khối lệnh SQL để nâng cao hiệu suất thực thi và bảo mật hệ thống.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Programming Stored Procedures in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lập trình Trigger trong SQL Server",
+      "noi_dung_tom_tat": "Bài học chuyên sâu về cách sử dụng Trigger để tự động hóa các quy tắc nghiệp vụ khi có thay đổi dữ liệu xảy ra trên bảng. Sinh viên sẽ thực hành các loại Trigger khác nhau như DML Trigger để giám sát và kiểm soát dữ liệu.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Programming Triggers in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bảo mật và Sao lưu, phục hồi dữ liệu trong SQL Server",
+      "noi_dung_tom_tat": "Bài học trình bày các kỹ thuật bảo mật hệ thống như phân quyền người dùng (User & Role) và quản lý tài khoản. Ngoài ra, sinh viên còn được học các phương pháp sao lưu và phục hồi dữ liệu để đảm bảo an toàn hệ thống trước sự cố.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Security, Backup, and Recovery in SQL Server",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bảo mật và Sao lưu, phục hồi dữ liệu trong SQL Server - Kiểm tra TX2",
+      "noi_dung_tom_tat": "Bài kiểm tra TX2 tập trung vào kỹ năng lập trình nâng cao gồm thủ tục, trigger, quản trị bảo mật và quy trình sao lưu phục hồi. Sinh viên thể hiện khả năng giải quyết bài toán quản trị và an toàn dữ liệu thực tế.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Security, Backup, and Recovery in SQL Server - Regular Test 2",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "99cc0f46e66206085e1fc7dd7fa908c0"
+}

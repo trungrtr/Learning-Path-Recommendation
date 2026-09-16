@@ -1,0 +1,242 @@
+{
+  "course_code": "SC6237",
+  "concept_tags": [
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "statistical literacy",
+      "normalized": "statistical literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "evidence-based decision making",
+      "normalized": "evidence-based decision making",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical adaptability",
+      "normalized": "technical adaptability",
+      "loai": "foundational"
+    },
+    {
+      "text": "data-driven storytelling",
+      "normalized": "data-driven storytelling",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic troubleshooting",
+      "normalized": "systematic troubleshooting",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "information synthesis",
+      "normalized": "information synthesis",
+      "loai": "foundational"
+    },
+    {
+      "text": "project management mindset",
+      "normalized": "project management mindset",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6237",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "statistical literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "evidence-based decision making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "technical adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "data-driven storytelling",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "systematic troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "information synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6237",
+      "concept_tag": "project management mindset",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.832505,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.832505,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.712395,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data-driven storytelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.712395,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic troubleshooting",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.712395,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.672467,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data-driven storytelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.652853,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.652853,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data-driven storytelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.545524,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.545524,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.541977,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.541977,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.521644,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.521644,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 14
+  }
+}

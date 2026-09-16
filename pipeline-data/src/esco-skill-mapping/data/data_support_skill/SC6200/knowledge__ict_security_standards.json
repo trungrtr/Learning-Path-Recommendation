@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+    "preferred_label": "ICT security standards",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6200",
+    "course_title": "Cryptography and Information Security"
+  },
+  "support_context": {
+    "support_concept_origin": "ethical decision-making; regulatory compliance awareness; risk assessment mindset",
+    "evidence_text": "Apply cybersecurity knowledge to implement protective measures for information systems, computing systems, and computer networks"
+  },
+  "scoring": {
+    "final_score": 0.735836,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers information authentication and security measures, which are foundational components of ICT security standards and frameworks.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,48 @@
+{
+  "course_code": "SC6236",
+  "course_title": "Data Mining and Applications",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 0,
+    "knowledge_count": 5
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "final_score": 0.6801,
+      "support_concept_origin": "evidence-based decision making",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "decision support systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "final_score": 0.668,
+      "support_concept_origin": "evidence-based decision making",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.6405,
+      "support_concept_origin": "abstract modeling; information synthesis",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "final_score": 0.6391,
+      "support_concept_origin": "quantitative literacy; statistical intuition; systematic troubleshooting",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "final_score": 0.6347,
+      "support_concept_origin": "abstract modeling; critical thinking; technical adaptability",
+      "review_status": "accepted"
+    }
+  ]
+}

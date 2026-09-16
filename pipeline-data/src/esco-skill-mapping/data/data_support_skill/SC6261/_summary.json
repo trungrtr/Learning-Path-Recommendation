@@ -1,0 +1,27 @@
+{
+  "course_code": "SC6261",
+  "course_title": "Human - Computer Interaction",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 2,
+    "skill_count": 0,
+    "knowledge_count": 2
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "ICT accessibility standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "final_score": 0.7651,
+      "support_concept_origin": "accessibility advocacy",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "final_score": 0.5521,
+      "support_concept_origin": "collaborative design; technical documentation",
+      "review_status": "accepted"
+    }
+  ]
+}

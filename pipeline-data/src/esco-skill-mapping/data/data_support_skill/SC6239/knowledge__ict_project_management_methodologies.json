@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6239",
+    "course_title": "Introduction to Software Engineering"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of methodologies; project lifecycle management",
+    "evidence_text": "Select and apply a suitable process model for a software project that meets user objectives"
+  },
+  "scoring": {
+    "final_score": 0.790025,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches the selection and application of process models for software projects, which is central to ICT project management methodologies.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

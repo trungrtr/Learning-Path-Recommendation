@@ -1,0 +1,53 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+    "preferred_label": "coordinate engineering teams",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BS6050_BS",
+    "course_title": "Âm nhạc",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.701644,
+    "cross_encoder_score": 0.971366,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The course provides general knowledge of music, including the history and development of world and Vietnamese music, musical genres, and basic music theory. It helps students develop artistic appreciation in general and musical appreciation in particular, catering to their personal interests and talents. The course also enhances students' teamwork skills and social competencies to adapt and integrate into the working environment, while contributing to improving their overall quality of life."
+    },
+    {
+      "source_type": "CLO",
+      "source_id": null,
+      "text": "Exhibit artistic and musical appreciation abilities, and develop teamwork and social skills to adapt to the working environment and enhance the quality of life.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 43,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

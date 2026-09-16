@@ -1,0 +1,50 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+    "preferred_label": "apply information security policies",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.58662,
+    "cross_encoder_score": 0.8319,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "lesson_12",
+      "text": "Bài 8: Ràng buộc ngân sách/ Bài Kiểm tra thường xuyên 1",
+      "meta": {
+        "matched_mention": "ràng buộc ngân sách"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": null,
+      "dense_score": 0.4034,
+      "rrf_score": 0.0143,
+      "retrieval_sources": [
+        "faiss"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

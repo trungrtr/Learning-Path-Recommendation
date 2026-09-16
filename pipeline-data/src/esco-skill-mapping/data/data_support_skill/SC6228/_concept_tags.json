@@ -1,0 +1,182 @@
+{
+  "course_code": "SC6228",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "methodological"
+    },
+    {
+      "text": "business process mapping",
+      "normalized": "business process mapping",
+      "loai": "foundational"
+    },
+    {
+      "text": "digital literacy",
+      "normalized": "digital literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "user experience design principles",
+      "normalized": "user experience design principles",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem-solving under constraints",
+      "normalized": "problem-solving under constraints",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical troubleshooting",
+      "normalized": "technical troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "information architecture",
+      "normalized": "information architecture",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "regulatory compliance awareness",
+      "normalized": "regulatory compliance awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "strategic decision making",
+      "normalized": "strategic decision making",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "adaptability to new software ecosystems",
+      "normalized": "adaptability to new software ecosystems",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "customer-centric thinking",
+      "normalized": "customer-centric thinking",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6228",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "business process mapping",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "digital literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "user experience design principles",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "problem-solving under constraints",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "technical troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "information architecture",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "regulatory compliance awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "strategic decision making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "resource management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "adaptability to new software ecosystems",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "customer-centric thinking",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "problem-solving under constraints",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.567904,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.567904,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "business process mapping",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.543222,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.543222,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 4
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+    "preferred_label": "develop information standards",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.70039,
+    "cross_encoder_score": 0.985074,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Learners deploy an entire information system or an IT/engineering technology project in organizations and enterprises.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Clearly define professional responsibilities; evaluate situations based on legal regulations and professional ethics.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1PI 4.2PI 4.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 3,
+      "dense_rank": 12,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

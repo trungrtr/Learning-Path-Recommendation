@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+    "preferred_label": "systems development life-cycle",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6239",
+    "course_title": "Introduction to Software Engineering"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of methodologies; project lifecycle management",
+    "evidence_text": "Select and apply a suitable process model for a software project that meets user objectives"
+  },
+  "scoring": {
+    "final_score": 0.643866,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers the software development process, including requirements, design, programming, testing, and maintenance, which constitutes the systems development life-cycle.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

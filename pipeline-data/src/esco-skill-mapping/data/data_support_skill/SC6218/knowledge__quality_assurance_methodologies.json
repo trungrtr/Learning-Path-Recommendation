@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+    "preferred_label": "quality assurance methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6218",
+    "course_title": "Game application development"
+  },
+  "support_context": {
+    "support_concept_origin": "quality assurance mindset",
+    "evidence_text": "Deploy, evaluate, and launch game products into the real world"
+  },
+  "scoring": {
+    "final_score": 0.65606,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The objective to 'evaluate' game products before launch necessitates the application of quality assurance processes to ensure the software functions correctly.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

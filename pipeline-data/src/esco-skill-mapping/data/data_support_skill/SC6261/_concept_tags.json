@@ -1,0 +1,165 @@
+{
+  "course_code": "SC6261",
+  "concept_tags": [
+    {
+      "text": "empathy",
+      "normalized": "empathy",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "user-centric mindset",
+      "normalized": "user-centric mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical observation",
+      "normalized": "critical observation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "visual communication",
+      "normalized": "visual communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "psychological awareness",
+      "normalized": "psychological awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "ethical consideration",
+      "normalized": "ethical consideration",
+      "loai": "cognitive"
+    },
+    {
+      "text": "accessibility advocacy",
+      "normalized": "accessibility advocacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "collaborative design",
+      "normalized": "collaborative design",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "foundational"
+    },
+    {
+      "text": "requirement analysis",
+      "normalized": "requirement analysis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "creative synthesis",
+      "normalized": "creative synthesis",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6261",
+      "concept_tag": "empathy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "user-centric mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "critical observation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "visual communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "psychological awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "ethical consideration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "accessibility advocacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "collaborative design",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "requirement analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6261",
+      "concept_tag": "creative synthesis",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "accessibility advocacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "esco_label": "ICT accessibility standards",
+      "confidence": 0.765096,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.552066,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.552066,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 3
+  }
+}

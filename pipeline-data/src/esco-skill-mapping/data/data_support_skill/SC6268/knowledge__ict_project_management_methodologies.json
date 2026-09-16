@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6268",
+    "course_title": "Bussiness Analysis"
+  },
+  "support_context": {
+    "support_concept_origin": "ethical decision-making; project lifecycle awareness; stakeholder management",
+    "evidence_text": "CLO: Demonstrate basic knowledge of business analysis such as the BACCM framework, needs, requirements, and risks from stakeholders"
+  },
+  "scoring": {
+    "final_score": 0.57529,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers methodologies for managing requirements and IT project analysis, which are essential components of ICT project management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

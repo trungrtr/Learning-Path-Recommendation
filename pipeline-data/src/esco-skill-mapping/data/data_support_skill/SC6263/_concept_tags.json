@@ -1,0 +1,225 @@
+{
+  "course_code": "SC6263",
+  "concept_tags": [
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative workflow management",
+      "normalized": "collaborative workflow management",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional responsibility",
+      "normalized": "professional responsibility",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "user-centric design thinking",
+      "normalized": "user-centric design thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cross-functional communication",
+      "normalized": "cross-functional communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to evolving technologies",
+      "normalized": "adaptability to evolving technologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "project management mindset",
+      "normalized": "project management mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "logical troubleshooting",
+      "normalized": "logical troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "information synthesis",
+      "normalized": "information synthesis",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6263",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "collaborative workflow management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "professional responsibility",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "user-centric design thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "cross-functional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "adaptability to evolving technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "project management mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "logical troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "information synthesis",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.867206,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to evolving technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.750751,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.750751,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.61106,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.61106,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.61106,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.609728,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.605468,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "cross-functional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.605468,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.588935,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information synthesis",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.588935,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.585766,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user-centric design thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.585766,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 13
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+    "preferred_label": "use customer relationship management software",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6228",
+    "course_title": "E-commerce Application Development",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7372913310721616,
+    "cross_encoder_score": 0.967162013053894,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course covers order and inventory management, but does not explicitly teach the use of dedicated CRM software."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with in-depth knowledge and practical skills in developing e-commerce applications on the WordPress platform. The course content focuses on the design and construction process of popular website types: from professional news sites to fully featured online sales systems. Through the course, students can master the CMS system, independently customize professional interfaces, and set up commercial processes from inventory management to automated payment configuration with WooCommerce.",
+      "meta": {
+        "matched_mention": "inventory management; e-commerce applications"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "The course equips students with advanced knowledge and practical skills on the WordPress platform to build popular types of websites in e-commerce. Students are capable of deploying everything from professional news sites to fully-featured integrated online sales systems.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "online sales systems"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Understanding WooCommerce: Explaining the management process of products, orders, inventory, and online payment/shipping methods.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "order management; product management"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT5",
+      "text": "Knowledge of security and optimization: Understanding basic website security methods and page load speed optimization techniques for e-commerce sites.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "e-commerce site optimization"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT6",
+      "text": "Building news sites: Designing layouts, managing categories and articles, and integrating interactive features (comments, social media sharing).",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "article management"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT7",
+      "text": "Designing sales systems: Professionally configuring WooCommerce tools to create online stores integrated with auxiliary news.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "sales system design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT9",
+      "text": "Multi-channel integration: Connecting the website with analytics tools (Google Analytics), maps, and supporting sales affiliate tools.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "sales affiliate tools"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT11",
+      "text": "Commercial Operations: Knowing how to manage product categories, process orders, and handle customer feedback professionally.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "customer feedback handling; product category management"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT12",
+      "text": "Complying with intellectual property regulations (interfaces, images), customer information security, and being responsible for posted content.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "customer information security"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT13",
+      "text": "Having the ability to self-search and install new solutions to meet the changing demands of the e-commerce market.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "e-commerce market demands"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply technology knowledge and principles of content management systems to rapidly deploy e-commerce sales websites.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "e-commerce sales websites"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply information technology principles to analyze, customize, and develop sales websites meeting the practical requirements of small businesses and individuals.",
+      "meta": {
+        "pi_so": [
+          "PI 1.3"
+        ],
+        "muc_do": "ITU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "sales website development"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of E-commerce and WordPress Installation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "E-commerce overview"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Practice: Adding Products and Order Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Order management; Product management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 5,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

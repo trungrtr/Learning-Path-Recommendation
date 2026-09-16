@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+    "preferred_label": "image recognition",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6001_BS",
+    "course_title": "Đại số tuyến tính"
+  },
+  "support_context": {
+    "support_concept_origin": "multidimensional visualization; pattern recognition",
+    "evidence_text": "Course: Đại số tuyến tính"
+  },
+  "scoring": {
+    "final_score": 0.743695,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Image recognition is fundamentally based on processing images as matrices and applying linear transformations for feature extraction.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

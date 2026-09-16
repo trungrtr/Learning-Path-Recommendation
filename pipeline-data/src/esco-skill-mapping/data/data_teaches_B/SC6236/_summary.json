@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6236",
+  "course_title": "Data Mining and Applications",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 18,
+    "knowledge_count": 11,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "perform data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "confidence": 0.8283574616570493,
+      "cross_encoder_score": 0.9912918210029602,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly covers data mining techniques like classification, clustering, and association rules to transform raw data into useful information."
+    },
+    {
+      "preferred_label": "apply statistical analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "confidence": 0.7927428752014317,
+      "cross_encoder_score": 0.9899897575378418,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers data mining algorithms and techniques (including neural networks and probability-based classification) to solve problems and forecast/predict."
+    },
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.8016736421418696,
+      "cross_encoder_score": 0.9851014614105225,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course covers data mining, it does not explicitly mention data gathering, storage, or the representation of data using charts and diagrams."
+    },
+    {
+      "preferred_label": "collect ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "confidence": 0.7975941241263784,
+      "cross_encoder_score": 0.9905684590339661,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on mining existing data rather than designing search and sampling methods for data collection."
+    },
+    {
+      "preferred_label": "manage data collection systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "confidence": 0.7819241592807782,
+      "cross_encoder_score": 0.9935500025749207,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of managing data collection systems or strategies for data quality optimization in the provided content."
+    },
+    {
+      "preferred_label": "analyse big data",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "confidence": 0.7700332989640855,
+      "cross_encoder_score": 0.9829671382904053,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers identifying patterns in data using mining techniques, which aligns with the core purpose of big data analysis."
+    },
+    {
+      "preferred_label": "handle data samples",
+      "esco_uri": "http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e",
+      "confidence": 0.7720884203987278,
+      "cross_encoder_score": 0.9880067110061646,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content does not cover the statistical procedures for collecting or selecting data samples from a population."
+    },
+    {
+      "preferred_label": "integrate ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "confidence": 0.7718979427929672,
+      "cross_encoder_score": 0.9832229018211365,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not mention data integration or combining data from multiple sources."
+    },
+    {
+      "preferred_label": "perform data cleansing",
+      "esco_uri": "http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8",
+      "confidence": 0.7718165549717345,
+      "cross_encoder_score": 0.9791975021362305,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "Data cleansing is not explicitly listed as a topic or skill developed in the provided course content."
+    },
+    {
+      "preferred_label": "perform data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "confidence": 0.7689020191315695,
+      "cross_encoder_score": 0.9963361024856567,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course explicitly mentions developing skills in data analysis and using mining techniques to discover useful information for problem-solving."
+    },
+    {
+      "preferred_label": "process data",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "confidence": 0.768305624415205,
+      "cross_encoder_score": 0.9892894625663757,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on data mining algorithms and analysis rather than the manual or electronic entry/storage of data."
+    },
+    {
+      "preferred_label": "manage data",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "confidence": 0.7679400784873405,
+      "cross_encoder_score": 0.9863042235374451,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention data lifecycle management tasks like cleansing, profiling, or auditing."
+    },
+    {
+      "preferred_label": "create data sets",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "confidence": 0.7603197152543444,
+      "cross_encoder_score": 0.9900186061859131,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on applying algorithms to existing data rather than the creation or collection of datasets."
+    },
+    {
+      "preferred_label": "utilise machine learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "confidence": 0.7571628900554397,
+      "cross_encoder_score": 0.9841319918632507,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly covers classification, neural networks, and clustering, which are core machine learning techniques for pattern recognition and prediction."
+    },
+    {
+      "preferred_label": "implement data warehousing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "confidence": 0.7554268063318852,
+      "cross_encoder_score": 0.9898725748062134,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no mention of data warehousing, OLAP, or OLTP techniques in the course content."
+    },
+    {
+      "preferred_label": "manage standards for data exchange",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "confidence": 0.7553794262825867,
+      "cross_encoder_score": 0.9594783782958984,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course does not cover data exchange standards or schema transformation."
+    },
+    {
+      "preferred_label": "collect cyber defence data",
+      "esco_uri": "http://data.europa.eu/esco/skill/fcbb3a90-cdde-49ff-9ecc-8e2c0a6dfca2",
+      "confidence": 0.7546351799022237,
+      "cross_encoder_score": 0.9643012285232544,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content does not address cyber defence or specific data collection for security purposes."
+    },
+    {
+      "preferred_label": "establish data processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "confidence": 0.7105841637328048,
+      "cross_encoder_score": 0.8908237218856812,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly teaches the use of algorithms and software tools to transform raw data into useful information."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "confidence": 0.8286727224431014,
+      "cross_encoder_score": 0.9862493276596069,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "Data mining is the primary subject of the course, covering algorithms for classification, clustering, and association rules."
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7893430060910248,
+      "cross_encoder_score": 0.9942033886909485,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course includes building, deploying, and evaluating data mining models, which involves structuring and interpreting data relationships."
+    },
+    {
+      "preferred_label": "data warehouse",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "confidence": 0.7858566651068131,
+      "cross_encoder_score": 0.9893484115600586,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content focuses on data mining algorithms and techniques, but does not mention data warehousing or data marts."
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7856210274647218,
+      "cross_encoder_score": 0.9849987626075745,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers data mining techniques but does not include the engineering aspects of constructing large-scale data collection systems."
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "confidence": 0.7939676365397382,
+      "cross_encoder_score": 0.9911739230155945,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly covers transforming raw data into useful information using machine learning-related techniques like classification and clustering to solve practical problems."
+    },
+    {
+      "preferred_label": "data analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "confidence": 0.7890125077820551,
+      "cross_encoder_score": 0.9810940027236938,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers data analysis, method selection, and the use of algorithms to derive insights from data to solve practical problems."
+    },
+    {
+      "preferred_label": "data quality assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "confidence": 0.7779083844836874,
+      "cross_encoder_score": 0.991534411907196,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no mention of data quality assessment, cleansing, or enrichment strategies in the provided course content."
+    },
+    {
+      "preferred_label": "blockchain mining principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc94266b-322d-4f1d-87a0-03f999e72344",
+      "confidence": 0.7527978051037119,
+      "cross_encoder_score": 0.9738824963569641,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on data mining for information extraction, not blockchain or cryptocurrency mining."
+    },
+    {
+      "preferred_label": "unstructured data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "confidence": 0.764799014340651,
+      "cross_encoder_score": 0.9929946064949036,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "While the course teaches data mining, it does not explicitly address the handling or processing of unstructured data."
+    },
+    {
+      "preferred_label": "data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "confidence": 0.7566593875107432,
+      "cross_encoder_score": 0.9745127558708191,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not mention data protection, ethics, or regulations."
+    },
+    {
+      "preferred_label": "online analytical processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "confidence": 0.7560335273826478,
+      "cross_encoder_score": 0.9794620871543884,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not mention OLAP or multi-dimensional data analysis tools."
+    }
+  ],
+  "schema_version": "3.0"
+}

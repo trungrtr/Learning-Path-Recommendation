@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "preferred_label": "game theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6038_BS",
+    "course_title": "Giải tích"
+  },
+  "support_context": {
+    "support_concept_origin": "logical structuring of arguments; mathematical modeling; systematic problem decomposition",
+    "evidence_text": "Solve practical engineering problems related to extrema, optimization, and applications of double integrals and line integrals through analytical thinking and computational skills"
+  },
+  "scoring": {
+    "final_score": 0.784803,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Calculus provides the mathematical foundation for optimization and extrema analysis, which are essential components in modeling strategic decisions in game theory.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

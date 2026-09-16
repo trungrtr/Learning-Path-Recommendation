@@ -1,0 +1,70 @@
+{
+  "course_code": "SC6265",
+  "course_title": "Basic Python Programming",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 8,
+    "skill_count": 1,
+    "knowledge_count": 7
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "final_score": 0.6965,
+      "support_concept_origin": "algorithmic problem solving; resilience in troubleshooting; structured workflow management",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "ICT debugging tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "final_score": 0.8018,
+      "support_concept_origin": "structured workflow management; systematic debugging",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.695,
+      "support_concept_origin": "algorithmic problem solving; computational thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.6053,
+      "support_concept_origin": "structured workflow management; systematic debugging",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "final_score": 0.5962,
+      "support_concept_origin": "abstract thinking; structured workflow management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "KDevelop",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "final_score": 0.59,
+      "support_concept_origin": "structured workflow management; systematic debugging",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "final_score": 0.578,
+      "support_concept_origin": "structured workflow management; systematic debugging",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.541,
+      "support_concept_origin": "computational thinking; structured workflow management",
+      "review_status": "accepted"
+    }
+  ]
+}

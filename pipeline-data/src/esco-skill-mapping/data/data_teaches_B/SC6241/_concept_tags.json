@@ -1,0 +1,4159 @@
+{
+  "course_code": "SC6241",
+  "concept_tags": [
+    {
+      "text": "JUnit",
+      "normalized": "junit"
+    },
+    {
+      "text": "Selenium",
+      "normalized": "selenium"
+    },
+    {
+      "text": "Postman",
+      "normalized": "postman"
+    },
+    {
+      "text": "Jenkins",
+      "normalized": "jenkins"
+    },
+    {
+      "text": "JMeter",
+      "normalized": "jmeter"
+    },
+    {
+      "text": "manual testing",
+      "normalized": "manual testing"
+    },
+    {
+      "text": "automated testing",
+      "normalized": "automated testing"
+    },
+    {
+      "text": "automation frameworks",
+      "normalized": "automation frameworks"
+    },
+    {
+      "text": "test scripts",
+      "normalized": "test scripts"
+    },
+    {
+      "text": "API testing",
+      "normalized": "api testing"
+    },
+    {
+      "text": "system performance",
+      "normalized": "system performance"
+    },
+    {
+      "text": "bug reporting",
+      "normalized": "bug reporting"
+    },
+    {
+      "text": "software reliability",
+      "normalized": "software reliability"
+    },
+    {
+      "text": "software testing",
+      "normalized": "software testing"
+    },
+    {
+      "text": "test design techniques",
+      "normalized": "test design techniques"
+    },
+    {
+      "text": "black-box testing",
+      "normalized": "black-box testing"
+    },
+    {
+      "text": "white-box testing",
+      "normalized": "white-box testing"
+    },
+    {
+      "text": "unit testing",
+      "normalized": "unit testing"
+    },
+    {
+      "text": "integration testing",
+      "normalized": "integration testing"
+    },
+    {
+      "text": "system testing",
+      "normalized": "system testing"
+    },
+    {
+      "text": "Agile development",
+      "normalized": "agile development"
+    },
+    {
+      "text": "DevOps",
+      "normalized": "devops"
+    },
+    {
+      "text": "CI/CD",
+      "normalized": "ci/cd"
+    },
+    {
+      "text": "test automation",
+      "normalized": "test automation"
+    },
+    {
+      "text": "performance testing",
+      "normalized": "performance testing"
+    },
+    {
+      "text": "security testing",
+      "normalized": "security testing"
+    },
+    {
+      "text": "software quality management",
+      "normalized": "software quality management"
+    },
+    {
+      "text": "requirements analysis",
+      "normalized": "requirements analysis"
+    },
+    {
+      "text": "test case design",
+      "normalized": "test case design"
+    },
+    {
+      "text": "test execution",
+      "normalized": "test execution"
+    },
+    {
+      "text": "bug tracking",
+      "normalized": "bug tracking"
+    },
+    {
+      "text": "bug management",
+      "normalized": "bug management"
+    },
+    {
+      "text": "testing tools",
+      "normalized": "testing tools"
+    },
+    {
+      "text": "software testing processes",
+      "normalized": "software testing processes"
+    },
+    {
+      "text": "testing methods",
+      "normalized": "testing methods"
+    },
+    {
+      "text": "testing techniques",
+      "normalized": "testing techniques"
+    },
+    {
+      "text": "testing levels",
+      "normalized": "testing levels"
+    },
+    {
+      "text": "software development life cycle",
+      "normalized": "software development life cycle"
+    },
+    {
+      "text": "test recording",
+      "normalized": "test recording"
+    },
+    {
+      "text": "test analysis",
+      "normalized": "test analysis"
+    },
+    {
+      "text": "test reporting",
+      "normalized": "test reporting"
+    },
+    {
+      "text": "quality processes",
+      "normalized": "quality processes"
+    },
+    {
+      "text": "software development lifecycle",
+      "normalized": "software development lifecycle"
+    },
+    {
+      "text": "testing process",
+      "normalized": "testing process"
+    },
+    {
+      "text": "standardized testing documentation",
+      "normalized": "standardized testing documentation"
+    },
+    {
+      "text": "web services",
+      "normalized": "web services"
+    },
+    {
+      "text": "automation testing",
+      "normalized": "automation testing"
+    },
+    {
+      "text": "load testing",
+      "normalized": "load testing"
+    },
+    {
+      "text": "devops testing",
+      "normalized": "devops testing"
+    },
+    {
+      "text": "ci/cd pipelines",
+      "normalized": "ci/cd pipelines"
+    },
+    {
+      "text": "mobile testing",
+      "normalized": "mobile testing"
+    },
+    {
+      "text": "cross-platform testing",
+      "normalized": "cross-platform testing"
+    },
+    {
+      "text": "usability testing",
+      "normalized": "usability testing"
+    },
+    {
+      "text": "defect management",
+      "normalized": "defect management"
+    },
+    {
+      "text": "quality metrics",
+      "normalized": "quality metrics"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6241",
+      "concept_tag": "junit",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "selenium",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "postman",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "jenkins",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "jmeter",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "manual testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "automated testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "automation frameworks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test scripts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "api testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN",
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "system performance",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "bug reporting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software reliability",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_CLO_L2",
+        "SC6241_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test design techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "black-box testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "white-box testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "unit testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "integration testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "system testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "agile development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "devops",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "ci/cd",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test automation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "performance testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "security testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1",
+        "SC6241_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software quality management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test case design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test execution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "bug tracking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "bug management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "testing tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software testing processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "testing methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "testing techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L1",
+        "SC6241_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "testing levels",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software development life cycle",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test recording",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "test reporting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "quality processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "software development lifecycle",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "testing process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "standardized testing documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "web services",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "automation testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "load testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "devops testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "ci/cd pipelines",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "mobile testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "cross-platform testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "usability testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "defect management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "quality metrics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6241_BAIHOC_L12"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.8243094759747884,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "esco_label": "execute integration testing",
+      "confidence": 0.8231562173226283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+      "esco_label": "plan software testing",
+      "confidence": 0.8233675493903664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+      "esco_label": "perform software recovery testing",
+      "confidence": 0.8226117395400414,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "esco_label": "manage system testing",
+      "confidence": 0.8153850974692122,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing levels",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test recording",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "load testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+      "esco_label": "perform software unit testing",
+      "confidence": 0.8064256074493905,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test recording",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+      "esco_label": "develop ICT test suite",
+      "confidence": 0.7916309564413759,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "esco_label": "execute software tests",
+      "confidence": 0.7915219388043735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test recording",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "esco_label": "develop automated software tests",
+      "confidence": 0.7874877279802008,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing levels",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test recording",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+      "esco_label": "report test findings",
+      "confidence": 0.771740707154509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "esco_label": "monitor system performance",
+      "confidence": 0.7707228394544379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.7705711157043105,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "esco_label": "implement data quality processes",
+      "confidence": 0.7672826195501838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bug reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bug management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "load testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_label": "debug software",
+      "confidence": 0.7709191423952313,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "esco_label": "measure software usability",
+      "confidence": 0.7636984038199308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e",
+      "esco_label": "conduct content quality assurance",
+      "confidence": 0.7624938414724001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "load testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ci/cd pipelines",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.7553974208965375,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agile development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development life cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development lifecycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "defect management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "esco_label": "conduct ICT code review",
+      "confidence": 0.7537209504954587,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing levels",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.8387134769951855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test automation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+      "esco_label": "tools for ICT test automation",
+      "confidence": 0.8238761559770906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "esco_label": "Samurai Web Testing Framework",
+      "confidence": 0.7727482690867093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.7520463140983992,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test case design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test recording",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "load testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usability testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.7533693643415015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development lifecycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test design techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.7351635676686509,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agile development",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development lifecycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "standardized testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_label": "ABAP",
+      "confidence": 0.7304468836404328,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test scripts",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "test execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development lifecycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.7227676795339973,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software reliability",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing levels",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unit testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-platform testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a30eb28-eca0-4ab6-8c05-32c47d3e0dd6",
+      "esco_label": "BlackArch",
+      "confidence": 0.7049475607876803,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "manual testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "agile development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "testing process",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "black-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "white-box testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "api testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automation testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "devops testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mobile testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.700009249672578,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 55,
+    "total_has_concept_edges": 55,
+    "total_evidence_for_edges": 496
+  }
+}

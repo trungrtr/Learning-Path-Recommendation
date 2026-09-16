@@ -1,0 +1,34 @@
+{
+  "course_code": "SC6208_BS",
+  "course_title": "Kỹ thuật lập trình",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 3,
+    "skill_count": 0,
+    "knowledge_count": 3
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "final_score": 0.8549,
+      "support_concept_origin": "algorithmic mindset; computational thinking; technical documentation literacy",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.7895,
+      "support_concept_origin": "algorithmic mindset; computational thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "final_score": 0.5998,
+      "support_concept_origin": "logical reasoning; self-directed learning",
+      "review_status": "accepted"
+    }
+  ]
+}

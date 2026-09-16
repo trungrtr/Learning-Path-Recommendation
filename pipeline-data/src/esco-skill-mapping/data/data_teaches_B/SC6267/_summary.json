@@ -1,0 +1,351 @@
+{
+  "course_code": "SC6267",
+  "course_title": "Major Project",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 20,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 30,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "carry out project activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "confidence": 0.7609664372592071,
+      "cross_encoder_score": 0.9981669187545776,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly includes 'Project Execution' and 'Project Planning' as learning topics."
+    },
+    {
+      "preferred_label": "draft project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "confidence": 0.7601368710709169,
+      "cross_encoder_score": 0.9913251399993896,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly lists 'Project Documentation' as a learning topic."
+    },
+    {
+      "preferred_label": "organise project meetings",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "confidence": 0.7582065533815299,
+      "cross_encoder_score": 0.995370090007782,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While teamwork and presentation are mentioned, the specific task of organizing project meetings is not explicitly stated in the course content."
+    },
+    {
+      "preferred_label": "create project specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "confidence": 0.7525240219004155,
+      "cross_encoder_score": 0.9894812107086182,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content includes 'Project Planning' and the requirement to design and implement software solutions based on requirements."
+    },
+    {
+      "preferred_label": "perform resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "confidence": 0.7474279715220364,
+      "cross_encoder_score": 0.9957996010780334,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "Resource planning is not explicitly mentioned as a learning topic in the provided content."
+    },
+    {
+      "preferred_label": "manage project information",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "confidence": 0.7611048037479,
+      "cross_encoder_score": 0.9958356618881226,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "Managing project information is not explicitly listed as a learning topic."
+    },
+    {
+      "preferred_label": "manage project changes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "confidence": 0.755661407667311,
+      "cross_encoder_score": 0.9976922273635864,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "Managing project changes is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "perform project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "confidence": 0.7493372197681748,
+      "cross_encoder_score": 0.9976397752761841,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers 'Project Initiation', 'Project Planning', and 'Project Execution', which constitute the core of project management."
+    },
+    {
+      "preferred_label": "perform risk analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "confidence": 0.7473915517705524,
+      "cross_encoder_score": 0.9956434965133667,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "Risk analysis is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "maintain a central project repository",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "confidence": 0.746002994853034,
+      "cross_encoder_score": 0.9925881028175354,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "Maintaining a central project repository is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "manage ICT project",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "confidence": 0.739935467442067,
+      "cross_encoder_score": 0.9906759262084961,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course explicitly includes 'Project Planning', 'Project Execution', and 'Project Documentation' as learning topics."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7247202526400264,
+      "cross_encoder_score": 0.9907218217849731,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course objectives explicitly mention 'information systems design' and 'design and implement a software solution for an information system'."
+    },
+    {
+      "preferred_label": "provide cost benefit analysis reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "confidence": 0.7390527174228679,
+      "cross_encoder_score": 0.9970133304595947,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "There is no explicit mention of financial cost-benefit analysis or budget reporting in the provided course content."
+    },
+    {
+      "preferred_label": "report analysis results",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "confidence": 0.7254459613190039,
+      "cross_encoder_score": 0.9959379434585571,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course includes 'Project Presentation' and 'specialized project reporting skills' as key learning outcomes."
+    },
+    {
+      "preferred_label": "analyse pipeline database information",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "confidence": 0.721099399632935,
+      "cross_encoder_score": 0.9881781935691833,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content is general to information systems and does not specifically cover pipeline database analysis."
+    },
+    {
+      "preferred_label": "consult with business clients",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "confidence": 0.7203619247623934,
+      "cross_encoder_score": 0.9778130054473877,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While teamwork is mentioned, there is no explicit mention of consulting with business clients to obtain feedback or introduce ideas."
+    },
+    {
+      "preferred_label": "develop software prototype",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "confidence": 0.718846071790713,
+      "cross_encoder_score": 0.9878491759300232,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course requires the design and implementation of a software solution, which inherently involves prototyping."
+    },
+    {
+      "preferred_label": "provide user documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "confidence": 0.7156672662758937,
+      "cross_encoder_score": 0.981777548789978,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course includes 'Project Documentation' as a core learning topic, which covers the reporting and documentation of the developed system."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.7154483433677971,
+      "cross_encoder_score": 0.9763145446777344,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": null
+    },
+    {
+      "preferred_label": "execute feasibility study",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "confidence": 0.7067567799276646,
+      "cross_encoder_score": 0.9599444270133972,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course objectives include evaluating the feasibility of the information system and proposing improvements."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.7520913627025698,
+      "cross_encoder_score": 0.9927923679351807,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content mentions project documentation and execution but does not explicitly cover configuration management processes like version control, baselines, or CI identification."
+    },
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "confidence": 0.7499837975493224,
+      "cross_encoder_score": 0.9926992058753967,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course explicitly includes 'Project Planning' and 'Project Execution' as lessons, which are core components of project management."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7330619801808239,
+      "cross_encoder_score": 0.9842697381973267,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course covers software design, it does not explicitly mention teaching specific software design methodologies like Scrum, V-model, or Waterfall."
+    },
+    {
+      "preferred_label": "ICT project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "confidence": 0.7457112686010542,
+      "cross_encoder_score": 0.9914876222610474,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers the design, implementation, and documentation of information systems projects, which aligns with ICT project management."
+    },
+    {
+      "preferred_label": "lean project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "confidence": 0.7440477840711819,
+      "cross_encoder_score": 0.9897026419639587,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content does not mention Lean project management methodology."
+    },
+    {
+      "preferred_label": "ICT project management methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "confidence": 0.7435476510656723,
+      "cross_encoder_score": 0.9925500154495239,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers project planning and execution but does not explicitly teach specific ICT project management methodologies like Agile or Waterfall."
+    },
+    {
+      "preferred_label": "Agile project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "confidence": 0.7330667551809615,
+      "cross_encoder_score": 0.988576352596283,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content does not mention Agile project management."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.7168268556562691,
+      "cross_encoder_score": 0.9849168658256531,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course explicitly mentions 'information systems design and deployment' as a key objective."
+    },
+    {
+      "preferred_label": "Process-based management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "confidence": 0.7246018120689497,
+      "cross_encoder_score": 0.9884373545646667,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not explicitly mention process-based management as a methodology."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.7112562759647734,
+      "cross_encoder_score": 0.9663631319999695,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not explicitly mention prototyping as a development model."
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,1653 @@
+{
+  "course_code": "SC6263",
+  "concept_tags": [
+    {
+      "text": "jQuery",
+      "normalized": "jquery"
+    },
+    {
+      "text": "Bootstrap technologies",
+      "normalized": "bootstrap technologies"
+    },
+    {
+      "text": "website interfaces",
+      "normalized": "website interfaces"
+    },
+    {
+      "text": "Bootstrap",
+      "normalized": "bootstrap"
+    },
+    {
+      "text": "website design",
+      "normalized": "website design"
+    },
+    {
+      "text": "teamwork",
+      "normalized": "teamwork"
+    },
+    {
+      "text": "webpage design",
+      "normalized": "webpage design"
+    },
+    {
+      "text": "jQuery library",
+      "normalized": "jquery library"
+    },
+    {
+      "text": "jQuery effects",
+      "normalized": "jquery effects"
+    },
+    {
+      "text": "jQuery HTML interaction",
+      "normalized": "jquery html interaction"
+    },
+    {
+      "text": "traversing HTML documents",
+      "normalized": "traversing html documents"
+    },
+    {
+      "text": "jQuery DOM traversal",
+      "normalized": "jquery dom traversal"
+    },
+    {
+      "text": "jQuery Ajax integration",
+      "normalized": "jquery ajax integration"
+    },
+    {
+      "text": "Bootstrap framework",
+      "normalized": "bootstrap framework"
+    },
+    {
+      "text": "Bootstrap components",
+      "normalized": "bootstrap components"
+    },
+    {
+      "text": "Bootstrap forms",
+      "normalized": "bootstrap forms"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MOTA_MAIN",
+        "SC6263_MUCTIEU_MT1",
+        "SC6263_MUCTIEU_MT2",
+        "SC6263_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "bootstrap technologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MOTA_MAIN",
+        "SC6263_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "website interfaces",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "bootstrap",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MUCTIEU_MT2",
+        "SC6263_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "website design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "teamwork",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "webpage design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery library",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery effects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L03",
+        "SC6263_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery html interaction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L05",
+        "SC6263_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "traversing html documents",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L07",
+        "SC6263_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery dom traversal",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L07",
+        "SC6263_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "jquery ajax integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L09",
+        "SC6263_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "bootstrap framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "bootstrap components",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L12",
+        "SC6263_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6263",
+      "concept_tag": "bootstrap forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6263_BAIHOC_L14",
+        "SC6263_BAIHOC_L15"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7634833959934813,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "esco_label": "compose description for web elements",
+      "confidence": 0.749695930621961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7493237688297838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "esco_label": "maintain responsive design",
+      "confidence": 0.7534227209606068,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.7466385125797742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7318304623007494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7381163217452332,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.7027291530516947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7005526583066525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.6701200636340604,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "esco_label": "manage ICT semantic integration",
+      "confidence": 0.6678727480423201,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "esco_label": "manage ICT semantic integration",
+      "confidence": 0.6678727480423201,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "esco_label": "manage ICT semantic integration",
+      "confidence": 0.6678727480423201,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "esco_label": "manage ICT semantic integration",
+      "confidence": 0.6678727480423201,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6609956789072626,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "esco_label": "interact with users to gather requirements",
+      "confidence": 0.6352543600868966,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6075525666724018,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7923359216243376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.777600247843371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7340973239629461,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "esco_label": "web analytics",
+      "confidence": 0.7314770617625368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7200241129797011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.715215486334027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "esco_label": "JSSS",
+      "confidence": 0.6071106540339195,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5405390052941682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery dom traversal",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery ajax integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bootstrap components",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "teamwork",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.5403846096067818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "webpage design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery library",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery effects",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jquery html interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "traversing html documents",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "esco_label": "CSS",
+      "confidence": 0.5389544795212533,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 16,
+    "total_has_concept_edges": 16,
+    "total_evidence_for_edges": 205
+  }
+}

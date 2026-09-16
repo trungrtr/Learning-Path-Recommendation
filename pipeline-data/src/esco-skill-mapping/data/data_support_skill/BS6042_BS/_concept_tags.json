@@ -1,0 +1,253 @@
+{
+  "course_code": "BS6042_BS",
+  "concept_tags": [
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "quantitative reasoning",
+      "normalized": "quantitative reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "evidence-based decision making",
+      "normalized": "evidence-based decision making",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "systematic problem solving",
+      "normalized": "systematic problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "uncertainty management",
+      "normalized": "uncertainty management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "deductive reasoning",
+      "normalized": "deductive reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "data literacy",
+      "normalized": "data literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "intellectual rigor",
+      "normalized": "intellectual rigor",
+      "loai": "cognitive"
+    },
+    {
+      "text": "scientific inquiry",
+      "normalized": "scientific inquiry",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "quantitative reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "evidence-based decision making",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "systematic problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "uncertainty management",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "deductive reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "data literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "intellectual rigor",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6042_BS",
+      "concept_tag": "scientific inquiry",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.856525,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific inquiry",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.856525,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.728364,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific inquiry",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.728364,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.682936,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "intellectual rigor",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.682936,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific inquiry",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.682936,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.676498,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.676498,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.654673,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.654673,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.59998,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.59998,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "deductive reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.59998,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.570961,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.570961,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "evidence-based decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+      "esco_label": "market analysis",
+      "confidence": 0.569627,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 17
+  }
+}

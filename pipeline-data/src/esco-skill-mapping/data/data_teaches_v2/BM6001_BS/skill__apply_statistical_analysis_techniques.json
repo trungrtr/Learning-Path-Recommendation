@@ -1,0 +1,51 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+    "preferred_label": "apply statistical analysis techniques",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.69837,
+    "cross_encoder_score": 0.9858,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "CLO_4",
+      "text": "Mô tả và tính toán được các chỉ tiêu đo lường kinh tế vĩ mô cơ bản như GDP, GNP và mối quan hệ giữa tăng trưởng, lạm phát, thất nghiệp.",
+      "meta": {
+        "matched_mention": "economic growth analysis"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": 4.5491,
+      "dense_score": 0.3236,
+      "rrf_score": 0.0277,
+      "retrieval_sources": [
+        "faiss",
+        "bm25"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

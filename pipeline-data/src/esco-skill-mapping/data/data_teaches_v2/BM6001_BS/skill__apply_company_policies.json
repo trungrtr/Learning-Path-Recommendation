@@ -1,0 +1,50 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f",
+    "preferred_label": "apply company policies",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.64043,
+    "cross_encoder_score": 0.908,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "CLO_1",
+      "text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+      "meta": {
+        "matched_mention": "core economic laws"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": null,
+      "dense_score": 0.4313,
+      "rrf_score": 0.0161,
+      "retrieval_sources": [
+        "faiss"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+    "preferred_label": "integrated development environment software",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6232",
+    "course_title": "Embedded Programming and IoT"
+  },
+  "support_context": {
+    "support_concept_origin": "hardware-software integration; resource-constrained optimization",
+    "evidence_text": "Course: Embedded Programming and IoT"
+  },
+  "scoring": {
+    "final_score": 0.563924,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Programming embedded systems requires the use of specialized IDEs, compilers, and debuggers to interface with hardware.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

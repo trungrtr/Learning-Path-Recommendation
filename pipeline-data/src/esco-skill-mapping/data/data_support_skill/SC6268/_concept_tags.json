@@ -1,0 +1,276 @@
+{
+  "course_code": "SC6268",
+  "concept_tags": [
+    {
+      "text": "active listening",
+      "normalized": "active listening",
+      "loai": "cognitive"
+    },
+    {
+      "text": "interpersonal communication",
+      "normalized": "interpersonal communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "negotiation skills",
+      "normalized": "negotiation skills",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional documentation standards",
+      "normalized": "professional documentation standards",
+      "loai": "foundational"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical inquiry",
+      "normalized": "critical inquiry",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical writing",
+      "normalized": "technical writing",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to change",
+      "normalized": "adaptability to change",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project lifecycle awareness",
+      "normalized": "project lifecycle awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "cross-functional collaboration",
+      "normalized": "cross-functional collaboration",
+      "loai": "foundational"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    },
+    {
+      "text": "persuasive communication",
+      "normalized": "persuasive communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6268",
+      "concept_tag": "active listening",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "interpersonal communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "negotiation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "professional documentation standards",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "critical inquiry",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "technical writing",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "adaptability to change",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "project lifecycle awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "cross-functional collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "persuasive communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6268",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "cross-functional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.82189,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.82189,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "esco_label": "documentation types",
+      "confidence": 0.817595,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "esco_label": "documentation types",
+      "confidence": 0.817595,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.775195,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.775195,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.601887,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.601887,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95",
+      "esco_label": "business strategy concepts",
+      "confidence": 0.599575,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95",
+      "esco_label": "business strategy concepts",
+      "confidence": 0.599575,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.57529,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.57529,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.57529,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.556374,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.556374,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.556374,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 15,
+    "total_has_concept_edges": 15,
+    "total_evidence_for_edges": 16
+  }
+}

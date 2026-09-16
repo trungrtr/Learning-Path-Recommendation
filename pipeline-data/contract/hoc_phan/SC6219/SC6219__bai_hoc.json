@@ -1,0 +1,104 @@
+{
+  "records": [
+    {
+      "ten_bai": "Giới thiệu về lập trình di động và thiết kế giao diện trên Android",
+      "noi_dung_tom_tat": "Bài học giới thiệu tổng quan về hệ điều hành Android, các công cụ phát triển và nguyên lý thiết kế giao diện người dùng (UI). Sinh viên sẽ làm quen với cấu trúc dự án và cách bố trí các thành phần trên màn hình.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Introduction to Mobile Programming and Android UI Design",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành xây dựng giao diện ứng dụng",
+      "noi_dung_tom_tat": "Tập trung thực hành xây dựng bố cục (Layouts) như LinearLayout, ConstraintLayout và thiết kế các thành phần UI cơ bản. Học viên trực tiếp thiết kế các màn hình ứng dụng hoàn chỉnh bằng công cụ Layout Editor.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "App UI Development Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xử lý sự kiện trên giao diện ứng dụng",
+      "noi_dung_tom_tat": "Cung cấp kiến thức về cơ chế lắng nghe sự kiện (Event Listener) đối với các tương tác người dùng như click, touch hay nhập liệu. Đây là nền tảng để biến giao diện tĩnh thành các ứng dụng có tính tương tác.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Event Handling in App User Interfaces",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành xử lý sự kiện trên giao diện ứng dụng",
+      "noi_dung_tom_tat": "Thực hành kết nối mã nguồn Java/Kotlin với giao diện để xử lý các sự kiện thực tế. Sinh viên sẽ viết code để đáp ứng các hành vi của người dùng trên ứng dụng Android.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "App UI Event Handling Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thao tác với Menu và Intent",
+      "noi_dung_tom_tat": "Hướng dẫn cách tạo lập Menu ngữ cảnh và Menu tùy chọn để điều hướng người dùng. Đồng thời giới thiệu Intent như một thông điệp để kết nối các thành phần trong ứng dụng.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Working with Menus and Intents",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Intent",
+      "noi_dung_tom_tat": "Đi sâu vào Intent, bao gồm Implicit Intent và Explicit Intent để khởi chạy Activity hoặc gửi dữ liệu giữa các màn hình. Học viên sẽ hiểu cách chuyển đổi trạng thái giữa các màn hình trong ứng dụng.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Intent",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Lưu trữ dữ liệu với file",
+      "noi_dung_tom_tat": "Tìm hiểu các phương pháp lưu trữ dữ liệu đơn giản trên thiết bị bằng cách sử dụng File I/O. Nội dung bao gồm việc đọc, ghi và quản lý tệp tin trong bộ nhớ nội bộ.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "File Data Storage",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành lưu trữ dữ liệu với file",
+      "noi_dung_tom_tat": "Thực hành trực tiếp việc ghi dữ liệu cấu hình hoặc tệp văn bản vào bộ nhớ ứng dụng. Sinh viên thực hiện các thao tác thao tác tệp tin qua code để đảm bảo tính toàn vẹn dữ liệu.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "File Data Storage Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Tương tác với cơ sở dữ liệu SQLite",
+      "noi_dung_tom_tat": "Giới thiệu về cơ sở dữ liệu SQLite, một giải pháp lưu trữ có cấu trúc phổ biến trên Android. Nội dung bao gồm việc thiết kế schema và các truy vấn SQL cơ bản.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Interacting with SQLite Databases",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành tương tác với cơ sở dữ liệu SQLite",
+      "noi_dung_tom_tat": "Thực hành lập trình các chức năng Thêm, Sửa, Xóa và Truy vấn (CRUD) dữ liệu từ SQLite. Sinh viên sẽ tích hợp các hàm xử lý cơ sở dữ liệu vào ứng dụng Android thực tế.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "SQLite Database Interaction Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành",
+      "noi_dung_tom_tat": "Buổi thực hành tổng hợp các kỹ năng đã học bao gồm giao diện, xử lý sự kiện và lưu trữ dữ liệu. Học viên hoàn thành một chức năng hoặc mini-project cụ thể để kiểm tra kiến thức tổng quan.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Practice",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "78d26533a11855062ccca12ef202ec2e"
+}

@@ -1,0 +1,3714 @@
+[
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+    "skill_label": "communicate with customers",
+    "skill_type": "skill",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.9981,
+      "dense_score": 0.4425,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Consumer preferences are studied as an economic theory, not as a practical skill for communicating with customers.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016405Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+    "skill_label": "interact with users to gather requirements",
+    "skill_type": "skill",
+    "matched_mention": "demand analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0237,
+      "cross_encoder_score": 0.9979,
+      "dense_score": 0.4071,
+      "bm25_score": 2.9734,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers supply-demand theory as an economic concept, not the professional skill of gathering user requirements for product development.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016432Z",
+    "source_field": "lesson_23",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Chapter 2: Supply and Demand",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+    "skill_label": "assist customers",
+    "skill_type": "skill",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.9977,
+      "dense_score": 0.515,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course teaches consumer behavior theory as an academic subject, not the customer service skill of assisting clients with purchasing decisions.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016460Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+    "skill_label": "consult with business clients",
+    "skill_type": "skill",
+    "matched_mention": "business decision making",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0284,
+      "cross_encoder_score": 0.9976,
+      "dense_score": 0.5357,
+      "bm25_score": 4.5337,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "While the course teaches business decision-making based on economic theory, it does not teach the interpersonal skill of consulting with business clients.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016474Z",
+    "source_field": "CLO_3",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Vận dụng lý thuyết về hành vi người tiêu dùng, lý thuyết sản xuất và lý thuyết chi phí để đưa ra các quyết định tối ưu trong kinh doanh.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c",
+    "skill_label": "maintain relationship with suppliers",
+    "skill_type": "skill",
+    "matched_mention": "supply theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9975,
+      "dense_score": 0.4436,
+      "llm_verification_confidence": 0.95
+    },
+    "llm_reasoning": "Supply theory in economics deals with market variables, not the relationship management skill of dealing with suppliers.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016502Z",
+    "source_field": "lesson_26",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 4: Supply",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/00e53a0a-c0ba-4c9f-a2ed-4706d5832a00",
+    "skill_label": "guarantee customer satisfaction",
+    "skill_type": "skill",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9972,
+      "dense_score": 0.4942,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers consumer behavior theory (preferences) from an economic perspective, not the practical skill of customer service or satisfaction management.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016514Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6",
+    "skill_label": "create business process models",
+    "skill_type": "skill",
+    "matched_mention": "business production analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0286,
+      "cross_encoder_score": 0.9961,
+      "dense_score": 0.5822,
+      "bm25_score": 4.5745,
+      "llm_verification_confidence": 0.7
+    },
+    "llm_reasoning": "The course covers production theory and cost theory, but does not teach the creation of formal business process models or organizational structures.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016604Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9bb7a97a-1a16-431e-8ea6-ad0f9f59aa0a",
+    "skill_label": "control objectives for information and related technology",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic objectives",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.032,
+      "cross_encoder_score": 0.9961,
+      "dense_score": 0.4288,
+      "bm25_score": 5.9049,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers macroeconomic indicators, not IT governance or COBIT frameworks.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016616Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+    "skill_label": "propose ICT solutions to business problems",
+    "skill_type": "skill",
+    "matched_mention": "business decision making",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.027,
+      "cross_encoder_score": 0.996,
+      "dense_score": 0.4967,
+      "bm25_score": 4.7452,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course focuses on economic theory and business decision-making, not ICT-based solutions.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016629Z",
+    "source_field": "CLO_3",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Vận dụng lý thuyết về hành vi người tiêu dùng, lý thuyết sản xuất và lý thuyết chi phí để đưa ra các quyết định tối ưu trong kinh doanh.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2",
+    "skill_label": "business requirements techniques",
+    "skill_type": "knowledge",
+    "matched_mention": "business production analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0292,
+      "cross_encoder_score": 0.996,
+      "dense_score": 0.6118,
+      "bm25_score": 4.5422,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Business decision-making in this course is based on economic theory (cost/production), not formal business requirements analysis techniques.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016655Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7a17d7ce-01a2-4746-bbcc-22ffe22fa16e",
+    "skill_label": "monitor technology trends",
+    "skill_type": "skill",
+    "matched_mention": "market equilibrium analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0274,
+      "cross_encoder_score": 0.9953,
+      "dense_score": 0.3551,
+      "bm25_score": 4.5853,
+      "llm_verification_confidence": 0.95
+    },
+    "llm_reasoning": "The course focuses on economic theory and market equilibrium, not on monitoring or anticipating technological trends.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016717Z",
+    "source_field": "CLO_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Giải thích và phân tích được lý thuyết cung – cầu, sự cân bằng thị trường và tác động từ sự can thiệp của chính phủ vào thị trường.",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f642d7ed-e8d7-4355-a747-b85094d4e2e3",
+    "skill_label": "prioritise requests",
+    "skill_type": "skill",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.9953,
+      "dense_score": 0.4414,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Consumer preferences are studied as a theoretical concept in microeconomics, not as a task for prioritizing customer service requests.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016808Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/41bf7ede-fc84-4a57-8c89-b548d11b0ba1",
+    "skill_label": "manage business knowledge",
+    "skill_type": "skill",
+    "matched_mention": "business production analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0253,
+      "cross_encoder_score": 0.9952,
+      "dense_score": 0.5141,
+      "bm25_score": 3.959,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course focuses on economic theory and decision-making rather than the management of business knowledge structures or information systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016819Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb",
+    "skill_label": "business process modelling",
+    "skill_type": "knowledge",
+    "matched_mention": "business production analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0271,
+      "cross_encoder_score": 0.995,
+      "dense_score": 0.5452,
+      "bm25_score": 4.5295,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers production theory (costs/output), but does not teach business process modeling notations like BPMN.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016829Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "skill_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0261,
+      "cross_encoder_score": 0.9949,
+      "dense_score": 0.4957,
+      "bm25_score": 3.2985,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course discusses resource scarcity in an economic context, not ICT project management methodologies.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016838Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+    "skill_label": "hardware components suppliers",
+    "skill_type": "knowledge",
+    "matched_mention": "supply theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.9948,
+      "dense_score": 0.3936,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers supply theory in economics, which is a general market concept, not the specific procurement of hardware components.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016847Z",
+    "source_field": "lesson_26",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 4: Supply",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+    "skill_label": "industrial research and development",
+    "skill_type": "knowledge",
+    "matched_mention": "production theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0305,
+      "cross_encoder_score": 0.9948,
+      "dense_score": 0.4121,
+      "bm25_score": 4.8849,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course covers production theory as an economic concept, not the specific industrial R&D activities for innovation.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016855Z",
+    "source_field": "CLO_3",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Vận dụng lý thuyết về hành vi người tiêu dùng, lý thuyết sản xuất và lý thuyết chi phí để đưa ra các quyết định tối ưu trong kinh doanh.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+    "skill_label": "software interaction design",
+    "skill_type": "knowledge",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0265,
+      "cross_encoder_score": 0.9946,
+      "dense_score": 0.3266,
+      "bm25_score": 4.8285,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Consumer preferences in this course refer to indifference curves and utility theory, which is unrelated to software interaction design.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016873Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3",
+    "skill_label": "design process",
+    "skill_type": "skill",
+    "matched_mention": "resource scarcity analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0286,
+      "cross_encoder_score": 0.9945,
+      "dense_score": 0.3249,
+      "bm25_score": 4.4676,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers the concept of resource scarcity in an economic context, not the technical design process or workflow management using simulation software.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016886Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+    "skill_label": "report analysis results",
+    "skill_type": "skill",
+    "matched_mention": "supply analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.9945,
+      "bm25_score": 4.9956,
+      "llm_verification_confidence": 0.7
+    },
+    "llm_reasoning": "While the course teaches analysis, there is no explicit evidence that it teaches the professional skill of reporting analysis results (e.g., documentation or presentation techniques).",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016907Z",
+    "source_field": "lesson_23",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 2: Supply and Demand",
+    "evidence_count": 6,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+    "skill_label": "conduct search engine optimisation",
+    "skill_type": "skill",
+    "matched_mention": "optimal consumption theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0275,
+      "cross_encoder_score": 0.9941,
+      "dense_score": 0.3872,
+      "bm25_score": 5.5124,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "This is a false positive; optimal consumption theory is an economic concept unrelated to search engine optimization.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016915Z",
+    "source_field": "lesson_32",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 9: Optimal Consumption",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74",
+    "skill_label": "perform procurement processes",
+    "skill_type": "skill",
+    "matched_mention": "supply analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.994,
+      "dense_score": 0.4764,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers supply theory, but not the operational procurement processes of ordering goods or services.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016923Z",
+    "source_field": "lesson_23",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chapter 2: Supply and Demand",
+    "evidence_count": 8,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+    "skill_label": "state estimation",
+    "skill_type": "knowledge",
+    "matched_mention": "national output measurement",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9938,
+      "dense_score": 0.5213,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "State estimation is a technical engineering/energy term; while the course covers macroeconomic measurement, it does not teach state estimation in the ESCO sense.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016933Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 6,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+    "skill_label": "improve business processes",
+    "skill_type": "skill",
+    "matched_mention": "optimal consumption theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9933,
+      "dense_score": 0.4733,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "Optimal consumption theory is a theoretical economic concept, not a methodology for improving organizational business processes.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016969Z",
+    "source_field": "lesson_32",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 9: Optimal Consumption",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+    "skill_label": "lean project management",
+    "skill_type": "knowledge",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0282,
+      "cross_encoder_score": 0.9932,
+      "dense_score": 0.5201,
+      "bm25_score": 4.1227,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course discusses resource allocation, but does not teach lean project management methodologies or ICT tools for project oversight.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016990Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+    "skill_label": "deploy cloud resource",
+    "skill_type": "skill",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0292,
+      "cross_encoder_score": 0.9927,
+      "dense_score": 0.5366,
+      "bm25_score": 4.1932,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "This is a false positive. Resource scarcity in economics refers to limited factors of production, not cloud resource provisioning.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.016999Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+    "skill_label": "software components suppliers",
+    "skill_type": "knowledge",
+    "matched_mention": "supply theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.992,
+      "dense_score": 0.3709,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Supply theory in economics refers to the relationship between price and quantity supplied, which is unrelated to the procurement of software components.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017057Z",
+    "source_field": "lesson_26",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 4: Supply",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+    "skill_label": "Process-based management",
+    "skill_type": "knowledge",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0286,
+      "cross_encoder_score": 0.9919,
+      "dense_score": 0.5173,
+      "bm25_score": 4.1942,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Resource management in this course refers to the economic concept of scarcity and allocation, not the ICT-focused process-based management methodology.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017075Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+    "skill_label": "documentation types",
+    "skill_type": "knowledge",
+    "matched_mention": "economic cycle analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9917,
+      "bm25_score": 6.3963,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers economic cycles as a theoretical concept, not the documentation types or product life cycle documentation mentioned in the skill definition.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017085Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+    "skill_label": "data quality assessment",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic impact assessment",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0267,
+      "cross_encoder_score": 0.9915,
+      "dense_score": 0.3183,
+      "bm25_score": 4.7349,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "Macroeconomic impact assessment in this course refers to economic analysis, not the technical process of data quality assessment or cleansing.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017095Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e",
+    "skill_label": "implement strategic planning",
+    "skill_type": "skill",
+    "matched_mention": "government intervention",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0143,
+      "cross_encoder_score": 0.9914,
+      "dense_score": 0.3329,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course teaches the theory of government intervention, but not the strategic planning implementation skills for organizations.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017105Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e",
+    "skill_label": "quality standards",
+    "skill_type": "knowledge",
+    "matched_mention": "national output measurement",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0306,
+      "cross_encoder_score": 0.9913,
+      "dense_score": 0.3508,
+      "bm25_score": 6.5149,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers macroeconomic measurement (GDP/GNP) but does not teach quality standards or specifications for products and services.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017125Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "skill_label": "Agile project management",
+    "skill_type": "knowledge",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0252,
+      "cross_encoder_score": 0.9912,
+      "dense_score": 0.4553,
+      "bm25_score": 4.1227,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course discusses resource scarcity and allocation, but not Agile project management methodologies.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017143Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+    "skill_label": "information security strategy",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic objectives",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9907,
+      "bm25_score": 4.1122,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "There is no overlap between macroeconomic objectives and information security strategy.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017163Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c",
+    "skill_label": "implement corporate governance",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic objectives",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0266,
+      "cross_encoder_score": 0.9905,
+      "dense_score": 0.3472,
+      "bm25_score": 3.599,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers macroeconomic theory, not the internal corporate governance mechanisms or management procedures of an organization.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017185Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+    "skill_label": "apply ICT systems theory",
+    "skill_type": "skill",
+    "matched_mention": "demand theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9904,
+      "bm25_score": 7.4135,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Supply-demand theory is an economic concept, not an ICT systems theory concept.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017204Z",
+    "source_field": "lesson_25",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Unit 3: Demand",
+    "evidence_count": 12,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+    "skill_label": "systems development life-cycle",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic systems",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.023,
+      "cross_encoder_score": 0.9903,
+      "dense_score": 0.3417,
+      "bm25_score": 2.2758,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers macroeconomic indicators, not the software/systems development life-cycle.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017223Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+    "skill_label": "carry out statistical forecasts",
+    "skill_type": "skill",
+    "matched_mention": "indifference curves",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.9902,
+      "dense_score": 0.2415,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Indifference curves are a theoretical tool for consumer behavior, not a method for statistical forecasting.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017239Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+    "skill_label": "implement ICT security policies",
+    "skill_type": "skill",
+    "matched_mention": "government intervention",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.9897,
+      "dense_score": 0.3373,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Government intervention in economics refers to fiscal/monetary policy, not ICT security policies.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017251Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+    "skill_label": "manage schedule of tasks",
+    "skill_type": "skill",
+    "matched_mention": "economics overview",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.989,
+      "bm25_score": 5.5983,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "An overview of economics does not equate to the professional skill of managing task schedules.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017285Z",
+    "source_field": "lesson_21",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Unit 1: Overview of Economics",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/23ac233d-84ad-4517-b0f5-8ca19ba2614e",
+    "skill_label": "monitor developments in field of expertise",
+    "skill_type": "skill",
+    "matched_mention": "market regulation",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0275,
+      "cross_encoder_score": 0.9886,
+      "dense_score": 0.4361,
+      "bm25_score": 4.5115,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course teaches the theory of government intervention, not the professional skill of monitoring labor market regulations or field developments.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017296Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 6,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+    "skill_label": "estimate duration of work",
+    "skill_type": "skill",
+    "matched_mention": "gnp calculation",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.988,
+      "dense_score": 0.2647,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Calculating GDP/GNP is a macroeconomic measurement task, not a project management task related to estimating the duration of work.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017310Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+    "skill_label": "resource description framework query language",
+    "skill_type": "knowledge",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0288,
+      "cross_encoder_score": 0.9879,
+      "dense_score": 0.4828,
+      "bm25_score": 6.3016,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers economic resource scarcity, not the technical RDF query language used in computer science.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017320Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+    "skill_label": "manage standard enterprise resource planning system",
+    "skill_type": "skill",
+    "matched_mention": "resource management",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0323,
+      "cross_encoder_score": 0.9875,
+      "dense_score": 0.6496,
+      "bm25_score": 6.1043,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course discusses resource scarcity in an economic sense, not the management of ERP software systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017330Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b",
+    "skill_label": "recruit employees",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic policy instruments",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9866,
+      "bm25_score": 5.5272,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers macroeconomic theory, not human resources or recruitment processes.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017350Z",
+    "source_field": "lesson_36",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Unit 13: Macroeconomic Systems, Objectives, and Instruments",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f",
+    "skill_label": "Outsourcing model",
+    "skill_type": "knowledge",
+    "matched_mention": "economics fundamentals",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9863,
+      "bm25_score": 4.3934,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers economic fundamentals, which is unrelated to the technical outsourcing models for software or business systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017362Z",
+    "source_field": "lesson_20",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 1: Introduction to Economics",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+    "skill_label": "core banking software",
+    "skill_type": "knowledge",
+    "matched_mention": "core economic laws",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0283,
+      "cross_encoder_score": 0.9861,
+      "dense_score": 0.3114,
+      "bm25_score": 8.284,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers economic laws, which is unrelated to core banking software systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017375Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+    "skill_label": "data models",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic systems",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0216,
+      "cross_encoder_score": 0.9859,
+      "dense_score": 0.3306,
+      "bm25_score": 2.2037,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course discusses macroeconomic indicators, but does not teach the technical skill of designing or interpreting data models.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017383Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+    "skill_label": "social network analysis",
+    "skill_type": "knowledge",
+    "matched_mention": "unemployment analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0261,
+      "cross_encoder_score": 0.9852,
+      "dense_score": 0.2686,
+      "bm25_score": 4.5993,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Unemployment analysis in this course refers to macroeconomic indicators, not the sociological research method of social network analysis.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017394Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d",
+    "skill_label": "build predictive models",
+    "skill_type": "skill",
+    "matched_mention": "gnp calculation",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9852,
+      "dense_score": 0.3219,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "Calculating GDP/GNP is a measurement task, not the creation of predictive models for probability outcomes.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017407Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e8f80ec5-c423-4eb2-9f0f-805d22f844ae",
+    "skill_label": "incidents and accidents recording",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.985,
+      "dense_score": 0.2654,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'cầu' (demand) is an economic concept and has no relation to workplace incident reporting.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017418Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+    "skill_label": "normalise data",
+    "skill_type": "skill",
+    "matched_mention": "core economic laws",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9838,
+      "bm25_score": 5.7785,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Core economic laws refer to principles like supply and demand, not the technical data management skill of normalizing database records.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017427Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+    "skill_label": "service-oriented modelling",
+    "skill_type": "knowledge",
+    "matched_mention": "economics fundamentals",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9837,
+      "bm25_score": 4.4543,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Economics fundamentals are theoretical principles, not the technical skill of service-oriented modelling for IT/business architecture.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017440Z",
+    "source_field": "lesson_20",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 1: Introduction to Economics",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+    "skill_label": "audit techniques",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic tools",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0201,
+      "cross_encoder_score": 0.9834,
+      "dense_score": 0.3529,
+      "bm25_score": 2.0754,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course teaches macroeconomic indicators, not the technical audit techniques or software-based examination of data.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017449Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0aa02c52-077d-45f8-8c2d-7132c11ac16e",
+    "skill_label": "carry out strategic research",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic policy instruments",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9834,
+      "dense_score": 0.4043,
+      "llm_verification_confidence": 0.8
+    },
+    "llm_reasoning": "The course covers macroeconomic theory, but does not focus on the strategic research planning process for organizational improvements.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017456Z",
+    "source_field": "lesson_36",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 13: Macroeconomic Systems, Objectives, and Instruments",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+    "skill_label": "hybrid model",
+    "skill_type": "knowledge",
+    "matched_mention": "economics fundamentals",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.9826,
+      "bm25_score": 4.3934,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers economics fundamentals, which is unrelated to the 'hybrid model' of service-oriented business systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017464Z",
+    "source_field": "lesson_20",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 1: Introduction to Economics",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11",
+    "skill_label": "comply with legal regulations",
+    "skill_type": "skill",
+    "matched_mention": "basic economic laws",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9825,
+      "dense_score": 0.4612,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers economic laws (e.g., law of supply and demand), which are descriptive scientific principles, not legal regulations that require compliance.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017476Z",
+    "source_field": "lesson_22",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 2: Basic Economic Laws",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048",
+    "skill_label": "marketing analytics",
+    "skill_type": "knowledge",
+    "matched_mention": "government market intervention",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.9823,
+      "dense_score": 0.4035,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers general economic theory and government intervention, but does not cover marketing-specific analytics or ROI for marketing activities.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017484Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/fa642fc3-5cc5-41cf-8926-6617a8b976a7",
+    "skill_label": "promote the participation of citizens in scientific and research activities",
+    "skill_type": "skill",
+    "matched_mention": "government intervention",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.9803,
+      "dense_score": 0.3339,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers government intervention in markets as an economic concept, not the promotion of citizen participation in scientific research.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017494Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+    "skill_label": "internal risk management policy",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic impact assessment",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0263,
+      "cross_encoder_score": 0.9802,
+      "dense_score": 0.3297,
+      "bm25_score": 3.739,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course discusses macroeconomic impacts on business, but does not teach internal IT risk management policies.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017506Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+    "skill_label": "Open source model",
+    "skill_type": "knowledge",
+    "matched_mention": "economics fundamentals",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9801,
+      "bm25_score": 4.2765,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Economics fundamentals are distinct from the open source model for software and service-oriented business systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017513Z",
+    "source_field": "lesson_20",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 1: Introduction to Economics",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+    "skill_label": "ICT sales methodologies",
+    "skill_type": "knowledge",
+    "matched_mention": "economics",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0143,
+      "cross_encoder_score": 0.9801,
+      "dense_score": 0.3364,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers general economics, not specific ICT sales methodologies like SPIN or SNAP selling.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017520Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+    "skill_label": "use e-procurement",
+    "skill_type": "skill",
+    "matched_mention": "tiêu dùng tối ưu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.9797,
+      "dense_score": 0.5171,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers 'optimal consumption' (tiêu dùng tối ưu) as a theoretical economic concept, not the use of e-procurement software.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017529Z",
+    "source_field": "lesson_13",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 9: Tiêu dùng tối ưu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+    "skill_label": "product data management",
+    "skill_type": "knowledge",
+    "matched_mention": "business production analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0272,
+      "cross_encoder_score": 0.9796,
+      "dense_score": 0.4865,
+      "bm25_score": 5.2154,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers production and cost theory, but not the technical product data management software or systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017538Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/8efa6a7a-6556-4cb8-908d-59d3b5c58d2f",
+    "skill_label": "cloud monitoring and reporting",
+    "skill_type": "knowledge",
+    "matched_mention": "gdp measurement",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.9795,
+      "dense_score": 0.3184,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers macroeconomic indicators like GDP, which is an economic measurement, not a cloud computing or IT infrastructure monitoring skill.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017545Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+    "skill_label": "provide customer follow-up services",
+    "skill_type": "skill",
+    "matched_mention": "hành vi người tiêu dùng",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0143,
+      "cross_encoder_score": 0.9792,
+      "dense_score": 0.4547,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers 'consumer behavior' as an economic theory, not as a customer service or support function.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017552Z",
+    "source_field": "lesson_5",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 3: Hành vi Người tiêu dùng – Người sản xuất",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/946c1229-1171-40d4-82cc-fe3f483ca100",
+    "skill_label": "perform escalation procedure",
+    "skill_type": "skill",
+    "matched_mention": "government intervention",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9786,
+      "dense_score": 0.3574,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Government intervention in economics refers to policy and regulation, not the IT/technical escalation procedures for support tickets.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017560Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+    "skill_label": "identify customer requirements",
+    "skill_type": "skill",
+    "matched_mention": "consumer preferences",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.9771,
+      "dense_score": 0.4416,
+      "llm_verification_confidence": 0.85
+    },
+    "llm_reasoning": "Consumer preferences are studied as a theoretical concept, not as a professional skill for eliciting user requirements.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017575Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+    "skill_label": "ICT performance analysis methods",
+    "skill_type": "knowledge",
+    "matched_mention": "resource scarcity analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0279,
+      "cross_encoder_score": 0.9765,
+      "dense_score": 0.3025,
+      "bm25_score": 6.497,
+      "llm_verification_confidence": 0.95
+    },
+    "llm_reasoning": "Resource scarcity is an economic concept, not an ICT performance analysis method.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017582Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+    "skill_label": "study website behaviour patterns",
+    "skill_type": "skill",
+    "matched_mention": "consumer behavior theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9763,
+      "dense_score": 0.4761,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Consumer behavior theory in economics refers to utility maximization and choice, not website tracking or online user experience optimization.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017589Z",
+    "source_field": "CLO_3",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Vận dụng lý thuyết về hành vi người tiêu dùng, lý thuyết sản xuất và lý thuyết chi phí để đưa ra các quyết định tối ưu trong kinh doanh.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+    "skill_label": "ICT infrastructure",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.9756,
+      "dense_score": 0.2534,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'cầu' (demand) in the course refers to economic demand, not ICT infrastructure.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017598Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+    "skill_label": "digital systems",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic systems",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0288,
+      "cross_encoder_score": 0.9741,
+      "dense_score": 0.3618,
+      "bm25_score": 3.1026,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Macroeconomic systems in this course refer to economic structures, not digital hardware or software systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017621Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+    "skill_label": "ICT architectural frameworks",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.974,
+      "dense_score": 0.2558,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'cầu' in the course refers to 'demand' in economics, not ICT architectural frameworks. This is a false positive based on keyword matching.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017630Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+    "skill_label": "ICT network security risks",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic impact assessment",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0255,
+      "cross_encoder_score": 0.9734,
+      "dense_score": 0.3184,
+      "bm25_score": 3.8011,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Macroeconomic impact assessment in this course refers to business strategy and economic fluctuations, not ICT network security risks.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017639Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+    "skill_label": "contract law",
+    "skill_type": "knowledge",
+    "matched_mention": "core economic laws",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9731,
+      "dense_score": 0.4186,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Core economic laws refer to principles like supply and demand, not legal contract law.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017645Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+    "skill_label": "optimise choice of ICT solution",
+    "skill_type": "skill",
+    "matched_mention": "optimal consumption theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.9723,
+      "dense_score": 0.5193,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Optimal consumption theory in economics refers to consumer utility maximization, not the selection of ICT solutions.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017652Z",
+    "source_field": "lesson_32",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 9: Optimal Consumption",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+    "skill_label": "engineering processes",
+    "skill_type": "knowledge",
+    "matched_mention": "production theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9722,
+      "dense_score": 0.4597,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Production theory in this course refers to microeconomic input-output relationships, not the engineering processes of developing technical systems.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017659Z",
+    "source_field": "CLO_3",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Vận dụng lý thuyết về hành vi người tiêu dùng, lý thuyết sản xuất và lý thuyết chi phí để đưa ra các quyết định tối ưu trong kinh doanh.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+    "skill_label": "ICT network routing",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.971,
+      "dense_score": 0.2901,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'cầu' refers to economic demand, not ICT network routing.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017674Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+    "skill_label": "trading software",
+    "skill_type": "knowledge",
+    "matched_mention": "economics overview",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.9708,
+      "dense_score": 0.4271,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course provides a theoretical overview of economics, not training in trading software.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017683Z",
+    "source_field": "lesson_21",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 1: Overview of Economics",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9",
+    "skill_label": "ensure compliance with legal requirements",
+    "skill_type": "skill",
+    "matched_mention": "ràng buộc ngân sách",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.9705,
+      "dense_score": 0.4262,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'ràng buộc ngân sách' refers to a consumer's budget constraint in microeconomics, not legal compliance.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017690Z",
+    "source_field": "lesson_12",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 8: Ràng buộc ngân sách/ Bài Kiểm tra thường xuyên 1",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+    "skill_label": "database development tools",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic tools",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9702,
+      "bm25_score": 3.4063,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Macroeconomic indicators are analytical concepts, not database development tools.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017698Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+    "skill_label": "create flowchart diagram",
+    "skill_type": "skill",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.9678,
+      "dense_score": 0.2903,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course uses supply and demand curves for analysis, but does not teach the creation of flowchart diagrams.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017705Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+    "skill_label": "ICT power consumption",
+    "skill_type": "knowledge",
+    "matched_mention": "optimal consumption theory",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0323,
+      "cross_encoder_score": 0.9674,
+      "dense_score": 0.5119,
+      "bm25_score": 10.0863,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Optimal consumption theory in economics refers to utility maximization, not ICT power consumption.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017713Z",
+    "source_field": "lesson_32",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 9: Optimal Consumption",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9",
+    "skill_label": "evaluate research activities",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic impact assessment",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.9605,
+      "bm25_score": 5.5322,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "The course covers macroeconomic impact assessment as a theoretical analysis, not as a research methodology for peer review.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017728Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/4e6d2538-a48e-48a7-8dad-14b067cfcb8b",
+    "skill_label": "TripleStore",
+    "skill_type": "knowledge",
+    "matched_mention": "resource scarcity analysis",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0263,
+      "cross_encoder_score": 0.959,
+      "dense_score": 0.3071,
+      "bm25_score": 4.2586,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Resource scarcity is an economic concept, not a database technology like TripleStore.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017736Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+    "skill_label": "publish academic research",
+    "skill_type": "skill",
+    "matched_mention": "kinh tế học đại cương",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.9571,
+      "dense_score": 0.3554,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "General economics is a subject of study, not a skill related to publishing academic research.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017743Z",
+    "source_field": "lesson_2",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 1: Khái quát về kinh tế học",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+    "skill_label": "telecom regulations",
+    "skill_type": "knowledge",
+    "matched_mention": "market regulation",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0315,
+      "cross_encoder_score": 0.951,
+      "dense_score": 0.5699,
+      "bm25_score": 5.0474,
+      "llm_verification_confidence": 0.9
+    },
+    "llm_reasoning": "Government intervention in the market is taught as a general economic principle, not specific to telecom regulations.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017759Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+    "skill_label": "information architecture",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.949,
+      "dense_score": 0.2533,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The mention of 'demand' (cầu) in an economic context is unrelated to the technical skill of information architecture.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017791Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+    "skill_label": "develop data processing applications",
+    "skill_type": "skill",
+    "matched_mention": "national output measurement",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.9417,
+      "bm25_score": 5.1934,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Measuring national output (GDP/GNP) is an economic analysis task, not software development.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017800Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+    "skill_label": "maintain relationship with customers",
+    "skill_type": "skill",
+    "matched_mention": "sở thích tiêu dùng",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.9371,
+      "dense_score": 0.3962,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Consumer preferences (sở thích tiêu dùng) in economics refers to utility theory, not the professional skill of customer relationship management.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017807Z",
+    "source_field": "lesson_11",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 7: Sở thích tiêu dùng và đường bàng quan.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/50597e96-9b6a-4736-ac79-dd80f36c0269",
+    "skill_label": "Metasploit",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.9337,
+      "dense_score": 0.3043,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "Metasploit is a cybersecurity tool. The course mention 'cung' refers to economic supply.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017815Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+    "skill_label": "collaborate with engineers",
+    "skill_type": "skill",
+    "matched_mention": "hành vi người sản xuất",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0143,
+      "cross_encoder_score": 0.9247,
+      "dense_score": 0.4045,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The course covers economic theory regarding producer behavior, not the technical collaboration with engineers on product design.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017831Z",
+    "source_field": "lesson_5",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 3: Hành vi Người tiêu dùng – Người sản xuất",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+    "skill_label": "network engineering",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "llm_verification",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.9218,
+      "dense_score": 0.2649,
+      "llm_verification_confidence": 1.0
+    },
+    "llm_reasoning": "The term 'cầu' (demand) in economics is unrelated to network engineering.",
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017839Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+    "skill_label": "identify legal requirements",
+    "skill_type": "skill",
+    "matched_mention": "core economic laws",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.7409,
+      "dense_score": 0.4131
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017934Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/5063a99f-975b-4a7c-85e3-69ecb375b4d3",
+    "skill_label": "internet governance",
+    "skill_type": "knowledge",
+    "matched_mention": "government intervention",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.7404,
+      "dense_score": 0.3357
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.017942Z",
+    "source_field": "lesson_29",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 6: Government Intervention in the Market",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f0010b93-5552-45cb-ad26-168c8168f319",
+    "skill_label": "Nexpose",
+    "skill_type": "knowledge",
+    "matched_mention": "gnp calculation",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.7354,
+      "dense_score": 0.264
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018016Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed",
+    "skill_label": "Ansible",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.7327,
+      "dense_score": 0.2469
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018057Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+    "skill_label": "principles of artificial intelligence",
+    "skill_type": "knowledge",
+    "matched_mention": "lý thuyết cầu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.7173,
+      "dense_score": 0.4211
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018076Z",
+    "source_field": "lesson_6",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 3: Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1",
+    "skill_label": "provide ICT consulting advice",
+    "skill_type": "skill",
+    "matched_mention": "tiêu dùng tối ưu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.7154,
+      "dense_score": 0.5088
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018093Z",
+    "source_field": "lesson_13",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 9: Tiêu dùng tối ưu",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+    "skill_label": "identify ICT system weaknesses",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic indicators",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.7113,
+      "bm25_score": 3.2719
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018115Z",
+    "source_field": "lesson_27",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Chapter 4: Basic Macroeconomic Indicators",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "skill_label": "ethics",
+    "skill_type": "knowledge",
+    "matched_mention": "economic concepts",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0267,
+      "cross_encoder_score": 0.7016,
+      "dense_score": 0.3546,
+      "bm25_score": 4.6982
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018133Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 4,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+    "skill_label": "design graphics",
+    "skill_type": "skill",
+    "matched_mention": "economic concepts",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.6992,
+      "bm25_score": 4.7804
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018183Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+    "skill_label": "ICT debugging tools",
+    "skill_type": "knowledge",
+    "matched_mention": "gdp measurement",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.6678,
+      "dense_score": 0.3465
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018212Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+    "skill_label": "tools for ICT test automation",
+    "skill_type": "knowledge",
+    "matched_mention": "gdp measurement",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.6639,
+      "dense_score": 0.335
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018225Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+    "skill_label": "statistics",
+    "skill_type": "knowledge",
+    "matched_mention": "theory of revenue",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0251,
+      "cross_encoder_score": 0.6627,
+      "dense_score": 0.2737,
+      "bm25_score": 2.5432
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018233Z",
+    "source_field": "lesson_35",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 12: Theory of Revenue and Profit",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/4a466c62-db7d-4905-9a41-f23214810acb",
+    "skill_label": "GIMP (graphics editor software)",
+    "skill_type": "knowledge",
+    "matched_mention": "gnp calculation",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.6171,
+      "dense_score": 0.3593
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018241Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 3,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/1ce4cddd-4a74-458e-a2d4-152ca939475a",
+    "skill_label": "OWASP ZAP",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.5625,
+      "dense_score": 0.2461
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018250Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+    "skill_label": "conduct impact evaluation of ICT processes on business",
+    "skill_type": "skill",
+    "matched_mention": "theory of cost",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.024,
+      "cross_encoder_score": 0.5583,
+      "dense_score": 0.2785,
+      "bm25_score": 2.3382
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018258Z",
+    "source_field": "lesson_34",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 11: Theory of Cost",
+    "evidence_count": 7,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+    "skill_label": "develop creative ideas",
+    "skill_type": "skill",
+    "matched_mention": "lý thuyết cầu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.5203,
+      "dense_score": 0.3607
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018265Z",
+    "source_field": "lesson_6",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 3: Cầu",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+    "skill_label": "Synfig",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0143,
+      "cross_encoder_score": 0.5145,
+      "dense_score": 0.2441
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018505Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2891f0dc-4426-4a9a-8fbb-db4fb0a66f91",
+    "skill_label": "Nessus",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.4564,
+      "dense_score": 0.2607
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018512Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+    "skill_label": "draw design sketches",
+    "skill_type": "skill",
+    "matched_mention": "đường bàng quan",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.4171,
+      "dense_score": 0.2537
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018518Z",
+    "source_field": "lesson_11",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 7: Sở thích tiêu dùng và đường bàng quan.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e79dab00-fe87-48f2-b8cc-f48b68bc7f35",
+    "skill_label": "WhiteHat Sentinel",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.3893,
+      "dense_score": 0.2491
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018525Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/557e9247-1a2d-4497-aa7f-0cded7768da1",
+    "skill_label": "Aircrack (penetration testing tool)",
+    "skill_type": "knowledge",
+    "matched_mention": "cung",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.3761,
+      "dense_score": 0.318
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018534Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/3be6b84a-fa78-42b9-a8df-150cdb40b9d7",
+    "skill_label": "ICT quality policy",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic policy instruments",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0275,
+      "cross_encoder_score": 0.357,
+      "dense_score": 0.3354,
+      "bm25_score": 6.7161
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018566Z",
+    "source_field": "lesson_36",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Unit 13: Macroeconomic Systems, Objectives, and Instruments",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+    "skill_label": "human-computer interaction",
+    "skill_type": "knowledge",
+    "matched_mention": "sở thích tiêu dùng",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.2713,
+      "dense_score": 0.4015
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018572Z",
+    "source_field": "lesson_11",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 7: Sở thích tiêu dùng và đường bàng quan.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/9707091a-323b-4240-877a-5999a19286f0",
+    "skill_label": "apply ICT system usage policies",
+    "skill_type": "skill",
+    "matched_mention": "core economic laws",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0272,
+      "cross_encoder_score": 0.2688,
+      "dense_score": 0.3034,
+      "bm25_score": 7.2371
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018581Z",
+    "source_field": "CLO_1",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Trình bày được các khái niệm cơ bản, quy luật kinh tế cốt lõi và các vấn đề về sự khan hiếm nguồn lực trong nền kinh tế.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+    "skill_label": "debug software",
+    "skill_type": "skill",
+    "matched_mention": "national output measurement",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.2489,
+      "bm25_score": 5.8731
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018587Z",
+    "source_field": "lesson_18",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 14: Các chỉ tiêu đo lường sản lượng quốc gia /Bài Kiểm tra thường xuyên 2",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+    "skill_label": "Rapid application development",
+    "skill_type": "knowledge",
+    "matched_mention": "economic theory application",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0159,
+      "cross_encoder_score": 0.1988,
+      "bm25_score": 5.4373
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018594Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+    "skill_label": "LDAP",
+    "skill_type": "knowledge",
+    "matched_mention": "gdp calculation",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.1801,
+      "dense_score": 0.3233
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018602Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+    "skill_label": "PostgreSQL",
+    "skill_type": "knowledge",
+    "matched_mention": "gnp calculation",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.1766,
+      "dense_score": 0.2838
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018609Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+    "skill_label": "develop with cloud services",
+    "skill_type": "skill",
+    "matched_mention": "economic theory application",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.176,
+      "bm25_score": 5.226
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018616Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/e2103a1d-4a84-47a9-b4f7-774787573449",
+    "skill_label": "copyright legislation",
+    "skill_type": "knowledge",
+    "matched_mention": "basic economic laws",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.1718,
+      "dense_score": 0.43
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018623Z",
+    "source_field": "lesson_22",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 2: Basic Economic Laws",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/726abd5a-d23c-44b9-abb0-f22bbe95f1d3",
+    "skill_label": "operational research",
+    "skill_type": "knowledge",
+    "matched_mention": "economic theory application",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0277,
+      "cross_encoder_score": 0.1295,
+      "dense_score": 0.4007,
+      "bm25_score": 3.5714
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018631Z",
+    "source_field": "objective_2",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Rèn luyện năng lực vận dụng các lý thuyết kinh tế học cơ bản để phân tích, giải thích tác động của các biến động kinh tế đến hoạt động sản xuất kinh doanh và nhận thức được tầm quan trọng của việc sử dụng hiệu quả nguồn lực khan hiếm.",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+    "skill_label": "assessment of risks and threats",
+    "skill_type": "knowledge",
+    "matched_mention": "macroeconomic impact assessment",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0271,
+      "cross_encoder_score": 0.1019,
+      "dense_score": 0.316,
+      "bm25_score": 6.277
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018639Z",
+    "source_field": "CLO_5",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Đánh giá và giải thích được tác động của các biến động kinh tế vĩ mô đến hoạt động sản xuất kinh doanh của doanh nghiệp.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+    "skill_label": "interact professionally in research and professional environments",
+    "skill_type": "skill",
+    "matched_mention": "indifference curves",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0149,
+      "cross_encoder_score": 0.0974,
+      "dense_score": 0.2433
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018647Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/4d39b27a-b34f-4c89-8d46-df844d42f728",
+    "skill_label": "increase the impact of science on policy and society",
+    "skill_type": "skill",
+    "matched_mention": "government intervention analysis",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0164,
+      "cross_encoder_score": 0.0956,
+      "dense_score": 0.4475
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018655Z",
+    "source_field": "CLO_2",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Giải thích và phân tích được lý thuyết cung – cầu, sự cân bằng thị trường và tác động từ sự can thiệp của chính phủ vào thị trường.",
+    "evidence_count": 6,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+    "skill_label": "manage ICT project",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic objectives",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0261,
+      "cross_encoder_score": 0.0678,
+      "dense_score": 0.3336,
+      "bm25_score": 3.6911
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018666Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/518dc04d-092d-4fa1-bd82-88b7a9278ef7",
+    "skill_label": "manage intellectual property rights",
+    "skill_type": "skill",
+    "matched_mention": "hành vi người sản xuất",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.0543,
+      "dense_score": 0.4086
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018673Z",
+    "source_field": "lesson_5",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 3: Hành vi Người tiêu dùng – Người sản xuất",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+    "skill_label": "analyse ICT system",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic systems",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0236,
+      "cross_encoder_score": 0.0532,
+      "dense_score": 0.3638,
+      "bm25_score": 2.136
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018679Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/024037ca-96a9-4cb8-ba86-2cd5a209c90a",
+    "skill_label": "Maltego",
+    "skill_type": "knowledge",
+    "matched_mention": "cầu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.0479,
+      "dense_score": 0.2625
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018686Z",
+    "source_field": "lesson_4",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Chương 2: Cung – Cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674",
+    "skill_label": "coordinate engineering teams",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic objectives",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.036,
+      "bm25_score": 3.7881
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018693Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+    "skill_label": "use back-up and recovery tools",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic tools",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.031,
+      "bm25_score": 3.4063
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018699Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/ff64e9fc-36dd-4035-872a-83aa41dc1ad9",
+    "skill_label": "communicate with a non-scientific audience",
+    "skill_type": "skill",
+    "matched_mention": "indifference curves",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0154,
+      "cross_encoder_score": 0.0304,
+      "dense_score": 0.2494
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018707Z",
+    "source_field": "lesson_30",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Unit 7: Consumer Preferences and Indifference Curves",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+    "skill_label": "ensure information privacy",
+    "skill_type": "skill",
+    "matched_mention": "ràng buộc ngân sách",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.03,
+      "dense_score": 0.4135
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018713Z",
+    "source_field": "lesson_12",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 8: Ràng buộc ngân sách/ Bài Kiểm tra thường xuyên 1",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+    "skill_label": "Visual Basic",
+    "skill_type": "knowledge",
+    "matched_mention": "basic economic laws",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0161,
+      "cross_encoder_score": 0.0194,
+      "bm25_score": 6.7391
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018720Z",
+    "source_field": "lesson_22",
+    "retrieval_source": [
+      "bm25"
+    ],
+    "evidence_text": "Unit 2: Basic Economic Laws",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+    "skill_label": "Groovy",
+    "skill_type": "knowledge",
+    "matched_mention": "gdp calculation",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0147,
+      "cross_encoder_score": 0.0185,
+      "dense_score": 0.3137
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018726Z",
+    "source_field": "description",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "The course provides fundamental knowledge of economics such as the problem of resource scarcity, supply-demand theory, cost theory, and basic macroeconomic issues, including: economic measurement indicators (GDP, GNP), economic cycles, inflation, and unemployment.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+    "skill_label": "establish data processes",
+    "skill_type": "skill",
+    "matched_mention": "macroeconomic tools",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0271,
+      "cross_encoder_score": 0.0137,
+      "dense_score": 0.3856,
+      "bm25_score": 2.6778
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018735Z",
+    "source_field": "lesson_17",
+    "retrieval_source": [
+      "faiss",
+      "bm25"
+    ],
+    "evidence_text": "Bài 13: Hệ thống, mục tiêu và công cụ kinh tế vĩ mô",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+    "skill_label": "trigonometry",
+    "skill_type": "knowledge",
+    "matched_mention": "lý thuyết cầu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0156,
+      "cross_encoder_score": 0.0112,
+      "dense_score": 0.4678
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018741Z",
+    "source_field": "lesson_6",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 3: Cầu",
+    "evidence_count": 5,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f",
+    "skill_label": "advertising techniques",
+    "skill_type": "knowledge",
+    "matched_mention": "sở thích tiêu dùng",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0145,
+      "cross_encoder_score": 0.0098,
+      "dense_score": 0.3768
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018747Z",
+    "source_field": "lesson_11",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 7: Sở thích tiêu dùng và đường bàng quan.",
+    "evidence_count": 1,
+    "alt_labels": []
+  },
+  {
+    "skill_id": "http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342",
+    "skill_label": "apply conflict management",
+    "skill_type": "skill",
+    "matched_mention": "cân bằng cung - cầu",
+    "decision": "REJECT",
+    "decision_stage": "cross_encoder_gating",
+    "scores": {
+      "rrf_score": 0.0152,
+      "cross_encoder_score": 0.0053,
+      "dense_score": 0.3404
+    },
+    "llm_reasoning": null,
+    "reviewed_by": null,
+    "pipeline_version": "v4.0.0",
+    "esco_version": "1.2.0",
+    "timestamp": "2026-09-13T13:31:35.018755Z",
+    "source_field": "lesson_9",
+    "retrieval_source": [
+      "faiss"
+    ],
+    "evidence_text": "Bài 5: Cân bằng cung - cầu",
+    "evidence_count": 2,
+    "alt_labels": []
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+    "preferred_label": "develop information security strategy",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6208",
+    "course_title": "Graduation Project",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.718457,
+    "cross_encoder_score": 0.993445,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "The course helps students comprehensively apply specialized knowledge in Information Systems to analyze, design, and evaluate software solutions/information systems meeting specific computing requirements; while deeply understanding the principles of technology transfer, operation, and management of information systems in a practical context.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "The course trains students in skills for evaluating information technology solutions, deploying product transfers, operating and managing information systems; developing report writing, presentation, and defense skills for solutions in a scientific, logical, and persuasive manner.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Upon completion of the course, students are capable of working independently, taking responsibility for graduation thesis products; being proactive in organizing, managing progress, solution quality, and making professional decisions within the scope of the assigned project.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Execute the transfer and operation of information systems, ensuring that the systems operate according to technical requirements and established objectives.",
+      "meta": {
+        "pi_so": [
+          "PI 6.1",
+          "PI 6.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Manage information systems at a basic level, including the management of functions, data, operations, and risks during utilization.",
+      "meta": {
+        "pi_so": [
+          "PI 6.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 32,
+      "dense_rank": 11,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

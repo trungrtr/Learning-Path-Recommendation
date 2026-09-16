@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+    "preferred_label": "business analytics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6237",
+    "course_title": "Big data Analysis"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; data-driven storytelling; systematic troubleshooting",
+    "evidence_text": "work independently or in teams to execute data analysis projects"
+  },
+  "scoring": {
+    "final_score": 0.712395,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers predictive analysis and proposing solutions based on data, which are core components of using quantitative methods to solve business problems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

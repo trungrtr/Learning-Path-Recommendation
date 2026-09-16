@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+    "preferred_label": "software interaction design",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6218",
+    "course_title": "Game application development"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to new technologies; presentation and communication skills; systems thinking",
+    "evidence_text": "Learners design and complete a 2D game product"
+  },
+  "scoring": {
+    "final_score": 0.539249,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Designing a game application requires creating user interactions and interfaces, which is a fundamental aspect of software interaction design.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

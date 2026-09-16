@@ -1,0 +1,329 @@
+{
+  "course_code": "IT6218",
+  "course_title": "Database Management System (DBMS)",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 28,
+    "skill_count": 13,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 28,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.8209915651246835,
+      "cross_encoder_score": 0.9892039895057678,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly covers building, designing, and maintaining databases using SQL Server, which is a relational database management system."
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.8006753487716244,
+      "cross_encoder_score": 0.9875496029853821,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content includes database construction, programming, and administration, covering the full lifecycle of managing a database."
+    },
+    {
+      "preferred_label": "use query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "confidence": 0.7891632628473102,
+      "cross_encoder_score": 0.9904965162277222,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes lessons on programming views, functions, and query procedures, which involve using query languages."
+    },
+    {
+      "preferred_label": "maintain database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "confidence": 0.788240673186175,
+      "cross_encoder_score": 0.9865522980690002,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly lists 'Security, Backup, and Recovery in SQL Server' as a lesson topic and a CLO."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.783659737375137,
+      "cross_encoder_score": 0.9872692823410034,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers database construction and the relational data model, which involves designing database schemes."
+    },
+    {
+      "preferred_label": "maintain database performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "confidence": 0.7816845513287636,
+      "cross_encoder_score": 0.9732551574707031,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers administrative tasks, backup, and recovery, which are core components of maintaining database performance and reliability."
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.7812079498570387,
+      "cross_encoder_score": 0.9889258742332458,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no explicit mention of writing documentation for end users in the provided course content."
+    },
+    {
+      "preferred_label": "design database backup specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "confidence": 0.7797837477919098,
+      "cross_encoder_score": 0.9686908721923828,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes 'Security, Backup, and Recovery in SQL Server', which covers the procedures for data backup and restoration."
+    },
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7778591188820682,
+      "cross_encoder_score": 0.990885317325592,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers database construction, there is no explicit mention of using modeling software tools to create database diagrams."
+    },
+    {
+      "preferred_label": "design database in the cloud",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "confidence": 0.7695016169962974,
+      "cross_encoder_score": 0.9767951965332031,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content focuses on SQL Server in a general context and does not mention cloud infrastructure or distributed database design."
+    },
+    {
+      "preferred_label": "use databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "confidence": 0.767953711109751,
+      "cross_encoder_score": 0.9844212532043457,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly mentions building databases, querying, and using a DBMS to manage data."
+    },
+    {
+      "preferred_label": "balance database resources",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "confidence": 0.7613948509957821,
+      "cross_encoder_score": 0.9863250851631165,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The content covers basic administration, security, and backup, but does not explicitly mention balancing database resources or workload optimization."
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.7461481248730445,
+      "cross_encoder_score": 0.9618569016456604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on database construction and programming, but does not explicitly cover physical configuration or data dictionary specifications."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.8077482325796034,
+      "cross_encoder_score": 0.9859148263931274,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course is specifically designed to teach the use and administration of a Database Management System."
+    },
+    {
+      "preferred_label": "NoSQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "confidence": 0.7880633807542147,
+      "cross_encoder_score": 0.9688641428947449,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content is exclusively focused on SQL Server, which is a relational database system."
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7665658628087044,
+      "cross_encoder_score": 0.9864606857299805,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes building and designing databases, which involves the methodologies and tools for creating database structures."
+    },
+    {
+      "preferred_label": "query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "confidence": 0.7641534879516961,
+      "cross_encoder_score": 0.9823020696640015,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content explicitly mentions programming query procedures and using SQL Server."
+    },
+    {
+      "preferred_label": "SQL Server",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "confidence": 0.7598282610025121,
+      "cross_encoder_score": 0.9349179267883301,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly lists SQL Server as the primary tool for all lessons."
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "confidence": 0.7622377127964538,
+      "cross_encoder_score": 0.9826830625534058,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers the relational data model and database construction, which falls under the classification and purpose of databases."
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.7609133324216736,
+      "cross_encoder_score": 0.9687091708183289,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "There is no mention of Oracle WebLogic or application server middle-tier integration in the course content."
+    },
+    {
+      "preferred_label": "MarkLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "confidence": 0.7517297725616457,
+      "cross_encoder_score": 0.953308641910553,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses exclusively on SQL Server and relational data models, not NoSQL or MarkLogic."
+    },
+    {
+      "preferred_label": "SPARQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "confidence": 0.7355300876901291,
+      "cross_encoder_score": 0.9523636102676392,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course teaches SQL Server query languages, not the SPARQL query language."
+    },
+    {
+      "preferred_label": "N1QL",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "confidence": 0.724428680493422,
+      "cross_encoder_score": 0.9483932256698608,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course teaches SQL Server query languages, not N1QL."
+    },
+    {
+      "preferred_label": "Oracle Relational Database",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "confidence": 0.7190918864589275,
+      "cross_encoder_score": 0.9032402634620667,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is specific to SQL Server, not Oracle Rdb."
+    },
+    {
+      "preferred_label": "MySQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "confidence": 0.7119964456503082,
+      "cross_encoder_score": 0.9338873028755188,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content is specific to SQL Server, not MySQL."
+    },
+    {
+      "preferred_label": "OpenEdge Database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "confidence": 0.7087514729122303,
+      "cross_encoder_score": 0.9072456955909729,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content is specific to SQL Server, not OpenEdge Database."
+    },
+    {
+      "preferred_label": "Teradata Database",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "confidence": 0.6825474227882978,
+      "cross_encoder_score": 0.8790575265884399,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content is specific to SQL Server, not Teradata Database."
+    },
+    {
+      "preferred_label": "IBM WebSphere",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "confidence": 0.6212570889667736,
+      "cross_encoder_score": 0.8030436038970947,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on DBMS administration and SQL Server, not IBM WebSphere application servers."
+    }
+  ],
+  "schema_version": "3.0"
+}

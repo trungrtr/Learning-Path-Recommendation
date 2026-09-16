@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+    "preferred_label": "computer programming",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6019",
+    "course_title": "Machine Learning"
+  },
+  "support_context": {
+    "support_concept_origin": "complex system debugging; computational thinking; critical evaluation of evidence",
+    "evidence_text": "Apply machine learning theory in creating computer-based solutions"
+  },
+  "scoring": {
+    "final_score": 0.55798,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course requires using programming tools and libraries to deploy and evaluate machine learning solutions, which reinforces general programming principles.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

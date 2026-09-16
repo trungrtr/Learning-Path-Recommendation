@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+    "preferred_label": "demonstrate disciplinary expertise",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6054_BS",
+    "course_title": "Vật lý đại cương"
+  },
+  "support_context": {
+    "support_concept_origin": "analytical rigor; precision and accuracy; scientific methodology",
+    "evidence_text": "Form a scientific worldview, logical thinking, carefulness, and honesty in the process of collecting and processing experimental data, along with a sense of responsibility in study and research"
+  },
+  "scoring": {
+    "final_score": 0.698138,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course introduces students to the scientific worldview, logical thinking, and rigorous experimental practices, which are foundational to disciplinary expertise in engineering and science.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

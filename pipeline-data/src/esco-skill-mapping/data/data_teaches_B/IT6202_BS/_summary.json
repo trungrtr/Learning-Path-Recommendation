@@ -1,0 +1,340 @@
+{
+  "course_code": "IT6202_BS",
+  "course_title": "Kiến trúc máy tính",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 14,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 28,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "acquire system component",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "confidence": 0.7363497538345595,
+      "cross_encoder_score": 0.9829270243644714,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on the theoretical architecture and operation of hardware components, not the procurement or acquisition of physical components."
+    },
+    {
+      "preferred_label": "integrate system components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "confidence": 0.7347731733977447,
+      "cross_encoder_score": 0.986284613609314,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers the architecture and operation of components, but does not teach the practical implementation or integration of hardware/software modules."
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7260284422257456,
+      "cross_encoder_score": 0.9791696667671204,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course explicitly mentions the objective to proactively update knowledge on new hardware technologies."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.715109374716236,
+      "cross_encoder_score": 0.944145143032074,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers computer architecture concepts, but does not teach the design of full information systems including software and network layers."
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.707313808179027,
+      "cross_encoder_score": 0.9298484325408936,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on hardware architecture rather than the alignment of software architecture with system design."
+    },
+    {
+      "preferred_label": "administer ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "confidence": 0.7216226955073635,
+      "cross_encoder_score": 0.9684591293334961,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course is theoretical and does not cover the administration, maintenance, or configuration of ICT systems."
+    },
+    {
+      "preferred_label": "analyse ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "confidence": 0.7022308238015859,
+      "cross_encoder_score": 0.9304304122924805,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course objectives explicitly state the development of skills in analyzing and evaluating the operation of hardware components and systems."
+    },
+    {
+      "preferred_label": "apply ICT systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "confidence": 0.7079123042927157,
+      "cross_encoder_score": 0.9592304825782776,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course provides foundational knowledge of computer architecture, which is a core component of ICT systems theory."
+    },
+    {
+      "preferred_label": "deploy ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "confidence": 0.6926279418367409,
+      "cross_encoder_score": 0.9277644753456116,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not cover the practical deployment, installation, or testing of ICT systems."
+    },
+    {
+      "preferred_label": "use ICT hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "confidence": 0.7030895220165537,
+      "cross_encoder_score": 0.9322683215141296,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on the internal architecture of computers, not the end-user operation of peripheral hardware."
+    },
+    {
+      "preferred_label": "manage ICT data architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "confidence": 0.6725215593457147,
+      "cross_encoder_score": 0.8879629373550415,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on computer hardware architecture, not organizational data management or information systems architecture."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.6745812297175093,
+      "cross_encoder_score": 0.9120118021965027,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers input/output systems but does not include the development of software device drivers."
+    },
+    {
+      "preferred_label": "design cloud architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "confidence": 0.6488251603031044,
+      "cross_encoder_score": 0.8636824488639832,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers foundational computer architecture and hardware, not cloud-based infrastructure or distributed systems."
+    },
+    {
+      "preferred_label": "define software architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "confidence": 0.6321528821511121,
+      "cross_encoder_score": 0.8332734704017639,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on hardware architecture, not software product structure or software design."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "hardware architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "confidence": 0.7489561687550315,
+      "cross_encoder_score": 0.9783086180686951,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly covers computer architecture, including hardware systems, CPU, memory hierarchy, and bus systems."
+    },
+    {
+      "preferred_label": "hardware components suppliers",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+      "confidence": 0.7321134657704566,
+      "cross_encoder_score": 0.9907218217849731,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course covers technical architecture and operation, not supply chain or hardware procurement."
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "confidence": 0.7318365106456242,
+      "cross_encoder_score": 0.9725514054298401,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on hardware architecture models, not software architecture models."
+    },
+    {
+      "preferred_label": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "confidence": 0.7175564554277686,
+      "cross_encoder_score": 0.9463623762130737,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course covers hardware, it does not specifically address the design principles or development tools for embedded systems."
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "confidence": 0.7205244543744355,
+      "cross_encoder_score": 0.9680410623550415,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers the fundamental hardware components and systems used to store and process information in digital form."
+    },
+    {
+      "preferred_label": "hardware components",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "confidence": 0.714792415703001,
+      "cross_encoder_score": 0.9382641911506653,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly covers hardware components such as CPUs, memory systems, and input/output systems."
+    },
+    {
+      "preferred_label": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "confidence": 0.714788979690507,
+      "cross_encoder_score": 0.9309366941452026,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on the architecture of computer hardware components rather than the design of complex software systems or modules to satisfy business requirements."
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7141913844595424,
+      "cross_encoder_score": 0.9635793566703796,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content is limited to low-level computer architecture and hardware components, not business-oriented ICT systems like ERP or CRM."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.7161479156839252,
+      "cross_encoder_score": 0.9633965492248535,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers computer architecture (hardware level) rather than enterprise-level ICT architectural frameworks for information systems."
+    },
+    {
+      "preferred_label": "ICT hardware specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "confidence": 0.708007187414792,
+      "cross_encoder_score": 0.9250827431678772,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly covers hardware systems, central processing units, memory hierarchy, and input/output systems, which involves understanding hardware operations."
+    },
+    {
+      "preferred_label": "ICT power consumption",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "confidence": 0.6922595562566374,
+      "cross_encoder_score": 0.9227890968322754,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "There is no mention of power consumption or energy efficiency models in the provided course content."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.6764296406353024,
+      "cross_encoder_score": 0.8901107907295227,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on hardware architecture and instruction sets, not the development of system software or programming tools."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.6708492425801416,
+      "cross_encoder_score": 0.8751077651977539,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers memory system architecture (hardware), not the methods for structuring, maintaining, and exchanging information as defined in information architecture."
+    },
+    {
+      "preferred_label": "operating systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "confidence": 0.6616596559117676,
+      "cross_encoder_score": 0.8892819285392761,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content focuses on hardware architecture and CPU design, not the features or architectures of operating systems."
+    },
+    {
+      "preferred_label": "building systems monitoring technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "confidence": 0.6274164584761863,
+      "cross_encoder_score": 0.8406129479408264,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers fundamental computer architecture, not building-specific monitoring or control systems."
+    }
+  ],
+  "schema_version": "3.0"
+}

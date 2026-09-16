@@ -1,0 +1,351 @@
+{
+  "course_code": "SC6224",
+  "course_title": "Web design",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 16,
+    "knowledge_count": 14,
+    "tier_distribution": {
+      "PRIMARY": 26,
+      "SECONDARY": 4,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7921122492577602,
+      "cross_encoder_score": 0.9932600855827332,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly mentions building web page interfaces using HTML, CSS, and JavaScript."
+    },
+    {
+      "preferred_label": "compose description for web elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "confidence": 0.7861928216270734,
+      "cross_encoder_score": 0.9779443144798279,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of composing descriptive text for web elements or accessibility-related content creation."
+    },
+    {
+      "preferred_label": "maintain responsive design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "confidence": 0.7719687576257632,
+      "cross_encoder_score": 0.9795283079147339,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers basic CSS and box models, but does not explicitly mention responsive design or multi-platform compatibility."
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.7710217037633633,
+      "cross_encoder_score": 0.9812513589859009,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes determining requirements for website interfaces and applying knowledge to design practical interfaces."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7594248041066873,
+      "cross_encoder_score": 0.9863826036453247,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers designing and building web page interfaces and interactions using HTML, CSS, and JavaScript."
+    },
+    {
+      "preferred_label": "manage online content",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "confidence": 0.7482500820340807,
+      "cross_encoder_score": 0.9876906871795654,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on design and development, not the management or maintenance of online content."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.7549920298459533,
+      "cross_encoder_score": 0.9804469347000122,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers basic JavaScript event handling, but not the design of complex interaction models or conversational interfaces."
+    },
+    {
+      "preferred_label": "use markup languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26",
+      "confidence": 0.7341468089447414,
+      "cross_encoder_score": 0.9692091345787048,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly teaches HTML, which is a markup language."
+    },
+    {
+      "preferred_label": "enhance website visibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "confidence": 0.7460317379408998,
+      "cross_encoder_score": 0.9904178977012634,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "There is no mention of SEO, marketing, or website visibility strategies in the course content."
+    },
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.7450372225322387,
+      "cross_encoder_score": 0.9868453741073608,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers web interface design principles and the application of HTML, CSS, and JavaScript to build interfaces."
+    },
+    {
+      "preferred_label": "design graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "confidence": 0.7422863642139355,
+      "cross_encoder_score": 0.96742844581604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on web interface design using HTML, CSS, and JavaScript, not graphic design or visual art techniques."
+    },
+    {
+      "preferred_label": "perform online data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "confidence": 0.7412753021170264,
+      "cross_encoder_score": 0.9935111403465271,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content does not mention data analysis, user behavior tracking, or optimization of web exposure."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7304125347811005,
+      "cross_encoder_score": 0.9725521802902222,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course includes determining requirements for website interfaces and applying knowledge to build practical designs."
+    },
+    {
+      "preferred_label": "draw design sketches",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8",
+      "confidence": 0.6512677514187786,
+      "cross_encoder_score": 0.8371420502662659,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "There is no mention of sketching or creating rough visual concepts in the course content."
+    },
+    {
+      "preferred_label": "study website behaviour patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "confidence": 0.6208734793628518,
+      "cross_encoder_score": 0.8106391429901123,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not cover tracking metrics or researching business results through website analytics."
+    },
+    {
+      "preferred_label": "apply tools for content development",
+      "esco_uri": "http://data.europa.eu/esco/skill/37a438f3-e28c-4e32-83c5-299f047c1dc9",
+      "confidence": 0.5895106621666385,
+      "cross_encoder_score": 0.7722640633583069,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on coding languages (HTML/CSS/JS) rather than content management systems or translation tools."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.7933904005680259,
+      "cross_encoder_score": 0.9802558422088623,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers JavaScript basics, objects, and events, but does not mention specific JavaScript frameworks."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7845197496608988,
+      "cross_encoder_score": 0.9715756177902222,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly teaches HTML, CSS, and JavaScript to build and design web page interfaces."
+    },
+    {
+      "preferred_label": "World Wide Web Consortium standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "confidence": 0.7663788131838783,
+      "cross_encoder_score": 0.9782870411872864,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course teaches web technologies, it does not explicitly mention W3C standards or guidelines."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.75862162036229,
+      "cross_encoder_score": 0.974338948726654,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not include Ajax or Ajax frameworks."
+    },
+    {
+      "preferred_label": "web analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "confidence": 0.753129695809985,
+      "cross_encoder_score": 0.9893866777420044,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content focuses on web design and development using HTML, CSS, and JavaScript, but does not mention web analytics tools or techniques."
+    },
+    {
+      "preferred_label": "WebCMS",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "confidence": 0.743031374135555,
+      "cross_encoder_score": 0.9647904634475708,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers manual coding of web interfaces rather than the use of WebCMS software systems."
+    },
+    {
+      "preferred_label": "Apache Tomcat",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "confidence": 0.7362399095122685,
+      "cross_encoder_score": 0.9640170335769653,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention server-side environments or Apache Tomcat."
+    },
+    {
+      "preferred_label": "CSS",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "confidence": 0.7208289617892961,
+      "cross_encoder_score": 0.9232210516929626,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly lists 'Basic CSS formatting' and 'Box model and advanced CSS' as lesson topics."
+    },
+    {
+      "preferred_label": "ICT accessibility standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033",
+      "confidence": 0.7342832097405936,
+      "cross_encoder_score": 0.9824816584587097,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of accessibility standards or guidelines like WCAG in the provided course content."
+    },
+    {
+      "preferred_label": "Drupal",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "confidence": 0.7219979595825484,
+      "cross_encoder_score": 0.9558393955230713,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on foundational web languages and does not cover the Drupal CMS."
+    },
+    {
+      "preferred_label": "web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "confidence": 0.7240285488516207,
+      "cross_encoder_score": 0.9563267827033997,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not cover web services or XML-based information systems."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.6935696739870837,
+      "cross_encoder_score": 0.8853667974472046,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "While the course covers interface design, it does not explicitly teach formal software UI design patterns."
+    },
+    {
+      "preferred_label": "JavaScript",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "confidence": 0.6544354015831502,
+      "cross_encoder_score": 0.8365674614906311,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly lists 'JavaScript basics', 'Objects in JavaScript', 'Event handling', and 'Arrays and strings in JavaScript' as lesson topics."
+    },
+    {
+      "preferred_label": "AJAX",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "confidence": 0.510714961178715,
+      "cross_encoder_score": 0.665265679359436,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention AJAX techniques."
+    }
+  ],
+  "schema_version": "3.0"
+}

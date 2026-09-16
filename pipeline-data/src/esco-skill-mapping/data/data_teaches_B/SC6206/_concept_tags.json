@@ -1,0 +1,1875 @@
+{
+  "course_code": "SC6206",
+  "concept_tags": [
+    {
+      "text": "relational data model",
+      "normalized": "relational data model"
+    },
+    {
+      "text": "relational schemas",
+      "normalized": "relational schemas"
+    },
+    {
+      "text": "relational algebra operations",
+      "normalized": "relational algebra operations"
+    },
+    {
+      "text": "SQL data query language",
+      "normalized": "sql data query language"
+    },
+    {
+      "text": "integrity constraints",
+      "normalized": "integrity constraints"
+    },
+    {
+      "text": "functional dependencies",
+      "normalized": "functional dependencies"
+    },
+    {
+      "text": "normal forms",
+      "normalized": "normal forms"
+    },
+    {
+      "text": "relational schema normalization",
+      "normalized": "relational schema normalization"
+    },
+    {
+      "text": "database design",
+      "normalized": "database design"
+    },
+    {
+      "text": "data models",
+      "normalized": "data models"
+    },
+    {
+      "text": "relational models",
+      "normalized": "relational models"
+    },
+    {
+      "text": "relational algebra",
+      "normalized": "relational algebra"
+    },
+    {
+      "text": "SQL",
+      "normalized": "sql"
+    },
+    {
+      "text": "Entity-Relationship models",
+      "normalized": "entity-relationship models"
+    },
+    {
+      "text": "ERD to relational conversion",
+      "normalized": "erd to relational conversion"
+    },
+    {
+      "text": "SQL queries",
+      "normalized": "sql queries"
+    },
+    {
+      "text": "3rd Normal Form",
+      "normalized": "3rd normal form"
+    },
+    {
+      "text": "data requirements analysis",
+      "normalized": "data requirements analysis"
+    },
+    {
+      "text": "data management",
+      "normalized": "data management"
+    },
+    {
+      "text": "query optimization",
+      "normalized": "query optimization"
+    },
+    {
+      "text": "entity-relationship modeling",
+      "normalized": "entity-relationship modeling"
+    },
+    {
+      "text": "third normal form",
+      "normalized": "third normal form"
+    },
+    {
+      "text": "Database systems",
+      "normalized": "database systems"
+    },
+    {
+      "text": "Data querying",
+      "normalized": "data querying"
+    },
+    {
+      "text": "Data definition language",
+      "normalized": "data definition language"
+    },
+    {
+      "text": "Data manipulation language",
+      "normalized": "data manipulation language"
+    },
+    {
+      "text": "Data query language",
+      "normalized": "data query language"
+    },
+    {
+      "text": "Relation normalization",
+      "normalized": "relation normalization"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational data model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational schemas",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational algebra operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN",
+        "SC6206_CLO_L1",
+        "SC6206_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "sql data query language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "integrity constraints",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "functional dependencies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN",
+        "SC6206_MUCTIEU_MT2",
+        "SC6206_CLO_L2",
+        "SC6206_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "normal forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN",
+        "SC6206_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational schema normalization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN",
+        "SC6206_MUCTIEU_MT2",
+        "SC6206_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "database design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MOTA_MAIN",
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_MUCTIEU_MT2",
+        "SC6206_MUCTIEU_MT3",
+        "SC6206_CLO_L1",
+        "SC6206_CLO_L2",
+        "SC6206_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_CLO_L1",
+        "SC6206_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_CLO_L1",
+        "SC6206_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relational algebra",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_MUCTIEU_MT2",
+        "SC6206_CLO_L2",
+        "SC6206_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "sql",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "entity-relationship models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "erd to relational conversion",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT1",
+        "SC6206_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "sql queries",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT2",
+        "SC6206_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "3rd normal form",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data requirements analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "query optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_CLO_L1",
+        "SC6206_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "entity-relationship modeling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_CLO_L1",
+        "SC6206_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "third normal form",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "database systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data querying",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data definition language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data manipulation language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data query language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "relation normalization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6206_BAIHOC_L11"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functional dependencies",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.7973532354423404,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7909641360520367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data manipulation language",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.7901034167416351,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7737159832272241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7762536402182594,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7762536402182594,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship models",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7762536402182594,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7762536402182594,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "esco_label": "create data models",
+      "confidence": 0.7549108159700525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7666569773794324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7666569773794324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7666569773794324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7666569773794324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7610059368289994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7610059368289994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7610059368289994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7561649986809906,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7536292650188213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7536292650188213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7536292650188213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "normal forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7512311431592263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.7500478629590623,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.7500478629590623,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational schemas",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational schema normalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data manipulation language",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relation normalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7381554386571288,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7448180123817476,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7448180123817476,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7448180123817476,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7448180123817476,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7448180123817476,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7406724720497657,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data manipulation language",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.6731703530915154,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational schema normalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "normal forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relation normalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7749738211944563,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "normal forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7713420910192097,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7571101753006624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7506895534204722,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data requirements analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7497241787783561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7580878185732393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7580878185732393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7580878185732393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7580878185732393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7580878185732393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship models",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7577511552908696,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7577206854812002,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity-relationship models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functional dependencies",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relation normalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7504475175775314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7470461234378419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data querying",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "esco_label": "XQuery",
+      "confidence": 0.7363201113533774,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data definition language",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.7325998998060517,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql queries",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.71549709308376,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational models",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational algebra operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7052280668955245,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 28,
+    "total_has_concept_edges": 28,
+    "total_evidence_for_edges": 214
+  }
+}

@@ -1,0 +1,36 @@
+# Cấu hình toàn cục — mọi threshold PHẢI đọc từ đây, không hardcode trong code
+# (xem AGENT.md để hiểu vì sao từng ngưỡng tồn tại)
+
+paths:
+  markdown: ../../data/raw/1_markdown
+  extracted: data/2_extracted_json
+  translated: data/3_translated_json
+  normalized: data/normalized_entities
+  translated_entities: data/translated_entities
+  canonical: data/8_canonical
+  ctdt: ../../data/raw/4_ctdt
+  mhtml: ../../data/raw/5_mhtml
+  contract_export: ../../contract
+  logs: logs
+
+models:
+  gemini_extraction: gemini-3.5-flash-lite     # M2
+  gemini_translation: gemini-3.5-flash-lite  # M3
+  gemini_labeling: gemini-3.5-flash-lite       # M5 candidate + triage
+  embedding_model: sentence-transformers/all-mpnet-base-v2  # M4/M5 ESCO lookup
+
+
+# --- M4: TEACHES_SKILL (retrieval trực tiếp trên CLO + Bai.ten_bai) ---
+teaches_skill:
+  faiss_top_k: 20
+  rerank_score_high: 0.80   # >= -> tier HIGH, có thể auto-accept
+  rerank_score_low: 0.55    # < -> hạ tier "low_confidence_discarded", KHÔNG xóa
+
+# --- M5: SUPPORTS_SKILL (LLM suy luận + closed-loop lookup ESCO) ---
+supports_skill:
+  esco_match_score_min: 0.65   # chặt hơn teaches_skill.rerank_score_low
+  auto_accept: false           # LUÔN false — mọi SUPPORTS_SKILL qua human review
+
+neo4j:
+  uri: bolt://localhost:7687
+  database: neo4j

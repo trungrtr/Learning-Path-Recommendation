@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+    "preferred_label": "incremental development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6232",
+    "course_title": "Embedded Programming and IoT"
+  },
+  "support_context": {
+    "support_concept_origin": "iterative design process; resource-constrained optimization; troubleshooting methodology",
+    "evidence_text": "CLO: Deploying embedded systems to solve practical problems"
+  },
+  "scoring": {
+    "final_score": 0.624348,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Embedded systems development often relies on incremental testing and deployment to ensure hardware stability and software functionality.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

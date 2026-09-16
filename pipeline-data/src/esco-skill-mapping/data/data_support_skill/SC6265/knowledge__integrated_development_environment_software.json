@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+    "preferred_label": "integrated development environment software",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6265",
+    "course_title": "Basic Python Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "structured workflow management; systematic debugging",
+    "evidence_text": "Proficient manipulation of file processing, data input/output, Object-Oriented Programming"
+  },
+  "scoring": {
+    "final_score": 0.577991,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Programming courses require the use of an Integrated Development Environment (IDE) to write, compile, and run code, providing direct exposure to these tools.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

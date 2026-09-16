@@ -1,0 +1,41 @@
+{
+  "course_code": "SC6222_BS",
+  "course_title": "Tích hợp hệ thống phần mềm",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 0,
+    "knowledge_count": 4
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "ICT debugging tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "final_score": 0.7856,
+      "support_concept_origin": "debugging and troubleshooting methodology; standardization adherence",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Rapid application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "final_score": 0.741,
+      "support_concept_origin": "abstract modeling; debugging and troubleshooting methodology; technical adaptability",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.7149,
+      "support_concept_origin": "debugging and troubleshooting methodology; interface design principles; interoperability mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "final_score": 0.5931,
+      "support_concept_origin": "debugging and troubleshooting methodology; systems thinking",
+      "review_status": "accepted"
+    }
+  ]
+}

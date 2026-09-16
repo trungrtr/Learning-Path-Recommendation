@@ -1,0 +1,183 @@
+{
+  "course_code": "SC6208_BS",
+  "concept_tags": [
+    {
+      "text": "logical reasoning",
+      "normalized": "logical reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic troubleshooting",
+      "normalized": "systematic troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "computational thinking",
+      "normalized": "computational thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "algorithmic mindset",
+      "normalized": "algorithmic mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "precision in communication",
+      "normalized": "precision in communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "persistence in problem solving",
+      "normalized": "persistence in problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "structural organization",
+      "normalized": "structural organization",
+      "loai": "methodological"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "logical reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "systematic troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "computational thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "algorithmic mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "precision in communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "persistence in problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "structural organization",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "algorithmic mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.854864,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.854864,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.854864,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.789473,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.789473,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.599845,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "self-directed learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.599845,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 7
+  }
+}

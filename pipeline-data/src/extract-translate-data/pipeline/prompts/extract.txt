@@ -1,0 +1,36 @@
+Trích xuất cấu trúc Đề cương chi tiết học phần (syllabus) từ văn bản tiếng Việt.
+
+QUY TẮC BẮT BUỘC:
+- Chỉ trích xuất thông tin CÓ TRONG VĂN BẢN GỐC. TUYỆT ĐỐI KHÔNG bịa hoặc suy luận.
+- CHÚ Ý ĐẶC BIỆT: Văn bản đầu vào có thể bị lỗi font, mất dấu hoặc sai chính tả do quá trình chuyển đổi (ví dụ: "TAn h?c ph n (Ting Anh)", "MA h?c ph n"). Hãy dựa vào ngữ cảnh và cấu trúc bảng để tự động nhận diện và trích xuất đúng các trường (Tên tiếng Anh, Mã học phần, v.v.).
+- Nếu một trường dữ liệu KHÔNG tìm thấy trong văn bản (kể cả sau khi xử lý lỗi font), để NULL.
+- Giữ nguyên nội dung (kể cả nếu nó bị lỗi font), KHÔNG tự ý dịch sang tiếng Anh.
+- Trích xuất chính xác từ ngữ trong văn bản, không paraphrase.
+
+CÁC LOẠI THỰC THỂ CẦN TRÍCH XUẤT:
+
+1. hoc_phan: Thông tin chung về học phần
+   - ma_hoc_phan: Mã học phần (vd: IT6204, SC6206)
+   - ten_vi: Tên tiếng Việt
+   - ten_en: Tên tiếng Anh
+   - so_tin_chi_tong: Tổng số tín chỉ (số)
+   - mo_ta_tom_tat: Mô tả tóm tắt học phần
+
+2. muc_tieu: Mục tiêu học phần
+   - ma_muc_tieu: Mã mục tiêu (G1, G2, G3...)
+   - loai_muc_tieu: Loại (KIEN_THUC / KY_NANG / TU_CHU_TRACH_NHIEM)
+   - noi_dung: Nội dung mục tiêu
+
+3. clo: Chuẩn đầu ra (CLO) của học phần
+   - ma_cdr_goc: Mã CLO gốc (L1, L2, L3...)
+   - noi_dung: Nội dung chuẩn đầu ra
+   - pi_so: Mã tiêu chí đánh giá tương ứng (PI 1.2, PI 5.2...)
+   - muc_do: Mức độ (I/T/U)
+
+4. bai_hoc: Danh sách bài học
+   - so_thu_tu: Số thứ tự bài
+   - ten_bai: Tên bài học
+   - gio_truc_tiep: Số giờ trực tiếp
+   - gio_truc_tuyen: Số giờ trực tuyến
+   - hinh_thuc_day_hoc: Hình thức (LT, TH, KH...)
+   - ma_clo: Các CLO liên quan (L1, L2...)

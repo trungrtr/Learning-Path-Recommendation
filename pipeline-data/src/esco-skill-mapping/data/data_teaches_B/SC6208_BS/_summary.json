@@ -1,0 +1,120 @@
+{
+  "course_code": "SC6208_BS",
+  "course_title": "Kỹ thuật lập trình",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 9,
+    "skill_count": 6,
+    "knowledge_count": 3,
+    "tier_distribution": {
+      "PRIMARY": 6,
+      "SECONDARY": 3,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.7133994172995507,
+      "cross_encoder_score": 0.9179784059524536,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly mentions developing programming applications to solve real-world problems and processing data using arrays, strings, and file handling."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6958886700376792,
+      "cross_encoder_score": 0.8694665431976318,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on structured/procedural programming and does not mention functional programming paradigms or languages like LISP, PROLOG, or Haskell."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.6895837058800367,
+      "cross_encoder_score": 0.8792725801467896,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not cover logic programming or languages such as Prolog or Datalog."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6923836057979508,
+      "cross_encoder_score": 0.8882066011428833,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on structured programming (functions, arrays, pointers) rather than the object-oriented paradigm."
+    },
+    {
+      "preferred_label": "use scripting programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "confidence": 0.6901017615415116,
+      "cross_encoder_score": 0.8879261016845703,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention scripting languages or automation tasks typical of scripting."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6462915879714726,
+      "cross_encoder_score": 0.8272868990898132,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course teaches manual algorithm design and coding, not the use of automatic programming tools to generate code."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.6598849441602543,
+      "cross_encoder_score": 0.8270618319511414,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers fundamental techniques of software development including algorithm design, coding, and structured programming."
+    },
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.6076454453567314,
+      "cross_encoder_score": 0.7699995040893555,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not specify Python as the programming language used."
+    },
+    {
+      "preferred_label": "Pascal (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "confidence": 0.6015420778157001,
+      "cross_encoder_score": 0.7698579430580139,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not specify Pascal as the programming language used."
+    }
+  ],
+  "schema_version": "3.0"
+}

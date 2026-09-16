@@ -1,0 +1,27 @@
+{
+  "course_code": "IT6202_BS",
+  "course_title": "Kiến trúc máy tính",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 2,
+    "skill_count": 0,
+    "knowledge_count": 2
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "final_score": 0.7551,
+      "support_concept_origin": "systems thinking; technological adaptability",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "final_score": 0.5509,
+      "support_concept_origin": "systems thinking; technological adaptability",
+      "review_status": "accepted"
+    }
+  ]
+}

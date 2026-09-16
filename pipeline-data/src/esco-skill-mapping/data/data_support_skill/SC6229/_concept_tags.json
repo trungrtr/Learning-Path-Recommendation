@@ -1,0 +1,214 @@
+{
+  "course_code": "SC6229",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "business process mapping",
+      "normalized": "business process mapping",
+      "loai": "foundational"
+    },
+    {
+      "text": "cross-functional collaboration",
+      "normalized": "cross-functional collaboration",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "strategic alignment",
+      "normalized": "strategic alignment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "requirements gathering",
+      "normalized": "requirements gathering",
+      "loai": "cognitive"
+    },
+    {
+      "text": "change management awareness",
+      "normalized": "change management awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "operational efficiency mindset",
+      "normalized": "operational efficiency mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "project lifecycle management",
+      "normalized": "project lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "data-driven decision making",
+      "normalized": "data-driven decision making",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "stakeholder analysis",
+      "normalized": "stakeholder analysis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "workflow optimization",
+      "normalized": "workflow optimization",
+      "loai": "methodological"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6229",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "business process mapping",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "cross-functional collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "strategic alignment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "requirements gathering",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "change management awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "operational efficiency mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "project lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "data-driven decision making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "stakeholder analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6229",
+      "concept_tag": "workflow optimization",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "data-driven decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.822458,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.822458,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "operational efficiency mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.778512,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.778512,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data-driven decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.73834,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "business process mapping",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.728544,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.728544,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "change management awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.587055,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data-driven decision making",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.587055,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.587055,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 10
+  }
+}

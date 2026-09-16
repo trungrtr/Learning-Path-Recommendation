@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+    "preferred_label": "business analytics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6228",
+    "course_title": "E-commerce Application Development"
+  },
+  "support_context": {
+    "support_concept_origin": "business process mapping; strategic decision making",
+    "evidence_text": "Commercial Operations: Knowing how to manage product categories, process orders, and handle customer feedback professionally"
+  },
+  "scoring": {
+    "final_score": 0.543222,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course includes integration with Google Analytics and managing sales data, which provides a foundational understanding of business analytics.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

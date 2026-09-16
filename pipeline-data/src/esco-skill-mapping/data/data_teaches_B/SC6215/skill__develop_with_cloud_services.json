@@ -1,0 +1,278 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+    "preferred_label": "develop with cloud services",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6215",
+    "course_title": "Web programming with PHP",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7209033316561066,
+    "cross_encoder_score": 0.9360700845718384,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on server-side web programming with PHP and MySQL; cloud services are not mentioned."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course equips students with knowledge and skills in server-side web programming using PHP. The content covers basic PHP syntax and structures, working with variables, arrays, functions, forms, and session management; connecting and processing data with MySQL databases; building and deploying dynamic web applications. The course builds upon foundational programming and data structures, and serves as a prerequisite for subsequent courses such as Advanced PHP Programming and E-commerce Application Development.",
+      "meta": {
+        "matched_mention": "server-side web programming"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Equips students with knowledge of server-side web programming using the PHP language, including syntax, control structures, form processing, session management, and MySQL database connectivity.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "server-side web programming"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Understand the process of building dynamic web applications and the relationship between PHP, HTML, CSS, and databases in a three-tier web development architecture.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "dynamic web applications"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Apply the PHP language to design, program, and deploy dynamic web applications that meet practical requirements. Combine PHP with MySQL databases and web programming techniques to create data processing functions, user authentication, and user-friendly interfaces.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "dynamic web applications"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Ability to work independently or in teams in developing and testing web applications. Proactively propose ideas, design interfaces, and functional structures of websites. Perform, test, deploy, and operate basic web products; demonstrate a sense of responsibility, adherence to technical standards, and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "web application development"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply basic programming techniques of the PHP language in web programming.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "PHP programming techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Utilize PHP programming techniques to develop web applications connected to databases.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "PHP programming techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Work effectively in teams, communicate within a software development environment, and demonstrate a sense of responsibility and professional attitude during the development and operation of web applications.",
+      "meta": {
+        "pi_so": [
+          "PI 3.1(1",
+          "2",
+          "3",
+          "4",
+          "5)",
+          "PI 3.2(1",
+          "2",
+          "3",
+          "4",
+          "5)",
+          "PI 3.3(1)"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "web application operation; software development environment"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Introduction to PHP and Development Environment",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Basic PHP Language Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP language"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "PHP Syntax and Control Structures",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP syntax"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Arrays and Array Processing in PHP",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP arrays"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Functions in PHP and Program Organization",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP functions"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Practice on Functions and Form Data Processing in PHP",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "PHP functions"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Practice Using SQL in PHP",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "SQL in PHP"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "Application Building Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L4"
+        ],
+        "matched_mention": "application building"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "PHP - MySQL Web",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "PHP programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 4,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

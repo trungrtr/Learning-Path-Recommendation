@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+    "preferred_label": "demonstrate disciplinary expertise",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6234",
+    "course_title": "Cyber security"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of complex systems; professional accountability; technical documentation skills",
+    "evidence_text": "Upon completion of the course, students are able to apply the acquired knowledge to deploy and handle situations to ensure system security and safety in accordance with legal principles and professional ethics"
+  },
+  "scoring": {
+    "final_score": 0.650993,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course requires students to apply computer science principles to analyze and solve cybersecurity problems, fostering disciplinary expertise in the field of information security.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

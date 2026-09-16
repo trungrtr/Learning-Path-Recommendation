@@ -1,0 +1,85 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+    "preferred_label": "digital communication and collaboration",
+    "skill_type": "",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.710757,
+    "cross_encoder_score": 0.979106,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The enterprise internship is the final internship for students before doing their graduation thesis. The internship takes place outside the enterprise, under the supervision of an academic advisor and with professional support from company technicians. During this internship, students participate more deeply in the direct production and business activities of an information technology enterprise. The course helps students systemize the knowledge and skills learned in school and initially apply them to practical work. The course also helps students approach and practice communication culture, form an industrial working style, and participate in the production process at the enterprise."
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Equip students with an understanding of the practical working environment of information technology enterprises, including production and business processes, as well as information system development and operation processes; while raising awareness of legal regulations, ethical standards, and professional responsibility in practice.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Train students in the ability to apply specialized knowledge to practical work at enterprises; develop teamwork and professional communication skills; and initially analyze and evaluate situations arising in professional practice based on legal principles and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Determine the role and professional responsibilities of an Information Systems professional and successfully complete assigned tasks when participating in practical activities at an enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Evaluate and select appropriate behavior in professional situations based on professional ethics principles and social standards in the field of information technology.",
+      "meta": {
+        "pi_so": [
+          "PI 4.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 13,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

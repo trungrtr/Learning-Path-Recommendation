@@ -1,0 +1,1712 @@
+{
+  "course_code": "BS6038_BS",
+  "concept_tags": [
+    {
+      "text": "single-variable calculus",
+      "normalized": "single-variable calculus"
+    },
+    {
+      "text": "multivariable calculus",
+      "normalized": "multivariable calculus"
+    },
+    {
+      "text": "limits",
+      "normalized": "limits"
+    },
+    {
+      "text": "derivatives",
+      "normalized": "derivatives"
+    },
+    {
+      "text": "integrals",
+      "normalized": "integrals"
+    },
+    {
+      "text": "extrema",
+      "normalized": "extrema"
+    },
+    {
+      "text": "optimization",
+      "normalized": "optimization"
+    },
+    {
+      "text": "work calculations",
+      "normalized": "work calculations"
+    },
+    {
+      "text": "force calculations",
+      "normalized": "force calculations"
+    },
+    {
+      "text": "multivariable function analysis",
+      "normalized": "multivariable function analysis"
+    },
+    {
+      "text": "analytical thinking",
+      "normalized": "analytical thinking"
+    },
+    {
+      "text": "computational skills",
+      "normalized": "computational skills"
+    },
+    {
+      "text": "engineering optimization",
+      "normalized": "engineering optimization"
+    },
+    {
+      "text": "work computation",
+      "normalized": "work computation"
+    },
+    {
+      "text": "force analysis",
+      "normalized": "force analysis"
+    },
+    {
+      "text": "single-variable functions",
+      "normalized": "single-variable functions"
+    },
+    {
+      "text": "multivariable functions",
+      "normalized": "multivariable functions"
+    },
+    {
+      "text": "engineering problems",
+      "normalized": "engineering problems"
+    },
+    {
+      "text": "double integrals",
+      "normalized": "double integrals"
+    },
+    {
+      "text": "line integrals",
+      "normalized": "line integrals"
+    },
+    {
+      "text": "continuity",
+      "normalized": "continuity"
+    },
+    {
+      "text": "single variable functions",
+      "normalized": "single variable functions"
+    },
+    {
+      "text": "differentiation rules",
+      "normalized": "differentiation rules"
+    },
+    {
+      "text": "single variable derivatives",
+      "normalized": "single variable derivatives"
+    },
+    {
+      "text": "integral concepts",
+      "normalized": "integral concepts"
+    },
+    {
+      "text": "integral properties",
+      "normalized": "integral properties"
+    },
+    {
+      "text": "integration methods",
+      "normalized": "integration methods"
+    },
+    {
+      "text": "improper integrals",
+      "normalized": "improper integrals"
+    },
+    {
+      "text": "multivariable derivatives",
+      "normalized": "multivariable derivatives"
+    },
+    {
+      "text": "multivariable differentials",
+      "normalized": "multivariable differentials"
+    },
+    {
+      "text": "multivariable function extrema",
+      "normalized": "multivariable function extrema"
+    },
+    {
+      "text": "double integral concepts",
+      "normalized": "double integral concepts"
+    },
+    {
+      "text": "double integral properties",
+      "normalized": "double integral properties"
+    },
+    {
+      "text": "cartesian coordinate systems",
+      "normalized": "cartesian coordinate systems"
+    },
+    {
+      "text": "double integral applications",
+      "normalized": "double integral applications"
+    },
+    {
+      "text": "change of variables",
+      "normalized": "change of variables"
+    },
+    {
+      "text": "logical thinking",
+      "normalized": "logical thinking"
+    },
+    {
+      "text": "self-learning ability",
+      "normalized": "self-learning ability"
+    },
+    {
+      "text": "mathematical tools",
+      "normalized": "mathematical tools"
+    },
+    {
+      "text": "engineering field",
+      "normalized": "engineering field"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "single-variable calculus",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable calculus",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "limits",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_CLO_L1",
+        "BS6038_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "derivatives",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_CLO_L1",
+        "BS6038_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "integrals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "extrema",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "work calculations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "force calculations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable function analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MOTA_MAIN",
+        "BS6038_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "analytical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G2",
+        "BS6038_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "computational skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G2",
+        "BS6038_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "engineering optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "work computation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "force analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "single-variable functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "engineering problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "double integrals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_CLO_L2",
+        "BS6038_BS_BAIHOC_L09",
+        "BS6038_BS_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "line integrals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_CLO_L2",
+        "BS6038_BS_BAIHOC_L12",
+        "BS6038_BS_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "continuity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "single variable functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "differentiation rules",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "single variable derivatives",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "integral concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "integral properties",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "integration methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "improper integrals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable derivatives",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable differentials",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "multivariable function extrema",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "double integral concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "double integral properties",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "cartesian coordinate systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "double integral applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "change of variables",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "logical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "self-learning ability",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "mathematical tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "engineering field",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6038_BS_MUCTIEU_G3"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "work calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analytical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7865135107480671,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "work computation",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7213153818110323,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "work computation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single-variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "differentiation rules",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "change of variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7161389697871263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "change of variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.5767436492884315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "work calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "force analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analytical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "limits",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "improper integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7453062571876568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single-variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.718824691020516,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "work calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analytical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "improper integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7276410104301821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "change of variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7088473365245502,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cartesian coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.693843433233315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6752064366607855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.671365252854215,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analytical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "differentiation rules",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "improper integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cartesian coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6708899954391678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "continuity",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "differentiation rules",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cartesian coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering field",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.5687867639025393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "line integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "single variable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "integration methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable function extrema",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cartesian coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integral applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "double integrals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multivariable derivatives",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.5434979218416818,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 40,
+    "total_has_concept_edges": 40,
+    "total_evidence_for_edges": 172
+  }
+}

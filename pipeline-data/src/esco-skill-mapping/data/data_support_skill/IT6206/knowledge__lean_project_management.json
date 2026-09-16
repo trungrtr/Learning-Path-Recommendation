@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+    "preferred_label": "lean project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis"
+  },
+  "support_context": {
+    "support_concept_origin": "problem decomposition; project management",
+    "evidence_text": "Learners apply comprehensive knowledge to build software or solve practical problems based on information technology solutions"
+  },
+  "scoring": {
+    "final_score": 0.674438,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Lean principles are often applied in software development to optimize resources and deliver value, which is a core component of a successful graduation project.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

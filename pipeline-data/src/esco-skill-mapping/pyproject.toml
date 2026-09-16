@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "esco-skill-mapping"
+version = "0.1.0"
+description = "ESCO skill linking (M4), LLM labeling (M5), and KG loading (M6) for university courses"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "NCKH-2026 Team" },
+]
+
+dependencies = [
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "google-genai>=1.0",
+    "sentence-transformers>=2.2",
+    "faiss-cpu>=1.7",
+    "transformers>=4.40",
+    "torch>=2.2",
+    "huggingface-hub>=0.23",
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+    "neo4j>=5.0",
+    "tqdm>=4.65",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "ruff>=0.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,318 @@
+{
+  "course_code": "SC6261",
+  "course_title": "Human - Computer Interaction",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 27,
+    "skill_count": 16,
+    "knowledge_count": 11,
+    "tier_distribution": {
+      "PRIMARY": 27,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.8218121109774434,
+      "cross_encoder_score": 0.9940783977508545,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly covers principles and techniques of interface design and interaction for desktop, web, and mobile applications."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.8018982755415498,
+      "cross_encoder_score": 0.9937492609024048,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers general interaction design but does not specifically address multi-turn conversation design, intents, slots, or multi-modal skill development."
+    },
+    {
+      "preferred_label": "create prototype of user experience solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "confidence": 0.776503730798206,
+      "cross_encoder_score": 0.9784518480300903,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content explicitly lists 'Sketching, Wireframe, Mockup, Prototype' as a lesson topic."
+    },
+    {
+      "preferred_label": "interact with users to gather requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "confidence": 0.7609058718226658,
+      "cross_encoder_score": 0.9807822704315186,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes 'User Research' as a core topic, which involves gathering and identifying user requirements."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.7756402401934761,
+      "cross_encoder_score": 0.9786803722381592,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on user interface and interaction design, not low-level software programming for hardware device drivers."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7498961435635372,
+      "cross_encoder_score": 0.9869733452796936,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers UI and interaction design for various application types (desktop, web, mobile), which encompasses designing application interfaces."
+    },
+    {
+      "preferred_label": "use an application-specific interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+      "confidence": 0.7478415585206389,
+      "cross_encoder_score": 0.9867016673088074,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course teaches principles and techniques for designing interfaces for specific platforms like desktop, web, and mobile."
+    },
+    {
+      "preferred_label": "use methodologies for user-centered design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4",
+      "confidence": 0.7476477678156398,
+      "cross_encoder_score": 0.9803197383880615,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on user research, human capabilities, and user testing, which are fundamental components of user-centered design methodologies."
+    },
+    {
+      "preferred_label": "identify ICT user needs",
+      "esco_uri": "http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54",
+      "confidence": 0.7448937421033315,
+      "cross_encoder_score": 0.9923785924911499,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes 'User Research' and 'Human Capabilities' as topics, which are used to identify user needs."
+    },
+    {
+      "preferred_label": "support ICT system users",
+      "esco_uri": "http://data.europa.eu/esco/skill/db36f7f1-5900-45bd-9ffb-f2b19c4362ac",
+      "confidence": 0.7409158361855321,
+      "cross_encoder_score": 0.9867029190063477,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on the design phase of products, not on providing technical support or troubleshooting for existing ICT systems."
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.735320645438119,
+      "cross_encoder_score": 0.9457035660743713,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course includes lessons on User Interface and Interaction Design for Web Applications and the deployment of HCI products."
+    },
+    {
+      "preferred_label": "collaborate with engineers",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "confidence": 0.7319420560770854,
+      "cross_encoder_score": 0.9777931571006775,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no explicit mention of collaboration with engineers in the course content."
+    },
+    {
+      "preferred_label": "design graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "confidence": 0.7270901531868098,
+      "cross_encoder_score": 0.9608413577079773,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on UI/UX design and interaction, but does not explicitly cover graphic design techniques."
+    },
+    {
+      "preferred_label": "measure software usability",
+      "esco_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+      "confidence": 0.7268345699219204,
+      "cross_encoder_score": 0.9755791425704956,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course includes 'User Testing and Evaluation' which covers checking software convenience and collecting user feedback."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7143061612173163,
+      "cross_encoder_score": 0.957676112651825,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers sketching, wireframing, prototyping, and designing interfaces based on requirements."
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.7098854446353962,
+      "cross_encoder_score": 0.9395260214805603,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course includes lessons on wireframing, mockups, and UI design for various platforms based on requirements."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "human-computer interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "confidence": 0.8016966157593901,
+      "cross_encoder_score": 0.9878321290016174,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course title and content are explicitly focused on Human-Computer Interaction."
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.8005597156469185,
+      "cross_encoder_score": 0.9948447942733765,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers interaction design for desktop, web, and mobile applications."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7550391145780468,
+      "cross_encoder_score": 0.9634872078895569,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers principles and techniques of interface design, which inherently involves UI design patterns."
+    },
+    {
+      "preferred_label": "ICT system user requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff",
+      "confidence": 0.7651334487695822,
+      "cross_encoder_score": 0.980575680732727,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes 'User Research' and designing products that meet requirements."
+    },
+    {
+      "preferred_label": "interactive media",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "confidence": 0.7385908439386673,
+      "cross_encoder_score": 0.985816240310669,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers interaction design for desktop, web, and mobile applications, which involves communication through digital media and user interaction with computerized elements."
+    },
+    {
+      "preferred_label": "interfacing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "confidence": 0.7385965058166151,
+      "cross_encoder_score": 0.9848501682281494,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly covers principles and techniques of interface design and interaction between users and computers."
+    },
+    {
+      "preferred_label": "augmented reality",
+      "esco_uri": "http://data.europa.eu/esco/skill/abdc7ac8-151f-40c6-bc1a-1e9b4b073290",
+      "confidence": 0.7384961868848546,
+      "cross_encoder_score": 0.9765615463256836,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no mention of augmented reality or overlaying digital content on real-world surfaces in the course content."
+    },
+    {
+      "preferred_label": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "confidence": 0.7312815739339211,
+      "cross_encoder_score": 0.9826741814613342,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on interface and interaction design rather than the broader architectural system design of software components and modules."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7249075075809808,
+      "cross_encoder_score": 0.9648186564445496,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content focuses on design processes like wireframing and prototyping, but does not explicitly teach software development methodologies like Scrum or Waterfall."
+    },
+    {
+      "preferred_label": "visual presentation techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "confidence": 0.7151000339276709,
+      "cross_encoder_score": 0.9391762614250183,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers interface design, but does not specifically address data visualization techniques like histograms or scatter plots."
+    },
+    {
+      "preferred_label": "digital game genres",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "confidence": 0.6891272198827593,
+      "cross_encoder_score": 0.9180805087089539,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "There is no mention of digital game genres or game design in the provided course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

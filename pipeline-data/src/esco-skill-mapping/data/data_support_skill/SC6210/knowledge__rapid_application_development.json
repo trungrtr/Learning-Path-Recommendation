@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+    "preferred_label": "Rapid application development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6210",
+    "course_title": ".NET Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to complex frameworks; collaborative version control workflows; debugging and troubleshooting methodology",
+    "evidence_text": "Implement a software solution meeting given requirements using computer science tools and techniques"
+  },
+  "scoring": {
+    "final_score": 0.704511,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The use of WPF and Entity Framework Core facilitates rapid application development by providing high-level abstractions and visual design tools.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

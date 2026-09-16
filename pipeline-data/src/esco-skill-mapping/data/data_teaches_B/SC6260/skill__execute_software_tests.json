@@ -1,0 +1,126 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+    "preferred_label": "execute software tests",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6260",
+    "course_title": "Major Project (Information Technology)",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7318499860208838,
+    "cross_encoder_score": 0.988590657711029,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly lists 'Evaluating the implemented software' and 'Product Evaluation' as key components."
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Use supporting tools to design, deploy, and test the system.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "supporting tools; system testing"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Designing software solutions for real-world problems",
+      "meta": {
+        "pi_so": [
+          "PI 5.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software solutions"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Implementing software solutions according to the design",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software implementation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Evaluating the implemented software",
+      "meta": {
+        "pi_so": [
+          "PI 5.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software evaluation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Project/Thesis Deployment and Execution",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Project Execution"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Product Evaluation (Project/Thesis)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "Product Evaluation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

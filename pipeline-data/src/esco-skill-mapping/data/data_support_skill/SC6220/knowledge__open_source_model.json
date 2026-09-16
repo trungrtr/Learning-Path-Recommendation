@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+    "preferred_label": "Open source model",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6220",
+    "course_title": "Open Source Software"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of external resources; project management; version control mindset",
+    "evidence_text": "Objectives: Explain the principles of open-source resource exploitation"
+  },
+  "scoring": {
+    "final_score": 0.616114,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly covers the principles, exploitation, and construction of open-source software, directly supporting this skill.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

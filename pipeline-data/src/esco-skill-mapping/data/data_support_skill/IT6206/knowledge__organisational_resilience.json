@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/79f24a62-7718-46e1-9b41-37be0560a5ca",
+    "preferred_label": "organisational resilience",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis"
+  },
+  "support_context": {
+    "support_concept_origin": "resilience; stakeholder management",
+    "evidence_text": "Learners are proactive and receptive in learning, possessing self-discipline and a serious learning attitude"
+  },
+  "scoring": {
+    "final_score": 0.635374,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly mentions selecting and managing secure software systems to address practical problems, which supports understanding risk, security, and operational resilience.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

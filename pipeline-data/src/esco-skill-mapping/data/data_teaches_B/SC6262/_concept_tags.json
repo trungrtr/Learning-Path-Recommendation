@@ -1,0 +1,1436 @@
+{
+  "course_code": "SC6262",
+  "concept_tags": [
+    {
+      "text": "advanced PHP programming",
+      "normalized": "advanced php programming"
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "normalized": "object-oriented programming"
+    },
+    {
+      "text": "Model-View-Controller pattern",
+      "normalized": "model-view-controller pattern"
+    },
+    {
+      "text": "professional frameworks",
+      "normalized": "professional frameworks"
+    },
+    {
+      "text": "database connection techniques",
+      "normalized": "database connection techniques"
+    },
+    {
+      "text": "web application security",
+      "normalized": "web application security"
+    },
+    {
+      "text": "Model-View-Controller architecture",
+      "normalized": "model-view-controller architecture"
+    },
+    {
+      "text": "PHP frameworks",
+      "normalized": "php frameworks"
+    },
+    {
+      "text": "OOP principles",
+      "normalized": "oop principles"
+    },
+    {
+      "text": "MVC pattern",
+      "normalized": "mvc pattern"
+    },
+    {
+      "text": "PHP framework",
+      "normalized": "php framework"
+    },
+    {
+      "text": "secure database connection",
+      "normalized": "secure database connection"
+    },
+    {
+      "text": "web security measures",
+      "normalized": "web security measures"
+    },
+    {
+      "text": "architectural design",
+      "normalized": "architectural design"
+    },
+    {
+      "text": "software implementation",
+      "normalized": "software implementation"
+    },
+    {
+      "text": "software testing",
+      "normalized": "software testing"
+    },
+    {
+      "text": "deployment",
+      "normalized": "deployment"
+    },
+    {
+      "text": "PHP web application",
+      "normalized": "php web application"
+    },
+    {
+      "text": "PHP programming techniques",
+      "normalized": "php programming techniques"
+    },
+    {
+      "text": "PHP programming",
+      "normalized": "php programming"
+    },
+    {
+      "text": "PHP development",
+      "normalized": "php development"
+    },
+    {
+      "text": "Web Application Development",
+      "normalized": "web application development"
+    },
+    {
+      "text": "Software Frameworks",
+      "normalized": "software frameworks"
+    },
+    {
+      "text": "Database Connectivity",
+      "normalized": "database connectivity"
+    },
+    {
+      "text": "Application Security",
+      "normalized": "application security"
+    },
+    {
+      "text": "PHP security",
+      "normalized": "php security"
+    },
+    {
+      "text": "Web Application Design",
+      "normalized": "web application design"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6262",
+      "concept_tag": "advanced php programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN",
+        "SC6262_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "object-oriented programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN",
+        "SC6262_MUCTIEU_G1",
+        "SC6262_BAIHOC_L01",
+        "SC6262_BAIHOC_L02",
+        "SC6262_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "model-view-controller pattern",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "professional frameworks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "database connection techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN",
+        "SC6262_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "web application security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MOTA_MAIN",
+        "SC6262_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "model-view-controller architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G1",
+        "SC6262_BAIHOC_L04",
+        "SC6262_BAIHOC_L05",
+        "SC6262_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php frameworks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G1",
+        "SC6262_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "oop principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "mvc pattern",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php framework",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "secure database connection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "web security measures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "architectural design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "software implementation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "software testing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php web application",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L01",
+        "SC6262_BAIHOC_L02",
+        "SC6262_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L04",
+        "SC6262_BAIHOC_L05",
+        "SC6262_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "web application development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L07",
+        "SC6262_BAIHOC_L08",
+        "SC6262_BAIHOC_L09",
+        "SC6262_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "software frameworks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L07",
+        "SC6262_BAIHOC_L08",
+        "SC6262_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "database connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L10",
+        "SC6262_BAIHOC_L11",
+        "SC6262_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "application security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L10",
+        "SC6262_BAIHOC_L11",
+        "SC6262_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "php security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L10",
+        "SC6262_BAIHOC_L11",
+        "SC6262_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "web application design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6262_BAIHOC_L13",
+        "SC6262_BAIHOC_L14"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.7298692879422164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7231460794435189,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php security",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.818676774203747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.8012656267517669,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7726628662757907,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "oop principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "model-view-controller architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7614114792028855,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7529579522170144,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7673948993224234,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7521093973676266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7514445937726834,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.7523821886506182,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.7504429542505198,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connection techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure database connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7475819681375087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "oop principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_label": "OpenEdge Advanced Business Language",
+      "confidence": 0.7026425580450073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure database connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.701130437361265,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web security measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mvc pattern",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.7130488565328443,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connection techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php web application",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application security",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application design",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7051319018363923,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 27,
+    "total_has_concept_edges": 27,
+    "total_evidence_for_edges": 153
+  }
+}

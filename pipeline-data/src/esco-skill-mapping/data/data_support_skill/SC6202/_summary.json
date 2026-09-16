@@ -1,0 +1,42 @@
+{
+  "course_code": "SC6202",
+  "course_title": "Optimization",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 1,
+    "knowledge_count": 3
+  },
+  "skills": [
+    {
+      "preferred_label": "utilise machine learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "final_score": 0.7699,
+      "support_concept_origin": "critical evaluation of trade-offs; pattern recognition",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "final_score": 0.834,
+      "support_concept_origin": "algorithmic mindset; quantitative reasoning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "final_score": 0.7702,
+      "support_concept_origin": "algorithmic mindset; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "game theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "final_score": 0.6863,
+      "support_concept_origin": "problem decomposition; quantitative reasoning; strategic planning",
+      "review_status": "accepted"
+    }
+  ]
+}

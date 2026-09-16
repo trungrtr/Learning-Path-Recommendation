@@ -1,0 +1,69 @@
+{
+  "course_code": "SC6267",
+  "course_title": "Major Project",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 8,
+    "skill_count": 0,
+    "knowledge_count": 8
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "data ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "final_score": 0.8275,
+      "support_concept_origin": "professional ethics; technical documentation standards",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "documentation types",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "final_score": 0.793,
+      "support_concept_origin": "technical documentation standards",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "final_score": 0.6847,
+      "support_concept_origin": "technical documentation standards",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "final_score": 0.6021,
+      "support_concept_origin": "professional communication; resource allocation; technical documentation standards",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "final_score": 0.5973,
+      "support_concept_origin": "technical documentation standards; time management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "final_score": 0.5792,
+      "support_concept_origin": "decision-making under uncertainty; stakeholder management; time management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "final_score": 0.5695,
+      "support_concept_origin": "decision-making under uncertainty; stakeholder management; time management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "final_score": 0.5506,
+      "support_concept_origin": "professional ethics",
+      "review_status": "accepted"
+    }
+  ]
+}

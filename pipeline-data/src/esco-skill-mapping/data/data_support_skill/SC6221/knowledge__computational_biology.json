@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+    "preferred_label": "computational biology",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6221",
+    "course_title": "Numerical Methods for Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "computational thinking; critical evaluation of precision",
+    "evidence_text": "Course: Numerical Methods for Programming"
+  },
+  "scoring": {
+    "final_score": 0.853165,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Numerical methods are essential for modeling biological systems and processing experimental data in computational biology.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

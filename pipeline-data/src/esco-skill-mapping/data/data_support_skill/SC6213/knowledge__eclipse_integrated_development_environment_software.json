@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+    "preferred_label": "Eclipse (integrated development environment software)",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6213",
+    "course_title": "Advanced Java Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative project management; critical evaluation of technology stacks",
+    "evidence_text": "Implement software according to design and meet practical requirements"
+  },
+  "scoring": {
+    "final_score": 0.605425,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "As an advanced Java course, students will necessarily use an IDE like Eclipse or IntelliJ to implement the required frameworks and multithreading tasks.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

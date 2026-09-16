@@ -1,0 +1,274 @@
+{
+  "course_code": "BS6038_BS",
+  "concept_tags": [
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "mathematical modeling",
+      "normalized": "mathematical modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "systematic problem decomposition",
+      "normalized": "systematic problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "quantitative literacy",
+      "normalized": "quantitative literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "precision and accuracy",
+      "normalized": "precision and accuracy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "deductive reasoning",
+      "normalized": "deductive reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "persistence in complex problem solving",
+      "normalized": "persistence in complex problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "conceptual synthesis",
+      "normalized": "conceptual synthesis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical structuring of arguments",
+      "normalized": "logical structuring of arguments",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "mathematical modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "systematic problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "quantitative literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "precision and accuracy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "deductive reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "persistence in complex problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "conceptual synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "logical structuring of arguments",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6038_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "logical structuring of arguments",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.784803,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.784803,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.784803,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.756964,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.756964,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring of arguments",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.756964,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring of arguments",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.720683,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "persistence in complex problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.720683,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.720683,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "attention to detail",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.666452,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "persistence in complex problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.666452,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.666452,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.654583,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.654583,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.64176,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring of arguments",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.64176,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.64176,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.603785,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "persistence in complex problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.603785,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.603785,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 20
+  }
+}

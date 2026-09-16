@@ -1,0 +1,69 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+    "preferred_label": "define technology strategy",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6205",
+    "course_title": "Graduate Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7008704736696113,
+    "cross_encoder_score": 0.9840188026428223,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on project execution and system deployment rather than defining high-level organizational technology strategy."
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Learners deploy an entire information system or an IT/engineering technology project in organizations and enterprises.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "engineering technology project"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Design or analyze a product/service/technology/solution blueprint for a practical problem and execute tasks meeting the requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1",
+          "PI 5.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "technology solution blueprint"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 15,
+      "dense_rank": 5,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

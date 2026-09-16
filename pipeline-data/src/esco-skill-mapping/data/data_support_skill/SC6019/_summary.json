@@ -1,0 +1,70 @@
+{
+  "course_code": "SC6019",
+  "course_title": "Machine Learning",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 8,
+    "skill_count": 1,
+    "knowledge_count": 7
+  },
+  "skills": [
+    {
+      "preferred_label": "utilise machine learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "final_score": 0.6518,
+      "support_concept_origin": "adaptability to evolving technologies; pattern recognition",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "final_score": 0.8058,
+      "support_concept_origin": "adaptability to evolving technologies; iterative problem solving",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.7631,
+      "support_concept_origin": "pattern recognition; system architecture mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "research design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "final_score": 0.6336,
+      "support_concept_origin": "experimental design; hypothesis testing",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.6203,
+      "support_concept_origin": "complex system debugging; experimental design",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "image recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "final_score": 0.618,
+      "support_concept_origin": "pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "final_score": 0.5722,
+      "support_concept_origin": "complex system debugging; experimental design; system architecture mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.558,
+      "support_concept_origin": "complex system debugging; computational thinking; critical evaluation of evidence",
+      "review_status": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e",
+    "preferred_label": "manage quantitative data",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.70189,
+    "cross_encoder_score": 0.9958,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "CLO_4",
+      "text": "Mô tả và tính toán được các chỉ tiêu đo lường kinh tế vĩ mô cơ bản như GDP, GNP và mối quan hệ giữa tăng trưởng, lạm phát, thất nghiệp.",
+      "meta": {
+        "matched_mention": "macroeconomic measurement"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": null,
+      "dense_score": 0.4453,
+      "rrf_score": 0.0161,
+      "retrieval_sources": [
+        "faiss"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

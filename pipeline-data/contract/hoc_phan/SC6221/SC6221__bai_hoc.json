@@ -1,0 +1,69 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về phương pháp số",
+      "noi_dung_tom_tat": "Bài học giới thiệu về vai trò của phương pháp số trong giải quyết các vấn đề kỹ thuật và khái niệm cơ bản về sai số. Người học sẽ hiểu cách phân tích độ chính xác và tính ổn định của các thuật toán số.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Numerical Methods",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Đa thức và hàm số",
+      "noi_dung_tom_tat": "Nghiên cứu cách biểu diễn và xấp xỉ các hàm số phức tạp bằng các đa thức đơn giản hơn. Nội dung tập trung vào lý thuyết xấp xỉ hàm và ứng dụng trong tính toán số.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Polynomials and Functions",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Giải gần đúng phương trình",
+      "noi_dung_tom_tat": "Trình bày các kỹ thuật tìm nghiệm gần đúng cho phương trình phi tuyến như phương pháp chia đôi, Newton-Raphson và lặp đơn. Người học sẽ vận dụng các thuật toán này để giải quyết bài toán tìm nghiệm trên máy tính.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Approximate Solution of Equations",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Ma trận và hệ phương trình tuyến tính",
+      "noi_dung_tom_tat": "Khám phá các phương pháp trực tiếp và lặp để giải hệ phương trình tuyến tính cỡ lớn. Nội dung bao gồm khử Gauss, phân rã LU và phương pháp Jacobi/Gauss-Seidel.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Matrices and Systems of Linear Equations",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Giá trị riêng và vecto riêng",
+      "noi_dung_tom_tat": "Tập trung vào các thuật toán xác định giá trị riêng và vecto riêng cho các ma trận thực. Bài học giúp hiểu rõ tầm quan trọng của chúng trong phân tích ổn định và các ứng dụng kỹ thuật.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Eigenvalues and Eigenvectors",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Nội suy và phương pháp bình phương tối thiểu",
+      "noi_dung_tom_tat": "Hướng dẫn cách xây dựng đa thức nội suy và áp dụng phương pháp bình phương tối thiểu để khớp dữ liệu thực nghiệm. Đây là kỹ năng quan trọng trong xử lý dữ liệu và mô hình hóa.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Interpolation and Least Squares Method",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Tính gần đúng đạo hàm và tích phân xác định",
+      "noi_dung_tom_tat": "Giới thiệu các công thức sai phân hữu hạn để tính đạo hàm và các quy tắc hình thang, Simpson để tính tích phân xác định. Người học sẽ thực hiện lập trình các công cụ này để giải quyết các bài toán giải tích số.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Numerical Differentiation and Definite Integration",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "1885a99bbe08c06136dfa658bdc55e77"
+}

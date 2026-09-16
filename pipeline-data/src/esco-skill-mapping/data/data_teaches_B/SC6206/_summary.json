@@ -1,0 +1,351 @@
+{
+  "course_code": "SC6206",
+  "course_title": "Database",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 16,
+    "knowledge_count": 14,
+    "tier_distribution": {
+      "PRIMARY": 30,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.7973532354423404,
+      "cross_encoder_score": 0.9878906011581421,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers database design, data models, functional dependencies, and query languages, which are core components of managing databases."
+    },
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.7909641360520367,
+      "cross_encoder_score": 0.9919866323471069,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly covers the relational data model, SQL, and data manipulation, which are fundamental to operating relational database management systems."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.7901034167416351,
+      "cross_encoder_score": 0.9876890182495117,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes topics on relational schemas, normalization, and mapping ER models to relational models, which are essential for designing database schemes."
+    },
+    {
+      "preferred_label": "use query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "confidence": 0.7737159832272241,
+      "cross_encoder_score": 0.993834376335144,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly teaches SQL and relational algebra as data query languages."
+    },
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7762536402182594,
+      "cross_encoder_score": 0.993880033493042,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers Entity-Relationship (ER) modeling and mapping ERDs to relational models."
+    },
+    {
+      "preferred_label": "create data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+      "confidence": 0.7549108159700525,
+      "cross_encoder_score": 0.9900107979774475,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course includes Entity-Relationship modeling and analyzing data requirements to propose database designs."
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.7666569773794324,
+      "cross_encoder_score": 0.98935866355896,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of writing documentation for end users in the provided course content."
+    },
+    {
+      "preferred_label": "design database in the cloud",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "confidence": 0.7610059368289994,
+      "cross_encoder_score": 0.9809190630912781,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content focuses on fundamental database concepts and does not mention cloud infrastructure or distributed database design."
+    },
+    {
+      "preferred_label": "use databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "confidence": 0.7561649986809906,
+      "cross_encoder_score": 0.9819555878639221,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers data manipulation languages and query languages to interact with and organize data in a relational structure."
+    },
+    {
+      "preferred_label": "design database backup specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "confidence": 0.7536292650188213,
+      "cross_encoder_score": 0.9839380383491516,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not mention database backup, recovery, or archiving procedures."
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.7512311431592263,
+      "cross_encoder_score": 0.9632259607315063,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on logical database design, normalization, and relational models, but does not cover physical storage configuration or indexing options."
+    },
+    {
+      "preferred_label": "design cloud architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "confidence": 0.7500478629590623,
+      "cross_encoder_score": 0.9899777173995972,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content does not mention cloud architecture, multi-tier solutions, or cloud-based database services."
+    },
+    {
+      "preferred_label": "manage standards for data exchange",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "confidence": 0.7381554386571288,
+      "cross_encoder_score": 0.9707819223403931,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers database design and normalization, but does not address standards for data exchange or transformation between different schemas."
+    },
+    {
+      "preferred_label": "maintain database performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "confidence": 0.7448180123817476,
+      "cross_encoder_score": 0.9737235307693481,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While query optimization is mentioned, the course does not cover database administration tasks like backup strategies or index fragmentation management."
+    },
+    {
+      "preferred_label": "perform data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "confidence": 0.7406724720497657,
+      "cross_encoder_score": 0.9757905602455139,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on database design and querying, not on data mining or pattern discovery in large datasets."
+    },
+    {
+      "preferred_label": "establish data processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "confidence": 0.6731703530915154,
+      "cross_encoder_score": 0.8775490522384644,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course teaches relational algebra and SQL, which are mathematical and algorithmic processes used to manipulate data and create information."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7749738211944563,
+      "cross_encoder_score": 0.9902787804603577,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly covers data models, Entity-Relationship modeling, and relational models for structuring data."
+    },
+    {
+      "preferred_label": "query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "confidence": 0.7713420910192097,
+      "cross_encoder_score": 0.9909437298774719,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly covers SQL (Data Query Language) and relational algebra for information retrieval."
+    },
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.7571101753006624,
+      "cross_encoder_score": 0.9833477139472961,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers the fundamental concepts of databases and data manipulation languages, which are the core components of database management systems."
+    },
+    {
+      "preferred_label": "data warehouse",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "confidence": 0.7506895534204722,
+      "cross_encoder_score": 0.9877382516860962,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content does not mention data warehousing, data marts, or analytical reporting systems."
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7497241787783561,
+      "cross_encoder_score": 0.977119505405426,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on fundamental database design and relational models rather than large-scale data engineering systems."
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7580878185732393,
+      "cross_encoder_score": 0.9887608885765076,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly covers Entity-Relationship (ER) modeling, mapping ERDs to relational models, and database design."
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "confidence": 0.7577511552908696,
+      "cross_encoder_score": 0.9825971722602844,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers fundamental knowledge of databases, data models, and relational models."
+    },
+    {
+      "preferred_label": "NoSQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "confidence": 0.7577206854812002,
+      "cross_encoder_score": 0.9807784557342529,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content is explicitly focused on the relational data model and SQL, not NoSQL."
+    },
+    {
+      "preferred_label": "MarkLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "confidence": 0.7504475175775314,
+      "cross_encoder_score": 0.9548685550689697,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "MarkLogic is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "SPARQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "confidence": 0.7470461234378419,
+      "cross_encoder_score": 0.9716172218322754,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "SPARQL is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "XQuery",
+      "esco_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+      "confidence": 0.7363201113533774,
+      "cross_encoder_score": 0.9689980149269104,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "XQuery is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "N1QL",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "confidence": 0.7325998998060517,
+      "cross_encoder_score": 0.9568584561347961,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "N1QL is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "SQL Server",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "confidence": 0.71549709308376,
+      "cross_encoder_score": 0.9389525055885315,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While SQL is taught, the specific software product 'SQL Server' is not explicitly listed as a tool to be learned."
+    },
+    {
+      "preferred_label": "Oracle Relational Database",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "confidence": 0.7052280668955245,
+      "cross_encoder_score": 0.8971243500709534,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Oracle Relational Database is not mentioned in the course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

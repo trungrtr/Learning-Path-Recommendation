@@ -1,0 +1,186 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về hệ thống những và IoT",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về định nghĩa, kiến trúc và vai trò của hệ thống nhúng trong kỷ nguyên IoT. Người học sẽ hiểu rõ các thành phần cơ bản và xu hướng phát triển của công nghệ này trong thực tế.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Embedded Systems and IoT",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phần cứng hệ thống những",
+      "noi_dung_tom_tat": "Giới thiệu các linh kiện phần cứng cốt lõi như vi điều khiển, bộ nhớ và các giao tiếp ngoại vi. Nội dung tập trung vào cách lựa chọn và kết nối các thành phần để hình thành một hệ thống nhúng cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Embedded Systems Hardware",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phần cứng hệ thống những (tiếp)",
+      "noi_dung_tom_tat": "Tiếp nối phần trước, bài học đi sâu vào các module mở rộng, bộ nguồn và các chuẩn kết nối tín hiệu thông dụng trong công nghiệp. Người học được trang bị kỹ năng thiết kế sơ đồ nguyên lý đơn giản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Embedded Systems Hardware (Continued)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phần mềm ứng dụng hệ thống những",
+      "noi_dung_tom_tat": "Nghiên cứu về các công cụ lập trình, môi trường phát triển và cấu trúc chương trình điều khiển cho hệ thống nhúng. Bài học nhấn mạnh vào kỹ thuật lập trình hướng sự kiện và quản lý ngắt.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Embedded Systems Application Software",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành làm quen với arduino",
+      "noi_dung_tom_tat": "Hướng dẫn thiết lập môi trường phát triển Arduino IDE và nạp chương trình đầu tiên lên board mạch. Người học làm quen với cấu trúc ngôn ngữ Arduino và quy trình gỡ lỗi cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Getting acquainted with Arduino",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình GPIO số và ADC của Arduino",
+      "noi_dung_tom_tat": "Tìm hiểu cách cấu hình các chân GPIO cho chức năng xuất nhập số và sử dụng bộ chuyển đổi tương tự sang số (ADC). Nội dung thực hành bao gồm việc đọc dữ liệu từ cảm biến biến trở và điều khiển trạng thái LED.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Programming Arduino Digital GPIO and ADC",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phát triển một số hệ thống những thực tế",
+      "noi_dung_tom_tat": "Phân tích và triển khai các dự án nhúng thực tế như hệ thống tự động hóa đơn giản hoặc giám sát môi trường. Người học áp dụng kiến thức đã học để giải quyết các bài toán kỹ thuật thực tế.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Development of several practical embedded systems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình USART trong Arduino",
+      "noi_dung_tom_tat": "Tìm hiểu giao thức truyền thông nối tiếp USART để kết nối Arduino với máy tính hoặc các thiết bị ngoại vi khác. Người học thực hành truyền nhận dữ liệu qua cổng Serial để hiển thị thông tin.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Programming USART in Arduino",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình PWM của Arduino",
+      "noi_dung_tom_tat": "Khám phá kỹ thuật điều chế độ rộng xung (PWM) để kiểm soát các thiết bị như tốc độ động cơ hoặc cường độ sáng của đèn LED. Nội dung bao gồm việc cấu hình các chân PWM trên Arduino.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Programming Arduino PWM",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phát triển một số hệ thống những thực tế (tiếp)",
+      "noi_dung_tom_tat": "Tiếp tục nâng cao kỹ năng phát triển dự án bằng cách tích hợp nhiều module phức tạp hơn. Nội dung tập trung vào tối ưu hóa code và giải quyết các vấn đề phát sinh trong quá trình vận hành hệ thống.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Development of several practical embedded systems (Continued)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình Keypad 4x4 và LCD 16x2, Led 7Seg",
+      "noi_dung_tom_tat": "Hướng dẫn kỹ thuật kết nối và lập trình giao tiếp với bàn phím ma trận, màn hình LCD và LED 7 đoạn. Bài học giúp người học xây dựng giao diện người dùng cơ bản cho hệ thống nhúng.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Programming 4x4 Keypad, 16x2 LCD, and 7-Segment LED",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình Arduino với cảm biến LM35 và Moto DC + Kiểm tra TX1",
+      "noi_dung_tom_tat": "Thực hành thu thập dữ liệu từ cảm biến nhiệt độ LM35 và điều khiển động cơ DC qua cầu H. Bài học kết hợp kiểm tra đánh giá kiến thức giữa kỳ để củng cố kỹ năng lập trình hệ thống.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice: Programming Arduino with LM35 Sensor and DC Motor + Midterm Test 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiến trúc mạng và các giao thức iot",
+      "noi_dung_tom_tat": "Cung cấp kiến thức về mô hình mạng IoT, các giao thức truyền tin phổ biến như MQTT và HTTP. Người học hiểu được cách thức các thiết bị IoT kết nối và trao đổi dữ liệu với nhau trên Internet.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Network Architecture and IoT Protocols",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Giao thức mạng iot",
+      "noi_dung_tom_tat": "Thực hành cấu hình kết nối mạng cho thiết bị IoT và gửi dữ liệu lên server hoặc nền tảng đám mây. Người học được hướng dẫn kiểm tra và giám sát kết nối thông qua các công cụ phân tích gói tin.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: IoT Network Protocols",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phát triển một số hệ thống iot thực tế",
+      "noi_dung_tom_tat": "Tổng hợp kiến thức để xây dựng hệ thống IoT hoàn chỉnh từ thu thập dữ liệu đến hiển thị trên dashboard. Nội dung tập trung vào tính ứng dụng thực tế và khả năng mở rộng của hệ thống.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Development of several practical IoT systems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Phát triển ứng dụng iot",
+      "noi_dung_tom_tat": "Bài học tập trung vào quy trình xây dựng hoàn chỉnh một ứng dụng IoT từ giai đoạn thiết kế kiến trúc đến triển khai phần cứng. Sinh viên sẽ thực hành tích hợp các cảm biến và bộ vi xử lý để giải quyết các bài toán thu thập dữ liệu thực tế.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: Developing IoT Applications",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phát triển một số hệ thống iot thực tế (tiếp)",
+      "noi_dung_tom_tat": "Tiếp nối phần trước, bài học đi sâu vào việc phát triển và tối ưu hóa các hệ thống IoT trong môi trường công nghiệp hoặc thông minh. Sinh viên được hướng dẫn xử lý các vấn đề về độ tin cậy và khả năng truyền tải dữ liệu của hệ thống.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Development of several practical IoT systems (Continued)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình iot sử dụng Arduino với Bluetooth và đám máy Thingspeak.",
+      "noi_dung_tom_tat": "Sinh viên thực hành kết nối Arduino với giao thức Bluetooth để điều khiển thiết bị cục bộ và truyền dữ liệu lên nền tảng đám mây Thingspeak. Qua đó, người học hiểu rõ cách thức cấu hình và hiển thị dữ liệu trực tuyến từ cảm biến.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Practice: Programming IoT using Arduino with Bluetooth and ThingSpeak Cloud",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành: Lập trình iot sử dụng Arduino với modul wifi ESP8266 và đám máy Thingspeak + Kiểm tra TX2.",
+      "noi_dung_tom_tat": "Bài học tập trung vào việc sử dụng module WiFi ESP8266 để thiết lập kết nối internet cho Arduino và gửi dữ liệu về hệ thống lưu trữ đám mây Thingspeak. Kết hợp với bài kiểm tra TX2 để đánh giá khả năng nắm vững kỹ năng thực hành hệ thống của sinh viên.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practice: Programming IoT using Arduino with ESP8266 Wi-Fi Module and ThingSpeak Cloud + Midterm Test 2",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số vấn đề bảo mật trong hệ thống những và iot",
+      "noi_dung_tom_tat": "Khóa học cung cấp kiến thức nền tảng về các thách thức bảo mật đặc thù trong hệ thống nhúng và mạng lưới thiết bị IoT. Sinh viên sẽ nghiên cứu các giải pháp phòng chống tấn công, mã hóa dữ liệu và bảo vệ quyền riêng tư trong quá trình truyền dẫn.",
+      "ma_clo": [
+        "L1L2"
+      ],
+      "ten_bai_en": "Security issues in embedded systems and IoT",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "974623ecc4b9dbee76419d5a8d73160c"
+}

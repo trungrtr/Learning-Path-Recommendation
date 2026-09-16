@@ -1,0 +1,50 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d15ba5cb-9212-4a90-85af-2c560da59925",
+    "preferred_label": "perform product planning",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.67061,
+    "cross_encoder_score": 0.9518,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "lesson_5",
+      "text": "Chương 3: Hành vi Người tiêu dùng – Người sản xuất",
+      "meta": {
+        "matched_mention": "hành vi người sản xuất"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": null,
+      "dense_score": 0.4069,
+      "rrf_score": 0.0145,
+      "retrieval_sources": [
+        "faiss"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

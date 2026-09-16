@@ -1,0 +1,55 @@
+{
+  "course_code": "IT6204",
+  "course_title": "System Analysis and Design",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 6,
+    "skill_count": 0,
+    "knowledge_count": 6
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "final_score": 0.8309,
+      "support_concept_origin": "project management mindset; stakeholder communication",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "final_score": 0.6898,
+      "support_concept_origin": "iterative refinement; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "final_score": 0.6699,
+      "support_concept_origin": "iterative refinement; project management mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.6206,
+      "support_concept_origin": "abstract modeling; project management mindset; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems development life-cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "final_score": 0.5693,
+      "support_concept_origin": "iterative refinement; project management mindset; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "service-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "final_score": 0.5525,
+      "support_concept_origin": "abstract modeling; strategic planning; systems thinking",
+      "review_status": "accepted"
+    }
+  ]
+}

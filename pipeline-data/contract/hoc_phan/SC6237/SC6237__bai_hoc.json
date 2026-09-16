@@ -1,0 +1,114 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về phân tích dữ liệu lớn",
+      "noi_dung_tom_tat": "Giới thiệu các khái niệm cơ bản về dữ liệu lớn, đặc điểm và vai trò của Big Data trong kỷ nguyên số. Bài học cung cấp cái nhìn tổng quan về quy trình phân tích và các thách thức thường gặp khi xử lý tập dữ liệu khổng lồ.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Big Data Analysis",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Tiền xử lý dữ liệu",
+      "noi_dung_tom_tat": "Trình bày các kỹ thuật làm sạch, chuẩn hóa và chuyển đổi dữ liệu thô thành định dạng phù hợp cho phân tích. Nội dung nhấn mạnh tầm quan trọng của việc xử lý nhiễu và thiếu hụt dữ liệu để đảm bảo chất lượng mô hình.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Data Preprocessing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích mô tả và phân tích dự báo",
+      "noi_dung_tom_tat": "Khám phá phương pháp tóm tắt dữ liệu lịch sử thông qua các chỉ số thống kê và các mô hình dự báo tương lai. Người học sẽ nắm vững cách thức sử dụng dữ liệu quá khứ để đưa ra các dự đoán mang tính chiến lược.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Descriptive and Predictive Analysis",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích dữ liệu mạng phúc hợp",
+      "noi_dung_tom_tat": "Tập trung vào phân tích cấu trúc, mối quan hệ và các mô hình lan truyền trong mạng phức hợp. Bài học hướng dẫn cách đo lường độ trung tâm và các thuộc tính khác của mạng lưới dữ liệu lớn.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Complex Network Data Analysis",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Công cụ phân tích dữ liệu lớn",
+      "noi_dung_tom_tat": "Giới thiệu các hệ sinh thái và công cụ phân phối phổ biến như Hadoop, Spark nhằm xử lý dữ liệu quy mô lớn. Người học được làm quen với kiến trúc lưu trữ và các thư viện hỗ trợ phân tích dữ liệu hiệu năng cao.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Big Data Analysis Tools",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành tiền xử lý dữ liệu",
+      "noi_dung_tom_tat": "Hướng dẫn thực hành trực tiếp các kỹ thuật tiền xử lý trên bộ dữ liệu thực tế bằng các ngôn ngữ lập trình phổ biến. Sinh viên thực hiện làm sạch và định hình dữ liệu để chuẩn bị cho các bước phân tích sâu hơn.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Data Preprocessing Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "phân tích mô tả, dự báo",
+      "noi_dung_tom_tat": "Áp dụng các kỹ thuật thống kê và mô hình máy học để thực hiện phân tích mô tả và xây dựng các mô hình dự báo cụ thể. Bài học tập trung vào việc diễn giải kết quả từ các thuật toán dự báo.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Descriptive and Predictive Analysis",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp và KTTX 1",
+      "noi_dung_tom_tat": "Tổng hợp kiến thức đã học thông qua các bài tập tình huống thực tế và thực hiện bài kiểm tra thường xuyên. Đây là cơ hội để đánh giá mức độ hiểu bài và kỹ năng vận dụng các phương pháp phân tích cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Comprehensive Exercises and Regular Assessment 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành tiền xử lý dữ liệu mạng phúc hợp",
+      "noi_dung_tom_tat": "Thực hành quy trình chuẩn bị và làm sạch dữ liệu mạng lưới, bao gồm xử lý các nút và cạnh bị lỗi hoặc thiếu thông tin. Sinh viên học cách cấu trúc dữ liệu đồ thị để sẵn sàng cho các thuật toán phân tích mạng.",
+      "ma_clo": [
+        "L2",
+        "L4"
+      ],
+      "ten_bai_en": "Complex Network Data Preprocessing Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành phát hiện cộng đồng mạng",
+      "noi_dung_tom_tat": "Thực hành sử dụng các thuật toán chuyên dụng để phát hiện cộng đồng và nhóm chức năng trong mạng lưới phức hợp. Nội dung giúp người học hiểu rõ cách phân vùng và nhận diện các tiểu cộng đồng trong dữ liệu lớn.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Network Community Detection Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành dữ liệu lớn",
+      "noi_dung_tom_tat": "Triển khai các dự án phân tích dữ liệu lớn trên nền tảng tính toán phân tán với các bộ dữ liệu thực tế quy mô lớn. Bài thực hành giúp kết nối lý thuyết về công cụ Big Data với các bài toán nghiệp vụ cụ thể.",
+      "ma_clo": [
+        "L2 L3"
+      ],
+      "ten_bai_en": "Big Data Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp và KTTX 2",
+      "noi_dung_tom_tat": "Tổng kết lại toàn bộ kiến thức kỹ thuật và tư duy phân tích dữ liệu lớn thông qua các bài tập dự án phức hợp. Kết thúc bằng bài kiểm tra đánh giá năng lực thực tế để đảm bảo đạt được các chuẩn đầu ra của học phần.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Comprehensive Exercises and Regular Assessment 2",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "92766e0b19446df0dfa5b5c4acd4412f"
+}

@@ -1,0 +1,40 @@
+paths:
+  skill_mapping_input: ../../contract
+  skill_candidates: data/skill_candidates
+  skill_teacher: data/skill-teacher
+  skill_matches: data/skill_matches
+  review_queue: ../../review_queue
+  kg_export: ../../final_kg_export
+  esco_data: ../../esco_data
+  logs: logs
+models:
+  gemini_labeling: gemini-3.1-flash-lite
+  embedding_model: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  teaches_reranker: nurlanm/UniSkill_Bert
+teaches_skill:
+  faiss_index: data/esco_filtered/v1/faiss/esco_full.index
+  faiss_metadata: data/esco_filtered/v1/faiss/esco_metadata.json
+  bm25_index: data/esco_filtered/v1/bm25/bm25_corpus.pkl
+  mapping_path: config/ctdt_occupation_map.yaml
+  course_types:
+    foundational:
+      top_k: 8
+      high_threshold: 0.85
+      low_threshold: 0.75
+      max_output_skills: 3
+    core:
+      top_k: 15
+      high_threshold: 0.85
+      low_threshold: 0.75
+      max_output_skills: 10
+    specialized:
+      top_k: 20
+      high_threshold: 0.85
+      low_threshold: 0.75
+      max_output_skills: 20
+supports_skill:
+  esco_match_score_min: 0.65
+  auto_accept: false
+neo4j:
+  uri: bolt://localhost:7687
+  database: neo4j

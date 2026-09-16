@@ -1,0 +1,139 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+    "preferred_label": "IBM WebSphere",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6218",
+    "course_title": "Database Management System (DBMS)",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.346136,
+    "cross_encoder_score": 0.41002,
+    "tier": "OPTIONAL",
+    "confidence_level": "LOW",
+    "decision_status": "REVIEW",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Overview of DBMS and Database Construction in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Database Construction in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Programming Views and Functions in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Programming Views and Functions in SQL Server - Regular Test 1",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L14",
+      "text": "Programming Stored Procedures and Triggers in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "Programming Stored Procedures in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "Programming Triggers in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L17",
+      "text": "Security, Backup, and Recovery in SQL Server",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L18",
+      "text": "Security, Backup, and Recovery in SQL Server - Regular Test 2",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 8,
+      "dense_rank": 36,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

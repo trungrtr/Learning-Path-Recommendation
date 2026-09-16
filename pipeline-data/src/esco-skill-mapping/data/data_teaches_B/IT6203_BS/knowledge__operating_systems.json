@@ -1,0 +1,86 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+    "preferred_label": "operating systems",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6203_BS",
+    "course_title": "Nguyên lý hệ điều hành",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7121120603454243,
+    "cross_encoder_score": 0.9726328253746033,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly covers operating system principles, including overview, process management, memory management, and I/O device management."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course belongs to the foundational knowledge block in the training program and is taught over one semester. With the main objective of introducing basic concepts related to Operating System principles: process management, CPU scheduling issues, deadlock handling, memory management, and peripheral device management...",
+      "meta": {
+        "matched_mention": "Operating System principles"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO1",
+      "text": "Explain the basic concepts, roles, and functions of operating systems and the mechanisms for process, memory, and peripheral device management.",
+      "meta": {
+        "muc_do": "U",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "operating systems"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Operating Systems Overview",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "operating systems overview"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "I/O Device Management and System Protection",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "I/O device management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "course_code": "BS6021_BS",
+  "course_title": "Con người và môi trường",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 2,
+    "skill_count": 0,
+    "knowledge_count": 2
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "final_score": 0.8077,
+      "support_concept_origin": "complex problem solving; ethical reasoning; resource management mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "final_score": 0.6571,
+      "support_concept_origin": "evidence-based decision making; systems thinking",
+      "review_status": "accepted"
+    }
+  ]
+}

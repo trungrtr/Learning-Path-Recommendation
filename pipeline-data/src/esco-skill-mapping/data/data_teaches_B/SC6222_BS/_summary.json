@@ -1,0 +1,241 @@
+{
+  "course_code": "SC6222_BS",
+  "course_title": "Tích hợp hệ thống phần mềm",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 20,
+    "skill_count": 5,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 20,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "compose description for web elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "confidence": 0.7429549986494272,
+      "cross_encoder_score": 0.9628916382789612,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on system integration, Web APIs, and data formats (XML, JSON), not on web content accessibility or element descriptions."
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7212061499225924,
+      "cross_encoder_score": 0.9658681154251099,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers building client applications to consume Web APIs, but does not focus on front-end website design or user experience layout."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.7223442166238283,
+      "cross_encoder_score": 0.9692772626876831,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course explicitly teaches developing Web APIs and client applications to process and integrate data between systems."
+    },
+    {
+      "preferred_label": "develop with cloud services",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "confidence": 0.701390243827245,
+      "cross_encoder_score": 0.9236494302749634,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course covers Web APIs, it does not explicitly mention cloud services, serverless applications, or cloud CLI tools."
+    },
+    {
+      "preferred_label": "utilise computer-aided software engineering tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "confidence": 0.6972037420513455,
+      "cross_encoder_score": 0.9324041604995728,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content does not mention the use of CASE tools for the software development lifecycle."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "World Wide Web Consortium standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "confidence": 0.7599160435342255,
+      "cross_encoder_score": 0.9646793007850647,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers XML, XSD, XSLT, and RESTful web services, which are W3C standards."
+    },
+    {
+      "preferred_label": "web services",
+      "esco_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+      "confidence": 0.7529192146990332,
+      "cross_encoder_score": 0.940924882888794,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly covers Web APIs, RESTful web services, and XML-based integration."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.7529050614252857,
+      "cross_encoder_score": 0.9465852379798889,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not mention Ajax frameworks."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7520440347988849,
+      "cross_encoder_score": 0.9499391913414001,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course involves developing Web APIs and client applications, which falls under the umbrella of web programming."
+    },
+    {
+      "preferred_label": "web analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "confidence": 0.7601008277082939,
+      "cross_encoder_score": 0.9797514081001282,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not cover web analytics or user behavior measurement."
+    },
+    {
+      "preferred_label": "Apache Tomcat",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "confidence": 0.7437314304416425,
+      "cross_encoder_score": 0.934715211391449,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content focuses on Web API development and integration technologies (XML, JSON, RESTful) but does not explicitly mention Apache Tomcat."
+    },
+    {
+      "preferred_label": "web based collaborative platforms",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "confidence": 0.7409043371387287,
+      "cross_encoder_score": 0.9739460349082947,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on technical integration of software systems via APIs, not on collaborative platforms for team communication."
+    },
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.7308654810473354,
+      "cross_encoder_score": 0.9503286480903625,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers JSON and Web API consumption, it does not explicitly teach JavaScript frameworks."
+    },
+    {
+      "preferred_label": "mobile device software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "confidence": 0.7143904534739602,
+      "cross_encoder_score": 0.9322200417518616,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers Web API integration across platforms, but does not specifically teach mobile device software frameworks."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.7202062120404282,
+      "cross_encoder_score": 0.9661617875099182,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on design and development of APIs, not the specific processes of software installation, deployment, and maintenance."
+    },
+    {
+      "preferred_label": "WebCMS",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "confidence": 0.7189651255198445,
+      "cross_encoder_score": 0.9232849478721619,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "WebCMS is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.712663275991849,
+      "cross_encoder_score": 0.9553854465484619,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "Software configuration management tools are not listed in the course content."
+    },
+    {
+      "preferred_label": "SPARK",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "confidence": 0.7067151576060972,
+      "cross_encoder_score": 0.9247801899909973,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "SPARK is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "proxy servers",
+      "esco_uri": "http://data.europa.eu/esco/skill/553e1d2d-abf1-4b37-8ac4-c5c78a8edbc0",
+      "confidence": 0.7049630799096065,
+      "cross_encoder_score": 0.9316595792770386,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "Proxy servers are not mentioned in the course content."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.6981387993286458,
+      "cross_encoder_score": 0.9349275827407837,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While students will use IDEs to develop Web APIs, the course content does not explicitly teach the use of IDEs as a skill."
+    }
+  ],
+  "schema_version": "3.0"
+}

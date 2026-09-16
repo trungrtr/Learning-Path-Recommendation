@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+    "preferred_label": "interactive media",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6051_BS",
+    "course_title": "Nghệ thuật học đại cương"
+  },
+  "support_context": {
+    "support_concept_origin": "effective communication; pattern recognition",
+    "evidence_text": "and content-form relationships in art"
+  },
+  "scoring": {
+    "final_score": 0.744503,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers cinema and various art forms, providing a foundational understanding of visual language and composition essential for creating or analyzing interactive media.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

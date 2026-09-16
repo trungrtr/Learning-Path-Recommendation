@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+    "preferred_label": "manage standard enterprise resource planning system",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6228",
+    "course_title": "E-commerce Application Development"
+  },
+  "support_context": {
+    "support_concept_origin": "problem-solving under constraints; resource management",
+    "evidence_text": "System Administration: Having the ability to deploy websites from a practice environment to the internet (Hosting/Domain) and manage data storage"
+  },
+  "scoring": {
+    "final_score": 0.567904,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches WooCommerce, which functions as an ERP-like system for small businesses to manage inventory, orders, payments, and shipping.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

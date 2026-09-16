@@ -1,0 +1,56 @@
+{
+  "course_code": "SC6260",
+  "course_title": "Major Project (Information Technology)",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 6,
+    "skill_count": 1,
+    "knowledge_count": 5
+  },
+  "skills": [
+    {
+      "preferred_label": "demonstrate disciplinary expertise",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "final_score": 0.5003,
+      "support_concept_origin": "professional ethics",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "ICT project management methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "final_score": 0.7584,
+      "support_concept_origin": "problem decomposition; project management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "industrial research and development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "final_score": 0.4856,
+      "support_concept_origin": "resourcefulness; technical documentation",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "final_score": 0.4789,
+      "support_concept_origin": "professional communication; professional ethics",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "final_score": 0.4777,
+      "support_concept_origin": "stakeholder management; technical documentation",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "final_score": 0.3326,
+      "support_concept_origin": "iterative refinement",
+      "review_status": "accepted"
+    }
+  ]
+}

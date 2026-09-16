@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "preferred_label": "project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6013",
+    "course_title": "Information Technology Project Management"
+  },
+  "support_context": {
+    "support_concept_origin": "resource allocation mindset; stakeholder management; time management",
+    "evidence_text": "master traditional project management processes: initiation, planning, execution, monitoring and controlling, and closing"
+  },
+  "scoring": {
+    "final_score": 0.662771,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course is fundamentally designed to teach the discipline of project management, including time, resources, and requirements.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

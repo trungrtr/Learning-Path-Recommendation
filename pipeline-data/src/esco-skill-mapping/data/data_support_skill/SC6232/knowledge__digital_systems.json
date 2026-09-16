@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+    "preferred_label": "digital systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6232",
+    "course_title": "Embedded Programming and IoT"
+  },
+  "support_context": {
+    "support_concept_origin": "resource-constrained optimization; systems thinking",
+    "evidence_text": "Deploying IoT systems to solve practical problems"
+  },
+  "scoring": {
+    "final_score": 0.497103,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Embedded systems and IoT are fundamental examples of digital systems that process and transmit information.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

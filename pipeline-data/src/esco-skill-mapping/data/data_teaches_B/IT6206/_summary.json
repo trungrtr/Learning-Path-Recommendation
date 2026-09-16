@@ -1,0 +1,219 @@
+{
+  "course_code": "IT6206",
+  "course_title": "Graduation Thesis",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 18,
+    "skill_count": 8,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 18,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7331918747672099,
+      "cross_encoder_score": 0.991927981376648,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course content explicitly includes 'System Design' as a core lesson."
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.73052899863562,
+      "cross_encoder_score": 0.994621753692627,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on building and deploying solutions rather than the specific activity of gathering information on existing market solutions."
+    },
+    {
+      "preferred_label": "deploy ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "confidence": 0.7182287385873993,
+      "cross_encoder_score": 0.9893938899040222,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly includes 'System Deployment' as a core lesson."
+    },
+    {
+      "preferred_label": "develop information security strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "confidence": 0.7185766828054979,
+      "cross_encoder_score": 0.9930576086044312,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course focuses on technical implementation and security integration rather than high-level company strategy creation."
+    },
+    {
+      "preferred_label": "implement ICT recovery system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fc2f1d4f-a46f-471e-a618-cbd4d0496a53",
+      "confidence": 0.7156663126656649,
+      "cross_encoder_score": 0.9926174283027649,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "There is no mention of recovery plans or crisis management in the provided course content."
+    },
+    {
+      "preferred_label": "ensure information privacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490",
+      "confidence": 0.7141658589780793,
+      "cross_encoder_score": 0.9879823327064514,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course objectives explicitly mention selecting and developing secure software solutions to meet practical requirements."
+    },
+    {
+      "preferred_label": "establish an ICT security prevention plan",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "confidence": 0.7138709059752579,
+      "cross_encoder_score": 0.9892364144325256,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course focuses on building secure software rather than establishing organizational-wide security prevention plans or employee education."
+    },
+    {
+      "preferred_label": "apply information security policies",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "confidence": 0.7128394495244371,
+      "cross_encoder_score": 0.9895117878913879,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course objectives include applying and managing secure software systems, which involves implementing security measures."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "security engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "confidence": 0.7273793209185064,
+      "cross_encoder_score": 0.9923987984657288,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course objectives explicitly mention developing and integrating secure software solutions and addressing security aspects."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7186119255217085,
+      "cross_encoder_score": 0.9911310076713562,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "While the course covers system design, it does not explicitly mention teaching specific software design methodologies like Scrum or Waterfall."
+    },
+    {
+      "preferred_label": "assessment of risks and threats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "confidence": 0.7131971980679757,
+      "cross_encoder_score": 0.9880651831626892,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course explicitly includes a CLO focused on selecting IT solutions that address security aspects."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.7087736020337523,
+      "cross_encoder_score": 0.9794024229049683,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content explicitly lists 'System Deployment' as a lesson."
+    },
+    {
+      "preferred_label": "software metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "confidence": 0.718238823256118,
+      "cross_encoder_score": 0.9919226169586182,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content explicitly lists 'Product Evaluation' as a lesson, which involves measuring system characteristics."
+    },
+    {
+      "preferred_label": "levels of software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "confidence": 0.7137966233264041,
+      "cross_encoder_score": 0.9905183911323547,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "While the course covers 'Product Evaluation', it does not explicitly mention specific software testing levels or methodologies."
+    },
+    {
+      "preferred_label": "ICT problem management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "confidence": 0.713039711244308,
+      "cross_encoder_score": 0.9910701513290405,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 3,
+      "llm_reasoning": "The course focuses on building and deploying software rather than incident management or root cause analysis of ICT incidents."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7068277686485941,
+      "cross_encoder_score": 0.9652824997901917,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course includes 'System Design' and 'Develop and integrate secure software solutions', which covers system programming and architecture."
+    },
+    {
+      "preferred_label": "ICT encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "confidence": 0.6877823714561221,
+      "cross_encoder_score": 0.953715980052948,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 3,
+      "llm_reasoning": "While security is mentioned, the course content does not explicitly list encryption techniques or PKI/SSL as specific topics."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.6739917573960297,
+      "cross_encoder_score": 0.9329122304916382,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course content covers general system design but does not explicitly mention UI design patterns."
+    }
+  ],
+  "schema_version": "3.0"
+}

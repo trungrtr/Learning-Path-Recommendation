@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+    "preferred_label": "computer science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6042_BS",
+    "course_title": "Xác suất thống kê"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; scientific inquiry",
+    "evidence_text": "- The Mathematical Statistics part introduces estimation problems and statistical hypothesis testing problems"
+  },
+  "scoring": {
+    "final_score": 0.728364,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Probability and statistics are fundamental mathematical pillars of computer science, particularly in areas like algorithms, data processing, and information theory.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

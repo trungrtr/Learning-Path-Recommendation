@@ -1,0 +1,256 @@
+{
+  "course_code": "SC6262",
+  "concept_tags": [
+    {
+      "text": "architectural thinking",
+      "normalized": "architectural thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "system design",
+      "normalized": "system design",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical project management",
+      "normalized": "technical project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative workflow",
+      "normalized": "collaborative workflow",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "troubleshooting methodology",
+      "normalized": "troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "quality assurance mindset",
+      "normalized": "quality assurance mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "adaptability to new technologies",
+      "normalized": "adaptability to new technologies",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6262",
+      "concept_tag": "architectural thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "system design",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "technical project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "collaborative workflow",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "quality assurance mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6262",
+      "concept_tag": "adaptability to new technologies",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.773501,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.773501,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.667534,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.667534,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.631243,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.631243,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.631243,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.62421,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.62421,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.62421,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.594438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.594438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative workflow",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.591735,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.591735,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quality assurance mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.57111,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.57111,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 16
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6214",
+    "course_title": "Web Programming in ASP.NET"
+  },
+  "support_context": {
+    "support_concept_origin": "lifecycle management; project planning",
+    "evidence_text": "Demonstrate a serious work attitude, strictly adhering to schedules and software development processes"
+  },
+  "scoring": {
+    "final_score": 0.610839,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course emphasizes adhering to software development processes and managing the lifecycle of an application from requirements to deployment.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

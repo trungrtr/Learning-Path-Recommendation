@@ -1,0 +1,2574 @@
+{
+  "course_code": "SC6200",
+  "concept_tags": [
+    {
+      "text": "secure cryptography",
+      "normalized": "secure cryptography"
+    },
+    {
+      "text": "digital signatures",
+      "normalized": "digital signatures"
+    },
+    {
+      "text": "digital authentication",
+      "normalized": "digital authentication"
+    },
+    {
+      "text": "data encryption algorithms",
+      "normalized": "data encryption algorithms"
+    },
+    {
+      "text": "electronic signatures",
+      "normalized": "electronic signatures"
+    },
+    {
+      "text": "information authentication",
+      "normalized": "information authentication"
+    },
+    {
+      "text": "secure encryption",
+      "normalized": "secure encryption"
+    },
+    {
+      "text": "encryption algorithms",
+      "normalized": "encryption algorithms"
+    },
+    {
+      "text": "data decryption",
+      "normalized": "data decryption"
+    },
+    {
+      "text": "cybersecurity principles",
+      "normalized": "cybersecurity principles"
+    },
+    {
+      "text": "teamwork",
+      "normalized": "teamwork"
+    },
+    {
+      "text": "legal responsibilities",
+      "normalized": "legal responsibilities"
+    },
+    {
+      "text": "ethical responsibilities",
+      "normalized": "ethical responsibilities"
+    },
+    {
+      "text": "cybersecurity knowledge",
+      "normalized": "cybersecurity knowledge"
+    },
+    {
+      "text": "information systems protection",
+      "normalized": "information systems protection"
+    },
+    {
+      "text": "computing systems protection",
+      "normalized": "computing systems protection"
+    },
+    {
+      "text": "computer networks protection",
+      "normalized": "computer networks protection"
+    },
+    {
+      "text": "cybersecurity incident handling",
+      "normalized": "cybersecurity incident handling"
+    },
+    {
+      "text": "cybersecurity solutions",
+      "normalized": "cybersecurity solutions"
+    },
+    {
+      "text": "IT systems analysis",
+      "normalized": "it systems analysis"
+    },
+    {
+      "text": "computing systems operation",
+      "normalized": "computing systems operation"
+    },
+    {
+      "text": "information systems management",
+      "normalized": "information systems management"
+    },
+    {
+      "text": "Security Overview",
+      "normalized": "security overview"
+    },
+    {
+      "text": "Mathematical Foundations",
+      "normalized": "mathematical foundations"
+    },
+    {
+      "text": "Cryptography Foundations",
+      "normalized": "cryptography foundations"
+    },
+    {
+      "text": "Classical Cryptography",
+      "normalized": "classical cryptography"
+    },
+    {
+      "text": "Symmetric-Key Cryptography",
+      "normalized": "symmetric-key cryptography"
+    },
+    {
+      "text": "Public-Key Cryptography",
+      "normalized": "public-key cryptography"
+    },
+    {
+      "text": "Hash Functions",
+      "normalized": "hash functions"
+    },
+    {
+      "text": "Key Management",
+      "normalized": "key management"
+    },
+    {
+      "text": "Key Distribution",
+      "normalized": "key distribution"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6200",
+      "concept_tag": "secure cryptography",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "digital signatures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN",
+        "SC6200_MUCTIEU_MT1",
+        "SC6200_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "digital authentication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN",
+        "SC6200_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "data encryption algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "electronic signatures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN",
+        "SC6200_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "information authentication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "secure encryption",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "encryption algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "data decryption",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "cybersecurity principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "teamwork",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "legal responsibilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "ethical responsibilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "cybersecurity knowledge",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "information systems protection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "computing systems protection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "computer networks protection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "cybersecurity incident handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "cybersecurity solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "it systems analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "computing systems operation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "information systems management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "security overview",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "mathematical foundations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "cryptography foundations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "classical cryptography",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "symmetric-key cryptography",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "public-key cryptography",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "hash functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "key management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6200",
+      "concept_tag": "key distribution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6200_BAIHOC_L07"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.7578145217404371,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "esco_label": "manage keys for data protection",
+      "confidence": 0.7513661888746558,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.7440706817574264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "esco_label": "protect personal data and privacy",
+      "confidence": 0.7469384073018523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7385393903712236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.7363400493957467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.733255014823771,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.7304732184365452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.7298059192218839,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7192960081402521,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.702300448349925,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity incident handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.6835238397762065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7604479539964248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it systems analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7558016235487519,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.7503347548908779,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.7444190763503142,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7328763458981941,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity incident handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.745978335828636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.745439418105312,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity incident handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.7306532573015564,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity incident handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.7289809864359947,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information authentication",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key management",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "esco_label": "information confidentiality",
+      "confidence": 0.7222495761406802,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.6979606889915467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computing systems protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "security overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "key distribution",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.5809772122737638,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital signatures",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data decryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity incident handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cryptography foundations",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "classical cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key cryptography",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "esco_label": "computer forensics",
+      "confidence": 0.5110892694763768,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 31,
+    "total_has_concept_edges": 31,
+    "total_evidence_for_edges": 312
+  }
+}

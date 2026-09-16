@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+    "preferred_label": "telecom regulations",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6234",
+    "course_title": "Cyber security"
+  },
+  "support_context": {
+    "support_concept_origin": "incident response planning; regulatory compliance awareness",
+    "evidence_text": "Additionally, the course equips students with knowledge of certain provisions of the cybersecurity law and the ACM software engineering code of ethics"
+  },
+  "scoring": {
+    "final_score": 0.520952,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers cybersecurity law and professional ethics, which provides a foundation for understanding the regulatory environment surrounding telecommunications and network security.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

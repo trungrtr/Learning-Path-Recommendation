@@ -1,0 +1,83 @@
+{
+  "records": [
+    {
+      "ten_bai": "Bài toán tối ưu hóa tổng quát",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về bài toán tối ưu hóa, bao gồm hàm mục tiêu, tập ràng buộc và các biến quyết định. Sinh viên sẽ làm quen với việc mô hình hóa các vấn đề thực tế dưới dạng toán học.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "General Optimization Problems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số tính chất của bài toán tối ưu",
+      "noi_dung_tom_tat": "Nội dung tập trung vào các tính chất hình học và giải tích của bài toán tối ưu, như tính lồi của hàm mục tiêu và tập hợp. Đây là cơ sở lý thuyết quan trọng để xác định các điểm tối ưu địa phương và toàn cục.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Some Properties of Optimization Problems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài toán quy hoạch tuyến tính và phương pháp đơn hình",
+      "noi_dung_tom_tat": "Bài học trình bày cấu trúc của quy hoạch tuyến tính và các bước thực hiện thuật toán đơn hình để tìm nghiệm tối ưu. Sinh viên sẽ thực hành các thao tác trên bảng đơn hình để giải quyết bài toán.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Linear Programming Problems and the Simplex Method",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các dạng bài toán quy hoạch tuyến tính",
+      "noi_dung_tom_tat": "Nội dung phân tích các dạng bài toán quy hoạch tuyến tính khác nhau như dạng chuẩn tắc và dạng chính tắc. Đồng thời hướng dẫn cách chuyển đổi qua lại giữa các dạng để thuận tiện cho việc giải bằng thuật toán.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Forms of Linear Programming Problems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài toán quy hoạch tuyến tính đối ngẫu (khái niệm, các định lý đối ngẫu,",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức về lý thuyết đối ngẫu, cách xây dựng bài toán đối ngẫu từ bài toán gốc và ý nghĩa kinh tế của các biến đối ngẫu. Các định lý đối ngẫu quan trọng sẽ được phân tích sâu để đánh giá tính tối ưu.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Dual Linear Programming Problems (Concepts, Duality Theorems,",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài toán vận tải",
+      "noi_dung_tom_tat": "Giới thiệu mô hình bài toán vận tải với mục tiêu tối ưu hóa chi phí phân phối hàng hóa từ nhiều nguồn đến nhiều đích. Sinh viên sẽ học cách xây dựng ma trận chi phí và xác định các điều kiện cân bằng cung cầu.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Transportation Problem",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương pháp giải bài toán vận tải",
+      "noi_dung_tom_tat": "Trình bày các phương pháp tìm phương án xuất phát và thuật toán thế vị để tối ưu hóa bài toán vận tải. Các bước giải chi tiết giúp người học nắm vững quy trình xử lý dữ liệu vận tải thực tế.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Methods for Solving the Transportation Problem",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài toán tối ưu hóa rời rạc và các phương pháp giải",
+      "noi_dung_tom_tat": "Bài học tập trung vào các bài toán tối ưu hóa mà biến quyết định phải nhận giá trị nguyên hoặc rời rạc. Các phương pháp như nhánh cận (branch and bound) và cắt (cutting plane) sẽ được giới thiệu để giải quyết lớp bài toán này.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Discrete Optimization Problems and Solution Methods",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "c4384ff589e690d683b3ed5dd7456715"
+}

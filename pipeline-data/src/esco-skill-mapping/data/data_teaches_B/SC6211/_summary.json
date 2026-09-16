@@ -1,0 +1,230 @@
+{
+  "course_code": "SC6211",
+  "course_title": "Object Oriented Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 19,
+    "skill_count": 4,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 15,
+      "SECONDARY": 4,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.7543664857010985,
+      "cross_encoder_score": 0.9637763500213623,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly covers object-oriented programming methodology, including classes, objects, attributes, and methods."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.7206506181585838,
+      "cross_encoder_score": 0.9163644313812256,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses exclusively on the object-oriented paradigm and does not mention functional programming."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6928610497931484,
+      "cross_encoder_score": 0.9262105822563171,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on manual implementation and design of programs, not automatic code generation from specifications."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.6843653989647628,
+      "cross_encoder_score": 0.9082372188568115,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course does not cover logic programming or languages like Prolog."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.7691154608034891,
+      "cross_encoder_score": 0.9882425665855408,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes designing class diagrams and analyzing/designing programs using object-oriented approaches."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.740414252956537,
+      "cross_encoder_score": 0.9695295095443726,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers analysis, design, implementation, and testing of programs within the object-oriented paradigm."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7259107178053193,
+      "cross_encoder_score": 0.9598574638366699,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not mention web programming technologies or paradigms."
+    },
+    {
+      "preferred_label": "Assembly (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "confidence": 0.6860692871447904,
+      "cross_encoder_score": 0.9029853940010071,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on high-level object-oriented programming, not Assembly language."
+    },
+    {
+      "preferred_label": "information categorisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "confidence": 0.6753467541761736,
+      "cross_encoder_score": 0.9125531911849976,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "While the course involves class structures, it does not teach general information categorization as a standalone skill."
+    },
+    {
+      "preferred_label": "Pascal (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "confidence": 0.672693725546785,
+      "cross_encoder_score": 0.8975369334220886,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover the Pascal programming language."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.6711000889680976,
+      "cross_encoder_score": 0.8928405046463013,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on object-oriented programming methodology and software implementation rather than information architecture principles."
+    },
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.666367786566774,
+      "cross_encoder_score": 0.8947154879570007,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not specify Python as the programming language used."
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "confidence": 0.6582091134668898,
+      "cross_encoder_score": 0.8804689645767212,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course content does not specify Java as the programming language used."
+    },
+    {
+      "preferred_label": "Visual Basic",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "confidence": 0.6223414437230649,
+      "cross_encoder_score": 0.8121450543403625,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not specify Visual Basic as the programming language used."
+    },
+    {
+      "preferred_label": "ObjectStore",
+      "esco_uri": "http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54",
+      "confidence": 0.6326721968307902,
+      "cross_encoder_score": 0.8434169292449951,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not mention the use of ObjectStore database software."
+    },
+    {
+      "preferred_label": "Objective-C",
+      "esco_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "confidence": 0.5877748526685461,
+      "cross_encoder_score": 0.7654747366905212,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not specify Objective-C as the programming language used."
+    },
+    {
+      "preferred_label": "Haskell",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "confidence": 0.5739038638892705,
+      "cross_encoder_score": 0.7527729272842407,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not specify Haskell as the programming language used."
+    },
+    {
+      "preferred_label": "C#",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "confidence": 0.558817112484729,
+      "cross_encoder_score": 0.7012868523597717,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content does not specify C# as the programming language used."
+    },
+    {
+      "preferred_label": "C++",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "confidence": 0.567543128328208,
+      "cross_encoder_score": 0.744687557220459,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers topics such as operator overloading, input/output streams, and the 'this' pointer, which are characteristic features of C++ programming."
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,1803 @@
+{
+  "course_code": "BS6018_BS",
+  "concept_tags": [
+    {
+      "text": "human communication",
+      "normalized": "human communication"
+    },
+    {
+      "text": "communication theory",
+      "normalized": "communication theory"
+    },
+    {
+      "text": "communication skills",
+      "normalized": "communication skills"
+    },
+    {
+      "text": "listening skills",
+      "normalized": "listening skills"
+    },
+    {
+      "text": "questioning skills",
+      "normalized": "questioning skills"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution"
+    },
+    {
+      "text": "report writing",
+      "normalized": "report writing"
+    },
+    {
+      "text": "public speaking",
+      "normalized": "public speaking"
+    },
+    {
+      "text": "multicultural communication",
+      "normalized": "multicultural communication"
+    },
+    {
+      "text": "nature of communication",
+      "normalized": "nature of communication"
+    },
+    {
+      "text": "functions of communication",
+      "normalized": "functions of communication"
+    },
+    {
+      "text": "role of communication",
+      "normalized": "role of communication"
+    },
+    {
+      "text": "communication in interaction",
+      "normalized": "communication in interaction"
+    },
+    {
+      "text": "forms of communication",
+      "normalized": "forms of communication"
+    },
+    {
+      "text": "means of communication",
+      "normalized": "means of communication"
+    },
+    {
+      "text": "common communication styles",
+      "normalized": "common communication styles"
+    },
+    {
+      "text": "cross-cultural communication",
+      "normalized": "cross-cultural communication"
+    },
+    {
+      "text": "conflict handling",
+      "normalized": "conflict handling"
+    },
+    {
+      "text": "conflict resolution skills",
+      "normalized": "conflict resolution skills"
+    },
+    {
+      "text": "report writing skills",
+      "normalized": "report writing skills"
+    },
+    {
+      "text": "professional public speaking",
+      "normalized": "professional public speaking"
+    },
+    {
+      "text": "open-minded attitude",
+      "normalized": "open-minded attitude"
+    },
+    {
+      "text": "cultural diversity awareness",
+      "normalized": "cultural diversity awareness"
+    },
+    {
+      "text": "professional relationship building",
+      "normalized": "professional relationship building"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "human communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "communication theory",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MOTA_MAIN",
+        "BS6018_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "communication skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "listening skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G2",
+        "BS6018_BS_CLO_L2",
+        "BS6018_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "questioning skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G2",
+        "BS6018_BS_CLO_L2",
+        "BS6018_BS_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "conflict resolution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G2",
+        "BS6018_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "report writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G2",
+        "BS6018_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "public speaking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G2",
+        "BS6018_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "multicultural communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "nature of communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "functions of communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "role of communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "communication in interaction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "forms of communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "means of communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "common communication styles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "cross-cultural communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L05",
+        "BS6018_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "conflict handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "conflict resolution skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "report writing skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "professional public speaking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_BAIHOC_L11",
+        "BS6018_BS_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "open-minded attitude",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "cultural diversity awareness",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6018_BS",
+      "concept_tag": "professional relationship building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6018_BS_MUCTIEU_G3"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "questioning skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.8260284266319747,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/574257ea-7b64-4100-b7b6-e27c233fe143",
+      "esco_label": "digital communication and collaboration",
+      "confidence": 0.7721060819980432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-minded attitude",
+      "esco_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+      "esco_label": "use different communication channels",
+      "confidence": 0.7677367114957846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "questioning skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.769489717362337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284",
+      "esco_label": "communicate with stakeholders",
+      "confidence": 0.7780732148440118,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+      "esco_label": "communicate with customers",
+      "confidence": 0.7496634289870175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cultural diversity awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/2de4572a-4724-4f76-afc2-72a568a264ac",
+      "esco_label": "speak different languages",
+      "confidence": 0.7386807174644029,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "questioning skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7451689749161227,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "report writing skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cultural diversity awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500",
+      "esco_label": "provide information",
+      "confidence": 0.7315858209965284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/94b2c46e-6338-4a1d-950a-d44eef018c53",
+      "esco_label": "collaborate with engineers",
+      "confidence": 0.7277924367346998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7065230131951588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/b216d9a2-7d4e-4312-8d05-e375f4ab44d8",
+      "esco_label": "ensure cross-department cooperation",
+      "confidence": 0.7022522992211028,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "esco_label": "manage a team",
+      "confidence": 0.6954481617924624,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multicultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-minded attitude",
+      "esco_uri": "http://data.europa.eu/esco/skill/16a00c69-9c74-4c37-96d7-6301d285e5ce",
+      "esco_label": "use e-services",
+      "confidence": 0.6569794988900749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/123cf7c5-6a3b-419d-be4f-49a6cc020f9f",
+      "esco_label": "interactive media",
+      "confidence": 0.7559173566601549,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "conflict resolution",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.7460304397393103,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional relationship building",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.7331075893687651,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "listening skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "esco_label": "human-computer interaction",
+      "confidence": 0.7037298717211915,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public speaking",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "nature of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "role of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication in interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "forms of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "means of communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "common communication styles",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cross-cultural communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6582453927134184,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 24,
+    "total_has_concept_edges": 24,
+    "total_evidence_for_edges": 213
+  }
+}

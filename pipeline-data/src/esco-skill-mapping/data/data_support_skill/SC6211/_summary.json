@@ -1,0 +1,42 @@
+{
+  "course_code": "SC6211",
+  "course_title": "Object Oriented Programming",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 1,
+    "knowledge_count": 3
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "final_score": 0.7219,
+      "support_concept_origin": "logical structuring; technical communication",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.8269,
+      "support_concept_origin": "debugging methodology; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "final_score": 0.798,
+      "support_concept_origin": "attention to detail; logical structuring; modular design mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.6207,
+      "support_concept_origin": "debugging methodology; logical structuring",
+      "review_status": "accepted"
+    }
+  ]
+}

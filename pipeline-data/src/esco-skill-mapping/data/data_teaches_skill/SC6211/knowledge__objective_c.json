@@ -1,0 +1,105 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+    "preferred_label": "Objective-C",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6211",
+    "course_title": "Object Oriented Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.378216,
+    "cross_encoder_score": 0.455422,
+    "tier": "OPTIONAL",
+    "confidence_level": "LOW",
+    "decision_status": "REVIEW",
+    "over_soft_cap": false,
+    "mismatch_flagged": true
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The Object-Oriented Programming course provides basic knowledge and skills on the object-oriented programming methodology: concepts (class, object, data abstraction, encapsulation, inheritance, polymorphism...), object-oriented problem-solving approaches; skills in analyzing, designing, implementing, and testing programs using the object-oriented method."
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Explain the fundamental knowledge of object-oriented programming, including concepts: class, object, attribute, method, inheritance, polymorphism, template. Design or read class diagram designs and implement programs using an object-oriented approach; Design and implement problems related to operator overloading, function overloading, and device-independent input/output streams.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Proficiently apply knowledge and skills in object-oriented programming and tools to solve specific problems using an object-oriented approach.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Proactively research and acquire knowledge, possess self-learning awareness and a serious attitude in practicing object-oriented programming skills.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Explain basic concepts in object-oriented programming; read simple class diagrams; implement classes, class diagrams, relationships between classes, and implement and test programs.",
+      "meta": {
+        "pi_so": [
+          "PI 2.1PI 5.1PI 5.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Perform operator overloading techniques in object-oriented programming; perform specific techniques in object-oriented programming such as: virtual methods, abstract base classes, templates.",
+      "meta": {
+        "pi_so": [
+          "PI 2.1PI 5.1PI 5.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Design simple class diagrams using object-oriented approaches.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": false
+    },
+    "retrieval": {
+      "bm25_rank": 21,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

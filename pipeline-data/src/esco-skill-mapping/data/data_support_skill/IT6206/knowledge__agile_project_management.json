@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "preferred_label": "Agile project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis"
+  },
+  "support_context": {
+    "support_concept_origin": "problem decomposition; project management",
+    "evidence_text": "Learners apply comprehensive knowledge to build software or solve practical problems based on information technology solutions"
+  },
+  "scoring": {
+    "final_score": 0.733121,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Software development projects in a thesis context often utilize iterative or agile approaches to manage development cycles and meet real-world requirements.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+    "preferred_label": "computational biology",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6001_BS",
+    "course_title": "Đại số tuyến tính"
+  },
+  "support_context": {
+    "support_concept_origin": "algorithmic thinking; computational fluency; precision in communication",
+    "evidence_text": "Develop logical thinking, self-learning and self-research abilities, and a sense of responsibility in applying mathematical tools to solve practical problems"
+  },
+  "scoring": {
+    "final_score": 0.743166,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Computational biology uses linear algebra for modeling biological systems, genomic data analysis, and protein structure prediction.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

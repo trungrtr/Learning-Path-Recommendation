@@ -1,0 +1,150 @@
+{
+  "course_code": "BM6001_BS",
+  "course_title": "Kinh tế học",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 13,
+    "skill_count": 4,
+    "knowledge_count": 9,
+    "tier_distribution": {
+      "PRIMARY": 5,
+      "SECONDARY": 4,
+      "OPTIONAL": 4
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "perform data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "confidence": 0.6886,
+      "cross_encoder_score": 0.9592,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "perform business analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703",
+      "confidence": 0.6761,
+      "cross_encoder_score": 0.9085,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6
+    },
+    {
+      "preferred_label": "carry out statistical forecasts",
+      "esco_uri": "http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71",
+      "confidence": 0.6561,
+      "cross_encoder_score": 0.9286,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "apply ICT systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "confidence": 0.4877,
+      "cross_encoder_score": 0.6714,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 4
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT market",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5609f89-0daf-40bb-bd6b-94f5d7498131",
+      "confidence": 0.6991,
+      "cross_encoder_score": 0.93,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "confidence": 0.6449,
+      "cross_encoder_score": 0.8598,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 3
+    },
+    {
+      "preferred_label": "ICT sales methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "confidence": 0.6179,
+      "cross_encoder_score": 0.8333,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "confidence": 0.584,
+      "cross_encoder_score": 0.7822,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.5832,
+      "cross_encoder_score": 0.7771,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "legal requirements of ICT products",
+      "esco_uri": "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b",
+      "confidence": 0.5745,
+      "cross_encoder_score": 0.7537,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "trading software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "confidence": 0.4108,
+      "cross_encoder_score": 0.5294,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "state estimation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8",
+      "confidence": 0.398,
+      "cross_encoder_score": 0.5161,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "marketing analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048",
+      "confidence": 0.3577,
+      "cross_encoder_score": 0.4508,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 6
+    }
+  ],
+  "schema_version": "3.0"
+}

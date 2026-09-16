@@ -1,0 +1,2898 @@
+{
+  "course_code": "SC6232",
+  "concept_tags": [
+    {
+      "text": "Embedded Systems",
+      "normalized": "embedded systems"
+    },
+    {
+      "text": "IoT programming",
+      "normalized": "iot programming"
+    },
+    {
+      "text": "embedded systems architectures",
+      "normalized": "embedded systems architectures"
+    },
+    {
+      "text": "embedded programming",
+      "normalized": "embedded programming"
+    },
+    {
+      "text": "embedded systems deployment",
+      "normalized": "embedded systems deployment"
+    },
+    {
+      "text": "IoT systems deployment",
+      "normalized": "iot systems deployment"
+    },
+    {
+      "text": "Internet of Things",
+      "normalized": "internet of things"
+    },
+    {
+      "text": "Embedded Systems Hardware",
+      "normalized": "embedded systems hardware"
+    },
+    {
+      "text": "Embedded Systems Software",
+      "normalized": "embedded systems software"
+    },
+    {
+      "text": "Arduino platform",
+      "normalized": "arduino platform"
+    },
+    {
+      "text": "Digital GPIO",
+      "normalized": "digital gpio"
+    },
+    {
+      "text": "Analog to Digital Converter",
+      "normalized": "analog to digital converter"
+    },
+    {
+      "text": "Embedded systems development",
+      "normalized": "embedded systems development"
+    },
+    {
+      "text": "USART communication",
+      "normalized": "usart communication"
+    },
+    {
+      "text": "Pulse Width Modulation",
+      "normalized": "pulse width modulation"
+    },
+    {
+      "text": "4x4 Keypad",
+      "normalized": "4x4 keypad"
+    },
+    {
+      "text": "16x2 LCD",
+      "normalized": "16x2 lcd"
+    },
+    {
+      "text": "7-Segment LED",
+      "normalized": "7-segment led"
+    },
+    {
+      "text": "LM35 Temperature Sensor",
+      "normalized": "lm35 temperature sensor"
+    },
+    {
+      "text": "DC Motor control",
+      "normalized": "dc motor control"
+    },
+    {
+      "text": "Network Architecture",
+      "normalized": "network architecture"
+    },
+    {
+      "text": "IoT Protocols",
+      "normalized": "iot protocols"
+    },
+    {
+      "text": "IoT Network Protocols",
+      "normalized": "iot network protocols"
+    },
+    {
+      "text": "IoT systems development",
+      "normalized": "iot systems development"
+    },
+    {
+      "text": "IoT applications development",
+      "normalized": "iot applications development"
+    },
+    {
+      "text": "practical IoT systems",
+      "normalized": "practical iot systems"
+    },
+    {
+      "text": "Arduino programming",
+      "normalized": "arduino programming"
+    },
+    {
+      "text": "Bluetooth technology",
+      "normalized": "bluetooth technology"
+    },
+    {
+      "text": "ThingSpeak cloud platform",
+      "normalized": "thingspeak cloud platform"
+    },
+    {
+      "text": "ESP8266 Wi-Fi module",
+      "normalized": "esp8266 wi-fi module"
+    },
+    {
+      "text": "embedded systems security",
+      "normalized": "embedded systems security"
+    },
+    {
+      "text": "IoT security",
+      "normalized": "iot security"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_MOTA_MAIN",
+        "SC6232_MUCTIEU_G1",
+        "SC6232_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_MOTA_MAIN",
+        "SC6232_MUCTIEU_G1",
+        "SC6232_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems architectures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot systems deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "internet of things",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems hardware",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L02",
+        "SC6232_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems software",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "arduino platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "digital gpio",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "analog to digital converter",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L07",
+        "SC6232_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "usart communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "pulse width modulation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "4x4 keypad",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "16x2 lcd",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "7-segment led",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "lm35 temperature sensor",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "dc motor control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "network architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot protocols",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot network protocols",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot systems development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot applications development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "practical iot systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L17"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "arduino programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L18",
+        "SC6232_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "bluetooth technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L18"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "thingspeak cloud platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L18",
+        "SC6232_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "esp8266 wi-fi module",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "embedded systems security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L20"
+      ]
+    },
+    {
+      "course_code": "SC6232",
+      "concept_tag": "iot security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6232_BAIHOC_L20"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internet of things",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thingspeak cloud platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.8168376723863311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.8016682428347455,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "4x4 keypad",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dc motor control",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7819978561102073,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7734582328818135,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7738913931300276,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "16x2 lcd",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dc motor control",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_label": "install electronic communication equipment",
+      "confidence": 0.7534015551921823,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7629971931775131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internet of things",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "4x4 keypad",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dc motor control",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7527162773808561,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7558668131033692,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internet of things",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "lm35 temperature sensor",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7142404951258842,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "7-segment led",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "esp8266 wi-fi module",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.8244589280205126,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internet of things",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "4x4 keypad",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thingspeak cloud platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "esco_label": "ICT help platforms",
+      "confidence": 0.812166301762678,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "16x2 lcd",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7834958291223354,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7883597052248,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "usart communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "7-segment led",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thingspeak cloud platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7828115570473141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7763503964481838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "7-segment led",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7572839925892448,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "digital gpio",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "16x2 lcd",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "lm35 temperature sensor",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.7554816248696183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "7-segment led",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dc motor control",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "lm35 temperature sensor",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bluetooth technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pulse width modulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.7545610827321805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internet of things",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dc motor control",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "thingspeak cloud platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7619994036634987,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "16x2 lcd",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.7476113563494208,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7449775222162149,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "7-segment led",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7406960082796036,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "16x2 lcd",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7506628597175279,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems software",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "analog to digital converter",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "embedded systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot systems development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "iot applications development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "practical iot systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "arduino programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "esco_label": "DevOps",
+      "confidence": 0.7451796381399903,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 32,
+    "total_has_concept_edges": 32,
+    "total_evidence_for_edges": 356
+  }
+}

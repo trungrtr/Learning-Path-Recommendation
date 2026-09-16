@@ -1,0 +1,177 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+    "preferred_label": "web based collaborative platforms",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "BS6018_BS",
+    "course_title": "Giao tiếp trong môi trường làm việc",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6582453927134184,
+    "cross_encoder_score": 0.8531613945960999,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course does not cover the use or management of web-based collaborative platforms."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides an in-depth study of human communication in the workplace. Upon completion of the course, students will understand the general theoretical basis of communication; master basic communication skills; and establish communication relationships with colleagues and partners of various ages, educational backgrounds, cultures, and religions.",
+      "meta": {
+        "matched_mention": "human communication"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Train and develop basic communication skills such as listening, questioning, conflict handling and resolution, report writing, public speaking, and establishing effective relationships in the working environment.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "public speaking"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Present and analyze the theoretical basis of communication, media, forms and styles of communication, and the characteristics of communication in a multicultural environment.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "communication theory"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Proficiently execute skills in listening, questioning, conflict resolution, report writing, and public speaking to establish effective relationships with culturally diverse colleagues and partners.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "public speaking"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Nature, functions, and role of communication",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "nature of communication; role of communication"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Communication in interaction",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3"
+        ],
+        "matched_mention": "communication in interaction"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Forms and means of communication",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "forms of communication; means of communication"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Common communication styles",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L4"
+        ],
+        "matched_mention": "common communication styles"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Cross-cultural communication, Regular Test 1",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "cross-cultural communication"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Cross-cultural communication",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "cross-cultural communication"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 10,
+      "dense_rank": 14,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

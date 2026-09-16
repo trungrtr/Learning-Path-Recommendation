@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+    "preferred_label": "ICT debugging tools",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6210",
+    "course_title": ".NET Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative version control workflows; debugging and troubleshooting methodology",
+    "evidence_text": "Implement a software solution meeting given requirements using computer science tools and techniques"
+  },
+  "scoring": {
+    "final_score": 0.839978,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly mentions using Visual Studio, which includes a powerful integrated debugger essential for .NET development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

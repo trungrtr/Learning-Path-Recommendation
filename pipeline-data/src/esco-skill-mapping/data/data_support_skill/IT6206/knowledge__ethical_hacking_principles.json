@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+    "preferred_label": "ethical hacking principles",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis"
+  },
+  "support_context": {
+    "support_concept_origin": "ethical decision-making; systemic thinking",
+    "evidence_text": "Course: Graduation Thesis"
+  },
+  "scoring": {
+    "final_score": 0.534218,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives emphasize selecting and developing secure software solutions, which provides a foundation for understanding security vulnerabilities and protection principles.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

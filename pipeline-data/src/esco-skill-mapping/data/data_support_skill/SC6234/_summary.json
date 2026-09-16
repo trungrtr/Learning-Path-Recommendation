@@ -1,0 +1,77 @@
+{
+  "course_code": "SC6234",
+  "course_title": "Cyber security",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 9,
+    "skill_count": 1,
+    "knowledge_count": 8
+  },
+  "skills": [
+    {
+      "preferred_label": "demonstrate disciplinary expertise",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "final_score": 0.651,
+      "support_concept_origin": "critical evaluation of complex systems; professional accountability; technical documentation skills",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "ICT network security risks",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "final_score": 0.8048,
+      "support_concept_origin": "incident response planning; risk assessment mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "final_score": 0.7017,
+      "support_concept_origin": "continuous monitoring mindset; professional accountability; risk assessment mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT security legislation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "final_score": 0.6591,
+      "support_concept_origin": "adversarial thinking; critical evaluation of complex systems; regulatory compliance awareness",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "final_score": 0.6357,
+      "support_concept_origin": "critical evaluation of complex systems; strategic planning; systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ethical hacking principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "final_score": 0.6085,
+      "support_concept_origin": "continuous monitoring mindset; ethical decision-making",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "final_score": 0.5768,
+      "support_concept_origin": "systems thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "cyber attack counter-measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "final_score": 0.5671,
+      "support_concept_origin": "critical evaluation of complex systems; incident response planning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "telecom regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f2afce6-e98b-4bbe-8441-d52b45e28ab8",
+      "final_score": 0.521,
+      "support_concept_origin": "incident response planning; regulatory compliance awareness",
+      "review_status": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "course_code": "SC6228",
+  "course_title": "E-commerce Application Development",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 26,
+    "skill_count": 12,
+    "knowledge_count": 14,
+    "tier_distribution": {
+      "PRIMARY": 23,
+      "SECONDARY": 3,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "manage online content",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "confidence": 0.7899419096982204,
+      "cross_encoder_score": 0.9651504755020142,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 23,
+      "llm_reasoning": "The course explicitly covers managing categories, articles, and content presentation for news and e-commerce sites."
+    },
+    {
+      "preferred_label": "enhance website visibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "confidence": 0.7868732859386137,
+      "cross_encoder_score": 0.989973783493042,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While SEO is mentioned, the course focuses on technical setup rather than broader marketing actions like email campaigns or pricing policies."
+    },
+    {
+      "preferred_label": "plan product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "confidence": 0.7842569577951677,
+      "cross_encoder_score": 0.9725354313850403,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes managing product categories, inventory, and order processing within WooCommerce."
+    },
+    {
+      "preferred_label": "conduct search engine optimisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "confidence": 0.7705825883089121,
+      "cross_encoder_score": 0.9879152774810791,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly mentions understanding the structure of an SEO-standard E-commerce website."
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7699527198750615,
+      "cross_encoder_score": 0.9387421011924744,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers interface customization using Page Builders to create landing pages and homepages."
+    },
+    {
+      "preferred_label": "perform online data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "confidence": 0.7676133152352923,
+      "cross_encoder_score": 0.9845458269119263,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course includes connecting the website with analytics tools like Google Analytics."
+    },
+    {
+      "preferred_label": "provide customer follow-up services",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "confidence": 0.7601045044624494,
+      "cross_encoder_score": 0.9939470291137695,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes training on handling customer feedback professionally."
+    },
+    {
+      "preferred_label": "use e-procurement",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "confidence": 0.7507845841657301,
+      "cross_encoder_score": 0.9955515265464783,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on B2C e-commerce sales rather than B2B e-procurement systems."
+    },
+    {
+      "preferred_label": "use customer relationship management software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "confidence": 0.7372913310721616,
+      "cross_encoder_score": 0.967162013053894,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers order and inventory management, but does not explicitly teach the use of dedicated CRM software."
+    },
+    {
+      "preferred_label": "troubleshoot website",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "confidence": 0.7458748286245171,
+      "cross_encoder_score": 0.9749744534492493,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers website security, optimization, and system administration, which inherently involves troubleshooting website performance and functionality."
+    },
+    {
+      "preferred_label": "study website behaviour patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "confidence": 0.7255796312354006,
+      "cross_encoder_score": 0.8715672492980957,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course explicitly mentions connecting the website with analytics tools (Google Analytics) to support sales."
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.6453864136753287,
+      "cross_encoder_score": 0.8386270999908447,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers using Page Builders to create eye-catching Landing Pages and homepages, and designing layouts for news sites."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT sales methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "confidence": 0.7672302615717183,
+      "cross_encoder_score": 0.987700343132019,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on technical development and platform management rather than specific ICT sales methodologies like SPIN or SNAP selling."
+    },
+    {
+      "preferred_label": "WordPress",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "confidence": 0.7546828063223916,
+      "cross_encoder_score": 0.9550588130950928,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The entire course is centered on mastering the WordPress platform, its ecosystem, themes, and plugins."
+    },
+    {
+      "preferred_label": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "confidence": 0.7487938902070603,
+      "cross_encoder_score": 0.9811092615127563,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course covers commercial operations and order management, it does not explicitly teach business cost management or financial efficiency."
+    },
+    {
+      "preferred_label": "trading software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "confidence": 0.7333499066950507,
+      "cross_encoder_score": 0.9715467691421509,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course focuses on e-commerce sales systems (WooCommerce), not financial trading software."
+    },
+    {
+      "preferred_label": "product comprehension",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "confidence": 0.7474135402961138,
+      "cross_encoder_score": 0.9892756342887878,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes managing product categories, inventory, and understanding legal requirements regarding intellectual property and content."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.7305904800919523,
+      "cross_encoder_score": 0.9409354329109192,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers the management process of products, orders, and inventory within the WooCommerce system."
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7202519270218486,
+      "cross_encoder_score": 0.9497935771942139,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course teaches the deployment and administration of e-commerce systems, including integration with various business tools."
+    },
+    {
+      "preferred_label": "authoring software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "confidence": 0.6994332861634063,
+      "cross_encoder_score": 0.920153796672821,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course teaches the use of Page Builders and CMS tools to structure and lay out content for publication."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.7040067835523809,
+      "cross_encoder_score": 0.9153092503547668,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course focuses on WordPress CMS, WooCommerce, and website deployment, but does not mention software configuration management tools like GIT or Subversion."
+    },
+    {
+      "preferred_label": "WebCMS",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "confidence": 0.6468656314077749,
+      "cross_encoder_score": 0.8383170962333679,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course explicitly focuses on mastering the WordPress CMS system for creating and managing news sites and e-commerce websites."
+    },
+    {
+      "preferred_label": "web based collaborative platforms",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "confidence": 0.6475701221291642,
+      "cross_encoder_score": 0.8398007154464722,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "While the course covers website development, it does not teach the use of collaborative platforms for team workflow or organizational communication."
+    },
+    {
+      "preferred_label": "Joomla",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "confidence": 0.6353486413631084,
+      "cross_encoder_score": 0.8100187182426453,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course is specifically focused on the WordPress platform and does not cover the Joomla CMS."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.593552415087985,
+      "cross_encoder_score": 0.7638401389122009,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly lists 'Plugins and PHP Programming' as a lesson topic, indicating instruction in web programming."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.5568355561069014,
+      "cross_encoder_score": 0.720558762550354,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers interface customization using Page Builders and principles of content presentation, which involves applying design patterns for web interfaces."
+    }
+  ],
+  "schema_version": "3.0"
+}

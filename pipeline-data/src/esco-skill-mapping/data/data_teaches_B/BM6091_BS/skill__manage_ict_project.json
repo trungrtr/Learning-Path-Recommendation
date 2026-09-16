@@ -1,0 +1,303 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+    "preferred_label": "manage ICT project",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6091_BS",
+    "course_title": "Quản lý dự án",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.8185584836649822,
+    "cross_encoder_score": 0.9794971942901611,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course covers general project management principles, tools, and methodologies, but does not specifically focus on ICT systems, services, or products."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course equips students with knowledge of projects and project management, helping them understand the objectives and content of the process of forming and managing a project. Students will be able to analyze team organizational models, project management tools and methods to achieve goals within constraints of time and resources. In addition, students will acknowledge and respect the principles of project management, and properly perceive the role and responsibilities of a project manager.",
+      "meta": {
+        "matched_mention": "project management"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Develops skills in project analysis, network diagram construction, utilization of GANTT and PERT charts, resource management, cost, and scheduling to achieve project objectives.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project management"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G3",
+      "text": "Acknowledge and respect the principles of project management, recognizing the proper role and responsibilities of a project manager.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "project management principles"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Explain the basic concepts of projects, the content of project management work, management models, and the role of a project manager.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "project management models"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply technical tools (network diagrams, GANTT charts, PERT, resource load charts) to manage time, schedule, cost, quality, and resource allocation for projects.",
+      "meta": {
+        "muc_do": "S",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "quality management; project planning"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Demonstrate a respectful attitude towards project management principles and a high sense of responsibility in the role of a project manager.",
+      "meta": {
+        "muc_do": "N",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "project management principles"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Contents of project management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "project management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Contents of project analysis",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "project analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Some issues regarding Project Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L4"
+        ],
+        "matched_mention": "project management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Technical tools for project time and schedule management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "project time management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Project management models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "project management models"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Project manager",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "project manager"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Resource allocation for projects",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "resource allocation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Project cost management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "project cost management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Project quality management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "project quality management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "Concepts, functions, and characteristics of budget estimation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "budget estimation concepts"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L17",
+      "text": "Quality and project quality management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3"
+        ],
+        "matched_mention": "project quality management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L18",
+      "text": "Contents of project quality management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L4"
+        ],
+        "matched_mention": "project quality management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L19",
+      "text": "Review of project management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "project management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 19,
+      "dense_rank": 5,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

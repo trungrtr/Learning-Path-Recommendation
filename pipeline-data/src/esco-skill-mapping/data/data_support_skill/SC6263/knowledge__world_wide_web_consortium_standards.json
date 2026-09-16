@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+    "preferred_label": "World Wide Web Consortium standards",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6263",
+    "course_title": "Advanced Web Design"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative workflow management; professional responsibility; technical documentation literacy",
+    "evidence_text": "Ready to collaborate in teamwork when solving practical problems"
+  },
+  "scoring": {
+    "final_score": 0.61106,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Learning to build web interfaces with Bootstrap and jQuery requires an understanding of the underlying W3C standards for HTML, CSS, and DOM manipulation.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+    "preferred_label": "research design",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6042_BS",
+    "course_title": "Xác suất thống kê"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; data literacy; deductive reasoning",
+    "evidence_text": "Forms and develops logical thinking, carefulness, and precision in solving practical problems related to probability and statistics, creating a basis for studying and researching specialized subjects"
+  },
+  "scoring": {
+    "final_score": 0.59998,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers statistical hypothesis testing and data collection/processing, which are critical components of designing and executing research studies.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

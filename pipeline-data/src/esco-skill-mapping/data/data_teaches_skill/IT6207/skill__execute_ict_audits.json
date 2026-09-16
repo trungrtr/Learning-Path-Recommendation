@@ -1,0 +1,113 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+    "preferred_label": "execute ICT audits",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.721578,
+    "cross_encoder_score": 0.995536,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Equip students with an understanding of the practical working environment of information technology enterprises, including production and business processes, as well as information system development and operation processes; while raising awareness of legal regulations, ethical standards, and professional responsibility in practice.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Train students in the ability to apply specialized knowledge to practical work at enterprises; develop teamwork and professional communication skills; and initially analyze and evaluate situations arising in professional practice based on legal principles and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Determine the role and professional responsibilities of an Information Systems professional and successfully complete assigned tasks when participating in practical activities at an enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Analyze and evaluate situations arising during the internship at an information technology enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4."
+        ],
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Evaluate and select appropriate behavior in professional situations based on professional ethics principles and social standards in the field of information technology.",
+      "meta": {
+        "pi_so": [
+          "PI 4.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Execution of assigned tasks",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Execution of assigned tasks (continued)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1; L2; L3"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 8,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

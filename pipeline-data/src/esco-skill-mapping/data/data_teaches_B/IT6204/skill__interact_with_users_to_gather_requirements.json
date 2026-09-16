@@ -1,0 +1,255 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+    "preferred_label": "interact with users to gather requirements",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6204",
+    "course_title": "System Analysis and Design",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7777893304934922,
+    "cross_encoder_score": 0.9973512887954712,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course includes 'techniques for system investigation and requirements elicitation' and 'System Requirements Specification'."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with knowledge and skills in systems analysis and design, including: techniques for system investigation and requirements elicitation, functional analysis, structural and behavioral systems analysis, class design, data design, and user interface design.",
+      "meta": {
+        "matched_mention": "systems analysis and design; requirements elicitation"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Explain the role of analysis and design in the software development life cycle;",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "user interface design; requirement gathering"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Explain the process of elicitation, requirements gathering, functional, structural, and behavioral analysis of a system using UML diagrams: use case diagram, class diagram, sequence diagram, state machine diagram, and activity diagram.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "requirements elicitation; requirements gathering"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Explain the process of class design, data design, and user interface design;",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "user interface design"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Apply the analysis and design process, use software design tools and the UML language to model a specific software system, and build technical design documentation and software solution designs meeting requirements.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "technical design documentation"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT6",
+      "text": "Develop a sense of responsibility and professional ethics in performing system analysis and design activities.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "system analysis"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply information technology knowledge to determine system requirements, structure, and processing flow",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "system requirements"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply teamwork skills to effectively organize, coordinate, and manage group activities in study and practice.",
+      "meta": {
+        "pi_so": [
+          "PI 3.1",
+          "PI 3.2",
+          "PI 3.3"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "group activity management"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Software Systems Analysis and Design.",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "software systems analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "System Requirements Specification.",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "system requirements specification"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "System Functional Analysis Using Use Case Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "system functional analysis; use case diagrams"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "System Business Analysis Using Activity Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "activity diagrams"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "System Structural Analysis Using Class Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "system structural analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Object Interaction Analysis Using Sequence Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "object interaction analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Object State Analysis Using State Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "object state analysis"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "User Interface Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "User interface design"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 2,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

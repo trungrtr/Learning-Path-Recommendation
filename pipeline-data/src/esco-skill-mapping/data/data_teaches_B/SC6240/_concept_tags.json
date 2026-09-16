@@ -1,0 +1,3057 @@
+{
+  "course_code": "SC6240",
+  "concept_tags": [
+    {
+      "text": "computer networks",
+      "normalized": "computer networks"
+    },
+    {
+      "text": "network models",
+      "normalized": "network models"
+    },
+    {
+      "text": "network architectures",
+      "normalized": "network architectures"
+    },
+    {
+      "text": "network standards",
+      "normalized": "network standards"
+    },
+    {
+      "text": "network devices",
+      "normalized": "network devices"
+    },
+    {
+      "text": "network system design processes",
+      "normalized": "network system design processes"
+    },
+    {
+      "text": "OSI Model",
+      "normalized": "osi model"
+    },
+    {
+      "text": "Network Protocols",
+      "normalized": "network protocols"
+    },
+    {
+      "text": "IPv4 Addressing",
+      "normalized": "ipv4 addressing"
+    },
+    {
+      "text": "Subnetting",
+      "normalized": "subnetting"
+    },
+    {
+      "text": "Network Topologies",
+      "normalized": "network topologies"
+    },
+    {
+      "text": "Local Area Networks",
+      "normalized": "local area networks"
+    },
+    {
+      "text": "Network Architecture",
+      "normalized": "network architecture"
+    },
+    {
+      "text": "Network System Design",
+      "normalized": "network system design"
+    },
+    {
+      "text": "Media Access Methods",
+      "normalized": "media access methods"
+    },
+    {
+      "text": "Windows Server",
+      "normalized": "windows server"
+    },
+    {
+      "text": "Network Operating System",
+      "normalized": "network operating system"
+    },
+    {
+      "text": "Network Cable Crimping",
+      "normalized": "network cable crimping"
+    },
+    {
+      "text": "Windows Server Installation",
+      "normalized": "windows server installation"
+    },
+    {
+      "text": "Active Directory Services",
+      "normalized": "active directory services"
+    },
+    {
+      "text": "DHCP Services",
+      "normalized": "dhcp services"
+    },
+    {
+      "text": "DNS Services",
+      "normalized": "dns services"
+    },
+    {
+      "text": "User Account Management",
+      "normalized": "user account management"
+    },
+    {
+      "text": "Group Account Management",
+      "normalized": "group account management"
+    },
+    {
+      "text": "Access Control",
+      "normalized": "access control"
+    },
+    {
+      "text": "Network Resource Sharing",
+      "normalized": "network resource sharing"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6240",
+      "concept_tag": "computer networks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT1",
+        "SC6240_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network architectures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT2",
+        "SC6240_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network devices",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT2",
+        "SC6240_MUCTIEU_MT3",
+        "SC6240_CLO_None",
+        "SC6240_BAIHOC_L07",
+        "SC6240_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network system design processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_MUCTIEU_MT3",
+        "SC6240_CLO_None"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "osi model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network protocols",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "ipv4 addressing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "subnetting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network topologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "local area networks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network system design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L07",
+        "SC6240_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "media access methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "windows server",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network operating system",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network cable crimping",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "windows server installation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "active directory services",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "dhcp services",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "dns services",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "user account management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "group account management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "access control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6240",
+      "concept_tag": "network resource sharing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6240_BAIHOC_L14"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "subnetting",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network cable crimping",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_label": "design computer network",
+      "confidence": 0.812500444511258,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network cable crimping",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_label": "analyse network configuration and performance",
+      "confidence": 0.8053173582096317,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dns services",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "esco_label": "analyse network bandwidth requirements",
+      "confidence": 0.8005931942316004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "active directory services",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_label": "design cloud networks",
+      "confidence": 0.7892579020977202,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "media access methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_label": "implement a virtual private network",
+      "confidence": 0.7836301640142419,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "esco_label": "maintain internet protocol configuration",
+      "confidence": 0.7675733315490857,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7804400958891662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dns services",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_label": "forecast future ICT network needs",
+      "confidence": 0.7767515099979284,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7710896387085792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user account management",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "esco_label": "maintain ICT system",
+      "confidence": 0.7702071144424241,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network cable crimping",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "esco_label": "adjust ICT system capacity",
+      "confidence": 0.7664169213314782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "esco_label": "provide ICT system training",
+      "confidence": 0.7629890889070525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.7554467589338004,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "media access methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network cable crimping",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "esco_label": "define firewall rules",
+      "confidence": 0.7552096591224609,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_label": "implement ICT network diagnostic tools",
+      "confidence": 0.7502745402883595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dns services",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "group account management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_label": "network management system tools",
+      "confidence": 0.8181349282462553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "subnetting",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dns services",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.8136001772919085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_label": "ICT network routing",
+      "confidence": 0.8088200557015341,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "esco_label": "distributed computing",
+      "confidence": 0.7909647262910112,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.7904891084007075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_label": "network standards",
+      "confidence": 0.7867571639310457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "esco_label": "ICT communications protocols",
+      "confidence": 0.7844859468650577,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "osi model",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network cable crimping",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.7622580792778662,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "osi model",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "group account management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7577894388321789,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dns services",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "esco_label": "ICT infrastructure",
+      "confidence": 0.7703642755695845,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "esco_label": "procurement of ICT network equipment",
+      "confidence": 0.7659324752779679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "esco_label": "Wireshark",
+      "confidence": 0.7317999388812533,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "local area networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "media access methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "active directory services",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows server installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dhcp services",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "access control",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_label": "cloud technologies",
+      "confidence": 0.7416621898500819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "esco_label": "Cisco",
+      "confidence": 0.7408657920868282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ipv4 addressing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network topologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network operating system",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network resource sharing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_label": "Internet of Things",
+      "confidence": 0.7291037926709896,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 26,
+    "total_has_concept_edges": 26,
+    "total_evidence_for_edges": 389
+  }
+}

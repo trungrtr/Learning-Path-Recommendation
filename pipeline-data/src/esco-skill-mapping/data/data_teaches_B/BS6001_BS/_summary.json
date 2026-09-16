@@ -1,0 +1,153 @@
+{
+  "course_code": "BS6001_BS",
+  "course_title": "Đại số tuyến tính",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 12,
+    "skill_count": 3,
+    "knowledge_count": 9,
+    "tier_distribution": {
+      "PRIMARY": 9,
+      "SECONDARY": 3,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7501656879684613,
+      "cross_encoder_score": 0.9653335809707642,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course explicitly covers matrices, determinants, systems of linear equations, and computational problems, which are fundamental analytical mathematical calculations."
+    },
+    {
+      "preferred_label": "create flowchart diagram",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "confidence": 0.6478102585830087,
+      "cross_encoder_score": 0.7975304126739502,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 22,
+      "llm_reasoning": "There is no mention of creating flowchart diagrams in the course content."
+    },
+    {
+      "preferred_label": "perform dimensionality reduction",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "confidence": 0.6288168673021868,
+      "cross_encoder_score": 0.7469266057014465,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "While the course covers matrix diagonalization and eigenvalues, it does not explicitly teach dimensionality reduction techniques for machine learning."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "confidence": 0.7652789683759085,
+      "cross_encoder_score": 0.9529539942741394,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course focuses on linear algebra tools rather than the broader principles of systems theory."
+    },
+    {
+      "preferred_label": "interfacing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "confidence": 0.7571439258831782,
+      "cross_encoder_score": 0.9505475759506226,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 24,
+      "llm_reasoning": "There is no mention of interfacing techniques between models and components in the course content."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.7656732223617254,
+      "cross_encoder_score": 0.9820560812950134,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course explicitly mentions applying linear algebra to solve engineering and practical problems, which involves mathematical representation of real-world scenarios."
+    },
+    {
+      "preferred_label": "information categorisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "confidence": 0.7472751417891553,
+      "cross_encoder_score": 0.9691912531852722,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course focuses on mathematical structures rather than general information categorization."
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7452859229536828,
+      "cross_encoder_score": 0.9594277739524841,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course involves using mathematical modelling (linear algebra) to represent and solve practical problems, which is a form of quantitative analysis."
+    },
+    {
+      "preferred_label": "systems development life-cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "confidence": 0.7255037043545538,
+      "cross_encoder_score": 0.9559034109115601,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content does not cover systems development life-cycle methodologies."
+    },
+    {
+      "preferred_label": "trigonometry",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "confidence": 0.6991219287520778,
+      "cross_encoder_score": 0.845895528793335,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 25,
+      "llm_reasoning": "Trigonometry is not listed as part of the course content."
+    },
+    {
+      "preferred_label": "ICT system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "confidence": 0.6353086530383161,
+      "cross_encoder_score": 0.8188543915748596,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on fundamental Linear Algebra concepts such as matrices, vector spaces, and linear transformations, with no mention of ICT system integration or software architecture."
+    },
+    {
+      "preferred_label": "Synfig",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "confidence": 0.5420753387118257,
+      "cross_encoder_score": 0.672923743724823,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content is strictly mathematical and does not include training on specific graphical software tools like Synfig."
+    }
+  ],
+  "schema_version": "3.0"
+}

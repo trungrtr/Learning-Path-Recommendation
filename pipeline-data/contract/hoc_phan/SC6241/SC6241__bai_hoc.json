@@ -1,0 +1,120 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về Kiểm thử và vai trò kiểm thử trong phát triển phần mềm",
+      "noi_dung_tom_tat": "Bài học này cung cấp cái nhìn tổng quan về kiểm thử phần mềm, các khái niệm cơ bản và tầm quan trọng của nó trong vòng đời phát triển phần mềm (SDLC). Học viên sẽ hiểu rõ vai trò của người kiểm thử và cách kiểm thử góp phần đảm bảo chất lượng sản phẩm.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Testing and the Role of Testing in Software Development",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quy trình kiểm thử và tài liệu kiểm thử theo chuẩn",
+      "noi_dung_tom_tat": "Hướng dẫn chi tiết về các giai đoạn trong quy trình kiểm thử và cách lập kế hoạch kiểm thử hiệu quả. Người học sẽ làm quen với các loại tài liệu kiểm thử chuẩn như Test Plan, Test Case và Test Report.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Testing Process and Standardized Testing Documentation",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kỹ thuật thiết kế kiểm thử - kiểm thử hộp đen",
+      "noi_dung_tom_tat": "Tập trung vào các kỹ thuật kiểm thử hộp đen dựa trên đặc tả chức năng mà không quan tâm đến mã nguồn bên trong. Học viên sẽ được thực hành các kỹ thuật như phân vùng tương đương và phân tích giá trị biên.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Test Design Techniques - Black-Box Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử hộp trắng và kiểm thử mức đơn vị",
+      "noi_dung_tom_tat": "Nghiên cứu cấu trúc mã nguồn thông qua kỹ thuật kiểm thử hộp trắng và thực hiện kiểm thử đơn vị (Unit Test). Bài học giúp học viên biết cách xây dựng các kịch bản kiểm thử nhằm bao phủ logic của hàm hoặc module.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "White-Box Testing and Unit Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử tích hợp và Kiểm thử hệ thống",
+      "noi_dung_tom_tat": "Khám phá chiến lược kết nối các đơn vị đã kiểm thử để kiểm tra sự tương tác giữa chúng trong kiểm thử tích hợp. Tiếp đến là kiểm thử hệ thống để đánh giá toàn bộ phần mềm dựa trên yêu cầu người dùng.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Integration Testing and System Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử API",
+      "noi_dung_tom_tat": "Giới thiệu phương pháp kiểm thử các giao diện lập trình ứng dụng (API) để đảm bảo tính đúng đắn của dữ liệu và phản hồi. Học viên sẽ sử dụng các công cụ như Postman để kiểm tra các phương thức HTTP và mã trạng thái.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "API Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "dịch vụ web",
+      "noi_dung_tom_tat": "Tìm hiểu về kiến trúc dịch vụ web và các phương thức kiểm thử đặc thù cho các dịch vụ này. Bài học tập trung vào việc đảm bảo giao tiếp ổn định giữa các hệ thống thông qua các giao thức web.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Web Services",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử tự động (Automation)",
+      "noi_dung_tom_tat": "Giới thiệu về kiểm thử tự động, lợi ích của việc sử dụng công cụ để giảm bớt công việc kiểm thử thủ công lặp lại. Học viên sẽ được tiếp cận các framework tự động hóa phổ biến hiện nay.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Automation Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử hiệu năng, kiểm thử tải và kiểm thử bảo mật cơ bản",
+      "noi_dung_tom_tat": "Tập trung vào kiểm thử phi chức năng bao gồm khả năng chịu tải của hệ thống và tính bảo mật của phần mềm. Học viên sẽ học cách phát hiện các điểm nghẽn hiệu năng và các lỗ hổng bảo mật cơ bản.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Performance Testing, Load Testing, and Basic Security Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử trong DevOps và CI/CD",
+      "noi_dung_tom_tat": "Tìm hiểu vai trò của kiểm thử trong môi trường làm việc DevOps và sự tích hợp vào quy trình CI/CD. Bài học nhấn mạnh tầm quan trọng của kiểm thử liên tục để tăng tốc độ phát hành sản phẩm.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Testing in DevOps and CI/CD",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiểm thử trên di động, đa nền tầng và kiểm thử khả dụng",
+      "noi_dung_tom_tat": "Phân tích các thách thức khi kiểm thử ứng dụng trên đa nền tảng và thiết bị di động. Bài học cũng đề cập đến kiểm thử khả dụng nhằm tối ưu hóa trải nghiệm người dùng cuối.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Mobile Testing, Cross-Platform Testing, and Usability Testing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý lỗi, đo lường chất lượng và các xu hướng mới trong kiểm thử",
+      "noi_dung_tom_tat": "Hướng dẫn quản lý vòng đời lỗi và các số liệu đo lường để đánh giá chất lượng phần mềm. Ngoài ra, bài học còn cập nhật các xu hướng mới trong kiểm thử đang được ứng dụng trong ngành công nghiệp.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Defect Management, Quality Metrics, and Emerging Trends in Testing",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "fdae0a2837e3c99705ad41591c897412"
+}

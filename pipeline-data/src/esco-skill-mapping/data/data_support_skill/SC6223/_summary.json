@@ -1,0 +1,48 @@
+{
+  "course_code": "SC6223",
+  "course_title": "Discrete Mathematics",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 0,
+    "knowledge_count": 5
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "game theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "final_score": 0.826,
+      "support_concept_origin": "formal reasoning; mathematical maturity; pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.7178,
+      "support_concept_origin": "formal reasoning; systematic analysis",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "final_score": 0.6862,
+      "support_concept_origin": "formal reasoning; precision in communication",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "social network analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "final_score": 0.5991,
+      "support_concept_origin": "pattern recognition; systematic analysis",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "final_score": 0.5794,
+      "support_concept_origin": "algorithmic thinking; pattern recognition",
+      "review_status": "accepted"
+    }
+  ]
+}

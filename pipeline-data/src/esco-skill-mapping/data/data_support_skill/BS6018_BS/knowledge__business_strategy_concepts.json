@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95",
+    "preferred_label": "business strategy concepts",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6018_BS",
+    "course_title": "Giao tiếp trong môi trường làm việc"
+  },
+  "support_context": {
+    "support_concept_origin": "interpersonal sensitivity; negotiation mindset",
+    "evidence_text": "Course: Giao tiếp trong môi trường làm việc"
+  },
+  "scoring": {
+    "final_score": 0.532698,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Effective communication is a critical component of implementing business strategies, and the course provides the interpersonal skills necessary to manage stakeholders and partners.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

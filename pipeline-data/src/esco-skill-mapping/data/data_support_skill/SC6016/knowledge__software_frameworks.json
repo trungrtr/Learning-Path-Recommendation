@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+    "preferred_label": "software frameworks",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6016",
+    "course_title": "Foundation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; iterative development mindset; systems thinking",
+    "evidence_text": "Ability to apply foundational knowledge and techniques of the discipline to design IT solutions"
+  },
+  "scoring": {
+    "final_score": 0.626494,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves programming and implementing IT solutions, which typically requires the use of software frameworks to facilitate development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

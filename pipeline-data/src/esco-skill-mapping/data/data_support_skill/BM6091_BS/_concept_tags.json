@@ -1,0 +1,231 @@
+{
+  "course_code": "BM6091_BS",
+  "concept_tags": [
+    {
+      "text": "strategic thinking",
+      "normalized": "strategic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "interpersonal communication",
+      "normalized": "interpersonal communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "decision-making under uncertainty",
+      "normalized": "decision-making under uncertainty",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "negotiation skills",
+      "normalized": "negotiation skills",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "leadership mindset",
+      "normalized": "leadership mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource optimization",
+      "normalized": "resource optimization",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "ethical judgment",
+      "normalized": "ethical judgment",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "strategic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "interpersonal communication",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "conflict resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "decision-making under uncertainty",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "negotiation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "leadership mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "resource optimization",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "ethical judgment",
+      "role": "support"
+    },
+    {
+      "course_code": "BM6091_BS",
+      "concept_tag": "adaptability",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.805487,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.805487,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical judgment",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.805487,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.768058,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.768058,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86",
+      "esco_label": "leadership principles",
+      "confidence": 0.762398,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "leadership mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86",
+      "esco_label": "leadership principles",
+      "confidence": 0.762398,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95",
+      "esco_label": "business strategy concepts",
+      "confidence": 0.639716,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.574415,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.574415,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.574415,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 11
+  }
+}

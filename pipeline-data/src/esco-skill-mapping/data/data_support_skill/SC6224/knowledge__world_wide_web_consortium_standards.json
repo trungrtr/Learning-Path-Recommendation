@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+    "preferred_label": "World Wide Web Consortium standards",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6224",
+    "course_title": "Web design"
+  },
+  "support_context": {
+    "support_concept_origin": "creative synthesis; technical documentation literacy",
+    "evidence_text": "Apply knowledge to design practical website interfaces"
+  },
+  "scoring": {
+    "final_score": 0.580659,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers HTML and CSS, which are core technologies governed by W3C standards; learning these languages inherently involves understanding these standards.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

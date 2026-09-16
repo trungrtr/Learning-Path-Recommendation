@@ -1,0 +1,1593 @@
+{
+  "course_code": "SC6205",
+  "concept_tags": [
+    {
+      "text": "data structures",
+      "normalized": "data structures"
+    },
+    {
+      "text": "linear lists",
+      "normalized": "linear lists"
+    },
+    {
+      "text": "trees",
+      "normalized": "trees"
+    },
+    {
+      "text": "binary trees",
+      "normalized": "binary trees"
+    },
+    {
+      "text": "sorting algorithms",
+      "normalized": "sorting algorithms"
+    },
+    {
+      "text": "searching algorithms",
+      "normalized": "searching algorithms"
+    },
+    {
+      "text": "algorithm design strategies",
+      "normalized": "algorithm design strategies"
+    },
+    {
+      "text": "recursion",
+      "normalized": "recursion"
+    },
+    {
+      "text": "greedy algorithms",
+      "normalized": "greedy algorithms"
+    },
+    {
+      "text": "divide and conquer",
+      "normalized": "divide and conquer"
+    },
+    {
+      "text": "algorithms",
+      "normalized": "algorithms"
+    },
+    {
+      "text": "algorithmic evaluation",
+      "normalized": "algorithmic evaluation"
+    },
+    {
+      "text": "algorithmic design strategies",
+      "normalized": "algorithmic design strategies"
+    },
+    {
+      "text": "fundamental data structures",
+      "normalized": "fundamental data structures"
+    },
+    {
+      "text": "fundamental algorithms",
+      "normalized": "fundamental algorithms"
+    },
+    {
+      "text": "Searching Methods",
+      "normalized": "searching methods"
+    },
+    {
+      "text": "Sorting Methods",
+      "normalized": "sorting methods"
+    },
+    {
+      "text": "Divide and Conquer Strategies",
+      "normalized": "divide and conquer strategies"
+    },
+    {
+      "text": "Greedy Strategy",
+      "normalized": "greedy strategy"
+    },
+    {
+      "text": "Search Algorithms",
+      "normalized": "search algorithms"
+    },
+    {
+      "text": "Basic Sorting Algorithms",
+      "normalized": "basic sorting algorithms"
+    },
+    {
+      "text": "Vector Data Structure",
+      "normalized": "vector data structure"
+    },
+    {
+      "text": "List Data Structure",
+      "normalized": "list data structure"
+    },
+    {
+      "text": "Binary Tree Data Structure",
+      "normalized": "binary tree data structure"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6205",
+      "concept_tag": "data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_MUCTIEU_G1",
+        "SC6205_CLO_L1",
+        "SC6205_CLO_L3",
+        "SC6205_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "linear lists",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "trees",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "binary trees",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "sorting algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "searching algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "algorithm design strategies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "recursion",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_CLO_L1",
+        "SC6205_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "greedy algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "divide and conquer",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MOTA_MAIN",
+        "SC6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MUCTIEU_G1",
+        "SC6205_CLO_L1",
+        "SC6205_CLO_L3",
+        "SC6205_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "algorithmic evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MUCTIEU_G1",
+        "SC6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "algorithmic design strategies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_MUCTIEU_G1",
+        "SC6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "fundamental data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "fundamental algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "searching methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "sorting methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "divide and conquer strategies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "greedy strategy",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "search algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "basic sorting algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "vector data structure",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "list data structure",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "binary tree data structure",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6205_BAIHOC_L12"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithmic evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "esco_label": "establish data processes",
+      "confidence": 0.760419926812532,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "esco_label": "collect ICT data",
+      "confidence": 0.7506855912889503,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "divide and conquer strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.7637602803007708,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.747592816672863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "esco_label": "create data sets",
+      "confidence": 0.7539272850239369,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithmic design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7510018362682511,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "divide and conquer strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "esco_label": "integrate ICT data",
+      "confidence": 0.7467069790187295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "esco_label": "process data",
+      "confidence": 0.7405732238108194,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "esco_label": "analyse big data",
+      "confidence": 0.7357618106289017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7193057757801894,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7193057757801894,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7193057757801894,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7193057757801894,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "esco_label": "manage standards for data exchange",
+      "confidence": 0.7193057757801894,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "recursion",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "esco_label": "manage findable accessible interoperable and reusable data",
+      "confidence": 0.7324521639391075,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "divide and conquer strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "esco_label": "perform data mining",
+      "confidence": 0.7320480489532379,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.731775216216664,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7294822773531363,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.664401253680401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.664401253680401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.664401253680401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.664401253680401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.664401253680401,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "searching methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7813276325066043,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "esco_label": "data warehouse",
+      "confidence": 0.7621650098257307,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "esco_label": "unstructured data",
+      "confidence": 0.7597278822287818,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7437741097115531,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7424523892865327,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sorting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "recursion",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "search algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "basic sorting algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7399501624964653,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm design strategies",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "esco_label": "data engineering",
+      "confidence": 0.7547743338107753,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear lists",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7387206040097889,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "fundamental data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "recursion",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "list data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "binary tree data structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "esco_label": "data protection",
+      "confidence": 0.7111787684908957,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 24,
+    "total_has_concept_edges": 24,
+    "total_evidence_for_edges": 182
+  }
+}

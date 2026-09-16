@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+    "preferred_label": "risk management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6013",
+    "course_title": "Information Technology Project Management"
+  },
+  "support_context": {
+    "support_concept_origin": "decision-making under uncertainty; risk assessment intuition",
+    "evidence_text": "capable of identifying and proposing solutions to control project risks, costs, time, and quality"
+  },
+  "scoring": {
+    "final_score": 0.67821,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Risk management is explicitly listed as a core component of the course, covering identification and control of project risks.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

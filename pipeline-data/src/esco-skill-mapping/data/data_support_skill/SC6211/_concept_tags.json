@@ -1,0 +1,207 @@
+{
+  "course_code": "SC6211",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "modular design mindset",
+      "normalized": "modular design mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstraction capability",
+      "normalized": "abstraction capability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical structuring",
+      "normalized": "logical structuring",
+      "loai": "foundational"
+    },
+    {
+      "text": "architectural planning",
+      "normalized": "architectural planning",
+      "loai": "methodological"
+    },
+    {
+      "text": "debugging methodology",
+      "normalized": "debugging methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cognitive flexibility",
+      "normalized": "cognitive flexibility",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "complexity management",
+      "normalized": "complexity management",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6211",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "modular design mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "abstraction capability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "logical structuring",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "architectural planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "debugging methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "cognitive flexibility",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6211",
+      "concept_tag": "complexity management",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "debugging methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.82685,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.82685,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "attention to detail",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.798033,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.798033,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "modular design mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.798033,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.721909,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.721909,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.620721,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical structuring",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.620721,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 9
+  }
+}

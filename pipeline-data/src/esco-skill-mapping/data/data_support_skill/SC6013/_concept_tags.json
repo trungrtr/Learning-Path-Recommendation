@@ -1,0 +1,276 @@
+{
+  "course_code": "SC6013",
+  "concept_tags": [
+    {
+      "text": "strategic thinking",
+      "normalized": "strategic thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resource allocation mindset",
+      "normalized": "resource allocation mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "interpersonal communication",
+      "normalized": "interpersonal communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "risk assessment intuition",
+      "normalized": "risk assessment intuition",
+      "loai": "foundational"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "foundational"
+    },
+    {
+      "text": "negotiation skills",
+      "normalized": "negotiation skills",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "decision-making under uncertainty",
+      "normalized": "decision-making under uncertainty",
+      "loai": "foundational"
+    },
+    {
+      "text": "organizational awareness",
+      "normalized": "organizational awareness",
+      "loai": "methodological"
+    },
+    {
+      "text": "leadership and delegation",
+      "normalized": "leadership and delegation",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6013",
+      "concept_tag": "strategic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "resource allocation mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "interpersonal communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "conflict resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "risk assessment intuition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "negotiation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "decision-making under uncertainty",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "organizational awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "leadership and delegation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "adaptability",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "resource allocation mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.802887,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.802887,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.802887,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource allocation mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.709585,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.709585,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.709585,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "leadership and delegation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86",
+      "esco_label": "leadership principles",
+      "confidence": 0.684707,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86",
+      "esco_label": "leadership principles",
+      "confidence": 0.684707,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "decision-making under uncertainty",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.67821,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment intuition",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.67821,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource allocation mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.662771,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.662771,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.662771,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "leadership and delegation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.651737,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.651737,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.651737,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 15,
+    "total_has_concept_edges": 15,
+    "total_evidence_for_edges": 16
+  }
+}

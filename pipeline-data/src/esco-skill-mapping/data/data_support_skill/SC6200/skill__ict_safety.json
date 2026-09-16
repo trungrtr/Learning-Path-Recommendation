@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+    "preferred_label": "ICT safety",
+    "skill_type": "",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6200",
+    "course_title": "Cryptography and Information Security"
+  },
+  "support_context": {
+    "support_concept_origin": "risk assessment mindset; technical communication",
+    "evidence_text": "coordinate teams, manage and safely operate computing systems/information systems to meet the requirements of users and organizations"
+  },
+  "scoring": {
+    "final_score": 0.599445,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course content directly addresses data protection, security measures, and information authentication, which are central to ICT safety.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

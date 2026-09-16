@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "preferred_label": "Prototyping development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6262",
+    "course_title": "Advanced PHP Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative workflow; system design; troubleshooting methodology",
+    "evidence_text": "Utilize various PHP frameworks in solving practical problems"
+  },
+  "scoring": {
+    "final_score": 0.62421,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves the construction of a complete web application, which supports the iterative process of prototyping development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

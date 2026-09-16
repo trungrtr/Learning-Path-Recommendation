@@ -1,0 +1,51 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562",
+    "preferred_label": "make data-driven decisions",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BM6001_BS",
+    "course_title": "Economics",
+    "course_type": "FOUNDATIONAL"
+  },
+  "decision": {
+    "confidence": 0.70511,
+    "cross_encoder_score": 0.9953,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "lesson_27",
+      "text": "Chapter 4: Basic Macroeconomic Indicators",
+      "meta": {
+        "matched_mention": "macroeconomic indicators"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_score": 5.8049,
+      "dense_score": 0.3109,
+      "rrf_score": 0.028,
+      "retrieval_sources": [
+        "faiss",
+        "bm25"
+      ]
+    },
+    "method": "v4_hybrid_llm_cross_encoder",
+    "schema_version": "3.0"
+  }
+}

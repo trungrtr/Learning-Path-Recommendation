@@ -1,0 +1,142 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về mạng máy tính",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về mạng máy tính, lịch sử phát triển và phân loại mạng. Người học sẽ hiểu rõ vai trò của mạng trong hệ thống công nghệ thông tin hiện đại.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Computer Networks",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các chuẩn mạng và mô hình OSI",
+      "noi_dung_tom_tat": "Nghiên cứu các chuẩn mạng quốc tế và mô hình tham chiếu OSI 7 lớp. Nội dung giúp sinh viên hiểu rõ cách dữ liệu được đóng gói và truyền tải giữa các thiết bị.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Network Standards and the OSI Model",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Giới thiệu một số giao thức mạng",
+      "noi_dung_tom_tat": "Tổng quan về các giao thức mạng phổ biến như TCP/IP, UDP, HTTP và FTP. Bài học làm rõ quy tắc vận hành và ứng dụng của từng loại giao thức trong thực tế.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Introduction to Network Protocols",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Địa chỉ IPV4 và quy định chia Subnet",
+      "noi_dung_tom_tat": "Hướng dẫn chi tiết về cấu trúc địa chỉ IPv4 và kỹ thuật chia subnetting để tối ưu hóa không gian địa chỉ. Sinh viên sẽ rèn luyện kỹ năng tính toán dải IP cho các mạng con.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "IPv4 Addressing and Subnetting",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành nhận biết các mô hình mạng",
+      "noi_dung_tom_tat": "Cung cấp cái nhìn trực quan về các mô hình mạng phổ biến như Client-Server và Peer-to-Peer. Bài học giúp sinh viên nhận diện và phân tích ưu nhược điểm của từng mô hình.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practical Identification of Network Topologies",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Đặc trung và cấu trúc cơ bản của mạng cục bộ",
+      "noi_dung_tom_tat": "Tìm hiểu về đặc trưng, cấu trúc và các giao thức tầng vật lý của mạng cục bộ (LAN). Nội dung tập trung vào các công nghệ truyền dẫn và cấu trúc topology cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Characteristics and Basic Architecture of Local Area Networks",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các thiết bị mạng, quy trình thiết kế hệ thống mạng.",
+      "noi_dung_tom_tat": "Khảo sát các thiết bị mạng chủ chốt như Switch, Router và các quy trình thiết kế hạ tầng mạng. Bài học hướng dẫn tư duy logic để xây dựng một hệ thống mạng ổn định.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Network Devices and Network System Design Processes",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các phương pháp truy cập đường truyền và hệ điều hành mạng Windows Server",
+      "noi_dung_tom_tat": "Nghiên cứu các phương pháp truy cập đường truyền và tổng quan về hệ điều hành Windows Server. Người học nắm vững vai trò của Server trong quản trị tài nguyên mạng.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Media Access Methods and Windows Server Network Operating System",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành tìm hiểu các thiết bị mạng, kỹ thuật bấm dây mạng",
+      "noi_dung_tom_tat": "Thực hành trực tiếp với các thiết bị mạng thực tế và kỹ thuật bấm cáp mạng chuẩn. Sinh viên sẽ làm quen với các loại cáp, đầu nối và công cụ đo kiểm.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practical Exploration of Network Devices and Network Cable Crimping Techniques",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành thiết kế hệ thống mạng",
+      "noi_dung_tom_tat": "Áp dụng kiến thức đã học để thiết kế sơ đồ hệ thống mạng cho một kịch bản cụ thể. Nội dung bao gồm việc lựa chọn thiết bị và lập kế hoạch địa chỉ IP.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practical Network System Design",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành cải đặt Windows Server và dịch vụ Active Directory",
+      "noi_dung_tom_tat": "Thực hành cài đặt Windows Server và cấu hình dịch vụ Active Directory. Sinh viên sẽ làm quen với việc thiết lập miền (domain) và quản trị tập trung.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Installation of Windows Server and Active Directory Services",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành cải đặt dịch vụ DHCP, DNS",
+      "noi_dung_tom_tat": "Hướng dẫn triển khai và cấu hình dịch vụ cấp phát địa chỉ tự động DHCP và phân giải tên miền DNS. Đây là các dịch vụ hạ tầng quan trọng trong mạng doanh nghiệp.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Installation of DHCP and DNS Services",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành Quản lý tài khoản người dùng, tài khoản nhóm",
+      "noi_dung_tom_tat": "Thực hành quản lý tài khoản người dùng và nhóm trên hệ thống Windows Server. Nội dung tập trung vào việc cấp quyền và quản lý phân cấp người dùng.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Management of User Accounts and Group Accounts",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành Quản lý truy cập, chia sẻ tài nguyên trên mạng",
+      "noi_dung_tom_tat": "Thực hành cấu hình chia sẻ tài nguyên mạng như thư mục, máy in và phân quyền truy cập cho người dùng. Sinh viên hiểu rõ cơ chế bảo mật dữ liệu trên máy chủ.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Management of Access Control and Network Resource Sharing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Ôn tập",
+      "noi_dung_tom_tat": "Tổng kết lại các kiến thức trọng tâm đã học trong suốt học phần. Giải đáp các thắc mắc và hệ thống hóa lại các kỹ năng quản trị và thiết kế mạng.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Review",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "e26bc8c96e964d6bf38f57c17fd0e954"
+}

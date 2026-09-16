@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "preferred_label": "game theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6001_BS",
+    "course_title": "Đại số tuyến tính"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract reasoning; mathematical modeling; systemic analysis",
+    "evidence_text": "Proficiently apply mathematical methods of linear algebra to solve computational problems and practical application problems in the engineering field"
+  },
+  "scoring": {
+    "final_score": 0.826658,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Game theory relies heavily on matrix operations and systems of linear equations to calculate payoffs and equilibria.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

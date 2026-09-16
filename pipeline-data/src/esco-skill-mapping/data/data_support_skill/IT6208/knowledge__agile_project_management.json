@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+    "preferred_label": "Agile project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6208",
+    "course_title": "Graduation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "project management; technical documentation",
+    "evidence_text": "being proactive in organizing, managing progress, solution quality, and making professional decisions within the scope of the assigned project"
+  },
+  "scoring": {
+    "final_score": 0.786294,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "As a practical project-based course, it provides a context where agile or iterative project management approaches are typically applied to meet project requirements.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

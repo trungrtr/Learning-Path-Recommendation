@@ -1,0 +1,100 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff",
+    "preferred_label": "ICT system user requirements",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6206",
+    "course_title": "Graduation Thesis",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.697923,
+    "cross_encoder_score": 0.989369,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": true
+  },
+  "evidence": [
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Develop and integrate secure software solutions that meet practical problem requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2",
+          "PI 6.4"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply and manage secure software systems that meet practical problem requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.3",
+          "PI 6.5"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "System Survey",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "System Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "System Deployment",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": false
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 13,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

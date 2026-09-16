@@ -1,0 +1,252 @@
+{
+  "course_code": "SC6266",
+  "course_title": "Advanced Python Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 21,
+    "skill_count": 8,
+    "knowledge_count": 13,
+    "tier_distribution": {
+      "PRIMARY": 13,
+      "SECONDARY": 8,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use scripting programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "confidence": 0.7652491472440849,
+      "cross_encoder_score": 0.9754369854927063,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly covers Python programming, which is a scripting language used to build applications."
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.7357703156784762,
+      "cross_encoder_score": 0.9810686707496643,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "There is no mention of concurrent or parallel programming in the course content."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.7278310549896871,
+      "cross_encoder_score": 0.941885769367218,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes database programming and XML/JSON processing, which are core components of developing data processing applications."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.7221358945630647,
+      "cross_encoder_score": 0.9193252921104431,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Logic programming is a specific paradigm not covered in the course content."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6914285319834762,
+      "cross_encoder_score": 0.8580394983291626,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly lists 'Object-Oriented Programming with Python' as a lesson."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6814329902519558,
+      "cross_encoder_score": 0.8517459034919739,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Functional programming is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6484479707627805,
+      "cross_encoder_score": 0.8355045914649963,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Automatic programming is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.6253043687889326,
+      "cross_encoder_score": 0.8297613263130188,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers database programming (interaction), but not the definition of physical database structures."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.7408718933231616,
+      "cross_encoder_score": 0.9631694555282593,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course is titled 'Advanced Python Programming' and covers various software development aspects using Python."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7410251006940847,
+      "cross_encoder_score": 0.9575510621070862,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on GUI and database programming, not web programming."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.699190953776902,
+      "cross_encoder_score": 0.881277322769165,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers advanced Python programming, including object-oriented programming, GUI development, and database programming, which are core aspects of computer programming."
+    },
+    {
+      "preferred_label": "Scratch (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "confidence": 0.6610122977189609,
+      "cross_encoder_score": 0.8792885541915894,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not Scratch."
+    },
+    {
+      "preferred_label": "Assembly (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "confidence": 0.6536475983653708,
+      "cross_encoder_score": 0.8639445900917053,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not Assembly."
+    },
+    {
+      "preferred_label": "ML (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "confidence": 0.6456248124638364,
+      "cross_encoder_score": 0.8584556579589844,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not ML (the programming language)."
+    },
+    {
+      "preferred_label": "Ruby (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "confidence": 0.6153826363881855,
+      "cross_encoder_score": 0.8094576001167297,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not Ruby."
+    },
+    {
+      "preferred_label": "PHP",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "confidence": 0.6060242417905856,
+      "cross_encoder_score": 0.7916554808616638,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not PHP."
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "confidence": 0.5935691755729791,
+      "cross_encoder_score": 0.7787811160087585,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly includes 'Database Programming' and 'Programming with XML and JSON', covering database interaction and data formats."
+    },
+    {
+      "preferred_label": "JavaScript",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "confidence": 0.594208121070124,
+      "cross_encoder_score": 0.7796334624290466,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not JavaScript."
+    },
+    {
+      "preferred_label": "C++",
+      "esco_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "confidence": 0.525987239106982,
+      "cross_encoder_score": 0.6815371513366699,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not C++."
+    },
+    {
+      "preferred_label": "MATLAB",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "confidence": 0.521143732934948,
+      "cross_encoder_score": 0.6767945885658264,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses exclusively on Python programming, not MATLAB."
+    },
+    {
+      "preferred_label": "AJAX",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "confidence": 0.5145943482191409,
+      "cross_encoder_score": 0.6721677780151367,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content focuses on Object-Oriented Programming, GUI development, and database programming in Python. There is no mention of web development technologies or AJAX."
+    }
+  ],
+  "schema_version": "3.0"
+}

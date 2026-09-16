@@ -1,0 +1,269 @@
+{
+  "course_code": "IT6207",
+  "concept_tags": [
+    {
+      "text": "professional adaptability",
+      "normalized": "professional adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "organizational navigation",
+      "normalized": "organizational navigation",
+      "loai": "foundational"
+    },
+    {
+      "text": "interpersonal diplomacy",
+      "normalized": "interpersonal diplomacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "foundational"
+    },
+    {
+      "text": "workplace etiquette",
+      "normalized": "workplace etiquette",
+      "loai": "cognitive"
+    },
+    {
+      "text": "conflict resolution",
+      "normalized": "conflict resolution",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "critical self-reflection",
+      "normalized": "critical self-reflection",
+      "loai": "cognitive"
+    },
+    {
+      "text": "resilience in professional settings",
+      "normalized": "resilience in professional settings",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cross-functional collaboration",
+      "normalized": "cross-functional collaboration",
+      "loai": "foundational"
+    },
+    {
+      "text": "accountability",
+      "normalized": "accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional networking",
+      "normalized": "professional networking",
+      "loai": "foundational"
+    },
+    {
+      "text": "situational awareness",
+      "normalized": "situational awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "initiative and proactivity",
+      "normalized": "initiative and proactivity",
+      "loai": "foundational"
+    },
+    {
+      "text": "verbal and written professional communication",
+      "normalized": "verbal and written professional communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "organizational navigation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "interpersonal diplomacy",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "workplace etiquette",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "conflict resolution",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "critical self-reflection",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "resilience in professional settings",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "cross-functional collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional networking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "situational awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "initiative and proactivity",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "verbal and written professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "cross-functional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+      "esco_label": "contract law",
+      "confidence": 0.849349,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "verbal and written professional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+      "esco_label": "contract law",
+      "confidence": 0.849349,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.74128,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "initiative and proactivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.74128,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "cross-functional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.664116,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "initiative and proactivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.664116,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "initiative and proactivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.644004,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "organizational navigation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.644004,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.644004,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.637088,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "initiative and proactivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.637088,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "initiative and proactivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.590556,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.590556,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional networking",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.572869,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "verbal and written professional communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.572869,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 15,
+    "total_has_concept_edges": 15,
+    "total_evidence_for_edges": 15
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+    "preferred_label": "demonstrate disciplinary expertise",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6208",
+    "course_title": "Graduation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "professional communication; professional ethics",
+    "evidence_text": "while deeply understanding the principles of technology transfer, operation, and management of information systems in a practical context"
+  },
+  "scoring": {
+    "final_score": 0.677167,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course requires students to apply specialized knowledge in Information Systems to solve complex problems, which is the definition of demonstrating disciplinary expertise.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

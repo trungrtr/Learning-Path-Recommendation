@@ -1,0 +1,208 @@
+{
+  "course_code": "SC6262",
+  "course_title": "Advanced PHP Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 17,
+    "skill_count": 2,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 17,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.7298692879422164,
+      "cross_encoder_score": 0.9332924485206604,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly includes lessons on Object-Oriented Programming with PHP and requires students to apply OOP principles."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7231460794435189,
+      "cross_encoder_score": 0.8768282532691956,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers the MVC pattern and the design/construction of complete web applications, which involves defining application interfaces and structures."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "PHP",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "confidence": 0.818676774203747,
+      "cross_encoder_score": 0.9394091367721558,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The entire course is focused on advanced PHP programming, including analysis, coding, and development of web applications."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.8012656267517669,
+      "cross_encoder_score": 0.9583812952041626,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course focuses on web application development using PHP, which is a core web programming language."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.7726628662757907,
+      "cross_encoder_score": 0.9491557478904724,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "There is no explicit mention of AJAX frameworks in the provided course content."
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.7614114792028855,
+      "cross_encoder_score": 0.9468101263046265,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course covers OOP principles and the MVC pattern, which are fundamental to object-oriented modelling in software design."
+    },
+    {
+      "preferred_label": "web application security threats",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "confidence": 0.7529579522170144,
+      "cross_encoder_score": 0.9443402290344238,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes content on essential security methods for web applications and preventing common vulnerabilities."
+    },
+    {
+      "preferred_label": "World Wide Web Consortium standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "confidence": 0.7673948993224234,
+      "cross_encoder_score": 0.9403201341629028,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course content does not explicitly mention W3C standards."
+    },
+    {
+      "preferred_label": "Drupal",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "confidence": 0.7521093973676266,
+      "cross_encoder_score": 0.9553009867668152,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 22,
+      "llm_reasoning": "The course mentions using PHP frameworks generally, but does not explicitly name Drupal."
+    },
+    {
+      "preferred_label": "Joomla",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "confidence": 0.7514445937726834,
+      "cross_encoder_score": 0.9628142714500427,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 22,
+      "llm_reasoning": "The course mentions using PHP frameworks generally, but does not explicitly name Joomla."
+    },
+    {
+      "preferred_label": "SPARK",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "confidence": 0.7523821886506182,
+      "cross_encoder_score": 0.9388726949691772,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on PHP frameworks, not the Java-based SPARK micro framework."
+    },
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.7504429542505198,
+      "cross_encoder_score": 0.9526808261871338,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content is specific to PHP programming and PHP frameworks, not JavaScript frameworks."
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7475819681375087,
+      "cross_encoder_score": 0.9530594348907471,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course includes 'Advanced Database Connectivity' and the design/construction of complete web applications, which involves database structure and interaction."
+    },
+    {
+      "preferred_label": "OpenEdge Advanced Business Language",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "confidence": 0.7026425580450073,
+      "cross_encoder_score": 0.8933224678039551,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course is dedicated to PHP programming, not the OpenEdge Advanced Business Language."
+    },
+    {
+      "preferred_label": "IBM WebSphere",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "confidence": 0.701130437361265,
+      "cross_encoder_score": 0.8616429567337036,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course does not cover IBM WebSphere, which is a Java EE application server."
+    },
+    {
+      "preferred_label": "WebCMS",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "confidence": 0.7130488565328443,
+      "cross_encoder_score": 0.9058506488800049,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course focuses on custom web application development using PHP and frameworks, not the use or management of WebCMS systems."
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.7051319018363923,
+      "cross_encoder_score": 0.8952272534370422,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course does not cover Oracle WebLogic, which is a Java EE based application server."
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,110 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về phân tích và thiết kế hệ thống phần mềm.",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về hệ thống thông tin và quy trình phát triển phần mềm. Sinh viên sẽ nắm được vai trò của người phân tích hệ thống cũng như các giai đoạn chính trong vòng đời phát triển hệ thống.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Software Systems Analysis and Design.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xác định yêu cầu hệ thống.",
+      "noi_dung_tom_tat": "Nội dung tập trung vào các phương pháp thu thập, phân loại và quản lý yêu cầu chức năng cũng như phi chức năng của hệ thống. Qua đó, sinh viên có thể chuyển đổi nhu cầu của khách hàng thành tài liệu tả yêu cầu chi tiết.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "System Requirements Specification.",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích chức năng hệ thống bằng biểu đồ use case",
+      "noi_dung_tom_tat": "Bài học hướng dẫn cách xây dựng biểu đồ Use Case để mô hình hóa các chức năng của hệ thống từ góc nhìn người dùng. Sinh viên sẽ học cách xác định Actor, Use Case và biểu diễn các mối quan hệ giữa chúng.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "System Functional Analysis Using Use Case Diagrams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích nghiệp vụ hệ thống bằng biểu đồ hoạt động",
+      "noi_dung_tom_tat": "Nội dung bài học tập trung vào việc mô tả luồng công việc và quy trình nghiệp vụ chi tiết bằng biểu đồ Activity. Sinh viên biết cách thể hiện sự rẽ nhánh, thực thi song song và các trạng thái xử lý nghiệp vụ.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "System Business Analysis Using Activity Diagrams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích cấu trúc hệ thống bằng biểu đồ lớp",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức về việc xác định các lớp đối tượng, thuộc tính, phương thức và mối quan hệ giữa chúng trong hệ thống. Sinh viên sẽ áp dụng biểu đồ Class để mô hình hóa cấu trúc tĩnh của phần mềm.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "System Structural Analysis Using Class Diagrams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích tương tác giữa các đối tượng bằng biểu đồ trình tự",
+      "noi_dung_tom_tat": "Nội dung bài học giúp sinh viên hiểu cách mô hình hóa sự trao đổi thông điệp theo thứ tự thời gian giữa các đối tượng. Biểu đồ Sequence hỗ trợ làm rõ cơ chế thực thi của từng kịch bản Use Case cụ thể.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Object Interaction Analysis Using Sequence Diagrams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân tích trạng thái của các đối tượng bằng biểu đồ trạng thái",
+      "noi_dung_tom_tat": "Bài học giới thiệu cách mô tả vòng đời và sự chuyển đổi trạng thái của đối tượng dưới tác động của các sự kiện. Sinh viên sử dụng biểu đồ State Machine để phân tích các đối tượng có hành vi phức tạp.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Object State Analysis Using State Diagrams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thiết kế lớp và dữ liệu",
+      "noi_dung_tom_tat": "Bài học hướng dẫn chi tiết cách chuyển đổi mô hình phân tích sang mô hình thiết kế lớp và cơ sở dữ liệu quan hệ. Sinh viên sẽ nắm vững các nguyên lý thiết kế hướng đối tượng và chuẩn hóa dữ liệu.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Class and Data Design",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thiết kế giao diện người dùng",
+      "noi_dung_tom_tat": "Nội dung bài học tập trung vào các nguyên tắc thiết kế giao diện người dùng đảm bảo tính thân thiện và dễ sử dụng. Sinh viên thực hành phác thảo wireframe và xây dựng prototype cho các màn hình ứng dụng.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "User Interface Design",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp",
+      "noi_dung_tom_tat": "Bài học giúp sinh viên củng cố toàn bộ kiến thức đã học thông qua việc phân tích và thiết kế một bài toán thực tế. Sinh viên sẽ vận dụng các công cụ mô hình hóa để hoàn thiện hồ sơ thiết kế hệ thống.",
+      "ma_clo": [
+        "L4"
+      ],
+      "ten_bai_en": "Comprehensive Exercise",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài học",
+      "noi_dung_tom_tat": "Bài học tổng kết kiến thức toàn bộ môn học và định hướng ứng dụng vào các dự án thực tế. Sinh viên được giải đáp các thắc mắc và hệ thống hóa lại kỹ năng phân tích thiết kế.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Lesson",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "a7accc7d52f91acb224eb699dae18a4e"
+}

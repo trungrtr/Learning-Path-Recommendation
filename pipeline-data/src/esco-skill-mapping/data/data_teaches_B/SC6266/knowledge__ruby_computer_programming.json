@@ -1,0 +1,152 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+    "preferred_label": "Ruby (computer programming)",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6266",
+    "course_title": "Advanced Python Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6153826363881855,
+    "cross_encoder_score": 0.8094576001167297,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses exclusively on Python programming, not Ruby."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course provides learners with advanced Python programming knowledge and skills, including topics on GUI programming and database programming. After completing this course, learners will be able to build GUI applications to display and interact with database systems.",
+      "meta": {
+        "matched_mention": "advanced Python programming"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Utilize advanced Python programming knowledge to solve programming requirements.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2"
+        ],
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "advanced Python programming"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply advanced Python programming skills to solve basic problems.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "advanced Python programming"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply the software development process to solve practical problems using Python.",
+      "meta": {
+        "pi_so": [
+          "PI 6.2"
+        ],
+        "muc_do": "TU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Python programming"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Object-Oriented Programming with Python",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Object-Oriented Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "GUI Programming – Part 1",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "GUI Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "GUI Programming – Part 2",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "GUI Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Practice: GUI Programming",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2L3"
+        ],
+        "matched_mention": "GUI Programming"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 29,
+      "dense_rank": 9,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

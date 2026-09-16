@@ -1,0 +1,378 @@
+{
+  "course_code": "IT6205",
+  "concept_tags": [
+    {
+      "text": "information system deployment",
+      "normalized": "information system deployment"
+    },
+    {
+      "text": "engineering technology project",
+      "normalized": "engineering technology project"
+    },
+    {
+      "text": "technology solution blueprint",
+      "normalized": "technology solution blueprint"
+    },
+    {
+      "text": "product design",
+      "normalized": "product design"
+    },
+    {
+      "text": "professional responsibilities",
+      "normalized": "professional responsibilities"
+    },
+    {
+      "text": "legal regulations",
+      "normalized": "legal regulations"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6205",
+      "concept_tag": "information system deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "engineering technology project",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "technology solution blueprint",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "product design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "professional responsibilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "legal regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6205_CLO_L2"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11",
+      "esco_label": "comply with legal regulations",
+      "confidence": 0.7080831466151065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7065869076685471,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7084303314863937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7084303314863937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/93b22bbf-ece1-4e2d-8d47-0c9392c5a4fd",
+      "esco_label": "develop blockchain technology",
+      "confidence": 0.7017826565946977,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/93b22bbf-ece1-4e2d-8d47-0c9392c5a4fd",
+      "esco_label": "develop blockchain technology",
+      "confidence": 0.7017826565946977,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.7043684471866333,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7065989827489733,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7065989827489733,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7055909284617213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.7055909284617213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883",
+      "esco_label": "lead technology development of an organisation",
+      "confidence": 0.7055145178570266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883",
+      "esco_label": "lead technology development of an organisation",
+      "confidence": 0.7055145178570266,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7027712420584648,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7027712420584648,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+      "esco_label": "define technology strategy",
+      "confidence": 0.7008704736696113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+      "esco_label": "define technology strategy",
+      "confidence": 0.7008704736696113,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7135159408278836,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7135159408278836,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.709058234268791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.709058234268791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.6979638991248223,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "esco_label": "engineering processes",
+      "confidence": 0.6979638991248223,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.6927922812094047,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_label": "network engineering",
+      "confidence": 0.6927922812094047,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b",
+      "esco_label": "legal requirements of ICT products",
+      "confidence": 0.6977280704311812,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b",
+      "esco_label": "legal requirements of ICT products",
+      "confidence": 0.6977280704311812,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7011445794989021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.7011445794989021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.6994283878182225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.6994283878182225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.6994283878182225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e",
+      "esco_label": "safety engineering",
+      "confidence": 0.6975747769353525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e",
+      "esco_label": "safety engineering",
+      "confidence": 0.6975747769353525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6966441988801382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6966441988801382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.6966441988801382,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "engineering technology project",
+      "esco_uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+      "esco_label": "system backup best practice",
+      "confidence": 0.6386616023811309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+      "esco_label": "system backup best practice",
+      "confidence": 0.6386616023811309,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology solution blueprint",
+      "esco_uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+      "esco_label": "system backup best practice",
+      "confidence": 0.6386616023811309,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 7,
+    "total_has_concept_edges": 7,
+    "total_evidence_for_edges": 40
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "course_code": "IT6218",
+  "course_title": "Database Management System (DBMS)",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 22,
+    "skill_count": 14,
+    "knowledge_count": 8,
+    "tier_distribution": {
+      "PRIMARY": 17,
+      "SECONDARY": 2,
+      "OPTIONAL": 3
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "operate relational database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "confidence": 0.8289,
+      "cross_encoder_score": 0.977,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7655,
+      "cross_encoder_score": 0.9765,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "use databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "confidence": 0.7554,
+      "cross_encoder_score": 0.9559,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.7551,
+      "cross_encoder_score": 0.964,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "use query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "confidence": 0.7465,
+      "cross_encoder_score": 0.9845,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "maintain database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "confidence": 0.7406,
+      "cross_encoder_score": 0.9633,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.7333,
+      "cross_encoder_score": 0.963,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "balance database resources",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "confidence": 0.7305,
+      "cross_encoder_score": 0.9612,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.728,
+      "cross_encoder_score": 0.9425,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "maintain database performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "confidence": 0.7271,
+      "cross_encoder_score": 0.8993,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "design database backup specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "confidence": 0.7215,
+      "cross_encoder_score": 0.9337,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "design database in the cloud",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "confidence": 0.711,
+      "cross_encoder_score": 0.9389,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.6212,
+      "cross_encoder_score": 0.7928,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "maintain ICT server",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5ac9226-0ace-4d34-a1c3-7b3845834a98",
+      "confidence": 0.408,
+      "cross_encoder_score": 0.5312,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 11
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "database management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "confidence": 0.7965,
+      "cross_encoder_score": 0.9458,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "NoSQL",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "confidence": 0.7332,
+      "cross_encoder_score": 0.9126,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7325,
+      "cross_encoder_score": 0.9765,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "confidence": 0.7253,
+      "cross_encoder_score": 0.9651,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "query languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "confidence": 0.6964,
+      "cross_encoder_score": 0.9456,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "MarkLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "confidence": 0.6497,
+      "cross_encoder_score": 0.8516,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.5931,
+      "cross_encoder_score": 0.7484,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 14
+    },
+    {
+      "preferred_label": "IBM WebSphere",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "confidence": 0.3461,
+      "cross_encoder_score": 0.41,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 9
+    }
+  ],
+  "schema_version": "3.0"
+}

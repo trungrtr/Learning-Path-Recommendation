@@ -1,0 +1,211 @@
+{
+  "course_code": "SC6223",
+  "concept_tags": [
+    {
+      "text": "formal reasoning",
+      "normalized": "formal reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "rigorous argumentation",
+      "normalized": "rigorous argumentation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "deductive reasoning",
+      "normalized": "deductive reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "precision in communication",
+      "normalized": "precision in communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "systematic analysis",
+      "normalized": "systematic analysis",
+      "loai": "foundational"
+    },
+    {
+      "text": "mathematical maturity",
+      "normalized": "mathematical maturity",
+      "loai": "foundational"
+    },
+    {
+      "text": "logical consistency",
+      "normalized": "logical consistency",
+      "loai": "cognitive"
+    },
+    {
+      "text": "computational complexity awareness",
+      "normalized": "computational complexity awareness",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6223",
+      "concept_tag": "formal reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "rigorous argumentation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "deductive reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "precision in communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "systematic analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "mathematical maturity",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "logical consistency",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "computational complexity awareness",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "formal reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826048,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical maturity",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826048,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.826048,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "formal reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.717785,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.717785,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "formal reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.686221,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "precision in communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.686221,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.599134,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "esco_label": "social network analysis",
+      "confidence": 0.599134,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.579437,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.579437,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 11
+  }
+}

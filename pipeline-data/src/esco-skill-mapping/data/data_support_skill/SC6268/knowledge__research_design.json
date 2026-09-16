@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+    "preferred_label": "research design",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6268",
+    "course_title": "Bussiness Analysis"
+  },
+  "support_context": {
+    "support_concept_origin": "stakeholder management; technical writing",
+    "evidence_text": "CLO: Demonstrate basic knowledge of business analysis such as the BACCM framework, needs, requirements, and risks from stakeholders"
+  },
+  "scoring": {
+    "final_score": 0.601887,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches eliciting needs from stakeholders and analyzing requirements, which are key research design activities in a business context.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,318 @@
+{
+  "course_code": "SC6239",
+  "course_title": "Introduction to Software Engineering",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 27,
+    "skill_count": 12,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 27,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "utilise computer-aided software engineering tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "confidence": 0.802690843183032,
+      "cross_encoder_score": 0.9740930795669556,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly mentions the use of tools and techniques in software engineering and includes a learning objective to cultivate skills in using methods and tools."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7889959621337174,
+      "cross_encoder_score": 0.9690788388252258,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course includes 'Systems Analysis and Design' as a lesson and requires students to compile system design documents."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.7726777009796916,
+      "cross_encoder_score": 0.9683036208152771,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course includes 'Programming – Testing – Software Release' and requires students to compile project reports and documentation."
+    },
+    {
+      "preferred_label": "manage software releases",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "confidence": 0.7720475284406723,
+      "cross_encoder_score": 0.9617443084716797,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers 'Programming – Testing – Software Release' and includes learning objectives related to software project management and release activities."
+    },
+    {
+      "preferred_label": "oversee development of software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "confidence": 0.7660535255968655,
+      "cross_encoder_score": 0.9517694115638733,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers software project management and the full software development process, including planning and key activities."
+    },
+    {
+      "preferred_label": "analyse software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "confidence": 0.7659792923148643,
+      "cross_encoder_score": 0.9722636342048645,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'Systems Analysis and Design' and requires students to compile business requirement and software requirement specification documents."
+    },
+    {
+      "preferred_label": "execute software tests",
+      "esco_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+      "confidence": 0.7628253862720059,
+      "cross_encoder_score": 0.9831058382987976,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly lists 'Testing' as a key activity and a lesson topic."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.765352182460041,
+      "cross_encoder_score": 0.9380313754081726,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While the course covers principles and techniques, it does not explicitly mention 'software design patterns' in the provided content."
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.7441260926604816,
+      "cross_encoder_score": 0.9681719541549683,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers systems analysis and design and the application of software engineering to meet user objectives, which involves aligning design with requirements."
+    },
+    {
+      "preferred_label": "define software architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "confidence": 0.7496580067848075,
+      "cross_encoder_score": 0.9591478109359741,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'Systems Analysis and Design' and requires the creation of system design documents."
+    },
+    {
+      "preferred_label": "develop reporting software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "confidence": 0.7412875838968327,
+      "cross_encoder_score": 0.9472293257713318,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers general software engineering principles and documentation, but does not explicitly teach the creation of reporting software or data reporting applications."
+    },
+    {
+      "preferred_label": "develop automated software tests",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+      "confidence": 0.7327124614150278,
+      "cross_encoder_score": 0.9654706120491028,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content explicitly mentions 'automation' and 'testing' as key activities and modern trends in software engineering."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.8004124055657212,
+      "cross_encoder_score": 0.97999107837677,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course includes 'Software Development Models' and the application of process models as a core learning objective."
+    },
+    {
+      "preferred_label": "software metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "confidence": 0.7941211696299031,
+      "cross_encoder_score": 0.980925977230072,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers 'software quality assurance' and the use of techniques/models to ensure software products meet objectives, which involves measuring software characteristics."
+    },
+    {
+      "preferred_label": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "confidence": 0.7743425199272563,
+      "cross_encoder_score": 0.971365213394165,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers 'tools' and 'techniques' to improve software development efficiency, which encompasses the use of software frameworks."
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "confidence": 0.7639299483797237,
+      "cross_encoder_score": 0.9807887673377991,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'Systems Analysis and Design' and the creation of 'system design documents' as part of the curriculum."
+    },
+    {
+      "preferred_label": "software components suppliers",
+      "esco_uri": "http://data.europa.eu/esco/skill/e6b8f934-7f35-4dc6-9a64-f6c43acdc00b",
+      "confidence": 0.7735359649565832,
+      "cross_encoder_score": 0.9828002452850342,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of managing or identifying software component suppliers in the provided course content."
+    },
+    {
+      "preferred_label": "levels of software testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "confidence": 0.743776730609654,
+      "cross_encoder_score": 0.976673424243927,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly lists 'Programming – Testing – Software Release' as a lesson topic and 'testing' as a key activity."
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "confidence": 0.747185066502965,
+      "cross_encoder_score": 0.9406337738037109,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course requires students to compile 'software requirement specification documents' and 'business requirement documents'."
+    },
+    {
+      "preferred_label": "incremental development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "confidence": 0.7454820608511565,
+      "cross_encoder_score": 0.9630821347236633,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers 'Software Development Models', which includes incremental development methodologies."
+    },
+    {
+      "preferred_label": "Agile development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "confidence": 0.7550810341334081,
+      "cross_encoder_score": 0.9783493280410767,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers 'Software Development Models' and 'modern software development trends', which inherently include Agile methodologies."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.7334958297578422,
+      "cross_encoder_score": 0.9550509452819824,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content explicitly lists 'Programming – Testing – Software Release' as a lesson, which covers the deployment phase."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.747555864738725,
+      "cross_encoder_score": 0.9490861296653748,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes the study of 'tools' for software engineering and 'Programming', which involves the use of IDEs."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7364478427658299,
+      "cross_encoder_score": 0.9103440046310425,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While the course covers 'Systems Analysis and Design', there is no explicit mention of UI design patterns."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.7299377503121339,
+      "cross_encoder_score": 0.9337078928947449,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers 'methods, principles, techniques, tools' and 'key activities in industrial software projects', which includes configuration management."
+    },
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "confidence": 0.7395835472900412,
+      "cross_encoder_score": 0.9635865688323975,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers 'Software Development Models', which includes iterative development methodologies."
+    },
+    {
+      "preferred_label": "engineering processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "confidence": 0.7262482617869395,
+      "cross_encoder_score": 0.9367383122444153,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly focuses on 'process-oriented working methods' and 'software development processes' as core components."
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "preferred_label": "game theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6223",
+    "course_title": "Discrete Mathematics"
+  },
+  "support_context": {
+    "support_concept_origin": "formal reasoning; mathematical maturity; pattern recognition",
+    "evidence_text": "Course: Discrete Mathematics"
+  },
+  "scoring": {
+    "final_score": 0.826048,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Discrete Mathematics covers logic, relations, and combinatorics, which are foundational mathematical tools used to model strategic decision-making in game theory.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

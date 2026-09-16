@@ -1,0 +1,351 @@
+{
+  "course_code": "SC6240",
+  "course_title": "Computer network",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 15,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 30,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design computer network",
+      "esco_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "confidence": 0.812500444511258,
+      "cross_encoder_score": 0.9910111427307129,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course explicitly includes 'Practical Network System Design' and the CLO to 'design network topologies for small and medium-sized enterprises'."
+    },
+    {
+      "preferred_label": "analyse network configuration and performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "confidence": 0.8053173582096317,
+      "cross_encoder_score": 0.983423113822937,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers network devices and protocols, but there is no explicit mention of analyzing configuration files or performance characteristics of existing networks."
+    },
+    {
+      "preferred_label": "analyse network bandwidth requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/da042121-959d-451b-b4d0-3bbf07c1bc67",
+      "confidence": 0.8005931942316004,
+      "cross_encoder_score": 0.9769273996353149,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "While the course covers IPv4 addressing and subnetting, it does not explicitly teach the analysis of transmission capacity or bandwidth requirements."
+    },
+    {
+      "preferred_label": "design cloud networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "confidence": 0.7892579020977202,
+      "cross_encoder_score": 0.9883665442466736,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content focuses on local area networks and Windows Server environments; there is no mention of cloud networking."
+    },
+    {
+      "preferred_label": "implement a virtual private network",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "confidence": 0.7836301640142419,
+      "cross_encoder_score": 0.9766317009925842,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "VPN implementation is not listed in the course content or learning objectives."
+    },
+    {
+      "preferred_label": "maintain internet protocol configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9aad733-959a-4178-984f-53e4bd05b420",
+      "confidence": 0.7675733315490857,
+      "cross_encoder_score": 0.9743179678916931,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers 'IPv4 Addressing and Subnetting' and 'Introduction to Network Protocols', which are foundational to maintaining IP configurations."
+    },
+    {
+      "preferred_label": "acquire system component",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "confidence": 0.7804400958891662,
+      "cross_encoder_score": 0.9884922504425049,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers network devices and design, but does not explicitly teach the procurement or acquisition process for system components."
+    },
+    {
+      "preferred_label": "forecast future ICT network needs",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "confidence": 0.7767515099979284,
+      "cross_encoder_score": 0.9872455596923828,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of forecasting traffic growth or future network needs in the provided content."
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7710896387085792,
+      "cross_encoder_score": 0.9912840127944946,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on foundational knowledge and specific practical skills rather than keeping up with emerging information systems solutions."
+    },
+    {
+      "preferred_label": "maintain ICT system",
+      "esco_uri": "http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5",
+      "confidence": 0.7702071144424241,
+      "cross_encoder_score": 0.9757351875305176,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'Practical Management of User Accounts', 'Practical Management of Access Control', and 'Practical Installation of Windows Server', which relate to maintaining and managing ICT systems."
+    },
+    {
+      "preferred_label": "adjust ICT system capacity",
+      "esco_uri": "http://data.europa.eu/esco/skill/b1604a2d-c26a-427d-bda9-b8073a319fe9",
+      "confidence": 0.7664169213314782,
+      "cross_encoder_score": 0.9927040338516235,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers network design and administration but does not explicitly mention adjusting system capacity or reallocating components to meet volume demands."
+    },
+    {
+      "preferred_label": "provide ICT system training",
+      "esco_uri": "http://data.europa.eu/esco/skill/418a56a2-7cfc-4b6d-8cf5-5c2add99a849",
+      "confidence": 0.7629890889070525,
+      "cross_encoder_score": 0.9817910194396973,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content focuses on technical design and administration, with no mention of planning or conducting staff training."
+    },
+    {
+      "preferred_label": "implement a firewall",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "confidence": 0.7554467589338004,
+      "cross_encoder_score": 0.9336172342300415,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While the course covers network administration and resource sharing, there is no explicit mention of installing or updating firewall security systems."
+    },
+    {
+      "preferred_label": "define firewall rules",
+      "esco_uri": "http://data.europa.eu/esco/skill/054f26ab-cfdc-4077-883c-1c4c9e9b310a",
+      "confidence": 0.7552096591224609,
+      "cross_encoder_score": 0.9715269804000854,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not include the definition or configuration of firewall rules."
+    },
+    {
+      "preferred_label": "implement ICT network diagnostic tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "confidence": 0.7502745402883595,
+      "cross_encoder_score": 0.9412320256233215,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers network devices and administration, but does not explicitly teach the use of diagnostic tools for monitoring performance or throughput."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "network management system tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "confidence": 0.8181349282462553,
+      "cross_encoder_score": 0.9868682622909546,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers network management of accounts and resources, but does not explicitly teach the use of network management system tools for monitoring or supervision."
+    },
+    {
+      "preferred_label": "network engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "confidence": 0.8136001772919085,
+      "cross_encoder_score": 0.9767783880233765,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers network architecture, design processes, and device management, which are core components of network engineering."
+    },
+    {
+      "preferred_label": "ICT network routing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "confidence": 0.8088200557015341,
+      "cross_encoder_score": 0.9880129098892212,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "While the course covers network protocols and addressing, it does not explicitly mention the processes and techniques for routing packets."
+    },
+    {
+      "preferred_label": "distributed computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+      "confidence": 0.7909647262910112,
+      "cross_encoder_score": 0.980635941028595,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on network infrastructure and administration rather than the software processes of distributed computing."
+    },
+    {
+      "preferred_label": "ICT network simulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "confidence": 0.7904891084007075,
+      "cross_encoder_score": 0.9884838461875916,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content does not mention the use of network simulation tools or methods."
+    },
+    {
+      "preferred_label": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "confidence": 0.7867571639310457,
+      "cross_encoder_score": 0.9880285263061523,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content explicitly includes 'Network Standards and the OSI Model' as a lesson topic."
+    },
+    {
+      "preferred_label": "ICT communications protocols",
+      "esco_uri": "http://data.europa.eu/esco/skill/6e4f75b4-c60f-4623-a9ba-760c8245753b",
+      "confidence": 0.7844859468650577,
+      "cross_encoder_score": 0.9795256853103638,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content includes 'Introduction to Network Protocols' as a lesson topic."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7622580792778662,
+      "cross_encoder_score": 0.9614224433898926,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on network administration, design, and configuration rather than system software programming."
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7577894388321789,
+      "cross_encoder_score": 0.974818766117096,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers designing network topologies for small and medium-sized enterprises and managing network resources."
+    },
+    {
+      "preferred_label": "ICT infrastructure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "confidence": 0.7703642755695845,
+      "cross_encoder_score": 0.9855031967163086,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers network devices, system design processes, and installation of network services like DHCP and DNS."
+    },
+    {
+      "preferred_label": "procurement of ICT network equipment",
+      "esco_uri": "http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74",
+      "confidence": 0.7659324752779679,
+      "cross_encoder_score": 0.9539895057678223,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers network device identification and design, but does not explicitly cover procurement methods or vendor selection."
+    },
+    {
+      "preferred_label": "Wireshark",
+      "esco_uri": "http://data.europa.eu/esco/skill/8fa510d0-a8a6-4932-a361-00f8442cfe23",
+      "confidence": 0.7317999388812533,
+      "cross_encoder_score": 0.9536450505256653,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "Wireshark is not mentioned in the provided course content."
+    },
+    {
+      "preferred_label": "cloud technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "confidence": 0.7416621898500819,
+      "cross_encoder_score": 0.9662308096885681,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "Cloud technologies are not mentioned in the provided course content."
+    },
+    {
+      "preferred_label": "Cisco",
+      "esco_uri": "http://data.europa.eu/esco/skill/709ef32a-7435-48e2-8fa2-16e389ecab8a",
+      "confidence": 0.7408657920868282,
+      "cross_encoder_score": 0.9470223784446716,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "Cisco is not mentioned in the provided course content."
+    },
+    {
+      "preferred_label": "Internet of Things",
+      "esco_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "confidence": 0.7291037926709896,
+      "cross_encoder_score": 0.9315767288208008,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "Internet of Things is not mentioned in the provided course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

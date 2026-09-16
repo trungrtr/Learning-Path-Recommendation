@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+    "preferred_label": "use functional programming",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6038_BS",
+    "course_title": "Giải tích"
+  },
+  "support_context": {
+    "support_concept_origin": "algorithmic thinking; logical structuring of arguments; mathematical modeling",
+    "evidence_text": "Develops analytical thinking, computational skills, and the ability to solve practical problems in engineering such as optimization, work computation, force analysis, and multivariable function analysis"
+  },
+  "scoring": {
+    "final_score": 0.64176,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Functional programming treats computation as the evaluation of mathematical functions, which aligns with the core concepts of calculus.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

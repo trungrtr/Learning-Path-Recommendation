@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+    "preferred_label": "scientific computing",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6223",
+    "course_title": "Discrete Mathematics"
+  },
+  "support_context": {
+    "support_concept_origin": "formal reasoning; precision in communication",
+    "evidence_text": "Course: Discrete Mathematics"
+  },
+  "scoring": {
+    "final_score": 0.686221,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Scientific computing relies heavily on the algorithmic and mathematical foundations taught in Discrete Mathematics, such as graph theory and logic.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

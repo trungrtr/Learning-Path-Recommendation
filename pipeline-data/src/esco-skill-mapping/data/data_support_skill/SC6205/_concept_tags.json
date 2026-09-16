@@ -1,0 +1,249 @@
+{
+  "course_code": "SC6205",
+  "concept_tags": [
+    {
+      "text": "computational thinking",
+      "normalized": "computational thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "logical reasoning",
+      "normalized": "logical reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "efficiency-oriented mindset",
+      "normalized": "efficiency-oriented mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic debugging",
+      "normalized": "systematic debugging",
+      "loai": "foundational"
+    },
+    {
+      "text": "mathematical maturity",
+      "normalized": "mathematical maturity",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation",
+      "normalized": "critical evaluation",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6205",
+      "concept_tag": "computational thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "logical reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "efficiency-oriented mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "systematic debugging",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "mathematical maturity",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "resource management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6205",
+      "concept_tag": "critical evaluation",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.864247,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "self-directed learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.864247,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.72304,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.7074,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "attention to detail",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.706505,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "self-directed learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.706505,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic debugging",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.706505,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "esco_label": "deep learning",
+      "confidence": 0.700065,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "esco_label": "deep learning",
+      "confidence": 0.700065,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "self-directed learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "esco_label": "deep learning",
+      "confidence": 0.700065,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.668252,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.605438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.605438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical maturity",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.605438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.604185,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 15
+  }
+}

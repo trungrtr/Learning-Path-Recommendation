@@ -1,0 +1,69 @@
+{
+  "course_code": "SC6205",
+  "course_title": "Data Structures and Algorithms",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 8,
+    "skill_count": 0,
+    "knowledge_count": 8
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "computational biology",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "final_score": 0.8642,
+      "support_concept_origin": "computational thinking; self-directed learning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.723,
+      "support_concept_origin": "computational thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "image recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "final_score": 0.7074,
+      "support_concept_origin": "pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "final_score": 0.7065,
+      "support_concept_origin": "attention to detail; self-directed learning; systematic debugging",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "deep learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+      "final_score": 0.7001,
+      "support_concept_origin": "abstract modeling; pattern recognition; self-directed learning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "final_score": 0.6683,
+      "support_concept_origin": "abstract modeling",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "game theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "final_score": 0.6054,
+      "support_concept_origin": "critical evaluation; logical reasoning; mathematical maturity",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.6042,
+      "support_concept_origin": "abstract modeling",
+      "review_status": "accepted"
+    }
+  ]
+}

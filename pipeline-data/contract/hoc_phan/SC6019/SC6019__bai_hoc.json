@@ -1,0 +1,123 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về học máy",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về định nghĩa, phân loại và vai trò của học máy trong kỷ nguyên dữ liệu lớn. Người học sẽ làm quen với các khái niệm nền tảng như dữ liệu huấn luyện, kiểm thử và quy trình thực hiện một dự án học máy cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Introduction to Machine Learning",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mô hình hồi quy",
+      "noi_dung_tom_tat": "Nội dung tập trung vào các phương pháp hồi quy tuyến tính đơn biến và đa biến nhằm dự đoán giá trị liên tục. Sinh viên sẽ tìm hiểu cách đánh giá mô hình thông qua các hàm mất mát và tối ưu hóa bằng phương pháp gradient descent.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Regression Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mô hình SVM",
+      "noi_dung_tom_tat": "Bài học giới thiệu về Support Vector Machine (SVM) và cơ chế tìm kiếm siêu phẳng tối ưu để phân loại dữ liệu. Đồng thời, kỹ thuật sử dụng kernel trick sẽ được thảo luận để giải quyết các bài toán phi tuyến tính.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "SVM Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Học không giám sát",
+      "noi_dung_tom_tat": "Học không giám sát tập trung vào việc khám phá cấu trúc ẩn trong dữ liệu mà không cần nhãn. Các thuật toán tiêu biểu như phân cụm K-means và giảm chiều dữ liệu PCA sẽ được phân tích chi tiết.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Unsupervised Learning",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mô hình học sâu",
+      "noi_dung_tom_tat": "Bài học đi sâu vào kiến trúc mạng thần kinh nhân tạo và các mô hình học sâu hiện đại. Người học sẽ hiểu cách thức hoạt động của lan truyền ngược và các hàm kích hoạt trong quá trình huấn luyện mô hình phức tạp.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Deep Learning Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số mô hình học máy khác",
+      "noi_dung_tom_tat": "Giới thiệu các thuật toán học máy phổ biến khác như cây quyết định, rừng ngẫu nhiên và các phương pháp ensemble. Những mô hình này cung cấp các giải pháp thay thế mạnh mẽ cho các bài toán phân loại và hồi quy thực tế.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Other Machine Learning Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xây dựng ứng dụng học máy",
+      "noi_dung_tom_tat": "Bài học hướng dẫn quy trình thực tế từ tiền xử lý dữ liệu, lựa chọn đặc trưng đến triển khai và đánh giá ứng dụng học máy. Đây là bước quan trọng để chuyển đổi từ lý thuyết sang các giải pháp kỹ thuật cụ thể.",
+      "ma_clo": [
+        "L1L2L3L4"
+      ],
+      "ten_bai_en": "Building Machine Learning Applications",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm về mô hình hồi quy",
+      "noi_dung_tom_tat": "Thực hành triển khai mô hình hồi quy trên tập dữ liệu thực tế bằng các thư viện phổ biến như Scikit-learn. Sinh viên sẽ học cách tinh chỉnh tham số để cải thiện độ chính xác dự báo.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Experiments on Regression Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm về mô hình SVM",
+      "noi_dung_tom_tat": "Tập trung vào việc lập trình và kiểm chứng mô hình SVM trên các bộ dữ liệu phân loại. Người học sẽ thực hiện so sánh hiệu suất giữa các loại hàm nhân khác nhau.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Experiments on SVM Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm về học không giám sát",
+      "noi_dung_tom_tat": "Bài học thực nghiệm áp dụng các thuật toán phân cụm và giảm chiều dữ liệu để khám phá tập dữ liệu chưa gắn nhãn. Kết quả thu được sẽ được trực quan hóa để dễ dàng diễn giải.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Experiments on Unsupervised Learning",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm về học sâu",
+      "noi_dung_tom_tat": "Thực hành xây dựng và huấn luyện mạng thần kinh sâu sử dụng các thư viện như TensorFlow hoặc PyTorch. Sinh viên sẽ làm quen với việc xử lý dữ liệu ảnh hoặc văn bản cơ bản.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Experiments on Deep Learning",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực nghiệm về một số mô hình học máy",
+      "noi_dung_tom_tat": "Hướng dẫn thực hiện kiểm chứng các mô hình học máy khác nhau trên cùng một bộ dữ liệu để so sánh hiệu suất. Qua đó, sinh viên rút ra được kinh nghiệm lựa chọn mô hình phù hợp cho từng bài toán.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Experiments on Other Machine Learning Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "khác",
+      "noi_dung_tom_tat": "Nội dung mở rộng tập trung vào việc thảo luận các xu hướng hiện đại và đạo đức trong trí tuệ nhân tạo. Sinh viên sẽ tìm hiểu cách tối ưu hóa quy trình học máy trong môi trường sản xuất.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "others",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "d830160602ab39861fed3dd3023f4c3c"
+}

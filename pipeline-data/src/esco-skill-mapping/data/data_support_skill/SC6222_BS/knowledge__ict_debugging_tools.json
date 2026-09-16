@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+    "preferred_label": "ICT debugging tools",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6222_BS",
+    "course_title": "Tích hợp hệ thống phần mềm"
+  },
+  "support_context": {
+    "support_concept_origin": "debugging and troubleshooting methodology; standardization adherence",
+    "evidence_text": "Course: Tích hợp hệ thống phần mềm"
+  },
+  "scoring": {
+    "final_score": 0.785608,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Developing and integrating Web APIs requires testing and debugging communication protocols, which inherently involves using debugging tools to troubleshoot data exchange and service connectivity.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

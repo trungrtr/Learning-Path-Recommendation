@@ -1,0 +1,1070 @@
+{
+  "course_code": "SC6210",
+  "concept_tags": [
+    {
+      "text": "Microsoft .NET platform",
+      "normalized": "microsoft .net platform"
+    },
+    {
+      "text": "C# language",
+      "normalized": "c# language"
+    },
+    {
+      "text": "object-oriented programming",
+      "normalized": "object-oriented programming"
+    },
+    {
+      "text": "Windows Presentation Foundation",
+      "normalized": "windows presentation foundation"
+    },
+    {
+      "text": "Entity Framework Core",
+      "normalized": "entity framework core"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "software copyrights",
+      "normalized": "software copyrights"
+    },
+    {
+      "text": ".NET technology foundation",
+      "normalized": ".net technology foundation"
+    },
+    {
+      "text": "desktop application development",
+      "normalized": "desktop application development"
+    },
+    {
+      "text": "WPF",
+      "normalized": "wpf"
+    },
+    {
+      "text": "Microsoft .NET technology",
+      "normalized": "microsoft .net technology"
+    },
+    {
+      "text": "WPF graphical user interface",
+      "normalized": "wpf graphical user interface"
+    },
+    {
+      "text": "requirement analysis",
+      "normalized": "requirement analysis"
+    },
+    {
+      "text": "desktop application deployment",
+      "normalized": "desktop application deployment"
+    },
+    {
+      "text": "WPF technology",
+      "normalized": "wpf technology"
+    },
+    {
+      "text": "Visual Studio",
+      "normalized": "visual studio"
+    },
+    {
+      "text": "SQL Server",
+      "normalized": "sql server"
+    },
+    {
+      "text": "effective teamwork",
+      "normalized": "effective teamwork"
+    },
+    {
+      "text": ".NET platform",
+      "normalized": ".net platform"
+    },
+    {
+      "text": "EF Core",
+      "normalized": "ef core"
+    },
+    {
+      "text": "software design",
+      "normalized": "software design"
+    },
+    {
+      "text": "software solution implementation",
+      "normalized": "software solution implementation"
+    },
+    {
+      "text": "computer science tools",
+      "normalized": "computer science tools"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6210",
+      "concept_tag": "microsoft .net platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "c# language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN",
+        "SC6210_MUCTIEU_MT1",
+        "SC6210_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "object-oriented programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN",
+        "SC6210_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "windows presentation foundation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "entity framework core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN",
+        "SC6210_MUCTIEU_MT1",
+        "SC6210_MUCTIEU_MT2",
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN",
+        "SC6210_MUCTIEU_MT1",
+        "SC6210_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "software copyrights",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MOTA_MAIN",
+        "SC6210_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": ".net technology foundation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "desktop application development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "wpf",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT1",
+        "SC6210_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "microsoft .net technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "wpf graphical user interface",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "requirement analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "desktop application deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "wpf technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "visual studio",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "sql server",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "effective teamwork",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": ".net platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "ef core",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "software design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "software solution implementation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6210",
+      "concept_tag": "computer science tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6210_CLO_L2"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "windows presentation foundation",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wpf graphical user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "esco_label": "use presentation software",
+      "confidence": 0.701677126467256,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6981361722550431,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "c# language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6981361722550431,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6981361722550431,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6981361722550431,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wpf graphical user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.6747495830183633,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.6511198339399139,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.6400567583425009,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.6400567583425009,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.6400567583425009,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.6400567583425009,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "esco_label": "manage software releases",
+      "confidence": 0.6400567583425009,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.5800625627616536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.5800625627616536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.5800625627616536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.5800625627616536,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.5637905486528121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "c# language",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.5637905486528121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.5637905486528121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.5637905486528121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.5637905486528121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.719052995599585,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.719052995599585,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.719052995599585,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.719052995599585,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.719052995599585,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.7036105798125086,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "esco_label": "core banking software",
+      "confidence": 0.6888483521530356,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "esco_label": "core banking software",
+      "confidence": 0.6888483521530356,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "esco_label": "core banking software",
+      "confidence": 0.6888483521530356,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "esco_label": "core banking software",
+      "confidence": 0.6888483521530356,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "esco_label": "core banking software",
+      "confidence": 0.6888483521530356,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6999362619651465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6999362619651465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6999362619651465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6999362619651465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6999362619651465,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+      "esco_label": "resource description framework query language",
+      "confidence": 0.6865235679240794,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ef core",
+      "esco_uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+      "esco_label": "resource description framework query language",
+      "confidence": 0.6865235679240794,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.6797000821417261,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": ".net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.6797000821417261,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "c# language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6782582856383024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6782582856383024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6782582856383024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6782582856383024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wpf graphical user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.6524576359453003,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "windows presentation foundation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.646907522136203,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "esco_label": "JavaScript Framework",
+      "confidence": 0.6612724451834432,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.6583955473441968,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "entity framework core",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.6583955473441968,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.6583955473441968,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.6583955473441968,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.6583955473441968,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wpf graphical user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.5991189930122875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.6062926712584559,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "desktop application deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software copyrights",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution implementation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.5647152291912204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_label": "Microsoft Visual C++",
+      "confidence": 0.5214814385029238,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "c# language",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_label": "Microsoft Visual C++",
+      "confidence": 0.5214814385029238,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "microsoft .net technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_label": "Microsoft Visual C++",
+      "confidence": 0.5214814385029238,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "visual studio",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_label": "Microsoft Visual C++",
+      "confidence": 0.5214814385029238,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer science tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_label": "Microsoft Visual C++",
+      "confidence": 0.5214814385029238,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 23,
+    "total_has_concept_edges": 23,
+    "total_evidence_for_edges": 110
+  }
+}

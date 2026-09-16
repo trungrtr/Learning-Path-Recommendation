@@ -1,0 +1,160 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+    "preferred_label": "database management systems",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6203_BS",
+    "course_title": "Nguyên lý hệ điều hành",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7119875193865841,
+    "cross_encoder_score": 0.9531112909317017,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course covers memory and storage management at the OS level, not database management systems or their specific tools."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course belongs to the foundational knowledge block in the training program and is taught over one semester. With the main objective of introducing basic concepts related to Operating System principles: process management, CPU scheduling issues, deadlock handling, memory management, and peripheral device management...",
+      "meta": {
+        "matched_mention": "process management; memory management"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Apply CPU scheduling, memory management, and deadlock resolution algorithms to solve simulation problems in operating systems.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "memory management"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Operating Systems Overview",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "operating systems overview"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Process Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "process management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Main Memory Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "main memory management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Secondary Storage Management",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "secondary storage management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "I/O Device Management and System Protection",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "I/O device management"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Explain basic concepts, architecture, and operating mechanisms of operating systems, process and thread management, and system resource management principles.",
+      "meta": {
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "process management; system resource management"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Analyze and calculate CPU scheduling algorithms, deadlock prevention and handling solutions, as well as main memory, secondary memory, and peripheral device management techniques.",
+      "meta": {
+        "muc_do": "S",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "main memory management; secondary memory management"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 15,
+      "dense_rank": 6,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

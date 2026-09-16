@@ -1,0 +1,266 @@
+{
+  "course_code": "SC6214",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "architectural design patterns",
+      "normalized": "architectural design patterns",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "regulatory compliance awareness",
+      "normalized": "regulatory compliance awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "lifecycle management",
+      "normalized": "lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "continuous learning mindset",
+      "normalized": "continuous learning mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "security-first mindset",
+      "normalized": "security-first mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project planning",
+      "normalized": "project planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "interdisciplinary communication",
+      "normalized": "interdisciplinary communication",
+      "loai": "interpersonal"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6214",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "architectural design patterns",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "regulatory compliance awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "continuous learning mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "security-first mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "project planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6214",
+      "concept_tag": "interdisciplinary communication",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.803872,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.803872,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.803872,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.690038,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.690038,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.690038,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.660066,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.660066,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "esco_label": "service-oriented modelling",
+      "confidence": 0.649575,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+      "esco_label": "service-oriented modelling",
+      "confidence": 0.649575,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.643882,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.643882,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "architectural design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.635884,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_label": "ASP.NET",
+      "confidence": 0.635884,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.610839,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.610839,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 16
+  }
+}

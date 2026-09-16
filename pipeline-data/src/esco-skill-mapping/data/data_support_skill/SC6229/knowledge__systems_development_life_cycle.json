@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+    "preferred_label": "systems development life-cycle",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6229",
+    "course_title": "Enterprise resource planning software"
+  },
+  "support_context": {
+    "support_concept_origin": "change management awareness; data-driven decision making; project lifecycle management",
+    "evidence_text": "Be proactive in learning, work independently or in teams, and take responsibility for the outcomes of using enterprise resource planning systems"
+  },
+  "scoring": {
+    "final_score": 0.587055,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course objectives include the ideation, design, deployment, and operation of ERP systems, which directly maps to the stages of the systems development life-cycle.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

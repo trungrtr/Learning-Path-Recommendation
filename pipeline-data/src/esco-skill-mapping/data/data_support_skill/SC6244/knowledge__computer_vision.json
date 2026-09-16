@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+    "preferred_label": "computer vision",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6244",
+    "course_title": "Artificial Intelligence"
+  },
+  "support_context": {
+    "support_concept_origin": "algorithmic thinking; technical documentation skills",
+    "evidence_text": "applying, selecting, and experimenting with algorithms for specific problems"
+  },
+  "scoring": {
+    "final_score": 0.622323,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Computer vision relies heavily on the neural networks and machine learning techniques taught in this course.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

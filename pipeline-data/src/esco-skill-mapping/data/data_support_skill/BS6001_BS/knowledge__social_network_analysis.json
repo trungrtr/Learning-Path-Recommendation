@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+    "preferred_label": "social network analysis",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6001_BS",
+    "course_title": "Đại số tuyến tính"
+  },
+  "support_context": {
+    "support_concept_origin": "systemic analysis",
+    "evidence_text": "Course: Đại số tuyến tính"
+  },
+  "scoring": {
+    "final_score": 0.666807,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Social network analysis uses adjacency matrices and graph theory (often represented via linear algebra) to analyze relationships and network structures.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

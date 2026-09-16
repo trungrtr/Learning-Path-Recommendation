@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+    "preferred_label": "business ICT systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6218",
+    "course_title": "Database Management System (DBMS)"
+  },
+  "support_context": {
+    "support_concept_origin": "complex system architecture understanding; process optimization; resource management",
+    "evidence_text": "Use a Database Management System for information security, user administration, data backup, and recovery"
+  },
+  "scoring": {
+    "final_score": 0.799328,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "DBMS is a core component of business ICT systems like ERP and CRM; understanding database administration and design is foundational to supporting these business processes.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,296 @@
+{
+  "course_code": "SC6200",
+  "course_title": "Cryptography and Information Security",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 25,
+    "skill_count": 12,
+    "knowledge_count": 13,
+    "tier_distribution": {
+      "PRIMARY": 23,
+      "SECONDARY": 2,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "protect ICT devices",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "confidence": 0.7578145217404371,
+      "cross_encoder_score": 0.983626663684845,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers digital signatures, encryption, and protective measures for information systems and computer networks."
+    },
+    {
+      "preferred_label": "manage keys for data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "confidence": 0.7513661888746558,
+      "cross_encoder_score": 0.9819579124450684,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly includes 'Key Management and Distribution in Cryptography' and the implementation of encryption algorithms."
+    },
+    {
+      "preferred_label": "ICT safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "confidence": 0.7440706817574264,
+      "cross_encoder_score": 0.9655045866966248,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers cybersecurity principles and protective measures for information systems."
+    },
+    {
+      "preferred_label": "protect personal data and privacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+      "confidence": 0.7469384073018523,
+      "cross_encoder_score": 0.9802615642547607,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "While the course covers security, there is no explicit mention of personal data protection, privacy policies, or PII management."
+    },
+    {
+      "preferred_label": "ensure information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "confidence": 0.7385393903712236,
+      "cross_encoder_score": 0.9766602516174316,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on information authentication and secure transmission, which aligns with ensuring information remains with authorized parties."
+    },
+    {
+      "preferred_label": "maintain database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "confidence": 0.7363400493957467,
+      "cross_encoder_score": 0.985080897808075,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention databases or specific database security controls."
+    },
+    {
+      "preferred_label": "apply information security policies",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "confidence": 0.733255014823771,
+      "cross_encoder_score": 0.9764446020126343,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes identifying professional, legal, and ethical responsibilities in cybersecurity practice."
+    },
+    {
+      "preferred_label": "establish an ICT security prevention plan",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "confidence": 0.7304732184365452,
+      "cross_encoder_score": 0.9788967967033386,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course includes analyzing, evaluating, and proposing comprehensive cybersecurity solutions for IT systems."
+    },
+    {
+      "preferred_label": "manage IT security compliances",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "confidence": 0.7298059192218839,
+      "cross_encoder_score": 0.9572392106056213,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers identifying professional, legal, and ethical responsibilities in cybersecurity practice."
+    },
+    {
+      "preferred_label": "implement a virtual private network",
+      "esco_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "confidence": 0.7192960081402521,
+      "cross_encoder_score": 0.9613208770751953,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers general encryption and network security, but does not explicitly teach the implementation of a VPN."
+    },
+    {
+      "preferred_label": "develop information security strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "confidence": 0.702300448349925,
+      "cross_encoder_score": 0.9302401542663574,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on technical cryptography and security implementation rather than high-level organizational strategy creation."
+    },
+    {
+      "preferred_label": "manage system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "confidence": 0.6835238397762065,
+      "cross_encoder_score": 0.9121711850166321,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The CLOs explicitly mention analyzing, evaluating, and proposing cybersecurity solutions for IT systems and handling cybersecurity incidents."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "confidence": 0.7604479539964248,
+      "cross_encoder_score": 0.9793264865875244,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly covers symmetric-key cryptography, public-key cryptography, and data encryption/decryption algorithms."
+    },
+    {
+      "preferred_label": "security engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "confidence": 0.7558016235487519,
+      "cross_encoder_score": 0.9915636777877808,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The CLOs include applying knowledge to implement protective measures for information systems and proposing comprehensive cybersecurity solutions."
+    },
+    {
+      "preferred_label": "cyber security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "confidence": 0.7503347548908779,
+      "cross_encoder_score": 0.9857379198074341,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers fundamental principles of cybersecurity and protective measures for computing systems and networks."
+    },
+    {
+      "preferred_label": "assessment of risks and threats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "confidence": 0.7444190763503142,
+      "cross_encoder_score": 0.9855703115463257,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers security, it does not explicitly mention the documentation or communication aspects of risk and threat assessment."
+    },
+    {
+      "preferred_label": "data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "confidence": 0.7328763458981941,
+      "cross_encoder_score": 0.9704275727272034,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The CLOs mention identifying professional, legal, and ethical responsibilities in cybersecurity, which encompasses data protection principles."
+    },
+    {
+      "preferred_label": "cyber attack counter-measures",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "confidence": 0.745978335828636,
+      "cross_encoder_score": 0.9840391278266907,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The CLOs explicitly mention handling cybersecurity incidents and implementing protective measures for information systems."
+    },
+    {
+      "preferred_label": "cloud security and compliance",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "confidence": 0.745439418105312,
+      "cross_encoder_score": 0.988400936126709,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no mention of cloud-specific security, compliance, or shared responsibility models in the provided course content."
+    },
+    {
+      "preferred_label": "security threats",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "confidence": 0.7306532573015564,
+      "cross_encoder_score": 0.9783323407173157,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers cybersecurity fundamentals and incident handling, which inherently involves understanding security threats."
+    },
+    {
+      "preferred_label": "ICT security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "confidence": 0.7289809864359947,
+      "cross_encoder_score": 0.970568060874939,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content focuses on cryptographic algorithms and mathematical foundations rather than specific ICT security standards like ISO 27000."
+    },
+    {
+      "preferred_label": "information confidentiality",
+      "esco_uri": "http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db",
+      "confidence": 0.7222495761406802,
+      "cross_encoder_score": 0.96073979139328,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers secure encryption, data encryption/decryption, and information authentication, which are core mechanisms for ensuring information confidentiality."
+    },
+    {
+      "preferred_label": "ICT security legislation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "confidence": 0.6979606889915467,
+      "cross_encoder_score": 0.9091325402259827,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly mentions identifying professional, legal, and ethical responsibilities in cybersecurity practice."
+    },
+    {
+      "preferred_label": "Parrot Security OS",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "confidence": 0.5809772122737638,
+      "cross_encoder_score": 0.7647250890731812,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "There is no mention of Parrot Security OS or specific penetration testing tools in the course content."
+    },
+    {
+      "preferred_label": "computer forensics",
+      "esco_uri": "http://data.europa.eu/esco/skill/118a9b27-1c5a-4214-b685-1a4d9e6365ea",
+      "confidence": 0.5110892694763768,
+      "cross_encoder_score": 0.6629856824874878,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content focuses on cryptography and system protection rather than digital forensics or evidence recovery."
+    }
+  ],
+  "schema_version": "3.0"
+}

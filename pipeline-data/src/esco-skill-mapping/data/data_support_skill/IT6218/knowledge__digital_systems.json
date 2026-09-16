@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+    "preferred_label": "digital systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6218",
+    "course_title": "Database Management System (DBMS)"
+  },
+  "support_context": {
+    "support_concept_origin": "complex system architecture understanding; process optimization; structured thinking",
+    "evidence_text": "Course: Database Management System (DBMS)"
+  },
+  "scoring": {
+    "final_score": 0.531622,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "DBMS are essential digital systems used to store and process information; understanding their operation is foundational to digital systems knowledge.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

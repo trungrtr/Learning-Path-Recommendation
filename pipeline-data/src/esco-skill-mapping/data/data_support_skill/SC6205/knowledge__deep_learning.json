@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080",
+    "preferred_label": "deep learning",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6205",
+    "course_title": "Data Structures and Algorithms"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; pattern recognition; self-directed learning",
+    "evidence_text": "Proactively learn and acquire knowledge, demonstrating self-study awareness and a serious attitude toward learning"
+  },
+  "scoring": {
+    "final_score": 0.700065,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Deep learning is built upon algorithmic design strategies and data structures that manage neural network computations and weight updates.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

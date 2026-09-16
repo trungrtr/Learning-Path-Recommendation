@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+    "preferred_label": "computer science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6054_BS",
+    "course_title": "Vật lý đại cương"
+  },
+  "support_context": {
+    "support_concept_origin": "mathematical modeling; scientific methodology",
+    "evidence_text": "Form a scientific worldview, logical thinking, carefulness, and honesty in the process of collecting and processing experimental data, along with a sense of responsibility in study and research"
+  },
+  "scoring": {
+    "final_score": 0.696301,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course content explicitly mentions serving as a basis for Computer Architecture and Operating Systems, providing the physical hardware foundation for computer science.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

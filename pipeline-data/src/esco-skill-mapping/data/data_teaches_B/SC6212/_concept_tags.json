@@ -1,0 +1,1662 @@
+{
+  "course_code": "SC6212",
+  "concept_tags": [
+    {
+      "text": "Java programming concepts",
+      "normalized": "java programming concepts"
+    },
+    {
+      "text": "Object-Oriented Programming",
+      "normalized": "object-oriented programming"
+    },
+    {
+      "text": "encapsulation inheritance polymorphism abstraction",
+      "normalized": "encapsulation inheritance polymorphism abstraction"
+    },
+    {
+      "text": "exception handling",
+      "normalized": "exception handling"
+    },
+    {
+      "text": "Input/Output programming",
+      "normalized": "input/output programming"
+    },
+    {
+      "text": "database programming",
+      "normalized": "database programming"
+    },
+    {
+      "text": "JDBC",
+      "normalized": "jdbc"
+    },
+    {
+      "text": "graphical user interface",
+      "normalized": "graphical user interface"
+    },
+    {
+      "text": "Java programming language",
+      "normalized": "java programming language"
+    },
+    {
+      "text": "input/output operations",
+      "normalized": "input/output operations"
+    },
+    {
+      "text": "database connectivity",
+      "normalized": "database connectivity"
+    },
+    {
+      "text": "graphical user interfaces",
+      "normalized": "graphical user interfaces"
+    },
+    {
+      "text": "Java programming",
+      "normalized": "java programming"
+    },
+    {
+      "text": "Object-Oriented Programming techniques",
+      "normalized": "object-oriented programming techniques"
+    },
+    {
+      "text": "Java programming techniques",
+      "normalized": "java programming techniques"
+    },
+    {
+      "text": "Array manipulation",
+      "normalized": "array manipulation"
+    },
+    {
+      "text": "string manipulation",
+      "normalized": "string manipulation"
+    },
+    {
+      "text": "collections programming",
+      "normalized": "collections programming"
+    },
+    {
+      "text": "collections",
+      "normalized": "collections"
+    },
+    {
+      "text": "I/O programming",
+      "normalized": "i/o programming"
+    },
+    {
+      "text": "Graphical User Interface programming",
+      "normalized": "graphical user interface programming"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6212",
+      "concept_tag": "java programming concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "object-oriented programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN",
+        "SC6212_MUCTIEU_4.1",
+        "SC6212_BAIHOC_L03",
+        "SC6212_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "encapsulation inheritance polymorphism abstraction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "exception handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN",
+        "SC6212_MUCTIEU_4.1",
+        "SC6212_BAIHOC_L07",
+        "SC6212_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "input/output programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "database programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN",
+        "SC6212_BAIHOC_L09",
+        "SC6212_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "jdbc",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN",
+        "SC6212_MUCTIEU_4.1",
+        "SC6212_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "graphical user interface",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "java programming language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.1"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "input/output operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.1"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "database connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.1"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "graphical user interfaces",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.1"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "java programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.2",
+        "SC6212_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "object-oriented programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_MUCTIEU_4.2"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "java programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_CLO_L1",
+        "SC6212_CLO_L2",
+        "SC6212_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "array manipulation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L05",
+        "SC6212_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "string manipulation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L05",
+        "SC6212_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "collections programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "collections",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "i/o programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L07",
+        "SC6212_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6212",
+      "concept_tag": "graphical user interface programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6212_BAIHOC_L11",
+        "SC6212_BAIHOC_L12"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.8201302918736305,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.7630241190013738,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.7536712459589037,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.7662450030084645,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6697672382333011,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7910554819277115,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.7738841360982994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "jdbc",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_label": "Java (computer programming)",
+      "confidence": 0.7709329319140852,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.7601882773076766,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_label": "JavaScript",
+      "confidence": 0.7443192464110634,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_label": "Smalltalk (computer programming)",
+      "confidence": 0.7100467411673668,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_label": "Assembly (computer programming)",
+      "confidence": 0.7079631299711088,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_label": "Visual Basic",
+      "confidence": 0.6945786029615861,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_label": "ML (computer programming)",
+      "confidence": 0.6899069085485998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_label": "Lisp",
+      "confidence": 0.6854809603641084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_label": "AJAX",
+      "confidence": 0.6813165716399211,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_label": "C#",
+      "confidence": 0.6754096771431054,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_label": "Ruby (computer programming)",
+      "confidence": 0.6733638374917916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_label": "Haskell",
+      "confidence": 0.6729636168840597,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming language",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "object-oriented programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "java programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "collections programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string manipulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "i/o programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphical user interface programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_label": "R",
+      "confidence": 0.6525681422302285,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 21,
+    "total_has_concept_edges": 21,
+    "total_evidence_for_edges": 197
+  }
+}

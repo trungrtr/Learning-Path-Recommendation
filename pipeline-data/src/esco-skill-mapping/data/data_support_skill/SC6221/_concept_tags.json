@@ -1,0 +1,204 @@
+{
+  "course_code": "SC6221",
+  "concept_tags": [
+    {
+      "text": "computational thinking",
+      "normalized": "computational thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "algorithmic efficiency awareness",
+      "normalized": "algorithmic efficiency awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "quantitative reasoning",
+      "normalized": "quantitative reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of precision",
+      "normalized": "critical evaluation of precision",
+      "loai": "foundational"
+    },
+    {
+      "text": "mathematical modeling mindset",
+      "normalized": "mathematical modeling mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "debugging and troubleshooting",
+      "normalized": "debugging and troubleshooting",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract problem solving",
+      "normalized": "abstract problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "foundational"
+    },
+    {
+      "text": "logical deduction",
+      "normalized": "logical deduction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic testing",
+      "normalized": "systematic testing",
+      "loai": "cognitive"
+    },
+    {
+      "text": "trade-off analysis",
+      "normalized": "trade-off analysis",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6221",
+      "concept_tag": "computational thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "algorithmic efficiency awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "quantitative reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "critical evaluation of precision",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "mathematical modeling mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "debugging and troubleshooting",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "abstract problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "logical deduction",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "systematic testing",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6221",
+      "concept_tag": "trade-off analysis",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.853165,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of precision",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "esco_label": "computational biology",
+      "confidence": 0.853165,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.751481,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.751481,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of precision",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.751481,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.745143,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.745143,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.745143,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "computational thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.614811,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.614811,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 10
+  }
+}

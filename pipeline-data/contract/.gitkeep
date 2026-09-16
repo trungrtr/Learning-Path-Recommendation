@@ -1,0 +1,10 @@
+# Data contract — điểm giao duy nhất với esco-skill-mapping
+#
+# Format: 4 file JSON/học phần
+#   <ma_hoc_phan>__hoc_phan.json
+#   <ma_hoc_phan>__muc_tieu.json
+#   <ma_hoc_phan>__clo.json
+#   <ma_hoc_phan>__bai_hoc.json
+#
+# Chỉ pipeline/m3/export_for_skill_mapping.py được ghi vào đây.
+# Chỉ esco-skill-mapping/pipeline/ingestion/load_course_entities.py được đọc.

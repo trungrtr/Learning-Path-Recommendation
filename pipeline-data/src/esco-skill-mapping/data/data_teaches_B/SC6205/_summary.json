@@ -1,0 +1,285 @@
+{
+  "course_code": "SC6205",
+  "course_title": "Data Structures and Algorithms",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 24,
+    "skill_count": 15,
+    "knowledge_count": 9,
+    "tier_distribution": {
+      "PRIMARY": 24,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "establish data processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec",
+      "confidence": 0.760419926812532,
+      "cross_encoder_score": 0.9812449216842651,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly covers algorithmic manipulation processes and data structures, which are fundamental to applying algorithmic processes to create information."
+    },
+    {
+      "preferred_label": "collect ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "confidence": 0.7506855912889503,
+      "cross_encoder_score": 0.9871686697006226,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers search algorithms for data structures, but does not cover the design and application of data sampling or collection methods."
+    },
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.7637602803007708,
+      "cross_encoder_score": 0.9721314907073975,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course teaches data processing techniques through the implementation of data structures and algorithms, though it does not explicitly cover statistical diagrams."
+    },
+    {
+      "preferred_label": "deliver visual presentation of data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "confidence": 0.747592816672863,
+      "cross_encoder_score": 0.9845594763755798,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of creating visual representations or charts for data in the course content."
+    },
+    {
+      "preferred_label": "create data sets",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "confidence": 0.7539272850239369,
+      "cross_encoder_score": 0.9852044582366943,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers linear lists, vectors, and trees, which are fundamental ways to create and manipulate collections of data elements as units."
+    },
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7510018362682511,
+      "cross_encoder_score": 0.9864169359207153,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on data structures in memory rather than database design models or database software tools."
+    },
+    {
+      "preferred_label": "integrate ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "confidence": 0.7467069790187295,
+      "cross_encoder_score": 0.9767852425575256,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course does not cover the integration of data from multiple sources."
+    },
+    {
+      "preferred_label": "process data",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "confidence": 0.7405732238108194,
+      "cross_encoder_score": 0.9785239696502686,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on algorithmic processing of data structures, not on data entry into storage/retrieval systems."
+    },
+    {
+      "preferred_label": "analyse big data",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "confidence": 0.7357618106289017,
+      "cross_encoder_score": 0.9698965549468994,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers algorithm analysis, but not the specific domain of big data analytics or pattern identification in large datasets."
+    },
+    {
+      "preferred_label": "manage standards for data exchange",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "confidence": 0.7193057757801894,
+      "cross_encoder_score": 0.9337460398674011,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course does not cover data exchange standards or schema transformation."
+    },
+    {
+      "preferred_label": "manage findable accessible interoperable and reusable data",
+      "esco_uri": "http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11",
+      "confidence": 0.7324521639391075,
+      "cross_encoder_score": 0.9623240828514099,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on fundamental data structures and algorithms, not on FAIR data management principles."
+    },
+    {
+      "preferred_label": "perform data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "confidence": 0.7320480489532379,
+      "cross_encoder_score": 0.973578929901123,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers basic searching and sorting, but does not include data mining techniques or large dataset analysis."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.731775216216664,
+      "cross_encoder_score": 0.9693987965583801,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers data structures in memory, not database schema design or RDBMS."
+    },
+    {
+      "preferred_label": "use databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "confidence": 0.7294822773531363,
+      "cross_encoder_score": 0.9660788178443909,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course does not cover database management software or query languages."
+    },
+    {
+      "preferred_label": "define database physical structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "confidence": 0.664401253680401,
+      "cross_encoder_score": 0.8460817933082581,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on abstract data structures rather than physical database configuration or data dictionaries."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7813276325066043,
+      "cross_encoder_score": 0.9877099990844727,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly teaches data structures (linear lists, trees) and methods for selecting/constructing them to represent data."
+    },
+    {
+      "preferred_label": "data warehouse",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "confidence": 0.7621650098257307,
+      "cross_encoder_score": 0.9819341897964478,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "Data warehousing is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "unstructured data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "confidence": 0.7597278822287818,
+      "cross_encoder_score": 0.9804110527038574,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on structured data types and algorithms, not unstructured data."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.7437741097115531,
+      "cross_encoder_score": 0.9332086443901062,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly covers algorithm design strategies, analysis, and evaluation."
+    },
+    {
+      "preferred_label": "information structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "confidence": 0.7424523892865327,
+      "cross_encoder_score": 0.973419725894928,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course teaches how to structure data using linear lists, trees, and vectors."
+    },
+    {
+      "preferred_label": "information categorisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "confidence": 0.7399501624964653,
+      "cross_encoder_score": 0.9758290648460388,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers data structures (linear lists, trees, binary trees) and methods for selecting/constructing them to organize data for specific problem-solving purposes."
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7547743338107753,
+      "cross_encoder_score": 0.9813324213027954,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on fundamental algorithms and data structures rather than large-scale data collection systems or data engineering infrastructure."
+    },
+    {
+      "preferred_label": "database development tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "confidence": 0.7387206040097889,
+      "cross_encoder_score": 0.9836102724075317,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers data structures in an algorithmic context, not database development tools, entity-relationship modeling, or physical database structure design."
+    },
+    {
+      "preferred_label": "data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "confidence": 0.7111787684908957,
+      "cross_encoder_score": 0.9398564696311951,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of data protection, privacy, ethics, or security regulations in the provided course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

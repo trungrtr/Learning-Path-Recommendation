@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+    "preferred_label": "systems theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6202_BS",
+    "course_title": "Kiến trúc máy tính"
+  },
+  "support_context": {
+    "support_concept_origin": "systems thinking; technological adaptability",
+    "evidence_text": "Enhance the spirit of self-study, proactively update knowledge of new hardware technologies, and maintain responsibility for adhering to the principles of safe and efficient computer system design"
+  },
+  "scoring": {
+    "final_score": 0.755147,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Computer architecture provides a concrete example of complex system design, including hierarchical structures, feedback loops, and component interaction, which are core concepts in systems theory.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

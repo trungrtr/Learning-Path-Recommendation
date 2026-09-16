@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+    "preferred_label": "data science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6042_BS",
+    "course_title": "Xác suất thống kê"
+  },
+  "support_context": {
+    "support_concept_origin": "data literacy; evidence-based decision making",
+    "evidence_text": "Proficiently solve problems of parameter estimation and statistical hypothesis testing, while applying data collection, processing, and analysis skills for decision-making"
+  },
+  "scoring": {
+    "final_score": 0.676498,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Probability and statistics are the core theoretical foundations of data science, essential for understanding machine learning algorithms and data-driven decision-making.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

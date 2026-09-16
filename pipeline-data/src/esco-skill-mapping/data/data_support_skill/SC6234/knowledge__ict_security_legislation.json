@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+    "preferred_label": "ICT security legislation",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6234",
+    "course_title": "Cyber security"
+  },
+  "support_context": {
+    "support_concept_origin": "adversarial thinking; critical evaluation of complex systems; regulatory compliance awareness",
+    "evidence_text": "Additionally, the course equips students with knowledge of certain provisions of the cybersecurity law and the ACM software engineering code of ethics"
+  },
+  "scoring": {
+    "final_score": 0.659132,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly includes the study of cybersecurity law and legal principles related to system security and professional responsibilities.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

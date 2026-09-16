@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+    "preferred_label": "KDevelop",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6213",
+    "course_title": "Advanced Java Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of technology stacks; debugging and troubleshooting methodology; software lifecycle awareness",
+    "evidence_text": "Implement software according to design and meet practical requirements"
+  },
+  "scoring": {
+    "final_score": 0.587971,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Proficiency in Java development environments is a prerequisite for the practical tasks in this course, supporting the use of IDEs like KDevelop.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

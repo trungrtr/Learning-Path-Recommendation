@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6219",
+  "course_title": "Mobile application development",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 14,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 23,
+      "SECONDARY": 6,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.7509529256513396,
+      "cross_encoder_score": 0.988705575466156,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content explicitly includes 'UI design and event handling' and 'App UI Development Practice'."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7398843188597113,
+      "cross_encoder_score": 0.9828994274139404,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers 'UI design', 'Event Handling', and 'Working with Menus and Intents', which involve programming application interfaces."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.7436347752968828,
+      "cross_encoder_score": 0.9788715243339539,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on application-level development for Android, not low-level device driver development."
+    },
+    {
+      "preferred_label": "use an application-specific interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+      "confidence": 0.7187077120790026,
+      "cross_encoder_score": 0.973793089389801,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course teaches the use of Android-specific interfaces, components, and tools for mobile application development."
+    },
+    {
+      "preferred_label": "create prototype of user experience solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "confidence": 0.7247991970528068,
+      "cross_encoder_score": 0.9826433062553406,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While UI design is covered, there is no explicit mention of creating prototypes or mock-ups for UX testing."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.7122624077741558,
+      "cross_encoder_score": 0.9645185470581055,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course includes 'Data and database operations', 'File Data Storage', and 'SQLite Database Interaction', which are core to data processing applications."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.6917346043107163,
+      "cross_encoder_score": 0.9242761135101318,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course objectives include applying a systems approach to deploy software solutions, which involves organizing software design."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.6864562132531143,
+      "cross_encoder_score": 0.9194459915161133,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers UI event handling but does not address multi-turn conversation or multi-modal interaction models."
+    },
+    {
+      "preferred_label": "design database backup specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "confidence": 0.6894962508932913,
+      "cross_encoder_score": 0.9327073097229004,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers database interaction but does not mention backup specifications or data restoration procedures."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.6312980237722218,
+      "cross_encoder_score": 0.8400070071220398,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not explicitly mention the study or application of formal software design patterns."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6281811669251715,
+      "cross_encoder_score": 0.8391895890235901,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "While Android development typically uses object-oriented languages, the course content does not explicitly mention teaching object-oriented programming concepts."
+    },
+    {
+      "preferred_label": "utilise computer-aided software engineering tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "confidence": 0.6270633336301508,
+      "cross_encoder_score": 0.831047773361206,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course mentions UI design and development tools, but does not explicitly cover CASE tools for the software development lifecycle."
+    },
+    {
+      "preferred_label": "maintain responsive design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "confidence": 0.5965261534902118,
+      "cross_encoder_score": 0.7863336801528931,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers UI design for Android, but does not explicitly address responsive design principles for multi-platform compatibility."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.5853537108411871,
+      "cross_encoder_score": 0.7853397130966187,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "There is no mention of functional programming paradigms in the course content."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7726671958352493,
+      "cross_encoder_score": 0.9855847954750061,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers UI design and event handling, but does not explicitly teach formal software UI design patterns."
+    },
+    {
+      "preferred_label": "mobile device software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/b8c01891-e3df-4a4b-948d-95b45e1788f5",
+      "confidence": 0.7617061954891499,
+      "cross_encoder_score": 0.9809561371803284,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly focuses on mobile programming on the Android platform, which is a mobile device software framework."
+    },
+    {
+      "preferred_label": "mobile operating systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "confidence": 0.7552098399724099,
+      "cross_encoder_score": 0.9808828234672546,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content explicitly mentions providing fundamental knowledge of mobile programming on the Android operating system."
+    },
+    {
+      "preferred_label": "mobile device management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cf532795-a1fd-43bd-8407-6e43f877e6e3",
+      "confidence": 0.747080928439188,
+      "cross_encoder_score": 0.9796404242515564,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on application development, not the management of mobile devices within an organization."
+    },
+    {
+      "preferred_label": "Android (mobile operating systems)",
+      "esco_uri": "http://data.europa.eu/esco/skill/d8829a1d-dbde-435b-b921-29d6462f35c9",
+      "confidence": 0.7464813427512137,
+      "cross_encoder_score": 0.9656991958618164,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content explicitly states it is designed to provide knowledge of mobile programming on the Android operating system."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7209658738695417,
+      "cross_encoder_score": 0.9753795862197876,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content does not mention specific software design methodologies like Scrum or Waterfall."
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.7347249418077689,
+      "cross_encoder_score": 0.9830530285835266,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content explicitly includes 'UI design and event handling' and 'App UI Development Practice', which cover the methodologies for designing user-software interaction."
+    },
+    {
+      "preferred_label": "augmented reality",
+      "esco_uri": "http://data.europa.eu/esco/skill/abdc7ac8-151f-40c6-bc1a-1e9b4b073290",
+      "confidence": 0.7202960006921746,
+      "cross_encoder_score": 0.9544275403022766,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "There is no mention of augmented reality or 3D object integration in the course content."
+    },
+    {
+      "preferred_label": "human-computer interaction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9136cbf1-7916-4f1c-bc9a-0318ee1d6016",
+      "confidence": 0.699036476448683,
+      "cross_encoder_score": 0.9469316601753235,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers UI design, event handling, and mobile programming, which are core components of human-computer interaction studies."
+    },
+    {
+      "preferred_label": "Rapid application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "confidence": 0.7103334770251781,
+      "cross_encoder_score": 0.9548925757408142,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on Android fundamentals and specific components rather than the Rapid Application Development (RAD) methodology."
+    },
+    {
+      "preferred_label": "iOS",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+      "confidence": 0.7095063457207755,
+      "cross_encoder_score": 0.9270583391189575,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course is explicitly focused on the Android operating system platform, not iOS."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.7048243041551058,
+      "cross_encoder_score": 0.9529788494110107,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not mention prototyping development models or methodologies."
+    },
+    {
+      "preferred_label": "BlackBerry",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba04b19b-0b18-4d5c-b799-4db31a98e58d",
+      "confidence": 0.6980545939564039,
+      "cross_encoder_score": 0.918240487575531,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course is explicitly focused on the Android operating system platform, not BlackBerry."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.6887090107601265,
+      "cross_encoder_score": 0.9287154078483582,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "There is no mention of software configuration management tools like Git or SVN in the provided content."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.5428479413062277,
+      "cross_encoder_score": 0.7224392890930176,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course mentions 'Apply interface building tools, programs, and create virtual machines', which implies the use of an IDE for Android development."
+    }
+  ],
+  "schema_version": "3.0"
+}

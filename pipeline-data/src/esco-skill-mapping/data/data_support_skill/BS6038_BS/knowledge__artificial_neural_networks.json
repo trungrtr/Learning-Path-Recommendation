@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+    "preferred_label": "artificial neural networks",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6038_BS",
+    "course_title": "Giải tích"
+  },
+  "support_context": {
+    "support_concept_origin": "algorithmic thinking; persistence in complex problem solving; quantitative literacy",
+    "evidence_text": "Develops analytical thinking, computational skills, and the ability to solve practical problems in engineering such as optimization, work computation, force analysis, and multivariable function analysis"
+  },
+  "scoring": {
+    "final_score": 0.603785,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Artificial neural networks are built upon mathematical foundations including derivatives (backpropagation) and optimization, which are core topics in calculus.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,351 @@
+{
+  "course_code": "BM6091_BS",
+  "course_title": "Quản lý dự án",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 30,
+    "skill_count": 20,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "perform project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "confidence": 0.8584908561302618,
+      "cross_encoder_score": 0.9978675842285156,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course explicitly covers project management, resource allocation, cost management, time/schedule management, and quality management."
+    },
+    {
+      "preferred_label": "perform resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "confidence": 0.8474454205205952,
+      "cross_encoder_score": 0.9927011728286743,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course includes lessons on resource allocation, budget estimation, and project cost management."
+    },
+    {
+      "preferred_label": "carry out project activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "confidence": 0.8445218829333996,
+      "cross_encoder_score": 0.9963377714157104,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While the course covers planning and management tools, it does not explicitly mention the execution or carrying out of project activities."
+    },
+    {
+      "preferred_label": "manage project information",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "confidence": 0.8421684698062322,
+      "cross_encoder_score": 0.9938329458236694,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "There is no mention of communication strategies or managing project information flow among stakeholders."
+    },
+    {
+      "preferred_label": "manage project changes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "confidence": 0.8467971289601754,
+      "cross_encoder_score": 0.9958963394165039,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content does not cover change management processes or updating documentation based on project changes."
+    },
+    {
+      "preferred_label": "maintain a central project repository",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "confidence": 0.8284566686435292,
+      "cross_encoder_score": 0.9935212731361389,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course does not address the maintenance of a central project repository or document management systems."
+    },
+    {
+      "preferred_label": "draft project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "confidence": 0.8297164720703831,
+      "cross_encoder_score": 0.9681748747825623,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course focuses on management tools and concepts rather than the specific task of drafting project documentation like charters or reports."
+    },
+    {
+      "preferred_label": "perform risk analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "confidence": 0.8187208434647917,
+      "cross_encoder_score": 0.9934656023979187,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "Risk analysis is not listed as a specific topic in the course content."
+    },
+    {
+      "preferred_label": "organise project meetings",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "confidence": 0.8309323373330477,
+      "cross_encoder_score": 0.9908480644226074,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course does not cover the logistics or facilitation of project meetings."
+    },
+    {
+      "preferred_label": "create project specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "confidence": 0.8213912445189977,
+      "cross_encoder_score": 0.9717126488685608,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers project analysis, scheduling, and the use of tools like network diagrams and GANTT charts to define project parameters."
+    },
+    {
+      "preferred_label": "manage ICT project",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "confidence": 0.8185584836649822,
+      "cross_encoder_score": 0.9794971942901611,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course covers general project management principles, tools, and methodologies, but does not specifically focus on ICT systems, services, or products."
+    },
+    {
+      "preferred_label": "design process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3",
+      "confidence": 0.7689212229634903,
+      "cross_encoder_score": 0.9760343432426453,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course includes content on project management models, network diagrams, and resource allocation, which involves identifying workflows and resource requirements."
+    },
+    {
+      "preferred_label": "provide cost benefit analysis reports",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "confidence": 0.7553427576268953,
+      "cross_encoder_score": 0.9918661713600159,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers project cost management and budget estimation, there is no explicit mention of performing cost-benefit analysis reports."
+    },
+    {
+      "preferred_label": "apply change management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "confidence": 0.76458557710664,
+      "cross_encoder_score": 0.9862444996833801,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content does not explicitly mention change management as a topic."
+    },
+    {
+      "preferred_label": "manage budgets",
+      "esco_uri": "http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea",
+      "confidence": 0.7442759731045009,
+      "cross_encoder_score": 0.9554334282875061,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course explicitly covers project cost management and concepts, functions, and characteristics of budget estimation."
+    },
+    {
+      "preferred_label": "plan product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "confidence": 0.744838357894406,
+      "cross_encoder_score": 0.9764427542686462,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on project management rather than product management or sales planning."
+    },
+    {
+      "preferred_label": "coordinate technological activities",
+      "esco_uri": "http://data.europa.eu/esco/skill/af607e5e-4ba1-4e5f-a2a6-dc05806567c7",
+      "confidence": 0.7525525527592523,
+      "cross_encoder_score": 0.9808140993118286,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers general project management roles and responsibilities, but does not specifically address the coordination of technological activities."
+    },
+    {
+      "preferred_label": "ensure proper document management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "confidence": 0.7474939146389679,
+      "cross_encoder_score": 0.9603798985481262,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "Document management is not listed as a specific topic in the course content."
+    },
+    {
+      "preferred_label": "analyse pipeline database information",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "confidence": 0.734340723941233,
+      "cross_encoder_score": 0.956358015537262,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course does not cover pipeline database information or specific industry-related data analysis."
+    },
+    {
+      "preferred_label": "manage standard enterprise resource planning system",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "confidence": 0.733997680381169,
+      "cross_encoder_score": 0.946115255355835,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers project management tools but does not teach the use of specific enterprise resource planning (ERP) software systems."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "confidence": 0.8545567413316518,
+      "cross_encoder_score": 0.992440938949585,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course explicitly covers project management, including time, resources, scheduling, and management methodologies."
+    },
+    {
+      "preferred_label": "project configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "confidence": 0.8537866737043914,
+      "cross_encoder_score": 0.9927543997764587,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course content does not mention configuration management, version control, or project repository maintenance."
+    },
+    {
+      "preferred_label": "ICT project management methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "confidence": 0.846886833846932,
+      "cross_encoder_score": 0.9922400712966919,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course covers general project management models but does not explicitly teach ICT-specific methodologies like Waterfall, Scrum, or Agile."
+    },
+    {
+      "preferred_label": "lean project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "confidence": 0.8508051043323327,
+      "cross_encoder_score": 0.9914669990539551,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "Lean project management is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "Agile project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "confidence": 0.8356487095115896,
+      "cross_encoder_score": 0.9887972474098206,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "Agile project management is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "Process-based management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "confidence": 0.8337592830194751,
+      "cross_encoder_score": 0.990872859954834,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers general project management models, but does not specifically teach process-based management as an ICT methodology."
+    },
+    {
+      "preferred_label": "ICT project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "confidence": 0.8287186210402671,
+      "cross_encoder_score": 0.9908722043037415,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers general project management, not specifically ICT-related projects."
+    },
+    {
+      "preferred_label": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "confidence": 0.7543186818311282,
+      "cross_encoder_score": 0.9468052387237549,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course explicitly includes 'Project cost management' and 'budget estimation' in its lessons."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.6452132068833912,
+      "cross_encoder_score": 0.8266614079475403,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "Product data management is not covered in the course content."
+    },
+    {
+      "preferred_label": "engineering processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+      "confidence": 0.603996723612048,
+      "cross_encoder_score": 0.7763413786888123,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on project management rather than the systematic development and maintenance of engineering systems."
+    }
+  ],
+  "schema_version": "3.0"
+}

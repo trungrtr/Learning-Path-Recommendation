@@ -1,0 +1,219 @@
+{
+  "course_code": "SC6223",
+  "course_title": "Discrete Mathematics",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 18,
+    "skill_count": 3,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 18,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7537967389710969,
+      "cross_encoder_score": 0.9894130825996399,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers propositional logic, combinatorics, and graph theory, which involve performing mathematical analyses and solving specific problems."
+    },
+    {
+      "preferred_label": "deliver visual presentation of data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "confidence": 0.7167524439672156,
+      "cross_encoder_score": 0.9675456285476685,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not mention creating visual representations or charts for data presentation."
+    },
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.6499050155814411,
+      "cross_encoder_score": 0.8637880086898804,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on mathematical theory and algorithms rather than data processing, storage, or statistical diagramming."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.7453188276007816,
+      "cross_encoder_score": 0.971780002117157,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course teaches graph theory and logic, which are fundamental methods for creating mathematical representations of real-world problems."
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7377602693522101,
+      "cross_encoder_score": 0.9770763516426086,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on discrete structures and logic rather than statistical analysis or quantitative measurement of reality."
+    },
+    {
+      "preferred_label": "principles of artificial intelligence",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "confidence": 0.7366809385128494,
+      "cross_encoder_score": 0.9807220697402954,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "While the course is a foundation for AI, it does not explicitly teach AI theories, architectures, or principles."
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7276780498578456,
+      "cross_encoder_score": 0.979530930519104,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers relations and their properties, which are fundamental techniques for structuring data elements and defining relationships."
+    },
+    {
+      "preferred_label": "artificial neural networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "confidence": 0.7275128326724393,
+      "cross_encoder_score": 0.9722713828086853,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not include artificial neural networks."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.7227279713904173,
+      "cross_encoder_score": 0.9443163871765137,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly mentions applying algorithms to practical problems and covers specific algorithmic topics like shortest paths and tree traversals."
+    },
+    {
+      "preferred_label": "information structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "confidence": 0.7058218226966843,
+      "cross_encoder_score": 0.9575300812721252,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on mathematical structures (graphs, trees, relations) rather than data infrastructure formats like semi-structured or unstructured data."
+    },
+    {
+      "preferred_label": "information categorisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "confidence": 0.7095040810852573,
+      "cross_encoder_score": 0.9543183445930481,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers relations, closures, and equivalence relations, which are fundamental methods for classifying information and defining relationships between data."
+    },
+    {
+      "preferred_label": "task algorithmisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "confidence": 0.6884027813699041,
+      "cross_encoder_score": 0.8942940831184387,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course explicitly mentions understanding and applying algorithms to practical problems, which involves converting processes into step-by-step sequences."
+    },
+    {
+      "preferred_label": "computer simulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "confidence": 0.6879222076187795,
+      "cross_encoder_score": 0.9218968749046326,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on mathematical theory and algorithms rather than the use of computer programs to simulate dynamic system responses."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.6958784028164449,
+      "cross_encoder_score": 0.9464067816734314,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers discrete mathematical foundations but does not address ICT architectural frameworks or system design requirements."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.6691938938943851,
+      "cross_encoder_score": 0.8986744284629822,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While the course covers relations and structures, it does not teach the methods for generating, storing, or maintaining information architecture in an ICT context."
+    },
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.679332322952755,
+      "cross_encoder_score": 0.9153760075569153,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not include object-oriented programming concepts such as classes, objects, or interfaces."
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "confidence": 0.6426375688559064,
+      "cross_encoder_score": 0.849497377872467,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers graph theory and logic, but does not explicitly teach systems theory regarding internal organization or adaptation mechanisms."
+    },
+    {
+      "preferred_label": "ICT network simulation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "confidence": 0.644845200968193,
+      "cross_encoder_score": 0.8725258111953735,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers graph theory, which is used in network modeling, but does not teach specific ICT network simulation methods or tools."
+    }
+  ],
+  "schema_version": "3.0"
+}

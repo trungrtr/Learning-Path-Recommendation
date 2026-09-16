@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+    "preferred_label": "software design methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6262",
+    "course_title": "Advanced PHP Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability to new technologies; system design",
+    "evidence_text": "Proficiently apply OOP principles and the MVC pattern to analyze, design, and develop applications"
+  },
+  "scoring": {
+    "final_score": 0.594438,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches the MVC (Model-View-Controller) pattern, which is a fundamental software design methodology for web applications.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,257 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+    "preferred_label": "algorithms",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6019",
+    "course_title": "Machine Learning",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7440505314127135,
+    "cross_encoder_score": 0.9774338603019714,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly mentions teaching fundamental machine learning algorithms and techniques."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The course provides students with fundamental machine learning methods, including algorithms, techniques, and implementations. On this basis, students can design learning systems and conduct deeper research into specific problems such as diagnosis and forecasting. Upon completion of this course, students will be able to experiment with several basic machine learning algorithms and design a suitable learning system for a given problem.",
+      "meta": {
+        "matched_mention": "machine learning methods"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Foundational knowledge of fundamental and modern machine learning algorithms and models.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "machine learning algorithms"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Skills in data analysis, selecting, and applying appropriate machine learning models to solve real-world problems.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "machine learning models"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Ability to self-study, research documentation, and update new technologies in the field of artificial intelligence and machine learning.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "artificial intelligence"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Deploy software solutions meeting given computing requirements using machine learning tools and techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "I",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "machine learning tools"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Evaluate software solutions meeting given computing requirements using machine learning techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 5.3"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "machine learning techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply software development processes to build computer-based machine learning solutions.",
+      "meta": {
+        "pi_so": [
+          "PI 6.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "machine learning solutions"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L4",
+      "text": "Apply machine learning theory in creating computer-based solutions.",
+      "meta": {
+        "pi_so": [
+          "PI 6."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "machine learning theory"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Introduction to Machine Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Machine Learning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Unsupervised Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Unsupervised Learning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Deep Learning Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Deep Learning Models"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "Other Machine Learning Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Machine Learning Models"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Building Machine Learning Applications",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1L2L3L4"
+        ],
+        "matched_mention": "Machine Learning Applications"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Experiments on Unsupervised Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Unsupervised Learning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Experiments on Deep Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Deep Learning"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Experiments on Other Machine Learning Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "Machine Learning Models"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 6,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

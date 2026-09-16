@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+    "preferred_label": "levels of software testing",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6232",
+    "course_title": "Embedded Programming and IoT"
+  },
+  "support_context": {
+    "support_concept_origin": "hardware-software integration; iterative design process; risk assessment",
+    "evidence_text": "Course: Embedded Programming and IoT"
+  },
+  "scoring": {
+    "final_score": 0.518979,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Deploying embedded systems requires testing at various levels, including hardware-in-the-loop and integration testing.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,211 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+    "preferred_label": "process data",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6205",
+    "course_title": "Data Structures and Algorithms",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7405732238108194,
+    "cross_encoder_score": 0.9785239696502686,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on algorithmic processing of data structures, not on data entry into storage/retrieval systems."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with foundational knowledge of data structures (linear lists, trees, binary trees, etc.), algorithms (sorting, searching, etc.), algorithm design strategies (recursion, greedy algorithms, divide and conquer, etc.), and methods for selecting and constructing data structures for specific problems, thereby serving as a basis for selecting and developing corresponding algorithms to solve problems.",
+      "meta": {
+        "matched_mention": "data structures"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "The course provides knowledge of data structures, algorithms, analysis, algorithmic evaluation, and the application of algorithmic design strategies; the ability to select and apply appropriate data structures and algorithms to specific problems.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "data structures"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Explain the concepts of data structures and algorithms, analysis and evaluation of algorithms, and algorithmic design strategies such as recursion, divide and conquer, and greedy algorithms.",
+      "meta": {
+        "pi_so": [
+          "PI1.2",
+          "PI2.1",
+          "PI2.3",
+          "PI1.3"
+        ],
+        "muc_do": "I",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "data structures"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Implement several fundamental data structures and algorithms.",
+      "meta": {
+        "pi_so": [
+          "PI1.2",
+          "PI2.1",
+          "PI2.3",
+          "PI4.1",
+          "PI4.2",
+          "PI4.3",
+          "PI5.1",
+          "PI5.2",
+          "PI8.1"
+        ],
+        "muc_do": "ITU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "fundamental data structures"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Select and apply data structures and algorithms to specific problems.",
+      "meta": {
+        "pi_so": [
+          "PI1.2",
+          "PI2.1",
+          "PI2.3",
+          "PI1.3",
+          "PI5.1",
+          "PI5.2",
+          "PI6.1",
+          "PI6.2",
+          "PI8.1"
+        ],
+        "muc_do": "IU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "data structures"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Data Structures and Algorithms",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Data Structures"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Searching and Sorting Methods",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Sorting Methods"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Basic Sorting Algorithms",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Basic Sorting Algorithms"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Vector Data Structure",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2L3"
+        ],
+        "matched_mention": "Vector Data Structure"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "List Data Structure",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2L3"
+        ],
+        "matched_mention": "List Data Structure"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Binary Tree Data Structure",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2L3"
+        ],
+        "matched_mention": "Binary Tree Data Structure"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 10,
+      "dense_rank": 27,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

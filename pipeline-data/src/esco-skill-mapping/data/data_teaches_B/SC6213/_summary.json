@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6213",
+  "course_title": "Advanced Java Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 14,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 24,
+      "SECONDARY": 5,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7247783514367737,
+      "cross_encoder_score": 0.9697666764259338,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on database connectivity (JPA/Hibernate) rather than the creation of database diagrams or modeling."
+    },
+    {
+      "preferred_label": "use scripting programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "confidence": 0.7212470513909184,
+      "cross_encoder_score": 0.9679827094078064,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on Java, a compiled language, rather than scripting languages like Python, Ruby, or Shell scripts."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.7050393090528817,
+      "cross_encoder_score": 0.9415176510810852,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly covers advanced graphical user interface programming (Swing, JavaFX) and Spring Web programming."
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.7125753087891269,
+      "cross_encoder_score": 0.9560951590538025,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "There is no mention of writing documentation specifically for databases in the course content."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.7102758270661145,
+      "cross_encoder_score": 0.951651394367218,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers database connectivity (JPA/Hibernate) but does not explicitly teach the design of database schemas."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6939711857099482,
+      "cross_encoder_score": 0.8948164582252502,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course is an Advanced Java Programming course, which is inherently based on object-oriented programming."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6921932793791065,
+      "cross_encoder_score": 0.8987327814102173,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content does not mention functional programming paradigms."
+    },
+    {
+      "preferred_label": "manage database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "confidence": 0.6768186819282667,
+      "cross_encoder_score": 0.9072409868240356,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers database connectivity using JPA, Hibernate, and HQL, which involves managing database interactions."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.6834132891820575,
+      "cross_encoder_score": 0.9016599655151367,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course does not cover logic programming languages or paradigms."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.6793773267654151,
+      "cross_encoder_score": 0.9101759195327759,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on manual programming and framework usage rather than automatic code generation from specifications."
+    },
+    {
+      "preferred_label": "design database in the cloud",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "confidence": 0.6597097107375126,
+      "cross_encoder_score": 0.8764350414276123,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers database connectivity (JPA/Hibernate) but does not explicitly cover cloud-based database design or distributed database architecture."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.6421112940164655,
+      "cross_encoder_score": 0.8376390337944031,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly includes a learning outcome to 'Apply modern techniques and technologies to design software solutions for specific problems'."
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.6570015504976799,
+      "cross_encoder_score": 0.8732060194015503,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers GUI programming (Swing/JavaFX) and Spring Web, but does not focus on front-end website design or layout development."
+    },
+    {
+      "preferred_label": "develop data processing applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "confidence": 0.6374196338535589,
+      "cross_encoder_score": 0.8514212965965271,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers database connectivity and modern Java frameworks to solve practical problems, which aligns with developing data processing applications."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.725024160872703,
+      "cross_encoder_score": 0.961409866809845,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course includes Spring Web/WebFlux programming, which is a core component of web programming."
+    },
+    {
+      "preferred_label": "SPARK",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "confidence": 0.7294806792330837,
+      "cross_encoder_score": 0.945705771446228,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers Spring and Quarkus frameworks, but does not mention the SPARK micro framework."
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "confidence": 0.7164701273414877,
+      "cross_encoder_score": 0.9516568779945374,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course is titled 'Advanced Java Programming' and focuses on advanced Java techniques, frameworks, and implementation."
+    },
+    {
+      "preferred_label": "IBM WebSphere",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "confidence": 0.7057139229108541,
+      "cross_encoder_score": 0.9470763802528381,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not mention IBM WebSphere."
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.7051438338754501,
+      "cross_encoder_score": 0.9436793327331543,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not mention Oracle WebLogic."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.6895871888186846,
+      "cross_encoder_score": 0.9196714162826538,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course includes network programming (sockets) and multithreading, which are fundamental to ICT system programming."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.6856616744627305,
+      "cross_encoder_score": 0.8932865858078003,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly covers advanced Java programming, including coding, software design, and the use of frameworks like Spring and Quarkus."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.677525246923582,
+      "cross_encoder_score": 0.8770712018013,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content explicitly mentions 'Spring Design Patterns' and 'Advanced Graphical User Interface Programming', which involve UI design principles."
+    },
+    {
+      "preferred_label": "OpenEdge Advanced Business Language",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "confidence": 0.6704393478783153,
+      "cross_encoder_score": 0.8945857286453247,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not OpenEdge Advanced Business Language."
+    },
+    {
+      "preferred_label": "Visual Basic",
+      "esco_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "confidence": 0.631950047498921,
+      "cross_encoder_score": 0.8442005515098572,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not Visual Basic."
+    },
+    {
+      "preferred_label": "Lisp",
+      "esco_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "confidence": 0.6054370664593529,
+      "cross_encoder_score": 0.8013483881950378,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not Lisp."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.5828830065410072,
+      "cross_encoder_score": 0.7591006755828857,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While the course covers software design, it does not explicitly mention teaching specific methodologies like Scrum, V-model, or Waterfall."
+    },
+    {
+      "preferred_label": "ABAP",
+      "esco_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "confidence": 0.578472233926956,
+      "cross_encoder_score": 0.7630749344825745,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not ABAP."
+    },
+    {
+      "preferred_label": "APL",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "confidence": 0.5882639868461952,
+      "cross_encoder_score": 0.7680299878120422,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not APL."
+    },
+    {
+      "preferred_label": "R",
+      "esco_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "confidence": 0.5749142268672321,
+      "cross_encoder_score": 0.7629244923591614,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on Java and its associated frameworks, not R."
+    }
+  ],
+  "schema_version": "3.0"
+}

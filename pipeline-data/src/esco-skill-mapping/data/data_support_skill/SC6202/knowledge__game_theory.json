@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+    "preferred_label": "game theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6202",
+    "course_title": "Optimization"
+  },
+  "support_context": {
+    "support_concept_origin": "problem decomposition; quantitative reasoning; strategic planning",
+    "evidence_text": "Proactively form ideas, design optimization models, and make decisions based on quantitative analysis, selecting solution methods, and evaluating results"
+  },
+  "scoring": {
+    "final_score": 0.686285,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Game theory relies heavily on optimization techniques to find equilibria, making the course a strong mathematical foundation for this skill.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

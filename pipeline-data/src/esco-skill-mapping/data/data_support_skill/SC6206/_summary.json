@@ -1,0 +1,48 @@
+{
+  "course_code": "SC6206",
+  "course_title": "Database",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 0,
+    "knowledge_count": 5
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.8423,
+      "support_concept_origin": "data modeling mindset; information architecture",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "final_score": 0.7997,
+      "support_concept_origin": "collaborative problem solving; data modeling mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "final_score": 0.7503,
+      "support_concept_origin": "collaborative problem solving; data modeling mindset",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "final_score": 0.6817,
+      "support_concept_origin": "information architecture",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "final_score": 0.6542,
+      "support_concept_origin": "abstract thinking; attention to detail",
+      "review_status": "accepted"
+    }
+  ]
+}

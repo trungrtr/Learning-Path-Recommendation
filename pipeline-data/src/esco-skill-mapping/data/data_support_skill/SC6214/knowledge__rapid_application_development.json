@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+    "preferred_label": "Rapid application development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6214",
+    "course_title": "Web Programming in ASP.NET"
+  },
+  "support_context": {
+    "support_concept_origin": "architectural design patterns; debugging and troubleshooting methodology; project planning",
+    "evidence_text": "Program complex business logic, control input data validation, and handle exceptions effectively"
+  },
+  "scoring": {
+    "final_score": 0.690038,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses on building functional web applications from requirements to deployment, which aligns with the principles of rapid application development.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

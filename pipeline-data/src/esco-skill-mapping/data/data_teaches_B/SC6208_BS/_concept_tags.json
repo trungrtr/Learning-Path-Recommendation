@@ -1,0 +1,850 @@
+{
+  "course_code": "SC6208_BS",
+  "concept_tags": [
+    {
+      "text": "algorithmic flowchart design",
+      "normalized": "algorithmic flowchart design"
+    },
+    {
+      "text": "programming languages",
+      "normalized": "programming languages"
+    },
+    {
+      "text": "basic data types",
+      "normalized": "basic data types"
+    },
+    {
+      "text": "basic statements",
+      "normalized": "basic statements"
+    },
+    {
+      "text": "control structures",
+      "normalized": "control structures"
+    },
+    {
+      "text": "modular programming",
+      "normalized": "modular programming"
+    },
+    {
+      "text": "basic data structures",
+      "normalized": "basic data structures"
+    },
+    {
+      "text": "application programming",
+      "normalized": "application programming"
+    },
+    {
+      "text": "logical thinking",
+      "normalized": "logical thinking"
+    },
+    {
+      "text": "programming skills",
+      "normalized": "programming skills"
+    },
+    {
+      "text": "problem analysis",
+      "normalized": "problem analysis"
+    },
+    {
+      "text": "problem-solving abilities",
+      "normalized": "problem-solving abilities"
+    },
+    {
+      "text": "programming techniques",
+      "normalized": "programming techniques"
+    },
+    {
+      "text": "algorithm flowchart design",
+      "normalized": "algorithm flowchart design"
+    },
+    {
+      "text": "data types",
+      "normalized": "data types"
+    },
+    {
+      "text": "functions",
+      "normalized": "functions"
+    },
+    {
+      "text": "arrays",
+      "normalized": "arrays"
+    },
+    {
+      "text": "strings",
+      "normalized": "strings"
+    },
+    {
+      "text": "pointers",
+      "normalized": "pointers"
+    },
+    {
+      "text": "file operations",
+      "normalized": "file operations"
+    },
+    {
+      "text": "files",
+      "normalized": "files"
+    },
+    {
+      "text": "logical analysis",
+      "normalized": "logical analysis"
+    },
+    {
+      "text": "programming fundamentals",
+      "normalized": "programming fundamentals"
+    },
+    {
+      "text": "string processing",
+      "normalized": "string processing"
+    },
+    {
+      "text": "file handling techniques",
+      "normalized": "file handling techniques"
+    },
+    {
+      "text": "variables",
+      "normalized": "variables"
+    },
+    {
+      "text": "expressions",
+      "normalized": "expressions"
+    },
+    {
+      "text": "input output",
+      "normalized": "input output"
+    },
+    {
+      "text": "array processing techniques",
+      "normalized": "array processing techniques"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "algorithmic flowchart design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "programming languages",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "basic data types",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "basic statements",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "control structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN",
+        "SC6208_BS_CLO_CLO1",
+        "SC6208_BS_BAIHOC_L02",
+        "SC6208_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "modular programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "basic data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "application programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "logical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MOTA_MAIN",
+        "SC6208_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "programming skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "problem analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "problem-solving abilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_MUCTIEU_G2",
+        "SC6208_BS_MUCTIEU_G3",
+        "SC6208_BS_CLO_CLO2",
+        "SC6208_BS_BAIHOC_L03",
+        "SC6208_BS_BAIHOC_L04",
+        "SC6208_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "algorithm flowchart design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "data types",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1",
+        "SC6208_BS_CLO_CLO2",
+        "SC6208_BS_BAIHOC_L03",
+        "SC6208_BS_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "arrays",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1",
+        "SC6208_BS_CLO_CLO2",
+        "SC6208_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "strings",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "pointers",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1",
+        "SC6208_BS_CLO_CLO2",
+        "SC6208_BS_BAIHOC_L05",
+        "SC6208_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "file operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO1"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "files",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "logical analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_CLO_CLO2"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "programming fundamentals",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "string processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L05",
+        "SC6208_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "file handling techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L05",
+        "SC6208_BS_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "variables",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "expressions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "input output",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6208_BS",
+      "concept_tag": "array processing techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6208_BS_BAIHOC_L09"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "modular programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm flowchart design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7133994172995507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6958886700376792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "strings",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6895837058800367,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data types",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_label": "use object-oriented programming",
+      "confidence": 0.6923836057979508,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file handling techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output",
+      "esco_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+      "esco_label": "use scripting programming",
+      "confidence": 0.6901017615415116,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modular programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithm flowchart design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "string processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_label": "use automatic programming",
+      "confidence": 0.6462915879714726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6598849441602543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6598849441602543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6598849441602543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6598849441602543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pointers",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.6598849441602543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pointers",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "file handling techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_label": "Python (computer programming)",
+      "confidence": 0.6076454453567314,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modular programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "programming fundamentals",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pointers",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "variables",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_label": "Pascal (computer programming)",
+      "confidence": 0.6015420778157001,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 29,
+    "total_has_concept_edges": 29,
+    "total_evidence_for_edges": 67
+  }
+}

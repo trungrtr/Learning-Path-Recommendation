@@ -1,0 +1,212 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+    "preferred_label": "study website behaviour patterns",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6224",
+    "course_title": "Web design",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6208734793628518,
+    "cross_encoder_score": 0.8106391429901123,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course does not cover tracking metrics or researching business results through website analytics."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides knowledge of HTML hyperText markup language, CSS, and Javascript used in web page design. Upon completion, learners can design and build web page interfaces, and create interactions and effects on web pages.",
+      "meta": {
+        "matched_mention": "web page design"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Equips learners with foundational knowledge of website design and development, along with web interface design principles.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "website design"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Learners apply foundational knowledge of HTML, CSS, and JavaScript languages to design and build web page interfaces.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "web page interfaces"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply basic knowledge of HTML, CSS, and Javascript to web page design.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1",
+          "PI 6.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "web page design"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Determine requirements when designing website interfaces.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1",
+          "PI 6.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "website interface requirements"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Identify errors arising in web page design.",
+      "meta": {
+        "pi_so": [
+          "null"
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "web page design errors"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L4",
+      "text": "Propose solutions to handle errors arising during web page design.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1; PI 6.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "web page design"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L5",
+      "text": "Apply knowledge to design practical website interfaces.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1; PI 6.1; PI 5.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "website interface design"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Basic HTML elements, embedding",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 ;L2;L5"
+        ],
+        "matched_mention": "Basic HTML elements"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Tags for inserting images, hyperlinks, and forms",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 ;L2;L5"
+        ],
+        "matched_mention": "HTML tags"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "JavaScript basics",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "matched_mention": "JavaScript basics"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Arrays and strings in JavaScript",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L3",
+          "L4",
+          "L5"
+        ],
+        "matched_mention": "JavaScript arrays"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 4,
+      "dense_rank": 10,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

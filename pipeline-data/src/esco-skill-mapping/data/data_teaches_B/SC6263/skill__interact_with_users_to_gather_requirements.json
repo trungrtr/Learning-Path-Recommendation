@@ -1,0 +1,243 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+    "preferred_label": "interact with users to gather requirements",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6263",
+    "course_title": "Advanced Web Design",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.6352543600868966,
+    "cross_encoder_score": 0.8298155069351196,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "There is no mention of requirements gathering or user communication in the course content."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides knowledge about jQuery and Bootstrap technologies. Upon completion, learners will be able to build practical website interfaces.",
+      "meta": {
+        "matched_mention": "website interfaces"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Provides students with knowledge of jQuery and Bootstrap technologies",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "Bootstrap technologies"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Students are able to proficiently use jQuery and Bootstrap to design a website in practice",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "website design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply basic knowledge of jQuery and Bootstrap to design a webpage.",
+      "meta": {
+        "pi_so": [
+          "PI 5.1"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "Bootstrap"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "jQuery HTML Interaction",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "jQuery HTML interaction"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "jQuery HTML Interaction Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "jQuery HTML interaction"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Traversing HTML Documents with jQuery",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "traversing HTML documents"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "Traversing HTML Documents with jQuery Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1;L2"
+        ],
+        "matched_mention": "traversing HTML documents"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Integrating jQuery with Ajax",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "jQuery Ajax integration"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Integrating jQuery with Ajax Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1;L2"
+        ],
+        "matched_mention": "jQuery Ajax integration"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Introduction to Bootstrap",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Bootstrap framework"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Bootstrap Components",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Bootstrap components"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Bootstrap Components Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1;L2"
+        ],
+        "matched_mention": "Bootstrap components"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L14",
+      "text": "Bootstrap Forms",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Bootstrap forms"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "Bootstrap Forms Practice",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1;L2"
+        ],
+        "matched_mention": "Bootstrap forms"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": null,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

@@ -1,0 +1,1832 @@
+{
+  "course_code": "IT6202_BS",
+  "concept_tags": [
+    {
+      "text": "computer instruction set architecture",
+      "normalized": "computer instruction set architecture"
+    },
+    {
+      "text": "hardware systems",
+      "normalized": "hardware systems"
+    },
+    {
+      "text": "central processing units",
+      "normalized": "central processing units"
+    },
+    {
+      "text": "input output systems",
+      "normalized": "input output systems"
+    },
+    {
+      "text": "computer memory hierarchy",
+      "normalized": "computer memory hierarchy"
+    },
+    {
+      "text": "pipelining techniques",
+      "normalized": "pipelining techniques"
+    },
+    {
+      "text": "reduced instruction set computers",
+      "normalized": "reduced instruction set computers"
+    },
+    {
+      "text": "hardware component performance",
+      "normalized": "hardware component performance"
+    },
+    {
+      "text": "memory systems",
+      "normalized": "memory systems"
+    },
+    {
+      "text": "processing acceleration techniques",
+      "normalized": "processing acceleration techniques"
+    },
+    {
+      "text": "hardware technologies",
+      "normalized": "hardware technologies"
+    },
+    {
+      "text": "computer system design",
+      "normalized": "computer system design"
+    },
+    {
+      "text": "computer architecture",
+      "normalized": "computer architecture"
+    },
+    {
+      "text": "instruction set architecture",
+      "normalized": "instruction set architecture"
+    },
+    {
+      "text": "input/output systems",
+      "normalized": "input/output systems"
+    },
+    {
+      "text": "memory structures",
+      "normalized": "memory structures"
+    },
+    {
+      "text": "RISC technology",
+      "normalized": "risc technology"
+    },
+    {
+      "text": "bus operating principles",
+      "normalized": "bus operating principles"
+    },
+    {
+      "text": "memory system structures",
+      "normalized": "memory system structures"
+    },
+    {
+      "text": "bus systems",
+      "normalized": "bus systems"
+    },
+    {
+      "text": "memory system architecture",
+      "normalized": "memory system architecture"
+    },
+    {
+      "text": "pipelining",
+      "normalized": "pipelining"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "computer instruction set architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "hardware systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN",
+        "IT6202_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "central processing units",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "input output systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "computer memory hierarchy",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "pipelining techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN",
+        "IT6202_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "reduced instruction set computers",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "hardware component performance",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "memory systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "processing acceleration techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "hardware technologies",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "computer system design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "computer architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L1",
+        "IT6202_BS_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "instruction set architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L1",
+        "IT6202_BS_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "input/output systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L1",
+        "IT6202_BS_CLO_L2",
+        "IT6202_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "memory structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "risc technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L1",
+        "IT6202_BS_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "bus operating principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "memory system structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "bus systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "memory system architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6202_BS",
+      "concept_tag": "pipelining",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6202_BS_BAIHOC_L05"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "esco_label": "acquire system component",
+      "confidence": 0.7363497538345595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "esco_label": "integrate system components",
+      "confidence": 0.7347731733977447,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7260284422257456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.715109374716236,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "esco_label": "align software with system architectures",
+      "confidence": 0.707313808179027,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+      "esco_label": "administer ICT system",
+      "confidence": 0.7216226955073635,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.7022308238015859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7079123042927157,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7079123042927157,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7079123042927157,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7079123042927157,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "esco_label": "apply ICT systems theory",
+      "confidence": 0.7079123042927157,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "reduced instruction set computers",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "esco_label": "deploy ICT systems",
+      "confidence": 0.6926279418367409,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "esco_label": "use ICT hardware",
+      "confidence": 0.7030895220165537,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956",
+      "esco_label": "manage ICT data architecture",
+      "confidence": 0.6725215593457147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.6745812297175093,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+      "esco_label": "design cloud architecture",
+      "confidence": 0.6488251603031044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "esco_label": "define software architecture",
+      "confidence": 0.6321528821511121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "esco_label": "hardware architectures",
+      "confidence": 0.7489561687550315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+      "esco_label": "hardware components suppliers",
+      "confidence": 0.7321134657704566,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+      "esco_label": "hardware components suppliers",
+      "confidence": 0.7321134657704566,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+      "esco_label": "hardware components suppliers",
+      "confidence": 0.7321134657704566,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pipelining",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1fbdc3-1071-423c-9bb4-e3288ca6d1fe",
+      "esco_label": "hardware components suppliers",
+      "confidence": 0.7321134657704566,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.7318365106456242,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "esco_label": "embedded systems",
+      "confidence": 0.7175564554277686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "esco_label": "digital systems",
+      "confidence": 0.7205244543744355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+      "esco_label": "hardware components",
+      "confidence": 0.714792415703001,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "esco_label": "system design",
+      "confidence": 0.714788979690507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7141913844595424,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7161479156839252,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "esco_label": "ICT hardware specifications",
+      "confidence": 0.708007187414792,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/f88002a8-6355-4d33-9496-285c166ff375",
+      "esco_label": "ICT power consumption",
+      "confidence": 0.6922595562566374,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware component performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.6764296406353024,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "instruction set architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6708492425801416,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus operating principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory system architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "esco_label": "operating systems",
+      "confidence": 0.6616596559117676,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "memory systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hardware technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risc technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input/output systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "bus systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "pipelining",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "esco_label": "building systems monitoring technology",
+      "confidence": 0.6274164584761863,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 22,
+    "total_has_concept_edges": 22,
+    "total_evidence_for_edges": 221
+  }
+}

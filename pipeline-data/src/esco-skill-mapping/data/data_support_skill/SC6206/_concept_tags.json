@@ -1,0 +1,197 @@
+{
+  "course_code": "SC6206",
+  "concept_tags": [
+    {
+      "text": "logical reasoning",
+      "normalized": "logical reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic thinking",
+      "normalized": "systematic thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "foundational"
+    },
+    {
+      "text": "data modeling mindset",
+      "normalized": "data modeling mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "analytical skills",
+      "normalized": "analytical skills",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "information architecture",
+      "normalized": "information architecture",
+      "loai": "foundational"
+    },
+    {
+      "text": "process optimization",
+      "normalized": "process optimization",
+      "loai": "methodological"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional responsibility",
+      "normalized": "professional responsibility",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6206",
+      "concept_tag": "logical reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "systematic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "data modeling mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "analytical skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "information architecture",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "process optimization",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6206",
+      "concept_tag": "professional responsibility",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "data modeling mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.84228,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.84228,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.799653,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data modeling mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "esco_label": "data science",
+      "confidence": 0.799653,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.750257,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "data modeling mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.750257,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.681741,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.654223,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "attention to detail",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.654223,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 9
+  }
+}

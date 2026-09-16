@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6202",
+  "course_title": "Optimization",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 20,
+    "knowledge_count": 9,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "create solutions to problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "confidence": 0.7653844132267965,
+      "cross_encoder_score": 0.995612621307373,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly covers modeling real-world problems, analyzing results, and evaluating them for practical application."
+    },
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7637984203510505,
+      "cross_encoder_score": 0.9969171285629272,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on mathematical modeling, linear programming, and specific solution methods like the Simplex method."
+    },
+    {
+      "preferred_label": "develop strategy to solve problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "confidence": 0.7590884662592347,
+      "cross_encoder_score": 0.9955814480781555,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course objectives include proactively forming ideas, designing optimization models, and making decisions based on quantitative analysis."
+    },
+    {
+      "preferred_label": "optimise choice of ICT solution",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "confidence": 0.7437265674365994,
+      "cross_encoder_score": 0.9871876239776611,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content is focused on mathematical optimization theory and methods, not specifically on ICT solutions."
+    },
+    {
+      "preferred_label": "problem-solving with digital tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "confidence": 0.7572667495283213,
+      "cross_encoder_score": 0.9959293007850647,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "While the course involves problem-solving, there is no mention of using digital tools or software to solve these problems."
+    },
+    {
+      "preferred_label": "handle helpdesk problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "confidence": 0.750145221701324,
+      "cross_encoder_score": 0.9963079690933228,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not cover helpdesk operations or technical support troubleshooting."
+    },
+    {
+      "preferred_label": "improve business processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "confidence": 0.732487733995735,
+      "cross_encoder_score": 0.9914731979370117,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers transportation problems and general optimization, which are standard methods for improving business process efficiency."
+    },
+    {
+      "preferred_label": "address problems critically",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "confidence": 0.7418052456732849,
+      "cross_encoder_score": 0.9942898750305176,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course requires students to analyze, evaluate results, and select appropriate solution methods, which involves critical assessment of approaches."
+    },
+    {
+      "preferred_label": "troubleshoot",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "confidence": 0.7290963915270972,
+      "cross_encoder_score": 0.992965579032898,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "Troubleshooting is related to operational maintenance, whereas this course focuses on mathematical optimization modeling."
+    },
+    {
+      "preferred_label": "creatively use digital technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "confidence": 0.7375460926659838,
+      "cross_encoder_score": 0.992725133895874,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content does not mention the use of digital technologies or digital environments."
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.7238471804037283,
+      "cross_encoder_score": 0.9841014742851257,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on mathematical optimization models and algorithms, not on concurrent programming or parallel processing."
+    },
+    {
+      "preferred_label": "perform ICT troubleshooting",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "confidence": 0.7329780795779091,
+      "cross_encoder_score": 0.9799545407295227,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not cover ICT infrastructure maintenance or troubleshooting."
+    },
+    {
+      "preferred_label": "perform resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "confidence": 0.7292182227838514,
+      "cross_encoder_score": 0.9927432537078857,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course covers optimization, it focuses on mathematical modeling rather than project management or resource planning for project objectives."
+    },
+    {
+      "preferred_label": "manage data collection systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "confidence": 0.7266369522129568,
+      "cross_encoder_score": 0.9791676998138428,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover data collection systems or statistical data management strategies."
+    },
+    {
+      "preferred_label": "perform risk analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "confidence": 0.7247326502469282,
+      "cross_encoder_score": 0.9882259964942932,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content does not include project risk analysis or organizational threat assessment."
+    },
+    {
+      "preferred_label": "conduct search engine optimisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "confidence": 0.7238924503499721,
+      "cross_encoder_score": 0.985791802406311,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers mathematical optimization, not search engine marketing or online traffic optimization."
+    },
+    {
+      "preferred_label": "apply organisational techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "confidence": 0.7194729083301751,
+      "cross_encoder_score": 0.9762102365493774,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on mathematical modeling and optimization algorithms, not on organizational techniques like personnel scheduling."
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.6891011596250164,
+      "cross_encoder_score": 0.8913848400115967,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course content does not mention logic programming or the use of specific programming languages like Prolog."
+    },
+    {
+      "preferred_label": "solve ICT system problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "confidence": 0.6981583976822748,
+      "cross_encoder_score": 0.9328653812408447,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover ICT system maintenance, incident monitoring, or diagnostic tools."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.6472560385849269,
+      "cross_encoder_score": 0.8536437749862671,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course does not cover functional programming or the use of languages like LISP or Haskell."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "confidence": 0.7436068851285791,
+      "cross_encoder_score": 0.9961362481117249,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course explicitly mentions applications in economics and management and focuses on quantitative analysis and decision-making based on optimization models."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.7416262738840854,
+      "cross_encoder_score": 0.990176260471344,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers specific algorithms such as the Simplex method and various solution methods for transportation and discrete optimization problems."
+    },
+    {
+      "preferred_label": "ICT problem management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "confidence": 0.7366232952451428,
+      "cross_encoder_score": 0.9917569756507874,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on mathematical optimization rather than ICT-specific incident management or root cause analysis for IT systems."
+    },
+    {
+      "preferred_label": "ICT performance analysis methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "confidence": 0.7339068117478914,
+      "cross_encoder_score": 0.9839560389518738,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course does not cover ICT system performance analysis, benchmarking, or network latency analysis."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.7313566737761917,
+      "cross_encoder_score": 0.9789853096008301,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course explicitly states the goal of modeling real-world problems into mathematical models."
+    },
+    {
+      "preferred_label": "task algorithmisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "confidence": 0.7327247441778271,
+      "cross_encoder_score": 0.9783541560173035,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course teaches how to convert practical problems into optimization formats, which involves structuring processes into step-by-step mathematical sequences."
+    },
+    {
+      "preferred_label": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "confidence": 0.7361001977604045,
+      "cross_encoder_score": 0.9918888211250305,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While optimization can be applied to costs, the course content focuses on mathematical optimization theory rather than business cost management processes."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.667659614858777,
+      "cross_encoder_score": 0.9040287137031555,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course focuses on mathematical methods and modeling rather than software development, coding, or programming languages."
+    },
+    {
+      "preferred_label": "APL",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "confidence": 0.6258554680949311,
+      "cross_encoder_score": 0.8463313579559326,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "There is no mention of the APL programming language in the course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

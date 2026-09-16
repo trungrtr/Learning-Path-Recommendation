@@ -1,0 +1,274 @@
+{
+  "course_code": "SC6220",
+  "course_title": "Open Source Software",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 23,
+    "skill_count": 8,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 23,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "operate open source software",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6",
+      "confidence": 0.7877120058075184,
+      "cross_encoder_score": 0.9768013954162598,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly covers OSS principles, licensing, development models, and coding practices."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7629834063931111,
+      "cross_encoder_score": 0.9767309427261353,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes principles in design and construction of open-source software to meet user objectives."
+    },
+    {
+      "preferred_label": "manage software releases",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "confidence": 0.7757035923080418,
+      "cross_encoder_score": 0.987169623374939,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers publishing and evaluating open-source software, which includes release requirements."
+    },
+    {
+      "preferred_label": "utilise computer-aided software engineering tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+      "confidence": 0.7607862844739605,
+      "cross_encoder_score": 0.9500097632408142,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course teaches the application of modern methods and tools to develop open-source software."
+    },
+    {
+      "preferred_label": "oversee development of software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "confidence": 0.7581532662032424,
+      "cross_encoder_score": 0.9806728363037109,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes proficiency in planning and deploying open-source software development solutions."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.750690820696102,
+      "cross_encoder_score": 0.9857631921768188,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers principles in testing and the presentation/defense of assigned tasks."
+    },
+    {
+      "preferred_label": "develop reporting software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "confidence": 0.7622945579722673,
+      "cross_encoder_score": 0.9867576360702515,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "There is no explicit mention of developing reporting software or data reporting applications."
+    },
+    {
+      "preferred_label": "develop with cloud services",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "confidence": 0.6797338458338867,
+      "cross_encoder_score": 0.8864212036132812,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content does not explicitly mention cloud services, APIs, or serverless application development."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "Open source model",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16200f4-4f39-4b8b-aa9d-3568054d6bdb",
+      "confidence": 0.7897689194669322,
+      "cross_encoder_score": 0.9859730005264282,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly includes 'Principles and Development Models of Open Source Software' and 'Open Source Service-Oriented Software Development'."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7720740625485094,
+      "cross_encoder_score": 0.9781513214111328,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course covers design principles, it does not explicitly teach specific methodologies like Scrum, V-model, or Waterfall."
+    },
+    {
+      "preferred_label": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "confidence": 0.7776048823684295,
+      "cross_encoder_score": 0.9779072999954224,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers application development with open source software and website development using open source tools, which inherently involves using software frameworks."
+    },
+    {
+      "preferred_label": "incremental development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "confidence": 0.7518976599602747,
+      "cross_encoder_score": 0.9787639379501343,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course mentions development models generally, but does not explicitly list incremental development as a taught methodology."
+    },
+    {
+      "preferred_label": "Rapid application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "confidence": 0.7505418833268401,
+      "cross_encoder_score": 0.9836435914039612,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Rapid application development is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.7458288894899929,
+      "cross_encoder_score": 0.9745192527770996,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "Prototyping development is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "software metrics",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "confidence": 0.753790472573264,
+      "cross_encoder_score": 0.9858503937721252,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly mentions the ability to publish and evaluate open-source software that meets the measurement and release requirements."
+    },
+    {
+      "preferred_label": "Agile development",
+      "esco_uri": "http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221",
+      "confidence": 0.7513497782158305,
+      "cross_encoder_score": 0.9773440957069397,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Agile development is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "DevOps",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "confidence": 0.7444460051194587,
+      "cross_encoder_score": 0.9686277508735657,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "DevOps is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.7434581873970936,
+      "cross_encoder_score": 0.941923201084137,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers the application of modern methods and tools to develop open-source software, which implies the use of integrated development environments."
+    },
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "confidence": 0.7419803309911032,
+      "cross_encoder_score": 0.9822784662246704,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "Iterative development is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "Waterfall development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e",
+      "confidence": 0.7391406418444617,
+      "cross_encoder_score": 0.9725087881088257,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "Waterfall development is not explicitly mentioned in the course content."
+    },
+    {
+      "preferred_label": "authoring software",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "confidence": 0.7350817798709698,
+      "cross_encoder_score": 0.9614712595939636,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on open-source software development, design, and construction, but does not explicitly mention multimedia authoring software or tools for editing and structuring interactive multimedia content."
+    },
+    {
+      "preferred_label": "OpenEdge Advanced Business Language",
+      "esco_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "confidence": 0.7282388040104215,
+      "cross_encoder_score": 0.9466261267662048,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers general open-source software development principles and tools, but does not mention OpenEdge Advanced Business Language (ABL)."
+    },
+    {
+      "preferred_label": "WildFly",
+      "esco_uri": "http://data.europa.eu/esco/skill/b16bcbcb-1d3f-42b3-a6a5-b91348a72b70",
+      "confidence": 0.7017359626738111,
+      "cross_encoder_score": 0.8999384641647339,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers popular open-source software systems and service-oriented development, it does not explicitly list WildFly (JBoss) as a specific technology to be taught."
+    }
+  ],
+  "schema_version": "3.0"
+}

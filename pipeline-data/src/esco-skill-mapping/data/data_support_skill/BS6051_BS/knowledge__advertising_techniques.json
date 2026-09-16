@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f",
+    "preferred_label": "advertising techniques",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6051_BS",
+    "course_title": "Nghệ thuật học đại cương"
+  },
+  "support_context": {
+    "support_concept_origin": "effective communication",
+    "evidence_text": "and content-form relationships in art"
+  },
+  "scoring": {
+    "final_score": 0.704162,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers the functions of art and artistic imagery, which are foundational concepts for understanding visual communication and persuasive design in advertising.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+    "preferred_label": "digital systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6234",
+    "course_title": "Cyber security"
+  },
+  "support_context": {
+    "support_concept_origin": "systems thinking",
+    "evidence_text": "Deploy, configure, and evaluate cybersecurity solutions in experimental or simulated environments using appropriate information technology tools and platforms"
+  },
+  "scoring": {
+    "final_score": 0.576822,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses on securing computer networks and systems, which are fundamental types of digital systems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

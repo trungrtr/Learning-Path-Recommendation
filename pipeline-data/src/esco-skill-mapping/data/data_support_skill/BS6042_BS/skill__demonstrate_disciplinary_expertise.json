@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+    "preferred_label": "demonstrate disciplinary expertise",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6042_BS",
+    "course_title": "Xác suất thống kê"
+  },
+  "support_context": {
+    "support_concept_origin": "evidence-based decision making; intellectual rigor; scientific inquiry",
+    "evidence_text": "Proficiently solve problems of parameter estimation and statistical hypothesis testing, while applying data collection, processing, and analysis skills for decision-making"
+  },
+  "scoring": {
+    "final_score": 0.682936,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course provides the analytical and statistical tools necessary for rigorous research, which is a core component of demonstrating disciplinary expertise in many fields.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

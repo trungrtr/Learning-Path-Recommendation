@@ -1,0 +1,165 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/484df271-bb52-49f1-8f50-f19624bf4df2",
+    "preferred_label": "software components libraries",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6222_BS",
+    "course_title": "Tích hợp hệ thống phần mềm",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7048094033468643,
+    "cross_encoder_score": 0.9369367361068726,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course explicitly covers Web APIs and integration, which are types of reusable software components and services."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course equips students with advanced concepts, methods, techniques, and technologies such as XML, JSON, and Web APIs necessary to solve software system integration problems. Upon completion of the course, learners will be able to analyze requirements, design, and develop complete Web APIs capable of integrating with various platforms to meet practical requirements in modern software development.",
+      "meta": {
+        "matched_mention": "Web APIs; software system integration"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Develop skills in requirements analysis, design, and construction of complete Web APIs, while developing client applications to consume Web APIs for integration across various platforms.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Web API design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO1",
+      "text": "Demonstrate an overview of software system integration and data representation technologies such as XML, XSD, XSLT, JSON, and DOM.",
+      "meta": {
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software system integration"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO2",
+      "text": "Design and successfully build RESTful Web Services / Web APIs that meet practical requirements.",
+      "meta": {
+        "muc_do": "A",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "RESTful Web Services; Web APIs"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO3",
+      "text": "Develop integrated applications to invoke and consume Web APIs across multiple platforms.",
+      "meta": {
+        "muc_do": "A",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Web APIs; integrated applications"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Software System Integration",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "software system integration"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "- RESTful Web Service",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "RESTful Web Service"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Web API Development Practical",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "Web API Development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Building Web API Consumer Applications",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Building Web API Consumer Applications Practical",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Building Web API Consumer Applications Practical (cont.)",
+      "meta": {
+        "content_richness": "title_only",
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 2,
+      "dense_rank": 21,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

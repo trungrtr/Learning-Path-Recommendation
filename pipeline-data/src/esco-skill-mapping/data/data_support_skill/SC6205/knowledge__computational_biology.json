@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+    "preferred_label": "computational biology",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6205",
+    "course_title": "Data Structures and Algorithms"
+  },
+  "support_context": {
+    "support_concept_origin": "computational thinking; self-directed learning",
+    "evidence_text": "Proactively learn and acquire knowledge, demonstrating self-study awareness and a serious attitude toward learning"
+  },
+  "scoring": {
+    "final_score": 0.864247,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Computational biology relies heavily on efficient algorithms and data structures to process large-scale biological datasets, making this course a foundational requirement.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

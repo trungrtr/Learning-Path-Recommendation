@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+    "preferred_label": "ICT project management methodologies",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6229",
+    "course_title": "Enterprise resource planning software"
+  },
+  "support_context": {
+    "support_concept_origin": "operational efficiency mindset; project lifecycle management",
+    "evidence_text": "Objectives: Understand the concept, role, structure, and operating principles of enterprise resource planning systems in businesses"
+  },
+  "scoring": {
+    "final_score": 0.778512,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Deploying and developing enterprise-wide software solutions requires an understanding of ICT project management methodologies to ensure the system meets organizational goals.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

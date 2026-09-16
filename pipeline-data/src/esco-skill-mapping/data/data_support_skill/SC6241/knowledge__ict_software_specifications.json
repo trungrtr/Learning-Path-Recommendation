@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+    "preferred_label": "ICT software specifications",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6241",
+    "course_title": "Software Testing"
+  },
+  "support_context": {
+    "support_concept_origin": "professional collaboration; technical communication",
+    "evidence_text": "evaluate teamwork effectiveness in complying with quality processes"
+  },
+  "scoring": {
+    "final_score": 0.610678,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course includes requirements analysis and test design, which requires a deep understanding of software specifications to verify correct operation.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

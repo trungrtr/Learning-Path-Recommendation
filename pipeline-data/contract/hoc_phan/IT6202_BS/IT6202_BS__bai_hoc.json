@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về Kiến trúc máy tính",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về kiến trúc máy tính, lịch sử phát triển và phân loại các hệ thống máy tính hiện đại. Sinh viên sẽ nắm được mô hình Von Neumann, sự khác biệt giữa kiến trúc và tổ chức máy tính, cùng các tiêu chí đánh giá hiệu năng hệ thống.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Overview of Computer Architecture",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiến trúc tập lệnh",
+      "noi_dung_tom_tat": "Nội dung bài học tập trung vào khái niệm kiến trúc tập lệnh (ISA), các định dạng lệnh và chế độ định địa chỉ trong CPU. Ngoài ra, bài học cũng trình bày nguyên lý thiết kế tập lệnh và các thao tác cơ bản mà bộ xử lý có thể thực thi.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Instruction Set Architecture",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Đường truyền và hệ thống vào/ra",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức về cấu trúc bus, nguyên lý hoạt động của các đường truyền dữ liệu và cơ chế giao tiếp giữa CPU với thiết bị ngoại vi. Các phương pháp điều khiển vào/ra như ngắt (Interrupt), DMA và lập trình vào/ra cũng sẽ được phân tích chi tiết.",
+      "ma_clo": [
+        "L2",
+        "L4"
+      ],
+      "ten_bai_en": "Bus and Input/Output Systems",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Kiến trúc hệ thống nhớ",
+      "noi_dung_tom_tat": "Bài học trình bày cấu trúc phân cấp của hệ thống bộ nhớ trong máy tính, từ thanh ghi, bộ nhớ Cache đến bộ nhớ chính và bộ nhớ ngoài. Sinh viên sẽ tìm hiểu các thuật toán ánh xạ bộ nhớ Cache và cơ chế quản lý bộ nhớ ảo để tối ưu hiệu năng.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Memory System Architecture",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "kỹ thuật đường ống và công nghệ RISC",
+      "noi_dung_tom_tat": "Bài học giới thiệu kỹ thuật đường ống (Pipelining) nhằm gia tăng tốc độ xử lý lệnh bằng cách thực hiện song song các công đoạn. Đồng thời, nội dung bài cũng phân tích đặc điểm của kiến trúc RISC và các giải pháp giải quyết xung đột (hazard) trong đường ống.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Pipelining and RISC Technology",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "5cd3eb13c63e13233b330d289fdaa08b"
+}

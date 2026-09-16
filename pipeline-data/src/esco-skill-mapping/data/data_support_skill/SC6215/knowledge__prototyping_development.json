@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+    "preferred_label": "Prototyping development",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6215",
+    "course_title": "Web programming with PHP"
+  },
+  "support_context": {
+    "support_concept_origin": "debugging and troubleshooting methodology; project lifecycle management; user-centric design perspective",
+    "evidence_text": "Proactively propose ideas, design interfaces, and functional structures of websites"
+  },
+  "scoring": {
+    "final_score": 0.672228,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves building and deploying dynamic web applications, which inherently requires prototyping functional structures and interfaces.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

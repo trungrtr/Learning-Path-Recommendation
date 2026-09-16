@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+    "preferred_label": "ASP.NET",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6214",
+    "course_title": "Web Programming in ASP.NET"
+  },
+  "support_context": {
+    "support_concept_origin": "architectural design patterns; debugging and troubleshooting methodology",
+    "evidence_text": "Program complex business logic, control input data validation, and handle exceptions effectively"
+  },
+  "scoring": {
+    "final_score": 0.635884,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course is specifically designed to teach ASP.NET Core MVC, covering its mechanisms, middleware, and development practices.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

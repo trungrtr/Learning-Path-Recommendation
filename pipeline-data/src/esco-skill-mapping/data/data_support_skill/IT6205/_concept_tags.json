@@ -1,0 +1,259 @@
+{
+  "course_code": "IT6205",
+  "concept_tags": [
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "interpersonal collaboration",
+      "normalized": "interpersonal collaboration",
+      "loai": "foundational"
+    },
+    {
+      "text": "corporate culture navigation",
+      "normalized": "corporate culture navigation",
+      "loai": "foundational"
+    },
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem-solving under constraints",
+      "normalized": "problem-solving under constraints",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical self-reflection",
+      "normalized": "critical self-reflection",
+      "loai": "foundational"
+    },
+    {
+      "text": "business acumen",
+      "normalized": "business acumen",
+      "loai": "foundational"
+    },
+    {
+      "text": "resilience",
+      "normalized": "resilience",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation standards",
+      "normalized": "technical documentation standards",
+      "loai": "foundational"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6205",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "interpersonal collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "corporate culture navigation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "problem-solving under constraints",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "critical self-reflection",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "business acumen",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "resilience",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "technical documentation standards",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6205",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "critical self-reflection",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.793616,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.793616,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.745154,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.745154,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem-solving under constraints",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.703897,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.703897,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "esco_label": "documentation types",
+      "confidence": 0.645849,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.623356,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.623356,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "business acumen",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.519052,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.519052,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6",
+      "esco_label": "operations management",
+      "confidence": 0.519052,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "corporate culture navigation",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.51699,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "interpersonal collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.51699,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.498662,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 15
+  }
+}

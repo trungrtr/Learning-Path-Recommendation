@@ -1,0 +1,199 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+    "preferred_label": "Scala",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6221",
+    "course_title": "Numerical Methods for Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.5165276068907257,
+    "cross_encoder_score": 0.6765251755714417,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course does not mention Scala as a programming language to be used."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with fundamental knowledge and methods, including algorithms for finding approximate solutions to equations, systems of equations, integrals, derivatives, and differential equations. It covers error analysis and algorithm stability, as well as techniques for implementing computer programs to produce numerical results for common problems in mathematics and engineering.",
+      "meta": {
+        "matched_mention": "numerical methods"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Understand and present numerical methods used to find approximate solutions for problems that cannot be solved analytically. Grasp the principles, scope of application, and limitations of each method.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "numerical methods"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Apply numerical methods to solve practical problems.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "numerical methods"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Proactively self-study and implement using popular programming languages, expand knowledge, and transfer skills to other tools/programming environments. Effectively apply numerical methods in practice.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "programming languages; numerical methods"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Ability to apply basic algorithms in numerical methods to approximately solve certain practical problems.",
+      "meta": {
+        "pi_so": [
+          "PI 1."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "numerical methods"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Evaluate and effectively apply certain approximation methods for problems using numerical approximation techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "ITU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "numerical approximation techniques"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Ability to use programming languages and implement them according to the approach of numerical methods.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "IU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "programming languages; numerical methods"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of Numerical Methods",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Numerical Methods"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "Polynomials and Functions",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Mathematical Functions"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "Approximate Solution of Equations",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Approximate Solution of Equations"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Matrices and Systems of Linear Equations",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1 L3"
+        ],
+        "matched_mention": "Systems of Linear Equations"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Numerical Differentiation and Definite Integration",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2 L3"
+        ],
+        "matched_mention": "Numerical Differentiation"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 33,
+      "dense_rank": 11,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

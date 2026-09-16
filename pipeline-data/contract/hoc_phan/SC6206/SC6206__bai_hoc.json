@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về cơ sở dữ liệu và mô hình dữ liệu",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về hệ quản trị cơ sở dữ liệu và vai trò của dữ liệu trong hệ thống thông tin. Người học sẽ tìm hiểu về các mô hình dữ liệu phổ biến như mô hình phân cấp, mạng và đặc biệt là mô hình quan hệ.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Databases and Data Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các phép toán đại số quan hệ",
+      "noi_dung_tom_tat": "Nội dung tập trung vào các phép toán nền tảng của đại số quan hệ như chọn, chiếu, hợp, giao và tích Descartes. Đây là cơ sở toán học quan trọng để hiểu cách thức vận hành của các câu truy vấn trong hệ quản trị.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Relational Algebra Operations",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Sử dụng đại số quan hệ trong truy vấn dữ liệu",
+      "noi_dung_tom_tat": "Bài học hướng dẫn cách kết hợp các phép toán đại số quan hệ để xây dựng các biểu thức truy vấn dữ liệu phức tạp. Học viên sẽ thực hành viết các câu lệnh truy vấn để giải quyết các yêu cầu khai thác thông tin cụ thể.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Using Relational Algebra in Data Querying",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Tôi ưu hóa truy vấn",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức về các kỹ thuật tối ưu hóa truy vấn nhằm nâng cao hiệu suất thực thi cho hệ thống cơ sở dữ liệu. Học viên sẽ học cách phân tích và chuyển đổi các biểu thức đại số quan hệ về dạng tối ưu hơn.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Query Optimization",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Ngôn ngữ định nghĩa và thao tác dữ liệu",
+      "noi_dung_tom_tat": "Nội dung tập trung vào ngôn ngữ SQL với các lệnh định nghĩa (DDL) như tạo bảng, chỉ mục và các lệnh thao tác (DML) như thêm, sửa, xóa dữ liệu. Đây là kỹ năng thiết yếu để xây dựng và quản trị cấu trúc lưu trữ.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Data Definition and Data Manipulation Languages",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Ngôn ngữ truy vấn dữ liệu",
+      "noi_dung_tom_tat": "Bài học đi sâu vào ngôn ngữ truy vấn dữ liệu (DQL), đặc biệt là các lệnh SELECT kết hợp với điều kiện lọc, nhóm và liên kết bảng. Học viên sẽ thành thạo kỹ năng trích xuất thông tin từ nhiều bảng dữ liệu khác nhau.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Data Query Language",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thiết kế CSDL và mô hình thực thể-liên kết",
+      "noi_dung_tom_tat": "Nội dung hướng dẫn phương pháp phân tích yêu cầu bài toán để xây dựng mô hình Thực thể - Liên kết (ER). Học viên sẽ học cách xác định các thực thể, thuộc tính và mối quan hệ giữa chúng trong thực tế.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Database Design and Entity-Relationship Modeling",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Chuyển mô hình thực thể-liên kết sang mô hình quan hệ",
+      "noi_dung_tom_tat": "Bài học trình bày quy trình chuyển đổi từ sơ đồ thực thể-liên kết sang các lược đồ quan hệ trong cơ sở dữ liệu. Đây là bước quan trọng để hiện thực hóa thiết kế từ mức khái niệm sang mức logic.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Mapping Entity-Relationship Models to Relational Models",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phụ thuộc hàm",
+      "noi_dung_tom_tat": "Nội dung làm rõ khái niệm phụ thuộc hàm và các luật suy dẫn trong lý thuyết thiết kế cơ sở dữ liệu. Học viên sẽ học cách xác định khóa của quan hệ dựa trên các phụ thuộc hàm cho trước.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Functional Dependencies",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các dạng chuẩn",
+      "noi_dung_tom_tat": "Bài học giới thiệu các dạng chuẩn (1NF, 2NF, 3NF, BCNF) nhằm giảm thiểu dư thừa dữ liệu và loại bỏ các bất thường khi cập nhật. Đây là kỹ năng cốt lõi để đảm bảo tính toàn vẹn và hiệu quả của cơ sở dữ liệu.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Normal Forms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Chuẩn hóa quan hệ dưa trên biểu mẫu",
+      "noi_dung_tom_tat": "Nội dung tập trung vào phương pháp chuẩn hóa quan hệ dựa trên phân tích biểu mẫu và các ràng buộc nghiệp vụ thực tế. Học viên sẽ ứng dụng các kiến thức về dạng chuẩn để tinh chỉnh cấu trúc bảng dữ liệu tối ưu.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Relation Normalization Based on Forms",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "7b031901054a4f55d9c473ecf3d7413e"
+}

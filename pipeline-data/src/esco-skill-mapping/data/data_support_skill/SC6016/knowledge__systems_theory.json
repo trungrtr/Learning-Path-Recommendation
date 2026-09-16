@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+    "preferred_label": "systems theory",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6016",
+    "course_title": "Foundation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "collaborative problem solving; systems thinking",
+    "evidence_text": "Ability to apply foundational knowledge and techniques of the discipline to design IT solutions"
+  },
+  "scoring": {
+    "final_score": 0.672854,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "System analysis and design are foundational components of systems theory, as they require understanding the internal organization and interactions of IT systems.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

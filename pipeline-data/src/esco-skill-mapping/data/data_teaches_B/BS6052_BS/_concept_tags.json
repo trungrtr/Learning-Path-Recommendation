@@ -1,0 +1,112 @@
+{
+  "course_code": "BS6052_BS",
+  "concept_tags": [
+    {
+      "text": "fine arts",
+      "normalized": "fine arts"
+    },
+    {
+      "text": "Vietnamese art history",
+      "normalized": "vietnamese art history"
+    },
+    {
+      "text": "world art history",
+      "normalized": "world art history"
+    },
+    {
+      "text": "painting genres",
+      "normalized": "painting genres"
+    },
+    {
+      "text": "sculpture genres",
+      "normalized": "sculpture genres"
+    },
+    {
+      "text": "graphic design",
+      "normalized": "graphic design"
+    },
+    {
+      "text": "industrial design",
+      "normalized": "industrial design"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "fine arts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "vietnamese art history",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "world art history",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "painting genres",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "sculpture genres",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "graphic design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6052_BS",
+      "concept_tag": "industrial design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6052_BS_MOTA_MAIN"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "graphic design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "esco_label": "design graphics",
+      "confidence": 0.7007127687799937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "industrial design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec6df9cb-be92-4027-80fa-83b70aabce58",
+      "esco_label": "industrial research and development",
+      "confidence": 0.6993707515216264,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 7,
+    "total_has_concept_edges": 7,
+    "total_evidence_for_edges": 2
+  }
+}

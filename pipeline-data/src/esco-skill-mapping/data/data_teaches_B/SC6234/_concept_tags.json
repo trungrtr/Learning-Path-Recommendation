@@ -1,0 +1,3731 @@
+{
+  "course_code": "SC6234",
+  "concept_tags": [
+    {
+      "text": "cybersecurity",
+      "normalized": "cybersecurity"
+    },
+    {
+      "text": "network attack forms",
+      "normalized": "network attack forms"
+    },
+    {
+      "text": "network device security",
+      "normalized": "network device security"
+    },
+    {
+      "text": "network layer security",
+      "normalized": "network layer security"
+    },
+    {
+      "text": "system security",
+      "normalized": "system security"
+    },
+    {
+      "text": "unauthorized intrusion",
+      "normalized": "unauthorized intrusion"
+    },
+    {
+      "text": "malware",
+      "normalized": "malware"
+    },
+    {
+      "text": "firewalls",
+      "normalized": "firewalls"
+    },
+    {
+      "text": "firewall configuration",
+      "normalized": "firewall configuration"
+    },
+    {
+      "text": "cybersecurity law",
+      "normalized": "cybersecurity law"
+    },
+    {
+      "text": "ACM software engineering code",
+      "normalized": "acm software engineering code"
+    },
+    {
+      "text": "cyber attack detection",
+      "normalized": "cyber attack detection"
+    },
+    {
+      "text": "system safety",
+      "normalized": "system safety"
+    },
+    {
+      "text": "legal principles",
+      "normalized": "legal principles"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "computer science principles",
+      "normalized": "computer science principles"
+    },
+    {
+      "text": "cybersecurity problems",
+      "normalized": "cybersecurity problems"
+    },
+    {
+      "text": "computer systems",
+      "normalized": "computer systems"
+    },
+    {
+      "text": "networks",
+      "normalized": "networks"
+    },
+    {
+      "text": "cybersecurity solutions",
+      "normalized": "cybersecurity solutions"
+    },
+    {
+      "text": "encryption",
+      "normalized": "encryption"
+    },
+    {
+      "text": "authentication",
+      "normalized": "authentication"
+    },
+    {
+      "text": "protocol security",
+      "normalized": "protocol security"
+    },
+    {
+      "text": "system protection",
+      "normalized": "system protection"
+    },
+    {
+      "text": "information security",
+      "normalized": "information security"
+    },
+    {
+      "text": "information technology tools",
+      "normalized": "information technology tools"
+    },
+    {
+      "text": "Symmetric Encryption Algorithms",
+      "normalized": "symmetric encryption algorithms"
+    },
+    {
+      "text": "Public-Key Encryption Algorithms",
+      "normalized": "public-key encryption algorithms"
+    },
+    {
+      "text": "Transport-Layer Security",
+      "normalized": "transport-layer security"
+    },
+    {
+      "text": "E-Mail Security",
+      "normalized": "e-mail security"
+    },
+    {
+      "text": "IP Security",
+      "normalized": "ip security"
+    },
+    {
+      "text": "Wireless Network Security",
+      "normalized": "wireless network security"
+    },
+    {
+      "text": "Secure Network Models",
+      "normalized": "secure network models"
+    },
+    {
+      "text": "Intrusion Detection",
+      "normalized": "intrusion detection"
+    },
+    {
+      "text": "SSL",
+      "normalized": "ssl"
+    },
+    {
+      "text": "Intrusion Prevention",
+      "normalized": "intrusion prevention"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6234",
+      "concept_tag": "cybersecurity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN",
+        "SC6234_MUCTIEU_MT1",
+        "SC6234_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "network attack forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "network device security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "network layer security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "system security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN",
+        "SC6234_MUCTIEU_MT2",
+        "SC6234_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "unauthorized intrusion",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "malware",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN",
+        "SC6234_BAIHOC_L07",
+        "SC6234_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "firewalls",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN",
+        "SC6234_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "firewall configuration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN",
+        "SC6234_BAIHOC_L17"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "cybersecurity law",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "acm software engineering code",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "cyber attack detection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "system safety",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MUCTIEU_MT2",
+        "SC6234_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "legal principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "computer science principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "cybersecurity problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "computer systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "networks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "cybersecurity solutions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2",
+        "SC6234_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "encryption",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "authentication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "protocol security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "system protection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "information security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "information technology tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "symmetric encryption algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L02",
+        "SC6234_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "public-key encryption algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L02",
+        "SC6234_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "transport-layer security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "e-mail security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L04",
+        "SC6234_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "ip security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "wireless network security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L06",
+        "SC6234_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "secure network models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L07",
+        "SC6234_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "intrusion detection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L08",
+        "SC6234_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "ssl",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6234",
+      "concept_tag": "intrusion prevention",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6234_BAIHOC_L16"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13",
+      "esco_label": "manage system security",
+      "confidence": 0.8330179447504811,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871",
+      "esco_label": "establish an ICT security prevention plan",
+      "confidence": 0.8215416246806039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "esco_label": "ICT safety",
+      "confidence": 0.826245623678846,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_label": "implement a firewall",
+      "confidence": 0.8186493681553213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e",
+      "esco_label": "protect ICT devices",
+      "confidence": 0.8165976871030964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.811766850515726,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239",
+      "esco_label": "handle cybersecurity incidents",
+      "confidence": 0.8093918436899831,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity law",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "esco_label": "manage IT security compliances",
+      "confidence": 0.80832820629032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity law",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_label": "apply information security policies",
+      "confidence": 0.8102914524704684,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/f4a85869-1855-45d5-a43c-7ee8cd451996",
+      "esco_label": "perform ICT security testing",
+      "confidence": 0.802907986732939,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087",
+      "esco_label": "ensure information security",
+      "confidence": 0.7953347170358025,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf",
+      "esco_label": "identify ICT security risks",
+      "confidence": 0.8033662886479269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.797940799569875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc",
+      "esco_label": "identify ICT system weaknesses",
+      "confidence": 0.77967292216776,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c",
+      "esco_label": "implement ICT risk management",
+      "confidence": 0.7824353402100731,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity law",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+      "esco_label": "implement cloud security and compliance",
+      "confidence": 0.7763912050371032,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+      "esco_label": "cyber security",
+      "confidence": 0.8278123809140595,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313",
+      "esco_label": "assessment of risks and threats",
+      "confidence": 0.8212850970929482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/5acf6408-e084-4202-9442-ffcf0119811c",
+      "esco_label": "security threats",
+      "confidence": 0.8203976518476017,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unauthorized intrusion",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+      "esco_label": "security engineering",
+      "confidence": 0.8249189240648944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+      "esco_label": "cloud security and compliance",
+      "confidence": 0.8094714850329421,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network attack forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+      "esco_label": "cyber attack counter-measures",
+      "confidence": 0.8076204802600337,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unauthorized intrusion",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity law",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computer systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+      "esco_label": "ICT security legislation",
+      "confidence": 0.8125914418062965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/2ddb1226-1117-4eb4-ae65-3a2f5a5a3c80",
+      "esco_label": "ICT network security risks",
+      "confidence": 0.8019369445560413,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "encryption",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/d32db06e-bd06-4415-a7ab-1b0ee68caa9a",
+      "esco_label": "ICT encryption",
+      "confidence": 0.7924825893633057,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "network device security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity law",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewalls",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion prevention",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "firewall configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.8002905028464525,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cyber attack detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ssl",
+      "esco_uri": "http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7",
+      "esco_label": "web application security threats",
+      "confidence": 0.7885688126916065,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "protocol security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cybersecurity solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "public-key encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transport-layer security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-mail security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ip security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wireless network security",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "secure network models",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intrusion detection",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "symmetric encryption algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "malware",
+      "esco_uri": "http://data.europa.eu/esco/skill/afd63e8c-a4e7-42d3-86c9-3b2dd549a353",
+      "esco_label": "Parrot Security OS",
+      "confidence": 0.6786803061033114,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 36,
+    "total_has_concept_edges": 36,
+    "total_evidence_for_edges": 467
+  }
+}

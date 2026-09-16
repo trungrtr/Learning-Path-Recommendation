@@ -1,0 +1,124 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+    "preferred_label": "software design methodologies",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6210",
+    "course_title": ".NET Programming",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.646907522136203,
+    "cross_encoder_score": 0.8772936463356018,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "While the course covers requirement analysis and design, it does not explicitly teach specific software design methodologies like Scrum or Waterfall."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course equips students with knowledge and skills to develop applications on the Microsoft .NET platform using the C# language. Students will master object-oriented programming principles, modern user interface (GUI) building techniques using Windows Presentation Foundation (WPF), and database connectivity and manipulation via Entity Framework Core to solve practical problems. Additionally, the course fosters professional ethics, personal responsibility, and compliance with legal regulations (such as software copyrights) during the application development process.",
+      "meta": {
+        "matched_mention": "software copyrights; Windows Presentation Foundation"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "The course helps students master the .NET technology foundation and C# language, become proficient in modern desktop application development techniques (WPF, Entity Framework Core), and adhere to ethical and legal principles in professional practice.",
+      "meta": {
+        "matched_mention": "desktop application development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Provides foundational knowledge of Microsoft .NET technology, C# language, object-oriented programming, WPF graphical user interface development, and database access with Entity Framework Core.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "Entity Framework Core"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Trains skills in requirement analysis, design, and deployment of complete desktop applications using WPF technology combined with Entity Framework Core, applying professional development tools (Visual Studio, SQL Server).",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Visual Studio"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Fosters the sense of self-study, effective teamwork, professional ethics, and compliance with legal regulations (software copyrights) in the software development process.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM",
+        "matched_mention": "software copyrights"
+      },
+      "evidence_weight": 0.15,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply knowledge of the .NET platform, WPF, and EF Core to design a software solution meeting given requirements using software.",
+      "meta": {
+        "pi_so": [
+          "PI 5."
+        ],
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "software design"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Implement a software solution meeting given requirements using computer science tools and techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "software solution implementation"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 2,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

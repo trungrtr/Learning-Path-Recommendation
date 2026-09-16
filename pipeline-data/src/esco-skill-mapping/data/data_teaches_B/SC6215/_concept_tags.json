@@ -1,0 +1,2998 @@
+{
+  "course_code": "SC6215",
+  "concept_tags": [
+    {
+      "text": "server-side web programming",
+      "normalized": "server-side web programming"
+    },
+    {
+      "text": "PHP syntax",
+      "normalized": "php syntax"
+    },
+    {
+      "text": "session management",
+      "normalized": "session management"
+    },
+    {
+      "text": "MySQL databases",
+      "normalized": "mysql databases"
+    },
+    {
+      "text": "dynamic web applications",
+      "normalized": "dynamic web applications"
+    },
+    {
+      "text": "data structures",
+      "normalized": "data structures"
+    },
+    {
+      "text": "PHP language",
+      "normalized": "php language"
+    },
+    {
+      "text": "form processing",
+      "normalized": "form processing"
+    },
+    {
+      "text": "MySQL database connectivity",
+      "normalized": "mysql database connectivity"
+    },
+    {
+      "text": "three-tier web architecture",
+      "normalized": "three-tier web architecture"
+    },
+    {
+      "text": "HTML",
+      "normalized": "html"
+    },
+    {
+      "text": "CSS",
+      "normalized": "css"
+    },
+    {
+      "text": "data processing functions",
+      "normalized": "data processing functions"
+    },
+    {
+      "text": "user authentication",
+      "normalized": "user authentication"
+    },
+    {
+      "text": "web application development",
+      "normalized": "web application development"
+    },
+    {
+      "text": "interface design",
+      "normalized": "interface design"
+    },
+    {
+      "text": "website functional structures",
+      "normalized": "website functional structures"
+    },
+    {
+      "text": "web product deployment",
+      "normalized": "web product deployment"
+    },
+    {
+      "text": "PHP programming techniques",
+      "normalized": "php programming techniques"
+    },
+    {
+      "text": "database connectivity",
+      "normalized": "database connectivity"
+    },
+    {
+      "text": "software development environment",
+      "normalized": "software development environment"
+    },
+    {
+      "text": "web application operation",
+      "normalized": "web application operation"
+    },
+    {
+      "text": "PHP programming",
+      "normalized": "php programming"
+    },
+    {
+      "text": "development environment",
+      "normalized": "development environment"
+    },
+    {
+      "text": "control structures",
+      "normalized": "control structures"
+    },
+    {
+      "text": "PHP arrays",
+      "normalized": "php arrays"
+    },
+    {
+      "text": "array processing",
+      "normalized": "array processing"
+    },
+    {
+      "text": "PHP functions",
+      "normalized": "php functions"
+    },
+    {
+      "text": "program organization",
+      "normalized": "program organization"
+    },
+    {
+      "text": "form data processing",
+      "normalized": "form data processing"
+    },
+    {
+      "text": "database overview",
+      "normalized": "database overview"
+    },
+    {
+      "text": "SQL integration",
+      "normalized": "sql integration"
+    },
+    {
+      "text": "SQL in PHP",
+      "normalized": "sql in php"
+    },
+    {
+      "text": "PHP MySQL connection",
+      "normalized": "php mysql connection"
+    },
+    {
+      "text": "database operations",
+      "normalized": "database operations"
+    },
+    {
+      "text": "application building",
+      "normalized": "application building"
+    },
+    {
+      "text": "MySQL database",
+      "normalized": "mysql database"
+    },
+    {
+      "text": "academic essays",
+      "normalized": "academic essays"
+    },
+    {
+      "text": "term projects",
+      "normalized": "term projects"
+    },
+    {
+      "text": "course projects",
+      "normalized": "course projects"
+    },
+    {
+      "text": "professional internships",
+      "normalized": "professional internships"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6215",
+      "concept_tag": "server-side web programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN",
+        "SC6215_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php syntax",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN",
+        "SC6215_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "session management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN",
+        "SC6215_MUCTIEU_MT1",
+        "SC6215_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "mysql databases",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN",
+        "SC6215_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "dynamic web applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN",
+        "SC6215_MUCTIEU_MT2",
+        "SC6215_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php language",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT1",
+        "SC6215_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "form processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "mysql database connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "three-tier web architecture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "html",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "css",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "data processing functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "user authentication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "web application development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "interface design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "website functional structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "web product deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php programming techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_CLO_L1",
+        "SC6215_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "database connectivity",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "software development environment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "web application operation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L01",
+        "SC6215_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "development environment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "control structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L03",
+        "SC6215_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php arrays",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "array processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L04",
+        "SC6215_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L06",
+        "SC6215_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "program organization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "form data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L07",
+        "SC6215_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "database overview",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "sql integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "sql in php",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "php mysql connection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "database operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "application building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "mysql database",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "academic essays",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "term projects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "course projects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "SC6215",
+      "concept_tag": "professional internships",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6215_BAIHOC_L19"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "session management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.7515412923456686,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7504443619095167,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website functional structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.740173537982488,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_label": "develop with cloud services",
+      "confidence": 0.7209033316561066,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "program organization",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+      "esco_label": "develop data processing applications",
+      "confidence": 0.7032920740218076,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "session management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.7021400284794506,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "esco_label": "implement data warehousing techniques",
+      "confidence": 0.67327599232452,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "three-tier web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.6643837200482964,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "session management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.6490691075076405,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "session management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.6503671721241175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data processing functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website functional structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.6325532911516885,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.7817210205747945,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "session management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.7673465473010134,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "html",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_label": "PHP",
+      "confidence": 0.7547675241199463,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "array processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "program organization",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7535546975335368,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "esco_label": "Ajax Framework",
+      "confidence": 0.7497482992615875,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "css",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+      "esco_label": "Drupal",
+      "confidence": 0.7509327470498143,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "three-tier web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "esco_label": "Apache Tomcat",
+      "confidence": 0.7364026601752206,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "three-tier web architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "esco_label": "World Wide Web Consortium standards",
+      "confidence": 0.7463969303346742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.7377057735262926,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website functional structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "development environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "form data processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7356281646289355,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7105122861471131,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7168894249350543,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.6986432656842567,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.699922258923187,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "server-side web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql databases",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php language",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dynamic web applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database connectivity",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "web application operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php syntax",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php arrays",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php functions",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql in php",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php mysql connection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mysql database",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.691887156840621,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 41,
+    "total_has_concept_edges": 41,
+    "total_evidence_for_edges": 354
+  }
+}

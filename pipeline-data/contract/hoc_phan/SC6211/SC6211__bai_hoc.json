@@ -1,0 +1,105 @@
+{
+  "records": [
+    {
+      "ten_bai": "Định nghĩa và sử dụng lớp",
+      "noi_dung_tom_tat": "Bài học giới thiệu khái niệm cơ bản về lớp và đối tượng trong lập trình hướng đối tượng. Sinh viên sẽ học cách định nghĩa lớp, thuộc tính, phương thức và cách khởi tạo đối tượng từ các lớp đó.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Class Definition and Usage",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quan hệ kết tập và phạm vi truy cập",
+      "noi_dung_tom_tat": "Bài học tìm hiểu về các phạm vi truy cập như public, private, protected để quản lý quyền truy cập dữ liệu. Đồng thời, học cách thiết lập quan hệ kết tập giữa các lớp để xây dựng cấu trúc chương trình linh hoạt.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Aggregation Relations and Access Modifiers",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương thức khởi tạo, phương thức hủy, con trở this và quan hệ kế thừa",
+      "noi_dung_tom_tat": "Bài học tập trung vào vòng đời đối tượng thông qua phương thức khởi tạo và hủy, cùng với việc sử dụng con trỏ this để tham chiếu đối tượng. Ngoài ra, sinh viên được giới thiệu về nguyên lý kế thừa để tái sử dụng mã nguồn.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Constructors, Destructors, the 'this' Pointer, and Inheritance",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương thức toán tử và các dòng nhập/ xuất",
+      "noi_dung_tom_tat": "Bài học hướng dẫn cách quá tải các toán tử để xử lý đối tượng như các kiểu dữ liệu nguyên thủy. Sinh viên cũng sẽ tìm hiểu cách tùy biến các dòng nhập/xuất chuẩn cho lớp tự định nghĩa.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Operator Overloading and Input/Output Streams",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương thức ảo, tính đa hình, khuôn mẫu và biệt lệ",
+      "noi_dung_tom_tat": "Bài học khám phá tính đa hình thông qua phương thức ảo, cho phép thực thi hành vi linh hoạt theo từng đối tượng cụ thể. Ngoài ra, bài học còn bao gồm kỹ thuật khuôn mẫu và cơ chế xử lý ngoại lệ để xây dựng mã nguồn an toàn, tái sử dụng cao.",
+      "ma_clo": [
+        "L2 L4"
+      ],
+      "ten_bai_en": "Virtual Functions, Polymorphism, Templates, and Exceptions",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quan hệ kết tập",
+      "noi_dung_tom_tat": "Bài học đi sâu vào quan hệ kết tập (Aggregation) để mô tả mối quan hệ sở hữu giữa các đối tượng. Sinh viên học cách thiết kế các cấu trúc dữ liệu phức tạp dựa trên sự kết hợp của nhiều lớp thành phần.",
+      "ma_clo": [
+        "L1 L3 L4"
+      ],
+      "ten_bai_en": "Aggregation Relations",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương thức khởi tạo, phương thức hủy, truy cập thuộc tính riêng tư.",
+      "noi_dung_tom_tat": "Bài học củng cố về quy trình khởi tạo và hủy đối tượng trong các tình huống thực tế. Đặc biệt nhấn mạnh kỹ thuật đóng gói dữ liệu thông qua việc kiểm soát quyền truy cập thuộc tính riêng tư.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Constructors, Destructors, and Private Attribute Access",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quan hệ kế thừa",
+      "noi_dung_tom_tat": "Bài học chi tiết về cơ chế kế thừa, cho phép các lớp con kế thừa đặc tính và hành vi từ lớp cha. Sinh viên sẽ phân biệt các loại kế thừa và cách sử dụng hợp lý để tối ưu hóa thiết kế hướng đối tượng.",
+      "ma_clo": [
+        "L1 L3 L4"
+      ],
+      "ten_bai_en": "Inheritance",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp và kiểm tra TX1",
+      "noi_dung_tom_tat": "Bài học ôn tập và hệ thống hóa toàn bộ kiến thức đã học từ đầu khóa học. Sinh viên thực hiện các bài tập lập trình tổng hợp nhằm chuẩn bị cho kỳ kiểm tra TX1.",
+      "ma_clo": [
+        "L1L3"
+      ],
+      "ten_bai_en": "Comprehensive Exercises and Continuous Assessment 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phương thức toán tử",
+      "noi_dung_tom_tat": "Bài học đi sâu vào kỹ thuật quá tải toán tử để thực hiện các phép toán logic và số học trên đối tượng. Đây là kỹ năng quan trọng để làm cho các đối tượng trong lớp tự định nghĩa trở nên trực quan và dễ sử dụng hơn.",
+      "ma_clo": [
+        "L2L3L4"
+      ],
+      "ten_bai_en": "Operator Overloading",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp và kiểm tra TX2",
+      "noi_dung_tom_tat": "Bài học tổng kết kiến thức về đa hình, kế thừa và xử lý ngoại lệ thông qua các bài tập chuyên sâu. Đây là bước chuẩn bị cuối cùng để đánh giá năng lực lập trình hướng đối tượng của sinh viên trong kỳ kiểm tra TX2.",
+      "ma_clo": [
+        "L2L4"
+      ],
+      "ten_bai_en": "Comprehensive Exercises and Continuous Assessment 2",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "adf6f2bdb7a42b6eff985033a87dbabb"
+}

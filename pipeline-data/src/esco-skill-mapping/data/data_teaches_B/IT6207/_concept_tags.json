@@ -1,0 +1,924 @@
+{
+  "course_code": "IT6207",
+  "concept_tags": [
+    {
+      "text": "information technology enterprise",
+      "normalized": "information technology enterprise"
+    },
+    {
+      "text": "communication culture",
+      "normalized": "communication culture"
+    },
+    {
+      "text": "industrial working style",
+      "normalized": "industrial working style"
+    },
+    {
+      "text": "production process",
+      "normalized": "production process"
+    },
+    {
+      "text": "information technology enterprises",
+      "normalized": "information technology enterprises"
+    },
+    {
+      "text": "business processes",
+      "normalized": "business processes"
+    },
+    {
+      "text": "information system development",
+      "normalized": "information system development"
+    },
+    {
+      "text": "operation processes",
+      "normalized": "operation processes"
+    },
+    {
+      "text": "legal regulations",
+      "normalized": "legal regulations"
+    },
+    {
+      "text": "ethical standards",
+      "normalized": "ethical standards"
+    },
+    {
+      "text": "professional responsibility",
+      "normalized": "professional responsibility"
+    },
+    {
+      "text": "specialized knowledge",
+      "normalized": "specialized knowledge"
+    },
+    {
+      "text": "teamwork skills",
+      "normalized": "teamwork skills"
+    },
+    {
+      "text": "professional communication skills",
+      "normalized": "professional communication skills"
+    },
+    {
+      "text": "legal principles",
+      "normalized": "legal principles"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "information systems professional",
+      "normalized": "information systems professional"
+    },
+    {
+      "text": "professional responsibilities",
+      "normalized": "professional responsibilities"
+    },
+    {
+      "text": "professional ethics principles",
+      "normalized": "professional ethics principles"
+    },
+    {
+      "text": "social standards",
+      "normalized": "social standards"
+    },
+    {
+      "text": "information technology",
+      "normalized": "information technology"
+    },
+    {
+      "text": "internship environment",
+      "normalized": "internship environment"
+    },
+    {
+      "text": "system survey",
+      "normalized": "system survey"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation"
+    },
+    {
+      "text": "internship report writing",
+      "normalized": "internship report writing"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6207",
+      "concept_tag": "information technology enterprise",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MOTA_MAIN",
+        "IT6207_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "communication culture",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "industrial working style",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "production process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "information technology enterprises",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "business processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "information system development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "operation processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "legal regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "ethical standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional responsibility",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "specialized knowledge",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "teamwork skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional communication skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "legal principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "information systems professional",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional responsibilities",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "professional ethics principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "social standards",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "information technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "internship environment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "system survey",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "technical documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6207",
+      "concept_tag": "internship report writing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6207_BAIHOC_L05"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7353194417568084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7353194417568084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7353194417568084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7353194417568084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7353194417568084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specialized knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.7352715135061785,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internship environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "esco_label": "manage personal professional development",
+      "confidence": 0.7325784880092859,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "esco_label": "keep up with the latest information systems solutions",
+      "confidence": 0.7306581864109913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional responsibilities",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internship environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "esco_label": "identify legal requirements",
+      "confidence": 0.722995676717233,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "communication culture",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.7196897936658679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.7196897936658679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.7196897936658679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13",
+      "esco_label": "apply technical communication skills",
+      "confidence": 0.7196897936658679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7320067023405026,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7320067023405026,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7320067023405026,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7320067023405026,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "esco_label": "develop information security strategy",
+      "confidence": 0.7320067023405026,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7185484859823913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7185484859823913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internship environment",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7185484859823913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7185484859823913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internship report writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7185484859823913,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7119682864005442,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7119682864005442,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7119682864005442,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "internship report writing",
+      "esco_uri": "http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8",
+      "esco_label": "apply research ethics and scientific integrity principles in research activities",
+      "confidence": 0.7119682864005442,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.723785329357458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.723785329357458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.723785329357458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.723785329357458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092",
+      "esco_label": "analyse ICT system",
+      "confidence": 0.723785329357458,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7268880058745364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7268880058745364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7268880058745364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7268880058745364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7268880058745364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "specialized knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.7196818435355588,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "business processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system survey",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+      "esco_label": "decision support systems",
+      "confidence": 0.7143653659145944,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.7186902085265694,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprise",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology enterprises",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "ethical standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "legal principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems professional",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "social standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "esco_label": "ICT security standards",
+      "confidence": 0.706299866469568,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 25,
+    "total_has_concept_edges": 25,
+    "total_evidence_for_edges": 87
+  }
+}

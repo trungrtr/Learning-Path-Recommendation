@@ -1,0 +1,219 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+    "preferred_label": "compose description for web elements",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6222_BS",
+    "course_title": "Tích hợp hệ thống phần mềm",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7429549986494272,
+    "cross_encoder_score": 0.9628916382789612,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course focuses on system integration, Web APIs, and data formats (XML, JSON), not on web content accessibility or element descriptions."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course equips students with advanced concepts, methods, techniques, and technologies such as XML, JSON, and Web APIs necessary to solve software system integration problems. Upon completion of the course, learners will be able to analyze requirements, design, and develop complete Web APIs capable of integrating with various platforms to meet practical requirements in modern software development.",
+      "meta": {
+        "matched_mention": "Web APIs"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Developing skills in requirement analysis, design, building complete Web APIs, and developing client applications to consume Web APIs for integration across various platforms.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Web API design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO1",
+      "text": "Demonstrate comprehensive knowledge of software system integration, XML, XSD, XSLT, JSON, and DOM data structures, as well as the operational principles of RESTful web services.",
+      "meta": {
+        "muc_do": "U",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "XML"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "CLO2",
+      "text": "Proficiently design and build complete Web APIs and develop applications that consume Web APIs to effectively integrate different software platforms to meet practical requirements.",
+      "meta": {
+        "muc_do": "A",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "RESTful Web Services; Web APIs"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L02",
+      "text": "XML and XSD",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ],
+        "matched_mention": "XML"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "- RESTful Web Service",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L4"
+        ],
+        "matched_mention": "RESTful Web Service"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Web API Development Practical",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "Web API Development"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L11",
+      "text": "Building Web API Consumer Applications",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Building Web API Consumer Applications Practical",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3",
+          "L4"
+        ],
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L13",
+      "text": "Building Web API Consumer Applications Practical (cont.)",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L4"
+        ],
+        "matched_mention": "Web API"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L06",
+      "text": "JSON and DOM",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "DOM"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "JSON and DOM Practical",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ],
+        "matched_mention": "DOM"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L08",
+      "text": "- JSON and DOM Practical (cont.); Mid-term Test 2",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L3"
+        ],
+        "matched_mention": "DOM"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 8,
+      "dense_rank": 3,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

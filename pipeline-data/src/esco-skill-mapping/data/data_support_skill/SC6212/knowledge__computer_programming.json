@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+    "preferred_label": "computer programming",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6212",
+    "course_title": "Java Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "computational logic; systematic problem decomposition",
+    "evidence_text": "Forms a serious, proactive learning attitude and logical thinking during the programming learning process"
+  },
+  "scoring": {
+    "final_score": 0.761516,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course teaches fundamental programming techniques, problem analysis, and software implementation, which are foundational to general computer programming.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

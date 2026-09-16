@@ -1,0 +1,217 @@
+{
+  "course_code": "BS6054_BS",
+  "concept_tags": [
+    {
+      "text": "mathematical modeling",
+      "normalized": "mathematical modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "quantitative reasoning",
+      "normalized": "quantitative reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systematic problem solving",
+      "normalized": "systematic problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical observation",
+      "normalized": "critical observation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "data interpretation",
+      "normalized": "data interpretation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "precision and accuracy",
+      "normalized": "precision and accuracy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "scientific methodology",
+      "normalized": "scientific methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract conceptualization",
+      "normalized": "abstract conceptualization",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "foundational"
+    },
+    {
+      "text": "analytical rigor",
+      "normalized": "analytical rigor",
+      "loai": "cognitive"
+    },
+    {
+      "text": "deductive reasoning",
+      "normalized": "deductive reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "experimental design mindset",
+      "normalized": "experimental design mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "statistical awareness",
+      "normalized": "statistical awareness",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "mathematical modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "quantitative reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "systematic problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "critical observation",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "data interpretation",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "precision and accuracy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "scientific methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "abstract conceptualization",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "analytical rigor",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "deductive reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "experimental design mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6054_BS",
+      "concept_tag": "statistical awareness",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "abstract conceptualization",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.826012,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.826012,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "analytical rigor",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.698138,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "precision and accuracy",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.698138,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.698138,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.696301,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "scientific methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "esco_label": "computer science",
+      "confidence": 0.696301,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "experimental design mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.675368,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.675368,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 9
+  }
+}

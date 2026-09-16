@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+    "preferred_label": "computer science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6244",
+    "course_title": "Artificial Intelligence"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; systematic experimentation",
+    "evidence_text": "Select and experiment with appropriate solutions for practical problems"
+  },
+  "scoring": {
+    "final_score": 0.635352,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Artificial Intelligence is a major subfield of computer science, and the course covers fundamental algorithmic concepts.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

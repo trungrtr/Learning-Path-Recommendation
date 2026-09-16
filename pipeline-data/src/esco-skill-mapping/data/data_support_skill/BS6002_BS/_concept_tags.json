@@ -1,0 +1,204 @@
+{
+  "course_code": "BS6002_BS",
+  "concept_tags": [
+    {
+      "text": "logical deduction",
+      "normalized": "logical deduction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "rigorous argumentation",
+      "normalized": "rigorous argumentation",
+      "loai": "cognitive"
+    },
+    {
+      "text": "mathematical modeling",
+      "normalized": "mathematical modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "foundational"
+    },
+    {
+      "text": "persistence in problem solving",
+      "normalized": "persistence in problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "precision and attention to detail",
+      "normalized": "precision and attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "quantitative literacy",
+      "normalized": "quantitative literacy",
+      "loai": "foundational"
+    },
+    {
+      "text": "systematic approach to complexity",
+      "normalized": "systematic approach to complexity",
+      "loai": "foundational"
+    },
+    {
+      "text": "conceptual synthesis",
+      "normalized": "conceptual synthesis",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical analysis of assumptions",
+      "normalized": "critical analysis of assumptions",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "logical deduction",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "rigorous argumentation",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "mathematical modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "persistence in problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "precision and attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "quantitative literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "systematic approach to complexity",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "conceptual synthesis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6002_BS",
+      "concept_tag": "critical analysis of assumptions",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "critical analysis of assumptions",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.665144,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "esco_label": "statistical modeling techniques",
+      "confidence": 0.665144,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.633784,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.633784,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.633784,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.627045,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "esco_label": "image recognition",
+      "confidence": 0.627045,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "mathematical modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.603829,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "persistence in problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.603829,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systematic approach to complexity",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.603829,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 10
+  }
+}

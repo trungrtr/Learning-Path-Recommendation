@@ -1,0 +1,197 @@
+{
+  "course_code": "SC6202",
+  "concept_tags": [
+    {
+      "text": "abstract thinking",
+      "normalized": "abstract thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "quantitative reasoning",
+      "normalized": "quantitative reasoning",
+      "loai": "foundational"
+    },
+    {
+      "text": "decision-making under constraints",
+      "normalized": "decision-making under constraints",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "logical deduction",
+      "normalized": "logical deduction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "mathematical abstraction",
+      "normalized": "mathematical abstraction",
+      "loai": "cognitive"
+    },
+    {
+      "text": "critical evaluation of trade-offs",
+      "normalized": "critical evaluation of trade-offs",
+      "loai": "cognitive"
+    },
+    {
+      "text": "algorithmic mindset",
+      "normalized": "algorithmic mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "pattern recognition",
+      "normalized": "pattern recognition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "strategic planning",
+      "normalized": "strategic planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "analytical rigor",
+      "normalized": "analytical rigor",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6202",
+      "concept_tag": "abstract thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "quantitative reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "decision-making under constraints",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "logical deduction",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "mathematical abstraction",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "critical evaluation of trade-offs",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "algorithmic mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "strategic planning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "analytical rigor",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "algorithmic mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.83403,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.83403,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "algorithmic mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.77021,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.77021,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of trade-offs",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.769943,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "pattern recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "esco_label": "utilise machine learning",
+      "confidence": 0.769943,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.686285,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quantitative reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.686285,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "strategic planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.686285,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 9
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+    "preferred_label": "ICT security standards",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.706299866469568,
+    "cross_encoder_score": 0.9756715297698975,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "REJECT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course mentions legal regulations and professional ethics, but does not explicitly teach ICT security standards like ISO 27000."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "The enterprise internship is the final internship for students before doing their graduation thesis. The internship takes place outside the enterprise, under the supervision of an academic advisor and with professional support from company technicians. During this internship, students participate more deeply in the direct production and business activities of an information technology enterprise. The course helps students systemize the knowledge and skills learned in school and initially apply them to practical work. The course also helps students approach and practice communication culture, form an industrial working style, and participate in the production process at the enterprise.",
+      "meta": {
+        "matched_mention": "information technology enterprise"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Equip students with an understanding of the practical working environment of information technology enterprises, including production and business processes, as well as information system development and operation processes; while raising awareness of legal regulations, ethical standards, and professional responsibility in practice.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "information technology enterprises; ethical standards"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Train students in the ability to apply specialized knowledge to practical work at enterprises; develop teamwork and professional communication skills; and initially analyze and evaluate situations arising in professional practice based on legal principles and professional ethics.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "professional communication skills; legal principles"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Determine the role and professional responsibilities of an Information Systems professional and successfully complete assigned tasks when participating in practical activities at an enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4.1"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "information systems professional"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Analyze and evaluate situations arising during the internship at an information technology enterprise.",
+      "meta": {
+        "pi_so": [
+          "PI 4."
+        ],
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "information technology enterprise"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Evaluate and select appropriate behavior in professional situations based on professional ethics principles and social standards in the field of information technology.",
+      "meta": {
+        "pi_so": [
+          "PI 4.3"
+        ],
+        "muc_do": "U",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "information technology; social standards"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 9,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

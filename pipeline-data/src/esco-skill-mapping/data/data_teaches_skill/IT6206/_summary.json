@@ -1,0 +1,118 @@
+{
+  "course_code": "IT6206",
+  "course_title": "Graduation Thesis",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 10,
+    "skill_count": 9,
+    "knowledge_count": 1,
+    "tier_distribution": {
+      "PRIMARY": 10
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7378,
+      "cross_encoder_score": 0.9923,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.7244,
+      "cross_encoder_score": 0.992,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "integrate system components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "confidence": 0.7234,
+      "cross_encoder_score": 0.9942,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    },
+    {
+      "preferred_label": "develop information security strategy",
+      "esco_uri": "http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4",
+      "confidence": 0.7206,
+      "cross_encoder_score": 0.994,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "monitor system performance",
+      "esco_uri": "http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd",
+      "confidence": 0.7198,
+      "cross_encoder_score": 0.9936,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "create solutions to problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "confidence": 0.7182,
+      "cross_encoder_score": 0.9935,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "propose ICT solutions to business problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328",
+      "confidence": 0.7163,
+      "cross_encoder_score": 0.9925,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7158,
+      "cross_encoder_score": 0.9925,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    },
+    {
+      "preferred_label": "develop strategy to solve problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "confidence": 0.7114,
+      "cross_encoder_score": 0.9838,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 4
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT system user requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff",
+      "confidence": 0.6979,
+      "cross_encoder_score": 0.9894,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5
+    }
+  ],
+  "schema_version": "3.0"
+}

@@ -1,0 +1,49 @@
+{
+  "course_code": "IT6218",
+  "course_title": "Database Management System (DBMS)",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 5,
+    "skill_count": 1,
+    "knowledge_count": 4
+  },
+  "skills": [
+    {
+      "preferred_label": "demonstrate disciplinary expertise",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "final_score": 0.608,
+      "support_concept_origin": "complex system architecture understanding; data integrity awareness",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "final_score": 0.7993,
+      "support_concept_origin": "complex system architecture understanding; process optimization; resource management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "software architecture models",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "final_score": 0.6701,
+      "support_concept_origin": "complex system architecture understanding; structured thinking",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "database",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "final_score": 0.5561,
+      "support_concept_origin": "complex system architecture understanding; resource management",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "final_score": 0.5316,
+      "support_concept_origin": "complex system architecture understanding; process optimization; structured thinking",
+      "review_status": "accepted"
+    }
+  ]
+}

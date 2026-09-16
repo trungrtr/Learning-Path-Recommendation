@@ -1,0 +1,96 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về khai thác dữ liệu",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản, quy trình thực hiện khai thác dữ liệu và vai trò của nó trong việc hỗ trợ ra quyết định. Học viên sẽ làm quen với các kỹ thuật tiền xử lý dữ liệu và cấu trúc của một hệ thống khai thác dữ liệu tiêu chuẩn.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Data Mining",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Khai phá luật kết hợp",
+      "noi_dung_tom_tat": "Nội dung tập trung vào việc tìm kiếm các mối quan hệ ẩn giấu giữa các tập hợp dữ liệu bằng thuật toán Apriori. Học viên sẽ hiểu cách xác định các luật kết hợp mạnh thông qua các độ đo hỗ trợ (support) và độ tin cậy (confidence).",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Association Rule Mining",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân lớp dữ liệu",
+      "noi_dung_tom_tat": "Bài học cung cấp kiến thức về các kỹ thuật phân loại dữ liệu dựa trên các mô hình như cây quyết định, Naive Bayes và mạng nơ-ron. Mục tiêu là giúp học viên xây dựng các mô hình có khả năng dự báo lớp nhãn cho dữ liệu mới.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Data Classification",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Phân cụm dữ liệu",
+      "noi_dung_tom_tat": "Nội dung giới thiệu các thuật toán phân cụm không giám sát nhằm nhóm các đối tượng tương tự lại với nhau. Học viên sẽ tìm hiểu về cách đo lường khoảng cách và các phương pháp phân cụm phổ biến như K-means và phân cụm phân cấp.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Data Clustering",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số ứng dụng của khai thác dữ liệu",
+      "noi_dung_tom_tat": "Bài học khám phá các ứng dụng thực tiễn của khai thác dữ liệu trong lĩnh vực kinh doanh, y tế và thương mại điện tử. Qua đó, học viên thấy được tầm quan trọng của việc chuyển đổi dữ liệu thô thành tri thức hữu ích.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Some Applications of Data Mining",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành tìm luật kết hợp",
+      "noi_dung_tom_tat": "Học viên thực hành triển khai thuật toán tìm luật kết hợp trên các bộ dữ liệu thực tế bằng công cụ lập trình. Bài học tập trung vào việc tinh chỉnh tham số để thu được các luật có giá trị thực tiễn.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Association Rule Mining",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành phân lớp dựa trên cây quyết",
+      "noi_dung_tom_tat": "Thực hành xây dựng mô hình phân lớp sử dụng thuật toán cây quyết định để dự báo các kết quả dựa trên thuộc tính đầu vào. Học viên sẽ học cách đánh giá hiệu năng mô hình thông qua các ma trận nhầm lẫn.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Practical Decision Tree-Based Classification",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành phân lớp dựa trên xác suất và mạng nơ-ron",
+      "noi_dung_tom_tat": "Hướng dẫn thực hành xây dựng mô hình phân lớp dựa trên xác suất (Naive Bayes) và mạng nơ-ron đơn giản. Học viên sẽ làm quen với việc huấn luyện và tối ưu hóa các tham số cho mô hình.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Probability and Neural Network-Based Classification",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành thuật toán k-means và thuật toán gộp",
+      "noi_dung_tom_tat": "Bài học hướng dẫn thực hiện thuật toán K-means và các thuật toán gộp nhóm trên dữ liệu số. Học viên sẽ thực hành đánh giá độ chặt chẽ và mức độ tách biệt của các cụm kết quả.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical K-Means and Agglomerative Clustering Algorithms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành một số ứng dụng của khai phá dữ liệu",
+      "noi_dung_tom_tat": "Học viên thực hành ứng dụng các mô hình khai phá đã học vào việc giải quyết một bài toán dữ liệu cụ thể. Đây là bước tổng hợp để phát triển kỹ năng phân tích và đưa ra giải pháp từ dữ liệu thực tế.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical Applications of Data Mining",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "d2e7438f57065543ad6a11272eac1afd"
+}

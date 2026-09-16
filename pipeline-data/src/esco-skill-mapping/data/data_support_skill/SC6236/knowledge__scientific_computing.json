@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+    "preferred_label": "scientific computing",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6236",
+    "course_title": "Data Mining and Applications"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; critical thinking; technical adaptability",
+    "evidence_text": "Description: The course provides learners with basic ideas and issues related to data prediction and description"
+  },
+  "scoring": {
+    "final_score": 0.634699,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Scientific computing often involves the application of data mining and statistical algorithms to solve complex problems in science and engineering.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

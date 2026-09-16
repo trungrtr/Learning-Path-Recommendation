@@ -1,0 +1,3756 @@
+{
+  "course_code": "SC6228",
+  "concept_tags": [
+    {
+      "text": "e-commerce applications",
+      "normalized": "e-commerce applications"
+    },
+    {
+      "text": "WordPress platform",
+      "normalized": "wordpress platform"
+    },
+    {
+      "text": "CMS system",
+      "normalized": "cms system"
+    },
+    {
+      "text": "inventory management",
+      "normalized": "inventory management"
+    },
+    {
+      "text": "automated payment configuration",
+      "normalized": "automated payment configuration"
+    },
+    {
+      "text": "WooCommerce",
+      "normalized": "woocommerce"
+    },
+    {
+      "text": "e-commerce websites",
+      "normalized": "e-commerce websites"
+    },
+    {
+      "text": "online sales systems",
+      "normalized": "online sales systems"
+    },
+    {
+      "text": "WordPress ecosystem",
+      "normalized": "wordpress ecosystem"
+    },
+    {
+      "text": "open-source code structure",
+      "normalized": "open-source code structure"
+    },
+    {
+      "text": "Themes and Plugins",
+      "normalized": "themes and plugins"
+    },
+    {
+      "text": "content presentation principles",
+      "normalized": "content presentation principles"
+    },
+    {
+      "text": "SEO-standard E-commerce website",
+      "normalized": "seo-standard e-commerce website"
+    },
+    {
+      "text": "product management",
+      "normalized": "product management"
+    },
+    {
+      "text": "order management",
+      "normalized": "order management"
+    },
+    {
+      "text": "online payment methods",
+      "normalized": "online payment methods"
+    },
+    {
+      "text": "shipping methods",
+      "normalized": "shipping methods"
+    },
+    {
+      "text": "website security methods",
+      "normalized": "website security methods"
+    },
+    {
+      "text": "page load speed optimization",
+      "normalized": "page load speed optimization"
+    },
+    {
+      "text": "e-commerce site optimization",
+      "normalized": "e-commerce site optimization"
+    },
+    {
+      "text": "news site design",
+      "normalized": "news site design"
+    },
+    {
+      "text": "layout design",
+      "normalized": "layout design"
+    },
+    {
+      "text": "article management",
+      "normalized": "article management"
+    },
+    {
+      "text": "interactive features",
+      "normalized": "interactive features"
+    },
+    {
+      "text": "sales system design",
+      "normalized": "sales system design"
+    },
+    {
+      "text": "WooCommerce configuration",
+      "normalized": "woocommerce configuration"
+    },
+    {
+      "text": "online store integration",
+      "normalized": "online store integration"
+    },
+    {
+      "text": "interface customization",
+      "normalized": "interface customization"
+    },
+    {
+      "text": "Page Builders",
+      "normalized": "page builders"
+    },
+    {
+      "text": "Landing Page design",
+      "normalized": "landing page design"
+    },
+    {
+      "text": "multi-channel integration",
+      "normalized": "multi-channel integration"
+    },
+    {
+      "text": "Google Analytics",
+      "normalized": "google analytics"
+    },
+    {
+      "text": "sales affiliate tools",
+      "normalized": "sales affiliate tools"
+    },
+    {
+      "text": "system administration",
+      "normalized": "system administration"
+    },
+    {
+      "text": "Hosting and Domain",
+      "normalized": "hosting and domain"
+    },
+    {
+      "text": "data storage management",
+      "normalized": "data storage management"
+    },
+    {
+      "text": "commercial operations",
+      "normalized": "commercial operations"
+    },
+    {
+      "text": "product category management",
+      "normalized": "product category management"
+    },
+    {
+      "text": "order processing",
+      "normalized": "order processing"
+    },
+    {
+      "text": "customer feedback handling",
+      "normalized": "customer feedback handling"
+    },
+    {
+      "text": "intellectual property regulations",
+      "normalized": "intellectual property regulations"
+    },
+    {
+      "text": "customer information security",
+      "normalized": "customer information security"
+    },
+    {
+      "text": "e-commerce market demands",
+      "normalized": "e-commerce market demands"
+    },
+    {
+      "text": "technology knowledge",
+      "normalized": "technology knowledge"
+    },
+    {
+      "text": "content management systems",
+      "normalized": "content management systems"
+    },
+    {
+      "text": "e-commerce sales websites",
+      "normalized": "e-commerce sales websites"
+    },
+    {
+      "text": "information technology principles",
+      "normalized": "information technology principles"
+    },
+    {
+      "text": "sales website development",
+      "normalized": "sales website development"
+    },
+    {
+      "text": "E-commerce overview",
+      "normalized": "e-commerce overview"
+    },
+    {
+      "text": "WordPress installation",
+      "normalized": "wordpress installation"
+    },
+    {
+      "text": "WordPress themes",
+      "normalized": "wordpress themes"
+    },
+    {
+      "text": "Website structure",
+      "normalized": "website structure"
+    },
+    {
+      "text": "News website building",
+      "normalized": "news website building"
+    },
+    {
+      "text": "WordPress development",
+      "normalized": "wordpress development"
+    },
+    {
+      "text": "WordPress plugins",
+      "normalized": "wordpress plugins"
+    },
+    {
+      "text": "PHP programming",
+      "normalized": "php programming"
+    },
+    {
+      "text": "E-commerce website building",
+      "normalized": "e-commerce website building"
+    },
+    {
+      "text": "News integration",
+      "normalized": "news integration"
+    },
+    {
+      "text": "Website optimization",
+      "normalized": "website optimization"
+    },
+    {
+      "text": "Website security",
+      "normalized": "website security"
+    },
+    {
+      "text": "Website deployment",
+      "normalized": "website deployment"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN",
+        "SC6228_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "cms system",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "inventory management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN",
+        "SC6228_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "automated payment configuration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "woocommerce",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MOTA_MAIN",
+        "SC6228_MUCTIEU_MT4",
+        "SC6228_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce websites",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "online sales systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress ecosystem",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "open-source code structure",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "themes and plugins",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "content presentation principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "seo-standard e-commerce website",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "product management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT4",
+        "SC6228_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "order management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT4",
+        "SC6228_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "online payment methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "shipping methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "website security methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "page load speed optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce site optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT5"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "news site design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "layout design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "article management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "interactive features",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT6"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "sales system design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "woocommerce configuration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "online store integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT7"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "interface customization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT8",
+        "SC6228_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "page builders",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "landing page design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT8"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "multi-channel integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "google analytics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "sales affiliate tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT9"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "system administration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "hosting and domain",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "data storage management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT10"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "commercial operations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT11"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "product category management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT11"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "order processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT11"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "customer feedback handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT11"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "intellectual property regulations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "customer information security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT12"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce market demands",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_MUCTIEU_MT13"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "technology knowledge",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "content management systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce sales websites",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "information technology principles",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "sales website development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce overview",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress installation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress themes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "website structure",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "news website building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "wordpress plugins",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "php programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "e-commerce website building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "news integration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "website optimization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "website security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6228",
+      "concept_tag": "website deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6228_BAIHOC_L10"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "google analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "esco_label": "manage online content",
+      "confidence": 0.7899419096982204,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "themes and plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "esco_label": "enhance website visibility",
+      "confidence": 0.7868732859386137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inventory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.7842569577951677,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "google analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress themes",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7705825883089121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "themes and plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layout design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface customization",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "esco_label": "implement front-end website design",
+      "confidence": 0.7699527198750615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "google analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "esco_label": "perform online data analysis",
+      "confidence": 0.7676133152352923,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer feedback handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "esco_label": "provide customer follow-up services",
+      "confidence": 0.7601045044624494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "themes and plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6",
+      "esco_label": "use e-procurement",
+      "confidence": 0.7507845841657301,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inventory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer feedback handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38",
+      "esco_label": "use customer relationship management software",
+      "confidence": 0.7372913310721616,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface customization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e23e81f5-18db-49aa-ad9b-b3d0fdcad1d2",
+      "esco_label": "troubleshoot website",
+      "confidence": 0.7458748286245171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "google analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer feedback handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fe76a8b-4d5f-4cea-b76b-5908463fb014",
+      "esco_label": "study website behaviour patterns",
+      "confidence": 0.7255796312354006,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "themes and plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website security methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layout design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface customization",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "esco_label": "translate requirements into visual design",
+      "confidence": 0.6453864136753287,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/628664ec-a63b-4486-8d65-02aba81c82a0",
+      "esco_label": "ICT sales methodologies",
+      "confidence": 0.7672302615717183,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress themes",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+      "esco_label": "WordPress",
+      "confidence": 0.7546828063223916,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inventory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "commercial operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7487938902070603,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intellectual property regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "esco_label": "trading software",
+      "confidence": 0.7333499066950507,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interactive features",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "intellectual property regulations",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd",
+      "esco_label": "product comprehension",
+      "confidence": 0.7474135402961138,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inventory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "landing page design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data storage management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7305904800919523,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inventory management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cms system",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer feedback handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "commercial operations",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "customer information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce market demands",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technology knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "esco_label": "business ICT systems",
+      "confidence": 0.7202519270218486,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source code structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interactive features",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "order processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress themes",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/d4789070-2ff7-4bbb-94ca-8bb1739826a9",
+      "esco_label": "authoring software",
+      "confidence": 0.6994332861634063,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "automated payment configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cms system",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "themes and plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "article management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface customization",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "product category management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7040067835523809,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cms system",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page load speed optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "esco_label": "WebCMS",
+      "confidence": 0.6468656314077749,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online sales systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online payment methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interactive features",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "online store integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales affiliate tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "multi-channel integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/93e65de1-923c-437e-aa5b-e6002967ce71",
+      "esco_label": "web based collaborative platforms",
+      "confidence": 0.6475701221291642,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source code structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress ecosystem",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "seo-standard e-commerce website",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page load speed optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hosting and domain",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce sales websites",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/d2adb565-a865-424d-aeb5-9fbcbf2afe2a",
+      "esco_label": "Joomla",
+      "confidence": 0.6353486413631084,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source code structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce site optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "woocommerce configuration",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "page builders",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content management systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "php programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce website building",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "esco_label": "web programming",
+      "confidence": 0.593552415087985,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "e-commerce applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "open-source code structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "content presentation principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "news site design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "layout design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "interface customization",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sales website development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website structure",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "wordpress plugins",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "website optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.5568355561069014,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 61,
+    "total_has_concept_edges": 61,
+    "total_evidence_for_edges": 429
+  }
+}

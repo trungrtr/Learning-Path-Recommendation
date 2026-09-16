@@ -1,0 +1,3585 @@
+{
+  "ma_ctdt": "7480104",
+  "crawl_course_key": "CTDT_7480104",
+  "program": {
+    "ma_ctdt": "7480104",
+    "ten_ctdt": "Hệ thống thông tin",
+    "bac_dao_tao": "Đại học",
+    "phien_ban": "v1",
+    "source_file": "CTDT_7480104.json",
+    "ten_ctdt_en": "Information Systems",
+    "bac_dao_tao_en": "University"
+  },
+  "courses": [
+    {
+      "ma_hoc_phan": "LP6010_BS",
+      "ma_hoc_phan_goc": "LP6010",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6010",
+          "ten_hoc_phan": "Triết học Mác-Lênin",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Marxist-Leninist Philosophy"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6025_BS",
+      "ma_hoc_phan_goc": "LP6025",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6025",
+          "ten_hoc_phan": "Kinh tế chính trị Mác-Lênin",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Marxist-Leninist Political Economy"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6026_BS",
+      "ma_hoc_phan_goc": "LP6026",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6026",
+          "ten_hoc_phan": "Chủ nghĩa xã hội khoa học",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Scientific Socialism"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6022_BS",
+      "ma_hoc_phan_goc": "LP6022",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6022",
+          "ten_hoc_phan": "Tư tưởng Hồ Chí Minh",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Ho Chi Minh Thought"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6027_BS",
+      "ma_hoc_phan_goc": "LP6027",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6027",
+          "ten_hoc_phan": "Lịch sử Đảng Cộng sản Việt Nam",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "History of the Communist Party of Vietnam"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6021_BS",
+      "ma_hoc_phan_goc": "LP6021",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6021",
+          "ten_hoc_phan": "Pháp luật đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Law"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6001_BS",
+      "ma_hoc_phan_goc": "BS6001",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6001",
+          "ten_hoc_phan": "Đại số tuyến tính",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Linear Algebra"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6038_BS",
+      "ma_hoc_phan_goc": "BS6038",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6038",
+          "ten_hoc_phan": "Giải tích",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Calculus"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6223",
+      "ma_hoc_phan_goc": "SC6223",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6223",
+          "ten_hoc_phan": "Toán rời rạc",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Discrete Mathematics"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6054_BS",
+      "ma_hoc_phan_goc": "BS6054",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6054",
+          "ten_hoc_phan": "Vật lý đại cương",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Physics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6042_BS",
+      "ma_hoc_phan_goc": "BS6042",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6042",
+          "ten_hoc_phan": "Xác suất thống kê",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Probability and Statistics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6221",
+      "ma_hoc_phan_goc": "SC6221",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_TCKHTN",
+          "ma_phan": "I.2",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6221",
+          "ten_hoc_phan": "Phương pháp số trong lập trình",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Numerical Methods in Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6202",
+      "ma_hoc_phan_goc": "SC6202",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_TCKHTN",
+          "ma_phan": "I.2",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6202",
+          "ten_hoc_phan": "Tối ưu hóa",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Optimization"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6018_BS",
+      "ma_hoc_phan_goc": "BS6018",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6018",
+          "ten_hoc_phan": "Giao tiếp liên văn hóa",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Intercultural Communication"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6021_BS",
+      "ma_hoc_phan_goc": "BS6021",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6021",
+          "ten_hoc_phan": "Con người và môi trường",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Human and Environment"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BM6001_BS",
+      "ma_hoc_phan_goc": "BM6001",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BM6001",
+          "ten_hoc_phan": "Kinh tế học đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Economics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6019_BS",
+      "ma_hoc_phan_goc": "BS6019",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6019",
+          "ten_hoc_phan": "Nhập môn nghiên cứu khoa học",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Introduction to Scientific Research"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6020_BS",
+      "ma_hoc_phan_goc": "BS6020",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6020",
+          "ten_hoc_phan": "Quan hệ lao động và việc làm",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Labor Relations and Employment"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BM6091_BS",
+      "ma_hoc_phan_goc": "BM6091",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BM6091",
+          "ten_hoc_phan": "Quản lý dự án",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Project Management"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6050_BS",
+      "ma_hoc_phan_goc": "BS6050",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6050",
+          "ten_hoc_phan": "Âm nhạc đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Music"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6052_BS",
+      "ma_hoc_phan_goc": "BS6052",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6052",
+          "ten_hoc_phan": "Mỹ thuật đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Fine Arts"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6051_BS",
+      "ma_hoc_phan_goc": "BS6051",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6051",
+          "ten_hoc_phan": "Nghệ thuật học đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Art History"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SL6343",
+      "ma_hoc_phan_goc": "SL6343",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN1",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6343",
+          "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Information Technology English 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6344",
+      "ma_hoc_phan_goc": "SL6344",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN1",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6344",
+          "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Information Technology English 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6347",
+      "ma_hoc_phan_goc": "SL6347",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN2",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6347",
+          "ten_hoc_phan": "Tiếng Trung 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Chinese 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6348",
+      "ma_hoc_phan_goc": "SL6348",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN2",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6348",
+          "ten_hoc_phan": "Tiếng Trung 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Chinese 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6349",
+      "ma_hoc_phan_goc": "SL6349",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN3",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6349",
+          "ten_hoc_phan": "Tiếng Nhật 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Japanese 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6350",
+      "ma_hoc_phan_goc": "SL6350",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN3",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6350",
+          "ten_hoc_phan": "Tiếng Nhật 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Japanese 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6351",
+      "ma_hoc_phan_goc": "SL6351",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN4",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6351",
+          "ten_hoc_phan": "Tiếng Hàn 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Korean 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6352",
+      "ma_hoc_phan_goc": "SL6352",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN4",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6352",
+          "ten_hoc_phan": "Tiếng Hàn 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Korean 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6582",
+      "ma_hoc_phan_goc": "FL6582",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN5",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6582",
+          "ten_hoc_phan": "Tiếng Đức 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "German 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6583",
+      "ma_hoc_phan_goc": "FL6583",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_4_TCNN5",
+          "ma_phan": "I.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6583",
+          "ten_hoc_phan": "Tiếng Đức 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "German 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "IT6217_BS",
+      "ma_hoc_phan_goc": "IT6217",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6217",
+          "ten_hoc_phan": "Nhập môn về kỹ thuật",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Introduction to Engineering"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6202_BS",
+      "ma_hoc_phan_goc": "IT6202",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6202",
+          "ten_hoc_phan": "Kiến trúc máy tính",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Computer Architecture"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6208_BS",
+      "ma_hoc_phan_goc": "SC6208",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6208",
+          "ten_hoc_phan": "Kỹ thuật lập trình",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Programming Techniques"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6205",
+      "ma_hoc_phan_goc": "SC6205",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6205",
+          "ten_hoc_phan": "Cấu trúc dữ liệu và giải thuật",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Data Structures and Algorithms"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6203_BS",
+      "ma_hoc_phan_goc": "IT6203",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6203",
+          "ten_hoc_phan": "Nguyên lý hệ điều hành",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Operating Systems Principles"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6206",
+      "ma_hoc_phan_goc": "SC6206",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6206",
+          "ten_hoc_phan": "Cơ sở dữ liệu",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Databases"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6211",
+      "ma_hoc_phan_goc": "SC6211",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6211",
+          "ten_hoc_phan": "Lập trình hướng đối tượng",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Object-Oriented Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6224",
+      "ma_hoc_phan_goc": "SC6224",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6224",
+          "ten_hoc_phan": "Thiết kế Web",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Web Design"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6204",
+      "ma_hoc_phan_goc": "IT6204",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6204",
+          "ten_hoc_phan": "Phân tích thiết kế hệ thống",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 2,
+          "ten_hoc_phan_en": "Systems Analysis and Design"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6244",
+      "ma_hoc_phan_goc": "SC6244",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6244",
+          "ten_hoc_phan": "Trí tuệ nhân tạo",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Artificial Intelligence"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6240",
+      "ma_hoc_phan_goc": "SC6240",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6240",
+          "ten_hoc_phan": "Mạng máy tính",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Computer Networks"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6200",
+      "ma_hoc_phan_goc": "SC6200",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_2",
+          "ma_phan": "II.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6200",
+          "ten_hoc_phan": "An toàn và bảo mật thông tin",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Information Security and Privacy"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6218",
+      "ma_hoc_phan_goc": "IT6218",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6218",
+          "ten_hoc_phan": "Hệ quản trị cơ sở dữ liệu",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Database Management Systems"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6239",
+      "ma_hoc_phan_goc": "SC6239",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6239",
+          "ten_hoc_phan": "Nhập môn công nghệ phần mềm",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 4,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Introduction to Software Engineering"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6014",
+      "ma_hoc_phan_goc": "SC6014",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6014",
+          "ten_hoc_phan": "Đồ án cơ sở ngành (HTTT)",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 2,
+          "ten_hoc_phan_en": "Major Foundation Project (Information Systems)"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6241",
+      "ma_hoc_phan_goc": "SC6241",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6241",
+          "ten_hoc_phan": "Kiểm thử phần mềm",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 2,
+          "ten_hoc_phan_en": "Software Testing"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6019",
+      "ma_hoc_phan_goc": "SC6019",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC8",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6019",
+          "ten_hoc_phan": "Học máy",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Machine Learning"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6220",
+      "ma_hoc_phan_goc": "SC6220",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC8",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6220",
+          "ten_hoc_phan": "Phần mềm mã nguồn mở",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Open-Source Software"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6210",
+      "ma_hoc_phan_goc": "SC6210",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC9",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6210",
+          "ten_hoc_phan": "Lập trình .NET",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": ".NET Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6212",
+      "ma_hoc_phan_goc": "SC6212",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC9",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6212",
+          "ten_hoc_phan": "Lập trình Java",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Java Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6265",
+      "ma_hoc_phan_goc": "SC6265",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC9",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6265",
+          "ten_hoc_phan": "Lập trình Python cơ bản",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Python Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6215",
+      "ma_hoc_phan_goc": "SC6215",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_3_TC9",
+          "ma_phan": "II.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6215",
+          "ten_hoc_phan": "Lập trình web bằng PHP",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "PHP Web Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6229",
+      "ma_hoc_phan_goc": "SC6229",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6229",
+          "ten_hoc_phan": "Hệ quản trị doanh nghiệp điện tử",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "E-Business Management Systems"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6267",
+      "ma_hoc_phan_goc": "SC6267",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6267",
+          "ten_hoc_phan": "Đồ án chuyên ngành",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Specialized Project"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6228",
+      "ma_hoc_phan_goc": "SC6228",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6228",
+          "ten_hoc_phan": "Phát triển ứng dụng thương mại điện tử",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "E-Commerce Application Development"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6013",
+      "ma_hoc_phan_goc": "SC6013",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6013",
+          "ten_hoc_phan": "Quản lý dự án công nghệ thông tin",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "IT Project Management"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6222_BS",
+      "ma_hoc_phan_goc": "SC6222",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6222",
+          "ten_hoc_phan": "Tích hợp hệ thống phần mềm",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Software Systems Integration"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6236",
+      "ma_hoc_phan_goc": "SC6236",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_A",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6236",
+          "ten_hoc_phan": "Khai thác dữ liệu và ứng dụng",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 2,
+          "ten_hoc_phan_en": "Data Mining and Applications"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6237",
+      "ma_hoc_phan_goc": "SC6237",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_A",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6237",
+          "ten_hoc_phan": "Phân tích dữ liệu lớn",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Big Data Analytics"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6268",
+      "ma_hoc_phan_goc": "SC6268",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_A",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6268",
+          "ten_hoc_phan": "Phân tích nghiệp vụ",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Business Analysis"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6213",
+      "ma_hoc_phan_goc": "SC6213",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6213",
+          "ten_hoc_phan": "Lập trình Java nâng cao",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Advanced Java Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6262",
+      "ma_hoc_phan_goc": "SC6262",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6262",
+          "ten_hoc_phan": "Lập trình PHP nâng cao",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Advanced PHP Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6266",
+      "ma_hoc_phan_goc": "SC6266",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6266",
+          "ten_hoc_phan": "Lập trình Python nâng cao",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Advanced Python Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6214",
+      "ma_hoc_phan_goc": "SC6214",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6214",
+          "ten_hoc_phan": "Lập trình Web bằng ASP.NET",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "ASP.NET Web Programming"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6218",
+      "ma_hoc_phan_goc": "SC6218",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6218",
+          "ten_hoc_phan": "Phát triển ứng dụng Game",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Game Application Development"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6219",
+      "ma_hoc_phan_goc": "SC6219",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_TC10_B",
+          "ma_phan": "II.4",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SC6219",
+          "ten_hoc_phan": "Phát triển ứng dụng trên thiết bị di động",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Mobile Application Development"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "AA6040",
+      "ma_hoc_phan_goc": "AA6040",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_5",
+          "ma_phan": "II.5",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "AA6040",
+          "ten_hoc_phan": "Đổi mới sáng tạo và tư duy khởi nghiệp",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Innovation and Entrepreneurial Thinking"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "IT6207",
+      "ma_hoc_phan_goc": "IT6207",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_6",
+          "ma_phan": "II.6",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6207",
+          "ten_hoc_phan": "Thực tập doanh nghiệp (HTTT)",
+          "so_tin_chi": 7.0,
+          "hoc_ky_goi_y": 8,
+          "so_quan_he": 2,
+          "ten_hoc_phan_en": "Corporate Internship (Information Systems)"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6208",
+      "ma_hoc_phan_goc": "IT6208",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_7",
+          "ma_phan": "II.7",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6208",
+          "ten_hoc_phan": "Đồ án khóa luận tốt nghiệp (HTTT)",
+          "so_tin_chi": 8.0,
+          "hoc_ky_goi_y": 8,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Graduation Thesis Project (Information Systems)"
+        }
+      ],
+      "source_stream": "hoc_phan",
+      "fallback_used": false,
+      "resolution_status": "resolved",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "PE6001",
+      "ma_hoc_phan_goc": "PE6001",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6001",
+          "ten_hoc_phan": "Aerobic 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Aerobic 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6005",
+      "ma_hoc_phan_goc": "PE6005",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6005",
+          "ten_hoc_phan": "Bơi 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Swimming 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6017",
+      "ma_hoc_phan_goc": "PE6017",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6017",
+          "ten_hoc_phan": "Bóng bàn 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Table Tennis 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6003",
+      "ma_hoc_phan_goc": "PE6003",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6003",
+          "ten_hoc_phan": "Bóng chuyền 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Volleyball 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6027",
+      "ma_hoc_phan_goc": "PE6027",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6027",
+          "ten_hoc_phan": "Bóng đá 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Football 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6033",
+      "ma_hoc_phan_goc": "PE6033",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6033",
+          "ten_hoc_phan": "Bóng ném 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Handball 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6021",
+      "ma_hoc_phan_goc": "PE6021",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6021",
+          "ten_hoc_phan": "Bóng rổ 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basketball 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6025",
+      "ma_hoc_phan_goc": "PE6025",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6025",
+          "ten_hoc_phan": "Cầu lông 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Badminton 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6031",
+      "ma_hoc_phan_goc": "PE6031",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6031",
+          "ten_hoc_phan": "Cầu mây 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Sepak Takraw 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6029",
+      "ma_hoc_phan_goc": "PE6029",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6029",
+          "ten_hoc_phan": "Đá cầu 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Shuttlecock Kicking 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6035",
+      "ma_hoc_phan_goc": "PE6035",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6035",
+          "ten_hoc_phan": "Futsal 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Futsal 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6011",
+      "ma_hoc_phan_goc": "PE6011",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6011",
+          "ten_hoc_phan": "Karate 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Karate 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6013",
+      "ma_hoc_phan_goc": "PE6013",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6013",
+          "ten_hoc_phan": "Khiêu vũ 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Dance 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6015",
+      "ma_hoc_phan_goc": "PE6015",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6015",
+          "ten_hoc_phan": "Pencak Silat 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Pencak Silat 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6037",
+      "ma_hoc_phan_goc": "PE6037",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6037",
+          "ten_hoc_phan": "Pickleball 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Pickleball 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6019",
+      "ma_hoc_phan_goc": "PE6019",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6019",
+          "ten_hoc_phan": "Tennis 1",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Tennis 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6002",
+      "ma_hoc_phan_goc": "PE6002",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6002",
+          "ten_hoc_phan": "Aerobic 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Aerobic 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6006",
+      "ma_hoc_phan_goc": "PE6006",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6006",
+          "ten_hoc_phan": "Bơi 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Swimming 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6018",
+      "ma_hoc_phan_goc": "PE6018",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6018",
+          "ten_hoc_phan": "Bóng bàn 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Table Tennis 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6004",
+      "ma_hoc_phan_goc": "PE6004",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6004",
+          "ten_hoc_phan": "Bóng chuyền 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Volleyball 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6028",
+      "ma_hoc_phan_goc": "PE6028",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6028",
+          "ten_hoc_phan": "Bóng đá 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Football 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6034",
+      "ma_hoc_phan_goc": "PE6034",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6034",
+          "ten_hoc_phan": "Bóng ném 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Handball 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6022",
+      "ma_hoc_phan_goc": "PE6022",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6022",
+          "ten_hoc_phan": "Bóng rổ 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basketball 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6026",
+      "ma_hoc_phan_goc": "PE6026",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6026",
+          "ten_hoc_phan": "Cầu lông 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Badminton 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6032",
+      "ma_hoc_phan_goc": "PE6032",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6032",
+          "ten_hoc_phan": "Cầu mây 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Sepak Takraw 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6030",
+      "ma_hoc_phan_goc": "PE6030",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6030",
+          "ten_hoc_phan": "Đá cầu 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Shuttlecock Kicking 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6036",
+      "ma_hoc_phan_goc": "PE6036",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6036",
+          "ten_hoc_phan": "Futsal 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Futsal 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6012",
+      "ma_hoc_phan_goc": "PE6012",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6012",
+          "ten_hoc_phan": "Karate 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Karate 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6014",
+      "ma_hoc_phan_goc": "PE6014",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6014",
+          "ten_hoc_phan": "Khiêu vũ 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Dance 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6016",
+      "ma_hoc_phan_goc": "PE6016",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6016",
+          "ten_hoc_phan": "Pencak Silat 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Pencak Silat 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6038",
+      "ma_hoc_phan_goc": "PE6038",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6038",
+          "ten_hoc_phan": "Pickleball 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Pickleball 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "PE6020",
+      "ma_hoc_phan_goc": "PE6020",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_1_TCGDTC",
+          "ma_phan": "III.1",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "PE6020",
+          "ten_hoc_phan": "Tennis 2",
+          "so_tin_chi": 1.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Tennis 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "DC6005",
+      "ma_hoc_phan_goc": "DC6005",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_2",
+          "ma_phan": "III.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "DC6005",
+          "ten_hoc_phan": "Công tác quốc phòng và an ninh",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "National Defense and Security Work"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "DC6004",
+      "ma_hoc_phan_goc": "DC6004",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_2",
+          "ma_phan": "III.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "DC6004",
+          "ten_hoc_phan": "Đường lối QP&AN của ĐCS Việt Nam",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Defense and Security Guidelines of the CPV"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "DC6007",
+      "ma_hoc_phan_goc": "DC6007",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_2",
+          "ma_phan": "III.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "DC6007",
+          "ten_hoc_phan": "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Infantry Combat Techniques and Tactics"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "DC6006",
+      "ma_hoc_phan_goc": "DC6006",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_2",
+          "ma_phan": "III.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "DC6006",
+          "ten_hoc_phan": "Quân sự chung",
+          "so_tin_chi": 1.5,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Military Studies"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6570",
+      "ma_hoc_phan_goc": "SL6570",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK1",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6570",
+          "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin cơ bản 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Information Technology English 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "SL6571",
+      "ma_hoc_phan_goc": "SL6571",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK1",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "SL6571",
+          "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin cơ bản 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Basic Information Technology English 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6560",
+      "ma_hoc_phan_goc": "FL6560",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK2",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6560",
+          "ten_hoc_phan": "Tiếng Trung cơ bản 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Chinese 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6561",
+      "ma_hoc_phan_goc": "FL6561",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK2",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6561",
+          "ten_hoc_phan": "Tiếng Trung cơ bản 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Basic Chinese 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6562",
+      "ma_hoc_phan_goc": "FL6562",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK3",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6562",
+          "ten_hoc_phan": "Tiếng Nhật cơ bản 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Japanese 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6563",
+      "ma_hoc_phan_goc": "FL6563",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK3",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6563",
+          "ten_hoc_phan": "Tiếng Nhật cơ bản 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Basic Japanese 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6564",
+      "ma_hoc_phan_goc": "FL6564",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK4",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6564",
+          "ten_hoc_phan": "Tiếng Hàn cơ bản 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Korean 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6565",
+      "ma_hoc_phan_goc": "FL6565",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK4",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6565",
+          "ten_hoc_phan": "Tiếng Hàn cơ bản 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic Korean 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6580",
+      "ma_hoc_phan_goc": "FL6580",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK5",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6580",
+          "ten_hoc_phan": "Tiếng Đức cơ bản 1",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic German 1"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    },
+    {
+      "ma_hoc_phan": "FL6581",
+      "ma_hoc_phan_goc": "FL6581",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "III_3_TCNNNK5",
+          "ma_phan": "III.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "FL6581",
+          "ten_hoc_phan": "Tiếng Đức cơ bản 2",
+          "so_tin_chi": 5.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Basic German 2"
+        }
+      ],
+      "source_stream": null,
+      "fallback_used": false,
+      "resolution_status": "unresolved",
+      "data_available": false
+    }
+  ],
+  "supplement_courses": [
+    {
+      "ma_hoc_phan": "LP6010_BS",
+      "ma_hoc_phan_goc": "LP6010",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6010",
+          "ten_hoc_phan": "Triết học Mác-Lênin",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Marxist-Leninist Philosophy"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6025_BS",
+      "ma_hoc_phan_goc": "LP6025",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6025",
+          "ten_hoc_phan": "Kinh tế chính trị Mác-Lênin",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Marxist-Leninist Political Economy"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6026_BS",
+      "ma_hoc_phan_goc": "LP6026",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6026",
+          "ten_hoc_phan": "Chủ nghĩa xã hội khoa học",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Scientific Socialism"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6022_BS",
+      "ma_hoc_phan_goc": "LP6022",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6022",
+          "ten_hoc_phan": "Tư tưởng Hồ Chí Minh",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 5,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Ho Chi Minh Thought"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6027_BS",
+      "ma_hoc_phan_goc": "LP6027",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6027",
+          "ten_hoc_phan": "Lịch sử Đảng Cộng sản Việt Nam",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 6,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "History of the Communist Party of Vietnam"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "LP6021_BS",
+      "ma_hoc_phan_goc": "LP6021",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_1",
+          "ma_phan": "I.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "LP6021",
+          "ten_hoc_phan": "Pháp luật đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Law"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6001_BS",
+      "ma_hoc_phan_goc": "BS6001",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6001",
+          "ten_hoc_phan": "Đại số tuyến tính",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Linear Algebra"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6038_BS",
+      "ma_hoc_phan_goc": "BS6038",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6038",
+          "ten_hoc_phan": "Giải tích",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Calculus"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6054_BS",
+      "ma_hoc_phan_goc": "BS6054",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6054",
+          "ten_hoc_phan": "Vật lý đại cương",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Physics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6042_BS",
+      "ma_hoc_phan_goc": "BS6042",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_2_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.2",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6042",
+          "ten_hoc_phan": "Xác suất thống kê",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 1,
+          "ten_hoc_phan_en": "Probability and Statistics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6018_BS",
+      "ma_hoc_phan_goc": "BS6018",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "I.3",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "BS6018",
+          "ten_hoc_phan": "Giao tiếp liên văn hóa",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Intercultural Communication"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6021_BS",
+      "ma_hoc_phan_goc": "BS6021",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6021",
+          "ten_hoc_phan": "Con người và môi trường",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Human and Environment"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BM6001_BS",
+      "ma_hoc_phan_goc": "BM6001",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BM6001",
+          "ten_hoc_phan": "Kinh tế học đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Economics"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6019_BS",
+      "ma_hoc_phan_goc": "BS6019",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6019",
+          "ten_hoc_phan": "Nhập môn nghiên cứu khoa học",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Introduction to Scientific Research"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6020_BS",
+      "ma_hoc_phan_goc": "BS6020",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6020",
+          "ten_hoc_phan": "Quan hệ lao động và việc làm",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Labor Relations and Employment"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BM6091_BS",
+      "ma_hoc_phan_goc": "BM6091",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH1",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BM6091",
+          "ten_hoc_phan": "Quản lý dự án",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Project Management"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6050_BS",
+      "ma_hoc_phan_goc": "BS6050",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6050",
+          "ten_hoc_phan": "Âm nhạc đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Music"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6052_BS",
+      "ma_hoc_phan_goc": "BS6052",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6052",
+          "ten_hoc_phan": "Mỹ thuật đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Fine Arts"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "BS6051_BS",
+      "ma_hoc_phan_goc": "BS6051",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "I_3_TCKHXH2",
+          "ma_phan": "I.3",
+          "loai_nhom": "TU_CHON",
+          "ma_hoc_phan": "BS6051",
+          "ten_hoc_phan": "Nghệ thuật học đại cương",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "General Art History"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6217_BS",
+      "ma_hoc_phan_goc": "IT6217",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6217",
+          "ten_hoc_phan": "Nhập môn về kỹ thuật",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 1,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Introduction to Engineering"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6202_BS",
+      "ma_hoc_phan_goc": "IT6202",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6202",
+          "ten_hoc_phan": "Kiến trúc máy tính",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Computer Architecture"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6208_BS",
+      "ma_hoc_phan_goc": "SC6208",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6208",
+          "ten_hoc_phan": "Kỹ thuật lập trình",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 2,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Programming Techniques"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "IT6203_BS",
+      "ma_hoc_phan_goc": "IT6203",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_1",
+          "ma_phan": "II.1",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "IT6203",
+          "ten_hoc_phan": "Nguyên lý hệ điều hành",
+          "so_tin_chi": 2.0,
+          "hoc_ky_goi_y": 3,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Operating Systems Principles"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    },
+    {
+      "ma_hoc_phan": "SC6222_BS",
+      "ma_hoc_phan_goc": "SC6222",
+      "memberships": [
+        {
+          "ma_ctdt": "7480104",
+          "nhom_id": "II_4_KIEN_THUC_BAT_BUOC",
+          "ma_phan": "II.4",
+          "loai_nhom": "BAT_BUOC",
+          "ma_hoc_phan": "SC6222",
+          "ten_hoc_phan": "Tích hợp hệ thống phần mềm",
+          "so_tin_chi": 3.0,
+          "hoc_ky_goi_y": 7,
+          "so_quan_he": 0,
+          "ten_hoc_phan_en": "Software Systems Integration"
+        }
+      ],
+      "source_stream": "hoc_phan_bo_sung",
+      "fallback_used": true,
+      "resolution_status": "resolved_by_fallback",
+      "data_available": true
+    }
+  ],
+  "missing_courses": [
+    {
+      "ma_hoc_phan": "SL6343",
+      "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin 1",
+      "ten_hoc_phan_en": "Information Technology English 1",
+      "nhom_id": "I_4_TCNN1",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6344",
+      "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin 2",
+      "ten_hoc_phan_en": "Information Technology English 2",
+      "nhom_id": "I_4_TCNN1",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6347",
+      "ten_hoc_phan": "Tiếng Trung 1",
+      "ten_hoc_phan_en": "Chinese 1",
+      "nhom_id": "I_4_TCNN2",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6348",
+      "ten_hoc_phan": "Tiếng Trung 2",
+      "ten_hoc_phan_en": "Chinese 2",
+      "nhom_id": "I_4_TCNN2",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6349",
+      "ten_hoc_phan": "Tiếng Nhật 1",
+      "ten_hoc_phan_en": "Japanese 1",
+      "nhom_id": "I_4_TCNN3",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6350",
+      "ten_hoc_phan": "Tiếng Nhật 2",
+      "ten_hoc_phan_en": "Japanese 2",
+      "nhom_id": "I_4_TCNN3",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6351",
+      "ten_hoc_phan": "Tiếng Hàn 1",
+      "ten_hoc_phan_en": "Korean 1",
+      "nhom_id": "I_4_TCNN4",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "SL6352",
+      "ten_hoc_phan": "Tiếng Hàn 2",
+      "ten_hoc_phan_en": "Korean 2",
+      "nhom_id": "I_4_TCNN4",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "FL6582",
+      "ten_hoc_phan": "Tiếng Đức 1",
+      "ten_hoc_phan_en": "German 1",
+      "nhom_id": "I_4_TCNN5",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "FL6583",
+      "ten_hoc_phan": "Tiếng Đức 2",
+      "ten_hoc_phan_en": "German 2",
+      "nhom_id": "I_4_TCNN5",
+      "ma_phan": "I.4"
+    },
+    {
+      "ma_hoc_phan": "AA6040",
+      "ten_hoc_phan": "Đổi mới sáng tạo và tư duy khởi nghiệp",
+      "ten_hoc_phan_en": "Innovation and Entrepreneurial Thinking",
+      "nhom_id": "II_5",
+      "ma_phan": "II.5"
+    },
+    {
+      "ma_hoc_phan": "PE6001",
+      "ten_hoc_phan": "Aerobic 1",
+      "ten_hoc_phan_en": "Aerobic 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6005",
+      "ten_hoc_phan": "Bơi 1",
+      "ten_hoc_phan_en": "Swimming 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6017",
+      "ten_hoc_phan": "Bóng bàn 1",
+      "ten_hoc_phan_en": "Table Tennis 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6003",
+      "ten_hoc_phan": "Bóng chuyền 1",
+      "ten_hoc_phan_en": "Volleyball 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6027",
+      "ten_hoc_phan": "Bóng đá 1",
+      "ten_hoc_phan_en": "Football 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6033",
+      "ten_hoc_phan": "Bóng ném 1",
+      "ten_hoc_phan_en": "Handball 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6021",
+      "ten_hoc_phan": "Bóng rổ 1",
+      "ten_hoc_phan_en": "Basketball 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6025",
+      "ten_hoc_phan": "Cầu lông 1",
+      "ten_hoc_phan_en": "Badminton 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6031",
+      "ten_hoc_phan": "Cầu mây 1",
+      "ten_hoc_phan_en": "Sepak Takraw 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6029",
+      "ten_hoc_phan": "Đá cầu 1",
+      "ten_hoc_phan_en": "Shuttlecock Kicking 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6035",
+      "ten_hoc_phan": "Futsal 1",
+      "ten_hoc_phan_en": "Futsal 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6011",
+      "ten_hoc_phan": "Karate 1",
+      "ten_hoc_phan_en": "Karate 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6013",
+      "ten_hoc_phan": "Khiêu vũ 1",
+      "ten_hoc_phan_en": "Dance 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6015",
+      "ten_hoc_phan": "Pencak Silat 1",
+      "ten_hoc_phan_en": "Pencak Silat 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6037",
+      "ten_hoc_phan": "Pickleball 1",
+      "ten_hoc_phan_en": "Pickleball 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6019",
+      "ten_hoc_phan": "Tennis 1",
+      "ten_hoc_phan_en": "Tennis 1",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6002",
+      "ten_hoc_phan": "Aerobic 2",
+      "ten_hoc_phan_en": "Aerobic 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6006",
+      "ten_hoc_phan": "Bơi 2",
+      "ten_hoc_phan_en": "Swimming 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6018",
+      "ten_hoc_phan": "Bóng bàn 2",
+      "ten_hoc_phan_en": "Table Tennis 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6004",
+      "ten_hoc_phan": "Bóng chuyền 2",
+      "ten_hoc_phan_en": "Volleyball 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6028",
+      "ten_hoc_phan": "Bóng đá 2",
+      "ten_hoc_phan_en": "Football 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6034",
+      "ten_hoc_phan": "Bóng ném 2",
+      "ten_hoc_phan_en": "Handball 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6022",
+      "ten_hoc_phan": "Bóng rổ 2",
+      "ten_hoc_phan_en": "Basketball 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6026",
+      "ten_hoc_phan": "Cầu lông 2",
+      "ten_hoc_phan_en": "Badminton 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6032",
+      "ten_hoc_phan": "Cầu mây 2",
+      "ten_hoc_phan_en": "Sepak Takraw 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6030",
+      "ten_hoc_phan": "Đá cầu 2",
+      "ten_hoc_phan_en": "Shuttlecock Kicking 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6036",
+      "ten_hoc_phan": "Futsal 2",
+      "ten_hoc_phan_en": "Futsal 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6012",
+      "ten_hoc_phan": "Karate 2",
+      "ten_hoc_phan_en": "Karate 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6014",
+      "ten_hoc_phan": "Khiêu vũ 2",
+      "ten_hoc_phan_en": "Dance 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6016",
+      "ten_hoc_phan": "Pencak Silat 2",
+      "ten_hoc_phan_en": "Pencak Silat 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6038",
+      "ten_hoc_phan": "Pickleball 2",
+      "ten_hoc_phan_en": "Pickleball 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "PE6020",
+      "ten_hoc_phan": "Tennis 2",
+      "ten_hoc_phan_en": "Tennis 2",
+      "nhom_id": "III_1_TCGDTC",
+      "ma_phan": "III.1"
+    },
+    {
+      "ma_hoc_phan": "DC6005",
+      "ten_hoc_phan": "Công tác quốc phòng và an ninh",
+      "ten_hoc_phan_en": "National Defense and Security Work",
+      "nhom_id": "III_2",
+      "ma_phan": "III.2"
+    },
+    {
+      "ma_hoc_phan": "DC6004",
+      "ten_hoc_phan": "Đường lối QP&AN của ĐCS Việt Nam",
+      "ten_hoc_phan_en": "Defense and Security Guidelines of the CPV",
+      "nhom_id": "III_2",
+      "ma_phan": "III.2"
+    },
+    {
+      "ma_hoc_phan": "DC6007",
+      "ten_hoc_phan": "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+      "ten_hoc_phan_en": "Infantry Combat Techniques and Tactics",
+      "nhom_id": "III_2",
+      "ma_phan": "III.2"
+    },
+    {
+      "ma_hoc_phan": "DC6006",
+      "ten_hoc_phan": "Quân sự chung",
+      "ten_hoc_phan_en": "General Military Studies",
+      "nhom_id": "III_2",
+      "ma_phan": "III.2"
+    },
+    {
+      "ma_hoc_phan": "SL6570",
+      "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin cơ bản 1",
+      "ten_hoc_phan_en": "Basic Information Technology English 1",
+      "nhom_id": "III_3_TCNNNK1",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "SL6571",
+      "ten_hoc_phan": "Tiếng Anh Công nghệ thông tin cơ bản 2",
+      "ten_hoc_phan_en": "Basic Information Technology English 2",
+      "nhom_id": "III_3_TCNNNK1",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6560",
+      "ten_hoc_phan": "Tiếng Trung cơ bản 1",
+      "ten_hoc_phan_en": "Basic Chinese 1",
+      "nhom_id": "III_3_TCNNNK2",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6561",
+      "ten_hoc_phan": "Tiếng Trung cơ bản 2",
+      "ten_hoc_phan_en": "Basic Chinese 2",
+      "nhom_id": "III_3_TCNNNK2",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6562",
+      "ten_hoc_phan": "Tiếng Nhật cơ bản 1",
+      "ten_hoc_phan_en": "Basic Japanese 1",
+      "nhom_id": "III_3_TCNNNK3",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6563",
+      "ten_hoc_phan": "Tiếng Nhật cơ bản 2",
+      "ten_hoc_phan_en": "Basic Japanese 2",
+      "nhom_id": "III_3_TCNNNK3",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6564",
+      "ten_hoc_phan": "Tiếng Hàn cơ bản 1",
+      "ten_hoc_phan_en": "Basic Korean 1",
+      "nhom_id": "III_3_TCNNNK4",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6565",
+      "ten_hoc_phan": "Tiếng Hàn cơ bản 2",
+      "ten_hoc_phan_en": "Basic Korean 2",
+      "nhom_id": "III_3_TCNNNK4",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6580",
+      "ten_hoc_phan": "Tiếng Đức cơ bản 1",
+      "ten_hoc_phan_en": "Basic German 1",
+      "nhom_id": "III_3_TCNNNK5",
+      "ma_phan": "III.3"
+    },
+    {
+      "ma_hoc_phan": "FL6581",
+      "ten_hoc_phan": "Tiếng Đức cơ bản 2",
+      "ten_hoc_phan_en": "Basic German 2",
+      "nhom_id": "III_3_TCNNNK5",
+      "ma_phan": "III.3"
+    }
+  ],
+  "resolution_summary": {
+    "course_count": 117,
+    "resolved_count": 60,
+    "fallback_count": 24,
+    "unresolved_count": 57
+  },
+  "unresolved_course_codes": [
+    "SL6343",
+    "SL6344",
+    "SL6347",
+    "SL6348",
+    "SL6349",
+    "SL6350",
+    "SL6351",
+    "SL6352",
+    "FL6582",
+    "FL6583",
+    "AA6040",
+    "PE6001",
+    "PE6005",
+    "PE6017",
+    "PE6003",
+    "PE6027",
+    "PE6033",
+    "PE6021",
+    "PE6025",
+    "PE6031",
+    "PE6029",
+    "PE6035",
+    "PE6011",
+    "PE6013",
+    "PE6015",
+    "PE6037",
+    "PE6019",
+    "PE6002",
+    "PE6006",
+    "PE6018",
+    "PE6004",
+    "PE6028",
+    "PE6034",
+    "PE6022",
+    "PE6026",
+    "PE6032",
+    "PE6030",
+    "PE6036",
+    "PE6012",
+    "PE6014",
+    "PE6016",
+    "PE6038",
+    "PE6020",
+    "DC6005",
+    "DC6004",
+    "DC6007",
+    "DC6006",
+    "SL6570",
+    "SL6571",
+    "FL6560",
+    "FL6561",
+    "FL6562",
+    "FL6563",
+    "FL6564",
+    "FL6565",
+    "FL6580",
+    "FL6581"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+    "preferred_label": "ethical hacking principles",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6234",
+    "course_title": "Cyber security"
+  },
+  "support_context": {
+    "support_concept_origin": "continuous monitoring mindset; ethical decision-making",
+    "evidence_text": "Upon completion of the course, students are able to apply the acquired knowledge to deploy and handle situations to ensure system security and safety in accordance with legal principles and professional ethics"
+  },
+  "scoring": {
+    "final_score": 0.608515,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers network attack forms and system security, which provides the necessary knowledge base for understanding how to detect vulnerabilities and perform ethical hacking.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,231 @@
+{
+  "course_code": "BS6019_BS",
+  "concept_tags": [
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "intellectual curiosity",
+      "normalized": "intellectual curiosity",
+      "loai": "cognitive"
+    },
+    {
+      "text": "information literacy",
+      "normalized": "information literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "academic integrity",
+      "normalized": "academic integrity",
+      "loai": "cognitive"
+    },
+    {
+      "text": "structured communication",
+      "normalized": "structured communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "foundational"
+    },
+    {
+      "text": "evidence-based reasoning",
+      "normalized": "evidence-based reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "intellectual humility",
+      "normalized": "intellectual humility",
+      "loai": "cognitive"
+    },
+    {
+      "text": "synthesizing complex information",
+      "normalized": "synthesizing complex information",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project planning",
+      "normalized": "project planning",
+      "loai": "foundational"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "objective analysis",
+      "normalized": "objective analysis",
+      "loai": "foundational"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "intellectual curiosity",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "information literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "academic integrity",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "structured communication",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "evidence-based reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "intellectual humility",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "synthesizing complex information",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "project planning",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "objective analysis",
+      "role": "support"
+    },
+    {
+      "course_code": "BS6019_BS",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "evidence-based reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.790935,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "information literacy",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.790935,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "synthesizing complex information",
+      "esco_uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "esco_label": "demonstrate disciplinary expertise",
+      "confidence": 0.790935,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.73062,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "academic integrity",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.716292,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+      "esco_label": "publish academic research",
+      "confidence": 0.716292,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "academic integrity",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.676311,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.676311,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+      "esco_label": "scientific literature",
+      "confidence": 0.676311,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "objective analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.6438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7159e587-c7cb-4ec0-a662-03e1dee2cccb",
+      "esco_label": "research design",
+      "confidence": 0.6438,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 11
+  }
+}

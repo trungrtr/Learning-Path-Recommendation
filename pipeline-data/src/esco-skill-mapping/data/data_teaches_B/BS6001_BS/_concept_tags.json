@@ -1,0 +1,1157 @@
+{
+  "course_code": "BS6001_BS",
+  "concept_tags": [
+    {
+      "text": "Linear Algebra",
+      "normalized": "linear algebra"
+    },
+    {
+      "text": "matrices",
+      "normalized": "matrices"
+    },
+    {
+      "text": "determinants",
+      "normalized": "determinants"
+    },
+    {
+      "text": "system of linear equations",
+      "normalized": "system of linear equations"
+    },
+    {
+      "text": "vector spaces",
+      "normalized": "vector spaces"
+    },
+    {
+      "text": "linear transformations",
+      "normalized": "linear transformations"
+    },
+    {
+      "text": "eigenvalues",
+      "normalized": "eigenvalues"
+    },
+    {
+      "text": "eigenvectors",
+      "normalized": "eigenvectors"
+    },
+    {
+      "text": "quadratic forms",
+      "normalized": "quadratic forms"
+    },
+    {
+      "text": "logical thinking",
+      "normalized": "logical thinking"
+    },
+    {
+      "text": "mathematical tools",
+      "normalized": "mathematical tools"
+    },
+    {
+      "text": "systems of linear equations",
+      "normalized": "systems of linear equations"
+    },
+    {
+      "text": "computational problems",
+      "normalized": "computational problems"
+    },
+    {
+      "text": "inverse matrices",
+      "normalized": "inverse matrices"
+    },
+    {
+      "text": "matrix rank",
+      "normalized": "matrix rank"
+    },
+    {
+      "text": "Matrix Diagonalization",
+      "normalized": "matrix diagonalization"
+    },
+    {
+      "text": "Linearly Independent Vectors",
+      "normalized": "linearly independent vectors"
+    },
+    {
+      "text": "Linearly Dependent Vector Systems",
+      "normalized": "linearly dependent vector systems"
+    },
+    {
+      "text": "Canonical Quadratic Forms",
+      "normalized": "canonical quadratic forms"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "linear algebra",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_MUCTIEU_G2",
+        "BS6001_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "matrices",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L01",
+        "BS6001_BS_BAIHOC_L02",
+        "BS6001_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "determinants",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L01",
+        "BS6001_BS_BAIHOC_L02",
+        "BS6001_BS_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "system of linear equations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "vector spaces",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L03",
+        "BS6001_BS_BAIHOC_L10",
+        "BS6001_BS_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "linear transformations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L03",
+        "BS6001_BS_BAIHOC_L14",
+        "BS6001_BS_BAIHOC_L15",
+        "BS6001_BS_BAIHOC_L18"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "eigenvalues",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L07",
+        "BS6001_BS_BAIHOC_L18"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "eigenvectors",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L07",
+        "BS6001_BS_BAIHOC_L19"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "quadratic forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MOTA_MAIN",
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L17"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "logical thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "mathematical tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_MUCTIEU_G3"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "systems of linear equations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_CLO_L1",
+        "BS6001_BS_BAIHOC_L02",
+        "BS6001_BS_BAIHOC_L05",
+        "BS6001_BS_BAIHOC_L08",
+        "BS6001_BS_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "computational problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "inverse matrices",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "matrix rank",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "matrix diagonalization",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L14",
+        "BS6001_BS_BAIHOC_L15",
+        "BS6001_BS_BAIHOC_L20"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "linearly independent vectors",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "linearly dependent vector systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L16"
+      ]
+    },
+    {
+      "course_code": "BS6001_BS",
+      "concept_tag": "canonical quadratic forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "BS6001_BS_BAIHOC_L21"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly independent vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7501656879684613,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly independent vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_label": "create flowchart diagram",
+      "confidence": 0.6478102585830087,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly independent vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/3e2ab38a-4519-4bef-b762-a8bf4836a775",
+      "esco_label": "perform dimensionality reduction",
+      "confidence": 0.6288168673021868,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.7652789683759085,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "determinants",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "esco_label": "interfacing techniques",
+      "confidence": 0.7571439258831782,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7656732223617254,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "determinants",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvalues",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7472751417891553,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "determinants",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvalues",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7452859229536828,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.7255037043545538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.7255037043545538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.7255037043545538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.7255037043545538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix rank",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly independent vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/8a16add0-6faa-4387-896c-ee641568d89f",
+      "esco_label": "trigonometry",
+      "confidence": 0.6991219287520778,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "system of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems of linear equations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrix diagonalization",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "inverse matrices",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "esco_label": "ICT system integration",
+      "confidence": 0.6353086530383161,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "vector spaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "computational problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear transformations",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly dependent vector systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linearly independent vectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "canonical quadratic forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear algebra",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eigenvectors",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0ac313d-de44-4344-ada6-76d2177b6d92",
+      "esco_label": "Synfig",
+      "confidence": 0.5420753387118257,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 19,
+    "total_has_concept_edges": 19,
+    "total_evidence_for_edges": 126
+  }
+}

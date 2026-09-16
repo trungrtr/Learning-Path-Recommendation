@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+    "preferred_label": "data science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6205",
+    "course_title": "Data Structures and Algorithms"
+  },
+  "support_context": {
+    "support_concept_origin": "attention to detail; self-directed learning; systematic debugging",
+    "evidence_text": "Proactively learn and acquire knowledge, demonstrating self-study awareness and a serious attitude toward learning"
+  },
+  "scoring": {
+    "final_score": 0.706505,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Data science requires a strong grasp of algorithmic efficiency and data organization to handle and analyze large datasets effectively.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

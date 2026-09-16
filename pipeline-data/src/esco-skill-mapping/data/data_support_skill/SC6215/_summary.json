@@ -1,0 +1,34 @@
+{
+  "course_code": "SC6215",
+  "course_title": "Web programming with PHP",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 3,
+    "skill_count": 0,
+    "knowledge_count": 3
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "final_score": 0.6722,
+      "support_concept_origin": "debugging and troubleshooting methodology; project lifecycle management; user-centric design perspective",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.6365,
+      "support_concept_origin": "debugging and troubleshooting methodology; user-centric design perspective",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "systems development life-cycle",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "final_score": 0.6207,
+      "support_concept_origin": "collaborative workflow management; project lifecycle management; user-centric design perspective",
+      "review_status": "accepted"
+    }
+  ]
+}

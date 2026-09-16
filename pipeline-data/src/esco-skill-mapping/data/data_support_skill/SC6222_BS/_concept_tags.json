@@ -1,0 +1,204 @@
+{
+  "course_code": "SC6222_BS",
+  "concept_tags": [
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "interoperability mindset",
+      "normalized": "interoperability mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "architectural pattern recognition",
+      "normalized": "architectural pattern recognition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cross-platform compatibility awareness",
+      "normalized": "cross-platform compatibility awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "standardization adherence",
+      "normalized": "standardization adherence",
+      "loai": "foundational"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract modeling",
+      "normalized": "abstract modeling",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical adaptability",
+      "normalized": "technical adaptability",
+      "loai": "foundational"
+    },
+    {
+      "text": "interface design principles",
+      "normalized": "interface design principles",
+      "loai": "foundational"
+    },
+    {
+      "text": "data serialization logic",
+      "normalized": "data serialization logic",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "interoperability mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "architectural pattern recognition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "cross-platform compatibility awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "standardization adherence",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "abstract modeling",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "technical adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "interface design principles",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6222_BS",
+      "concept_tag": "data serialization logic",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.785608,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "standardization adherence",
+      "esco_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_label": "ICT debugging tools",
+      "confidence": 0.785608,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "abstract modeling",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.741045,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.741045,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.741045,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.714854,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.714854,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "interoperability mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.714854,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.593086,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "esco_label": "ICT system programming",
+      "confidence": 0.593086,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 10
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+    "preferred_label": "database",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6206",
+    "course_title": "Database"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract thinking; attention to detail",
+    "evidence_text": "foster responsibility in studying, individual and teamwork, as well as in data usage and management"
+  },
+  "scoring": {
+    "final_score": 0.654223,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course provides comprehensive knowledge of database concepts, relational models, and SQL, which directly maps to the database skill.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

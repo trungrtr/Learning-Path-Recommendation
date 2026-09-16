@@ -1,0 +1,263 @@
+{
+  "course_code": "SC6210",
+  "course_title": ".NET Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 22,
+    "skill_count": 7,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 18,
+      "SECONDARY": 4,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use presentation software",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "confidence": 0.701677126467256,
+      "cross_encoder_score": 0.9584426283836365,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on desktop application development and GUI programming, not on creating digital presentations."
+    },
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.6981361722550431,
+      "cross_encoder_score": 0.9615969061851501,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content explicitly mentions mastering object-oriented programming principles using the C# language."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.6747495830183633,
+      "cross_encoder_score": 0.9176393151283264,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers modern user interface (GUI) building techniques using Windows Presentation Foundation (WPF)."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.6511198339399139,
+      "cross_encoder_score": 0.881248414516449,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course includes training in requirement analysis, design, and deployment of complete desktop applications."
+    },
+    {
+      "preferred_label": "manage software releases",
+      "esco_uri": "http://data.europa.eu/esco/skill/978db6a1-7297-4c89-819a-47605f2c3ba8",
+      "confidence": 0.6400567583425009,
+      "cross_encoder_score": 0.8796511292457581,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "There is no mention of managing software release cycles or deployment pipelines in the course content."
+    },
+    {
+      "preferred_label": "define software architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308",
+      "confidence": 0.5800625627616536,
+      "cross_encoder_score": 0.7879545092582703,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While the course covers application design, it does not explicitly teach high-level software architecture definition."
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.5637905486528121,
+      "cross_encoder_score": 0.7704187035560608,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course focuses on manual programming and development using C# and WPF, not automatic code generation tools."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.719052995599585,
+      "cross_encoder_score": 0.9819660782814026,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course content explicitly lists 'Object-Oriented Programming with C#' as a core topic."
+    },
+    {
+      "preferred_label": "data ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "confidence": 0.7036105798125086,
+      "cross_encoder_score": 0.966457188129425,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 3,
+      "llm_reasoning": "The course covers professional ethics and software copyrights, but not the specific field of data ethics."
+    },
+    {
+      "preferred_label": "core banking software",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f583f4-f32a-4202-9b92-e25f0c978410",
+      "confidence": 0.6888483521530356,
+      "cross_encoder_score": 0.9386278390884399,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course teaches general application development and database connectivity, not specific core banking software."
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.6999362619651465,
+      "cross_encoder_score": 0.9648339748382568,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers software development techniques, object-oriented programming, algorithms, and coding using the .NET platform and C#."
+    },
+    {
+      "preferred_label": "resource description framework query language",
+      "esco_uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+      "confidence": 0.6865235679240794,
+      "cross_encoder_score": 0.9385011792182922,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "There is no mention of RDF or SPARQL in the course content."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.6797000821417261,
+      "cross_encoder_score": 0.9260467886924744,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course focuses on desktop application development (WPF) rather than web application development using Ajax."
+    },
+    {
+      "preferred_label": "C#",
+      "esco_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "confidence": 0.6782582856383024,
+      "cross_encoder_score": 0.916620671749115,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly lists C# language, advanced C# features, and C# programming practice as core components."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.6524576359453003,
+      "cross_encoder_score": 0.8841942548751831,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly mentions the use of professional development tools like Visual Studio."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.646907522136203,
+      "cross_encoder_score": 0.8772936463356018,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "While the course covers requirement analysis and design, it does not explicitly teach specific software design methodologies like Scrum or Waterfall."
+    },
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.6612724451834432,
+      "cross_encoder_score": 0.9079121351242065,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 4,
+      "llm_reasoning": "The course focuses on .NET and C# desktop development, not JavaScript frameworks."
+    },
+    {
+      "preferred_label": "software frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "confidence": 0.6583955473441968,
+      "cross_encoder_score": 0.8940836191177368,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course teaches the use of WPF and Entity Framework Core, which are software frameworks."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.5991189930122875,
+      "cross_encoder_score": 0.817432165145874,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "There is no mention of software configuration management tools like Git or SVN in the provided content."
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "confidence": 0.6062926712584559,
+      "cross_encoder_score": 0.8111600875854492,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course involves requirement analysis, design, and deployment of software solutions, which covers the characteristics and operations of software products."
+    },
+    {
+      "preferred_label": "solution deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "confidence": 0.5647152291912204,
+      "cross_encoder_score": 0.7600910663604736,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content explicitly mentions training skills in the deployment of complete desktop applications."
+    },
+    {
+      "preferred_label": "Microsoft Visual C++",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "confidence": 0.5214814385029238,
+      "cross_encoder_score": 0.7068191170692444,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 5,
+      "llm_reasoning": "The course focuses on the C# language and .NET platform, not the Microsoft Visual C++ development environment."
+    }
+  ],
+  "schema_version": "3.0"
+}

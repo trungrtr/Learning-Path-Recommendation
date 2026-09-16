@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+    "preferred_label": "ICT software specifications",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6213",
+    "course_title": "Advanced Java Programming"
+  },
+  "support_context": {
+    "support_concept_origin": "critical evaluation of technology stacks; software lifecycle awareness",
+    "evidence_text": "Implement software according to design and meet practical requirements"
+  },
+  "scoring": {
+    "final_score": 0.635699,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves designing software solutions and meeting practical requirements, which directly supports the ability to understand and implement software specifications.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

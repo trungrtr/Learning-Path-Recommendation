@@ -1,0 +1,2610 @@
+{
+  "course_code": "SC6218",
+  "concept_tags": [
+    {
+      "text": "game application development",
+      "normalized": "game application development"
+    },
+    {
+      "text": "2D game design",
+      "normalized": "2d game design"
+    },
+    {
+      "text": "2D game product",
+      "normalized": "2d game product"
+    },
+    {
+      "text": "game product deployment",
+      "normalized": "game product deployment"
+    },
+    {
+      "text": "game product evaluation",
+      "normalized": "game product evaluation"
+    },
+    {
+      "text": "game applications",
+      "normalized": "game applications"
+    },
+    {
+      "text": "game development process",
+      "normalized": "game development process"
+    },
+    {
+      "text": "game engines",
+      "normalized": "game engines"
+    },
+    {
+      "text": "unity game development platform",
+      "normalized": "unity game development platform"
+    },
+    {
+      "text": "unity installation",
+      "normalized": "unity installation"
+    },
+    {
+      "text": "unity components",
+      "normalized": "unity components"
+    },
+    {
+      "text": "unity scripting",
+      "normalized": "unity scripting"
+    },
+    {
+      "text": "coordinate systems",
+      "normalized": "coordinate systems"
+    },
+    {
+      "text": "camera systems",
+      "normalized": "camera systems"
+    },
+    {
+      "text": "scene hierarchy structures",
+      "normalized": "scene hierarchy structures"
+    },
+    {
+      "text": "unity prefabs",
+      "normalized": "unity prefabs"
+    },
+    {
+      "text": "unity environment components",
+      "normalized": "unity environment components"
+    },
+    {
+      "text": "collision detection",
+      "normalized": "collision detection"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management"
+    },
+    {
+      "text": "input handling",
+      "normalized": "input handling"
+    },
+    {
+      "text": "game graphics",
+      "normalized": "game graphics"
+    },
+    {
+      "text": "user interface design",
+      "normalized": "user interface design"
+    },
+    {
+      "text": "special effects",
+      "normalized": "special effects"
+    },
+    {
+      "text": "collision handling",
+      "normalized": "collision handling"
+    },
+    {
+      "text": "user interface",
+      "normalized": "user interface"
+    },
+    {
+      "text": "game scripting",
+      "normalized": "game scripting"
+    },
+    {
+      "text": "game design",
+      "normalized": "game design"
+    },
+    {
+      "text": "game prototyping",
+      "normalized": "game prototyping"
+    },
+    {
+      "text": "game programming",
+      "normalized": "game programming"
+    },
+    {
+      "text": "game building",
+      "normalized": "game building"
+    },
+    {
+      "text": "game publishing",
+      "normalized": "game publishing"
+    },
+    {
+      "text": "2d game scripting",
+      "normalized": "2d game scripting"
+    },
+    {
+      "text": "2d game programming",
+      "normalized": "2d game programming"
+    },
+    {
+      "text": "application building",
+      "normalized": "application building"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game application development",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_MUCTIEU_G1",
+        "SC6218_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "2d game design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "2d game product",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game product deployment",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game product evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game applications",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game development process",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game engines",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity game development platform",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity installation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity components",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity scripting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "coordinate systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "camera systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "scene hierarchy structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity prefabs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "unity environment components",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "collision detection",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "time management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L07",
+        "SC6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "input handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L07",
+        "SC6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game graphics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L08",
+        "SC6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "user interface design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "special effects",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "collision handling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "user interface",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game scripting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game prototyping",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L12"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "game publishing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L13"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "2d game scripting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L14"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "2d game programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L15"
+      ]
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "application building",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6218_BAIHOC_L15"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d5ff73e-7bea-436d-974f-3a51ce24a138",
+      "esco_label": "develop virtual game engine",
+      "confidence": 0.8116342851583593,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity prefabs",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "esco_label": "design application interfaces",
+      "confidence": 0.7738553147749825,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.7512260278332372,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game product",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game publishing",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7444863154505729,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "esco_label": "design user interface",
+      "confidence": 0.7279911616471522,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity prefabs",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "esco_label": "create software design",
+      "confidence": 0.7420909605820081,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "esco_label": "create prototype of user experience solutions",
+      "confidence": 0.7330797854973742,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_label": "use software design patterns",
+      "confidence": 0.7291386105046015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "camera systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "esco_label": "develop ICT device driver",
+      "confidence": 0.7278547109960015,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scene hierarchy structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "esco_label": "design interaction model",
+      "confidence": 0.6073197306944315,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game product",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game publishing",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e361e34-c563-4892-b9d3-873a6a4fef8a",
+      "esco_label": "digital game genres",
+      "confidence": 0.7969687201971545,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7620036191650155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity prefabs",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game publishing",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.7549565695853998,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/96eb286a-58b7-45ff-a916-5578d0b79b8c",
+      "esco_label": "Rapid application development",
+      "confidence": 0.7485207432242482,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "esco_label": "incremental development",
+      "confidence": 0.7493831936209804,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity prefabs",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "esco_label": "software UI design patterns",
+      "confidence": 0.7420187273543425,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.7386547462802571,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game product",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "input handling",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.748731579589384,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "application building",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "esco_label": "iterative development",
+      "confidence": 0.7472016157962904,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game publishing",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "esco_label": "content development processes",
+      "confidence": 0.7383169232846621,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product deployment",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scene hierarchy structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/8b0f73ff-d36b-4196-bb83-464c3a6ef07d",
+      "esco_label": "game theory",
+      "confidence": 0.7255428922903815,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity installation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity components",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity prefabs",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity environment components",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "esco_label": "unified modelling language",
+      "confidence": 0.7189833156226924,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "unity game development platform",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "coordinate systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scene hierarchy structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "user interface design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/4840338b-ac6c-486a-be1d-9ddfe00b8bdf",
+      "esco_label": "Spiral development",
+      "confidence": 0.7324750270522267,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "camera systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game publishing",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/a71577b2-7550-4222-88ee-dcbd2d881516",
+      "esco_label": "graphics editor software",
+      "confidence": 0.7190222037111291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game application development",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game product evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game applications",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game engines",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game design",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game prototyping",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "game building",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game scripting",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "2d game programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.7057076919083805,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 34,
+    "total_has_concept_edges": 34,
+    "total_evidence_for_edges": 312
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về an ninh mạng",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về các khái niệm cơ bản, mục tiêu và thách thức trong lĩnh vực an ninh mạng. Người học sẽ hiểu về các thành phần cốt lõi như tính bảo mật, tính toàn vẹn và tính sẵn sàng của hệ thống thông tin.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Cybersecurity",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thuật toán mã hóa khóa bí mật và công khai",
+      "noi_dung_tom_tat": "Nội dung tập trung phân tích nguyên lý hoạt động của các thuật toán mã hóa đối xứng và bất đối xứng. Sinh viên sẽ tìm hiểu cách thức bảo vệ dữ liệu thông qua các kỹ thuật mật mã hiện đại.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Symmetric and Public-Key Encryption Algorithms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "An ninh tầng giao vận",
+      "noi_dung_tom_tat": "Bài học đi sâu vào các giao thức bảo mật tại tầng giao vận như TLS/SSL để thiết lập kết nối an toàn giữa client và server. Các kỹ thuật xác thực và mã hóa phiên làm việc sẽ được làm rõ.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Transport-Layer Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "An ninh thư điện tử",
+      "noi_dung_tom_tat": "Tìm hiểu các tiêu chuẩn và giao thức bảo mật cho thư điện tử như PGP và S/MIME. Bài học giúp ngăn chặn việc giả mạo, nghe lén và đảm bảo tính riêng tư cho nội dung email.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "E-Mail Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "An ninh IP",
+      "noi_dung_tom_tat": "Nghiên cứu về giao thức IPsec nhằm bảo mật dữ liệu ở tầng mạng thông qua các cơ chế đóng gói và mã hóa gói tin. Đây là nền tảng quan trọng để xây dựng các kết nối VPN an toàn.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "IP Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "An ninh mạng không dây",
+      "noi_dung_tom_tat": "Khám phá các lỗ hổng bảo mật trong mạng không dây và các giao thức như WPA3 để bảo vệ kết nối Wi-Fi. Học viên sẽ học cách cấu hình an toàn để chống lại các cuộc tấn công phổ biến.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Wireless Network Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các mô hình mạng an toàn và phần mềm độc hại (KT-TX1)",
+      "noi_dung_tom_tat": "Tổng hợp các kiến thức về kiến trúc mạng an toàn và phân tích đặc điểm của các loại phần mềm độc hại. Bài học giúp sinh viên nhận diện và xây dựng chiến lược phòng chống các mối đe dọa kỹ thuật.",
+      "ma_clo": [
+        "L1",
+        "L3"
+      ],
+      "ten_bai_en": "Secure Network Models and Malware (KT-TX1)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thâm nhập trái phép và tưởng lửa",
+      "noi_dung_tom_tat": "Bài học giới thiệu về các kỹ thuật thâm nhập trái phép phổ biến và vai trò của tường lửa trong việc kiểm soát truy cập mạng. Sinh viên sẽ học cách thiết lập các quy tắc tường lửa để lọc lưu lượng truy cập nguy hiểm.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Intrusion and Firewalls",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành về thuật toán mã hóa khóa bí mật",
+      "noi_dung_tom_tat": "Thực hành triển khai các thuật toán mã hóa khóa bí mật như AES hoặc DES trên ngôn ngữ lập trình cụ thể. Mục tiêu là giúp người học hiểu sâu cơ chế hoạt động của mã hóa đối xứng.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Symmetric Encryption Algorithms Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành về thuật toán mã hóa khóa công khai",
+      "noi_dung_tom_tat": "Hướng dẫn thực hiện mã hóa và chữ ký số sử dụng thuật toán khóa công khai như RSA. Sinh viên sẽ trực tiếp tạo khóa và thực hiện quy trình trao đổi dữ liệu an toàn.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Public-Key Encryption Algorithms Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành SSL",
+      "noi_dung_tom_tat": "Thực hành cấu hình SSL/TLS cho các dịch vụ web để đảm bảo an toàn cho dữ liệu truyền tải. Bài học bao gồm việc tạo và cài đặt chứng chỉ số (Certificate).",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "SSL Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành an ninh thư điện tử",
+      "noi_dung_tom_tat": "Thực hành thiết lập các công cụ bảo mật thư điện tử nhằm đảm bảo tính xác thực và bảo mật nội dung email. Sinh viên sẽ làm việc với các phần mềm mã hóa email chuyên dụng.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "E-Mail Security Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành an ninh mạng không dây",
+      "noi_dung_tom_tat": "Thực hành cấu hình bảo mật cho mạng Wi-Fi và các thiết bị truy cập không dây. Nội dung tập trung vào việc áp dụng các giao thức xác thực mạnh để ngăn chặn truy cập trái phép.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Wireless Network Security Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành mô hình mạng an toàn",
+      "noi_dung_tom_tat": "Xây dựng và mô phỏng các mô hình mạng an toàn sử dụng thiết bị mạng thực tế hoặc giả lập. Học viên sẽ học cách triển khai hệ thống phòng thủ theo chiều sâu.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Secure Network Models Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành về phần mềm độc hại",
+      "noi_dung_tom_tat": "Thực hành phân tích mẫu các phần mềm độc hại trong môi trường an toàn. Sinh viên sẽ học cách nhận diện hành vi, nguồn gốc và phương pháp ngăn chặn virus, mã độc.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Malware Lab",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "chống thâm nhập trái phép (KT-TX2)",
+      "noi_dung_tom_tat": "Bài học này tập trung vào các kỹ thuật và phương pháp phòng chống sự xâm nhập trái phép vào hệ thống mạng. Người học sẽ được tìm hiểu về các cơ chế kiểm soát truy cập và chiến lược bảo mật để ngăn chặn các cuộc tấn công từ bên ngoài.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Intrusion Detection and Prevention (KT-TX2)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành về cấu hình tưởng lửa",
+      "noi_dung_tom_tat": "Nội dung bài học hướng dẫn thực hành chi tiết về quy trình cấu hình tường lửa (firewall) để bảo vệ hạ tầng mạng. Sinh viên sẽ trực tiếp thiết lập các quy tắc lọc gói tin và chính sách bảo mật để kiểm soát lưu lượng truy cập hiệu quả.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "Firewall Configuration Lab",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "d4cd929fb0470d5bf8d9b09b3c3cf4ee"
+}

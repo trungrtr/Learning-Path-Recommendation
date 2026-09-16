@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/74e49482-75e8-4637-bdb1-fff868d02f7a",
+    "preferred_label": "scientific literature",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6019_BS",
+    "course_title": "Nhập môn nghiên cứu khoa học"
+  },
+  "support_context": {
+    "support_concept_origin": "academic integrity; structured communication; time management",
+    "evidence_text": "Enhancing self-study capacity, self-research capability, critical thinking, and a sense of responsibility in the process of carrying out academic activities and scientific research"
+  },
+  "scoring": {
+    "final_score": 0.676311,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course introduces research methodology and the structure of scientific proposals, which requires engaging with and understanding scientific literature.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

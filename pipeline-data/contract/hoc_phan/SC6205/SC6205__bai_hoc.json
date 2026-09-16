@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về cấu trúc dữ liệu và giải thuật",
+      "noi_dung_tom_tat": "Bài học giới thiệu các khái niệm cơ bản về cấu trúc dữ liệu và tầm quan trọng của giải thuật trong lập trình. Sinh viên sẽ làm quen với cách đánh giá độ phức tạp thuật toán thông qua ký hiệu Big O.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Data Structures and Algorithms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Một số chiến lược thiết kế giải thuật",
+      "noi_dung_tom_tat": "Khảo sát các phương pháp tiếp cận vấn đề phổ biến như vét cạn, chia để trị và tham lam. Nội dung giúp người học hình thành tư duy logic để lựa chọn chiến lược giải quyết bài toán hiệu quả.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Algorithm Design Strategies",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Các phương pháp tìm kiếm, sắp xếp",
+      "noi_dung_tom_tat": "Phân tích các thuật toán tìm kiếm và sắp xếp dữ liệu cơ bản. Bài học tập trung vào hiệu năng thực thi và so sánh sự khác biệt giữa các phương pháp trên tập dữ liệu lớn.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Searching and Sorting Methods",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Danh sách tuyến tính",
+      "noi_dung_tom_tat": "Tìm hiểu về cấu trúc dữ liệu danh sách tuyến tính như mảng và danh sách liên kết. Người học sẽ nắm vững cách thức truy xuất, chèn và xóa phần tử trong cấu trúc này.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Linear Lists",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Cây và cây nhiệm phân",
+      "noi_dung_tom_tat": "Cung cấp cái nhìn tổng quan về cấu trúc cây và các đặc tính của cây nhị phân. Bài học nhấn mạnh vào các thao tác duyệt cây cơ bản như tiền thứ tự, trung thứ tự và hậu thứ tự.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Trees and Binary Trees",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Chiến lược để quy, chia để trị",
+      "noi_dung_tom_tat": "Đi sâu vào kỹ thuật đệ quy và chiến lược chia để trị trong thiết kế giải thuật. Sinh viên sẽ thực hành viết code giải quyết các bài toán phức tạp bằng việc chia nhỏ vấn đề.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Recursion and Divide and Conquer Strategies",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Chiến lược tham lam",
+      "noi_dung_tom_tat": "Giới thiệu chiến lược tham lam thông qua các bài toán tối ưu hóa điển hình. Bài học giải thích cách đưa ra quyết định cục bộ tốt nhất để tiến tới lời giải tối ưu toàn cục.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Greedy Strategy",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Giải thuật tìm kiếm",
+      "noi_dung_tom_tat": "Khám phá các thuật toán tìm kiếm như tìm kiếm tuyến tính và tìm kiếm nhị phân. Học viên sẽ được hướng dẫn cài đặt và phân tích trường hợp tốt nhất, xấu nhất của từng giải thuật.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Search Algorithms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Giải thuật sắp xếp cơ bản",
+      "noi_dung_tom_tat": "Tập trung vào các thuật toán sắp xếp kinh điển như sắp xếp nổi bọt, sắp xếp chèn và sắp xếp chọn. Bài học giúp hiểu rõ cơ chế vận hành và độ phức tạp tính toán của các phương pháp này.",
+      "ma_clo": [
+        "L1 L3"
+      ],
+      "ten_bai_en": "Basic Sorting Algorithms",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Cấu trúc dữ liệu vecto",
+      "noi_dung_tom_tat": "Tìm hiểu cấu trúc dữ liệu Vecto trong thư viện chuẩn, cách quản lý bộ nhớ động và tự động mở rộng kích thước. Nội dung giúp tối ưu hóa việc lưu trữ dữ liệu có kích thước thay đổi.",
+      "ma_clo": [
+        "L2L3"
+      ],
+      "ten_bai_en": "Vector Data Structure",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Cấu trúc dữ liệu list",
+      "noi_dung_tom_tat": "Nghiên cứu về cấu trúc dữ liệu List, sự khác biệt giữa danh sách liên kết đơn và kép. Học viên sẽ nắm bắt kỹ thuật quản lý con trỏ và hiệu quả của việc thao tác dữ liệu liên tục.",
+      "ma_clo": [
+        "L2L3"
+      ],
+      "ten_bai_en": "List Data Structure",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Cấu trúc dữ liệu cây nhi phân",
+      "noi_dung_tom_tat": "Cài đặt cụ thể cấu trúc cây nhị phân bằng code và các thao tác như chèn, tìm kiếm giá trị trên cây. Bài học nhấn mạnh vào ứng dụng của cây trong lưu trữ dữ liệu phân cấp.",
+      "ma_clo": [
+        "L2L3"
+      ],
+      "ten_bai_en": "Binary Tree Data Structure",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bài tập tổng hợp",
+      "noi_dung_tom_tat": "Tổng kết lại toàn bộ kiến thức đã học thông qua các bài tập ứng dụng thực tế. Sinh viên sẽ thực hành kết hợp nhiều cấu trúc dữ liệu và giải thuật để giải quyết một bài toán tổng hợp.",
+      "ma_clo": [
+        "L1L2L3"
+      ],
+      "ten_bai_en": "Comprehensive Exercises",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "4520356a9ca7e4c145aa986793c76228"
+}

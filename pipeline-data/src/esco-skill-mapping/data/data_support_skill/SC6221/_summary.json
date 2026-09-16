@@ -1,0 +1,41 @@
+{
+  "course_code": "SC6221",
+  "course_title": "Numerical Methods for Programming",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 0,
+    "knowledge_count": 4
+  },
+  "skills": [],
+  "knowledge": [
+    {
+      "preferred_label": "computational biology",
+      "esco_uri": "http://data.europa.eu/esco/skill/e464363b-8346-421d-9035-52118b76d8c8",
+      "final_score": 0.8532,
+      "support_concept_origin": "computational thinking; critical evaluation of precision",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.7515,
+      "support_concept_origin": "abstract problem solving; computational thinking; critical evaluation of precision",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "final_score": 0.7451,
+      "support_concept_origin": "computational thinking; problem decomposition; technical documentation skills",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.6148,
+      "support_concept_origin": "computational thinking; problem decomposition",
+      "review_status": "accepted"
+    }
+  ]
+}

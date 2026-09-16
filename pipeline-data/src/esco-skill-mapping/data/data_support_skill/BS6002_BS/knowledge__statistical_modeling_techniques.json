@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+    "preferred_label": "statistical modeling techniques",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6002_BS",
+    "course_title": "Giải tích"
+  },
+  "support_context": {
+    "support_concept_origin": "critical analysis of assumptions; mathematical modeling",
+    "evidence_text": "Course: Giải tích"
+  },
+  "scoring": {
+    "final_score": 0.665144,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Calculus provides the mathematical foundation for probability density functions and optimization techniques essential for statistical modeling.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

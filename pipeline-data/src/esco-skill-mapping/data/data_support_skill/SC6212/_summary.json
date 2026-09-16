@@ -1,0 +1,42 @@
+{
+  "course_code": "SC6212",
+  "course_title": "Java Programming",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 4,
+    "skill_count": 1,
+    "knowledge_count": 3
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "final_score": 0.7166,
+      "support_concept_origin": "computational logic; persistence in problem-solving; systematic problem decomposition",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "final_score": 0.8035,
+      "support_concept_origin": "abstract modeling; debugging and troubleshooting methodology",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "final_score": 0.7615,
+      "support_concept_origin": "computational logic; systematic problem decomposition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "final_score": 0.6817,
+      "support_concept_origin": "computational logic; debugging and troubleshooting methodology",
+      "review_status": "accepted"
+    }
+  ]
+}

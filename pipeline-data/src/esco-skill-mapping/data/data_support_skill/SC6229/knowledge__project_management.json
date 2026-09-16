@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+    "preferred_label": "project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6229",
+    "course_title": "Enterprise resource planning software"
+  },
+  "support_context": {
+    "support_concept_origin": "data-driven decision making; project lifecycle management",
+    "evidence_text": "Be able to analyze management needs and utilize the basic functions of enterprise resource planning systems"
+  },
+  "scoring": {
+    "final_score": 0.822458,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves the deployment and management of ERP systems, which requires planning, resource allocation, and meeting business requirements, all of which are core components of project management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

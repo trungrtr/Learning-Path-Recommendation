@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "ma_cdr_goc": "L1",
+      "noi_dung": "Trình bày các kiến thức nền tảng về cơ sở dữ liệu, mô hình dữ liệu, mô hình quan hệ, các phép toán đại số quan hệ, ngôn ngữ SQL, tối ưu truy vấn, mô hình thực thể-liên kết và chuyển đổi ERD sang mô hình quan hệ nhằm phục vụ việc thiết kế cơ sở dữ liệu.",
+      "pi_so": [
+        "PI5.1(1)",
+        "PI5.2(1)"
+      ],
+      "muc_do": "ITU",
+      "noi_dung_en": "Covers foundational knowledge of databases, data models, relational models, relational algebra operations, SQL, query optimization, entity-relationship modeling, and ERD-to-relational model conversion for database design."
+    },
+    {
+      "ma_cdr_goc": "L2",
+      "noi_dung": "Vận dụng kiến thức để xây dựng truy vấn bằng đại số quan hệ và SQL, xác định phụ thuộc hàm, khóa, và chuẩn hóa lược đồ quan hệ đến dạng chuẩn 3 nhằm hoàn thiện thiết kế cơ sở dữ liệu.",
+      "pi_so": [
+        "PI5.1(1)",
+        "PI5.2(1)PI6.1(2)"
+      ],
+      "muc_do": "ITU",
+      "noi_dung_en": "Applies knowledge to construct queries using relational algebra and SQL, determine functional dependencies, keys, and normalize relational schemas up to the third normal form to finalize database design."
+    }
+  ],
+  "source_hash": "643439f76e82fa3704f2b79ed1e9fbc1"
+}

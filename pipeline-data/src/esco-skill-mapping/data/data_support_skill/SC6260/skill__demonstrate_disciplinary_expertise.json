@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db",
+    "preferred_label": "demonstrate disciplinary expertise",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6260",
+    "course_title": "Major Project (Information Technology)"
+  },
+  "support_context": {
+    "support_concept_origin": "professional ethics",
+    "evidence_text": "Course: Major Project (Information Technology)"
+  },
+  "scoring": {
+    "final_score": 0.500337,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course requires students to apply specialized IT knowledge to solve practical problems, which is a direct application of disciplinary expertise.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "preferred_label": "ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BM6091_BS",
+    "course_title": "Quản lý dự án"
+  },
+  "support_context": {
+    "support_concept_origin": "adaptability; collaborative problem solving; ethical judgment",
+    "evidence_text": "Students will be able to analyze team organizational models, project management tools and methods to achieve goals within constraints of time and resources"
+  },
+  "scoring": {
+    "final_score": 0.805487,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course explicitly includes professional ethics as a core component of the project manager's responsibilities.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

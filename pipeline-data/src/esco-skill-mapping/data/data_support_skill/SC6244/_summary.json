@@ -1,0 +1,77 @@
+{
+  "course_code": "SC6244",
+  "course_title": "Artificial Intelligence",
+  "relation_type": "SUPPORTS_SKILL",
+  "statistics": {
+    "total_records": 9,
+    "skill_count": 1,
+    "knowledge_count": 8
+  },
+  "skills": [
+    {
+      "preferred_label": "utilise machine learning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+      "final_score": 0.6868,
+      "support_concept_origin": "pattern recognition; technical documentation skills",
+      "review_status": "accepted"
+    }
+  ],
+  "knowledge": [
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "final_score": 0.8296,
+      "support_concept_origin": "iterative problem solving; quantitative analysis",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "artificial neural networks",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "final_score": 0.8274,
+      "support_concept_origin": "algorithmic thinking; iterative problem solving; quantitative analysis",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "final_score": 0.7306,
+      "support_concept_origin": "abstract modeling; quantitative analysis; self-directed learning",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "image recognition",
+      "esco_uri": "http://data.europa.eu/esco/skill/45f1ae17-c20d-40fc-9307-7d33b6ca9213",
+      "final_score": 0.7109,
+      "support_concept_origin": "pattern recognition",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "statistical modeling techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "final_score": 0.671,
+      "support_concept_origin": "abstract modeling; critical evaluation of trade-offs",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "scientific computing",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "final_score": 0.6696,
+      "support_concept_origin": "algorithmic thinking; quantitative analysis; technical documentation skills",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer science",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787",
+      "final_score": 0.6354,
+      "support_concept_origin": "abstract modeling; systematic experimentation",
+      "review_status": "accepted"
+    },
+    {
+      "preferred_label": "computer vision",
+      "esco_uri": "http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669",
+      "final_score": 0.6223,
+      "support_concept_origin": "algorithmic thinking; technical documentation skills",
+      "review_status": "accepted"
+    }
+  ]
+}

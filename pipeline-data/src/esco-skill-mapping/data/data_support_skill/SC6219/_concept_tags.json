@@ -1,0 +1,176 @@
+{
+  "course_code": "SC6219",
+  "concept_tags": [
+    {
+      "text": "resource management",
+      "normalized": "resource management",
+      "loai": "cognitive"
+    },
+    {
+      "text": "user-centric design thinking",
+      "normalized": "user-centric design thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "cross-platform compatibility awareness",
+      "normalized": "cross-platform compatibility awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "iterative development process",
+      "normalized": "iterative development process",
+      "loai": "foundational"
+    },
+    {
+      "text": "performance optimization mindset",
+      "normalized": "performance optimization mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "system architecture awareness",
+      "normalized": "system architecture awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to evolving technology stacks",
+      "normalized": "adaptability to evolving technology stacks",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "complex problem decomposition",
+      "normalized": "complex problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "usability evaluation",
+      "normalized": "usability evaluation",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6219",
+      "concept_tag": "resource management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "user-centric design thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "cross-platform compatibility awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "iterative development process",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "performance optimization mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "system architecture awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "adaptability to evolving technology stacks",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "complex problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6219",
+      "concept_tag": "usability evaluation",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "complex problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.796337,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.796337,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative development process",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.796337,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to evolving technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.673751,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "usability evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.673751,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.560505,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 6
+  }
+}

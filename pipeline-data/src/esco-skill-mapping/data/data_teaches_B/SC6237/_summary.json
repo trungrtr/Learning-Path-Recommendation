@@ -1,0 +1,340 @@
+{
+  "course_code": "SC6237",
+  "course_title": "Big data Analysis",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 14,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use data processing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "confidence": 0.8053598989626147,
+      "cross_encoder_score": 0.9892591834068298,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course explicitly covers data preprocessing, analysis methods, and the use of tools to present and interpret analysis results."
+    },
+    {
+      "preferred_label": "analyse big data",
+      "esco_uri": "http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5",
+      "confidence": 0.804725195740525,
+      "cross_encoder_score": 0.9927090406417847,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content focuses on big data analysis, including descriptive and predictive analysis to identify patterns."
+    },
+    {
+      "preferred_label": "perform data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "confidence": 0.8098961332235834,
+      "cross_encoder_score": 0.9955984354019165,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes descriptive and predictive analysis to generate results and propose solutions for decision-making."
+    },
+    {
+      "preferred_label": "process data",
+      "esco_uri": "http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50",
+      "confidence": 0.7765111106618972,
+      "cross_encoder_score": 0.9885100722312927,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers data preprocessing and the execution of data processing workflows using software tools."
+    },
+    {
+      "preferred_label": "implement data quality processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5",
+      "confidence": 0.7748434702207123,
+      "cross_encoder_score": 0.9957228899002075,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "Data preprocessing is a core component of the course, which inherently involves ensuring data quality for analysis."
+    },
+    {
+      "preferred_label": "apply statistical analysis techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+      "confidence": 0.7890966561879934,
+      "cross_encoder_score": 0.9964949488639832,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly teaches descriptive and predictive analysis, which are statistical analysis techniques."
+    },
+    {
+      "preferred_label": "collect ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a",
+      "confidence": 0.7799297042538502,
+      "cross_encoder_score": 0.9917057752609253,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes CLOs related to big data collection and preprocessing techniques."
+    },
+    {
+      "preferred_label": "manage data collection systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "confidence": 0.7646112269470199,
+      "cross_encoder_score": 0.9929885268211365,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on analysis and processing rather than the management or development of data collection systems."
+    },
+    {
+      "preferred_label": "perform data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278",
+      "confidence": 0.7661175048050846,
+      "cross_encoder_score": 0.9881550073623657,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers big data analysis techniques and algorithms, which are synonymous with data mining in this context."
+    },
+    {
+      "preferred_label": "implement data warehousing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd",
+      "confidence": 0.7637159206789191,
+      "cross_encoder_score": 0.9878219962120056,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no mention of data warehousing, OLAP, or OLTP techniques in the provided course content."
+    },
+    {
+      "preferred_label": "manage data",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f",
+      "confidence": 0.7721780173869107,
+      "cross_encoder_score": 0.9895746111869812,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly covers data preprocessing and data analysis methods, which involve cleansing and preparing data for analysis."
+    },
+    {
+      "preferred_label": "integrate ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "confidence": 0.7713858455119298,
+      "cross_encoder_score": 0.9880495667457581,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The provided content does not explicitly mention the integration of data from multiple sources into a unified view."
+    },
+    {
+      "preferred_label": "create data sets",
+      "esco_uri": "http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e",
+      "confidence": 0.7620638946412643,
+      "cross_encoder_score": 0.9929989576339722,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While the course covers data analysis, it does not explicitly teach the creation or management of data sets as a distinct skill."
+    },
+    {
+      "preferred_label": "manage standards for data exchange",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1",
+      "confidence": 0.7417976354923536,
+      "cross_encoder_score": 0.9673644304275513,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "There is no mention of data exchange standards or schema transformation in the course content."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.8240881622972338,
+      "cross_encoder_score": 0.99126797914505,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course focuses on analysis and preprocessing rather than the engineering/construction of large-scale data systems."
+    },
+    {
+      "preferred_label": "data science",
+      "esco_uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+      "confidence": 0.8029369685362874,
+      "cross_encoder_score": 0.9926660656929016,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers predictive analysis and big data analysis, which are core components of data science."
+    },
+    {
+      "preferred_label": "data models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "confidence": 0.7984295419748284,
+      "cross_encoder_score": 0.9940687417984009,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content does not explicitly mention data modeling techniques or structuring data elements."
+    },
+    {
+      "preferred_label": "data warehouse",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de",
+      "confidence": 0.7913497602028589,
+      "cross_encoder_score": 0.9942398071289062,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "Data warehousing is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "business analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "confidence": 0.7858343199433384,
+      "cross_encoder_score": 0.9975160360336304,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes descriptive and predictive analysis and explicitly mentions proposing solutions or recommendations based on data."
+    },
+    {
+      "preferred_label": "data quality assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+      "confidence": 0.7872975353683358,
+      "cross_encoder_score": 0.9934468865394592,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers data preprocessing and the responsibility for the quality and accuracy of analysis results, which implies data quality assessment."
+    },
+    {
+      "preferred_label": "network management system tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "confidence": 0.7678592874723144,
+      "cross_encoder_score": 0.9913238286972046,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers network data analysis, but this refers to graph/network theory analysis rather than the management, monitoring, or supervision of network infrastructure components."
+    },
+    {
+      "preferred_label": "web analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "confidence": 0.7798720353375156,
+      "cross_encoder_score": 0.9960092306137085,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on general big data analysis, preprocessing, and network data analysis, but does not explicitly mention web analytics or website performance measurement."
+    },
+    {
+      "preferred_label": "statistical modeling techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22",
+      "confidence": 0.7773154159409036,
+      "cross_encoder_score": 0.9932364821434021,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly includes predictive analysis, which involves statistical modeling to make predictions based on data."
+    },
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7622959248485947,
+      "cross_encoder_score": 0.9913578033447266,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers descriptive and predictive analysis, which are core components of quantitative analysis using mathematical and statistical methods."
+    },
+    {
+      "preferred_label": "social network analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/33e584f9-ff7a-4979-bfc0-5a3a374a145a",
+      "confidence": 0.7613290048006249,
+      "cross_encoder_score": 0.9847421646118164,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly lists 'Complex Network Data Analysis' and 'Network Community Detection Practice', which are synonymous with social network analysis."
+    },
+    {
+      "preferred_label": "data analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378",
+      "confidence": 0.7697596460357601,
+      "cross_encoder_score": 0.9845208525657654,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The entire course is centered on big data analysis, including techniques, algorithms, and tools to derive insights for decision-making."
+    },
+    {
+      "preferred_label": "online analytical processing",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+      "confidence": 0.7687841058635567,
+      "cross_encoder_score": 0.9874891638755798,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "While the course covers data analysis tools, there is no specific mention of OLAP (Online Analytical Processing) or multi-dimensional data cube technologies."
+    },
+    {
+      "preferred_label": "unstructured data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+      "confidence": 0.7622712527451145,
+      "cross_encoder_score": 0.9933955073356628,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers 'Big Data', which inherently involves the processing and analysis of unstructured or semi-structured data."
+    },
+    {
+      "preferred_label": "data mining",
+      "esco_uri": "http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180",
+      "confidence": 0.7536427981202152,
+      "cross_encoder_score": 0.9825087785720825,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers data analysis techniques and algorithms, which are the fundamental components of data mining."
+    }
+  ],
+  "schema_version": "3.0"
+}

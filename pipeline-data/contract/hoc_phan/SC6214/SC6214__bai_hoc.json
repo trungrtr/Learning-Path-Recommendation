@@ -1,0 +1,77 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan & Mô hình MVC trong ASP.NET Core",
+      "noi_dung_tom_tat": "Giới thiệu tổng quan về kiến trúc ASP.NET Core và làm rõ mô hình MVC (Model-View-Controller). Học viên sẽ nắm vững luồng xử lý yêu cầu HTTP và cách thiết lập môi trường phát triển ứng dụng web chuyên nghiệp.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview & MVC Pattern in ASP.NET Core",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành",
+      "noi_dung_tom_tat": "Áp dụng các kiến thức nền tảng thông qua các bài tập lập trình thực tế. Học viên thực hành thiết lập dự án, cấu hình middleware và xây dựng các thành phần điều hướng cơ bản.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practice",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Razor View, Layout và Truyền Dữ Liệu",
+      "noi_dung_tom_tat": "Tìm hiểu cách xây dựng giao diện với Razor View và sử dụng Layout để tái sử dụng mã nguồn. Hướng dẫn kỹ thuật truyền dữ liệu từ Controller sang View bằng ViewBag, ViewData và Strongly-typed models.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Razor Views, Layouts, and Data Passing",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "TH + Kiểm tra TX1",
+      "noi_dung_tom_tat": "Tổng hợp kiến thức đã học thông qua bài tập thực hành chuyên sâu. Thực hiện kiểm tra thường xuyên lần 1 để đánh giá khả năng áp dụng kỹ thuật thiết kế giao diện và luồng dữ liệu.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Practical + Regular Test 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Core ASP.net core và entity framework core",
+      "noi_dung_tom_tat": "Khám phá các thành phần cốt lõi trong ASP.NET Core và tích hợp Entity Framework Core để thao tác với cơ sở dữ liệu. Học viên sẽ học cách định nghĩa mô hình dữ liệu (Data Models) và sử dụng Migrations để quản lý database.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "ASP.NET Core Fundamentals and Entity Framework Core",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Upload file, Tìm kiểm, Phân trang & Bảo mật cơ bản",
+      "noi_dung_tom_tat": "Phát triển các tính năng nâng cao bao gồm upload file, kỹ thuật tìm kiếm dữ liệu và phân trang kết quả. Đồng thời thiết lập các biện pháp bảo mật cơ bản để phòng chống lỗ hổng web phổ biến.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "File Upload, Searching, Pagination & Basic Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Bảo mật nâng cao & Triển khai dự án thực tế",
+      "noi_dung_tom_tat": "Đi sâu vào các kỹ thuật bảo mật nâng cao như xác thực (Authentication) và phân quyền (Authorization). Triển khai dự án thực tế hoàn chỉnh từ môi trường phát triển lên môi trường thực thi.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Advanced Security & Practical Project Deployment",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "TH + Kiểm tra TX2",
+      "noi_dung_tom_tat": "Hoàn thiện kỹ năng qua các bài thực hành tổng hợp về bảo mật và xử lý dữ liệu nâng cao. Thực hiện kiểm tra thường xuyên lần 2 để đánh giá năng lực giải quyết các bài toán dự án thực tế.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Practical + Regular Test 2",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "ff3fcabe5d008530c1a5664b5a9740e1"
+}

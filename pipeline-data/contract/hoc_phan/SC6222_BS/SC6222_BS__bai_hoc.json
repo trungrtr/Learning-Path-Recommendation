@@ -1,0 +1,129 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về tích hợp hệ thống phần mềm",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về khái niệm, vai trò và các kiến trúc cơ bản trong tích hợp hệ thống phần mềm. Sinh viên sẽ hiểu rõ về sự cần thiết của việc kết nối các hệ thống khác nhau trong môi trường doanh nghiệp.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Software System Integration",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "XML và XSD",
+      "noi_dung_tom_tat": "Giới thiệu về ngôn ngữ đánh dấu XML và cách sử dụng XSD để định nghĩa cấu trúc dữ liệu. Đây là nền tảng quan trọng để chuẩn hóa dữ liệu trao đổi giữa các hệ thống.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "XML and XSD",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành XSD",
+      "noi_dung_tom_tat": "Sinh viên được thực hành thiết kế và kiểm chứng các file XML dựa trên các tập luật XSD cụ thể. Bài học tập trung vào việc đảm bảo tính đúng đắn của dữ liệu đầu vào.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "XSD Practical",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "XSLT",
+      "noi_dung_tom_tat": "Học cách sử dụng XSLT để chuyển đổi cấu trúc XML sang các định dạng khác hoặc biến đổi dữ liệu theo yêu cầu nghiệp vụ. Kỹ thuật này rất hữu ích trong việc tương thích dữ liệu giữa các hệ thống không đồng nhất.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "XSLT",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "- Thực hành XSLT  - Kiểm tra TX1",
+      "noi_dung_tom_tat": "Thực hành áp dụng các kỹ thuật chuyển đổi XSLT thông qua các bài tập cụ thể. Đồng thời, sinh viên tham gia kỳ kiểm tra TX1 để đánh giá mức độ hiểu biết về XML, XSD và XSLT.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "- XSLT Practical - Mid-term Test 1",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "JSON và DOM",
+      "noi_dung_tom_tat": "Tìm hiểu về định dạng JSON hiện đại và cách sử dụng mô hình DOM để thao tác với dữ liệu trên trình duyệt. JSON được phân tích như là lựa chọn thay thế phổ biến cho XML trong trao đổi dữ liệu.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "JSON and DOM",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành JSON và DOM",
+      "noi_dung_tom_tat": "Hướng dẫn thực hành các kỹ thuật đọc, ghi và xử lý dữ liệu JSON trong các ứng dụng thực tế bằng mô hình DOM. Sinh viên sẽ nắm vững cách thao tác với cấu trúc cây dữ liệu.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "JSON and DOM Practical",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "- Thực hành JSON và DOM (tiếp); Kiểm tra TX2",
+      "noi_dung_tom_tat": "Tiếp tục nâng cao kỹ năng xử lý JSON phức tạp thông qua các bài tập nâng cao. Kết hợp với bài kiểm tra TX2 để đánh giá khả năng áp dụng kỹ thuật thao tác dữ liệu.",
+      "ma_clo": [
+        "L3"
+      ],
+      "ten_bai_en": "- JSON and DOM Practical (cont.); Mid-term Test 2",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "- RESTful web service",
+      "noi_dung_tom_tat": "Khám phá kiến trúc RESTful web service, các phương thức HTTP và cách thiết kế tài nguyên chuẩn REST. Đây là tiêu chuẩn công nghiệp phổ biến nhất cho việc tích hợp hệ thống hiện nay.",
+      "ma_clo": [
+        "L1",
+        "L4"
+      ],
+      "ten_bai_en": "- RESTful Web Service",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành xây dựng Web API",
+      "noi_dung_tom_tat": "Sinh viên thực hành xây dựng một Web API hoàn chỉnh, thiết lập các endpoint và xử lý các yêu cầu từ phía client. Bài học nhấn mạnh vào việc triển khai thực tế một dịch vụ web.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Web API Development Practical",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Xây dựng ứng dụng gọi Web API",
+      "noi_dung_tom_tat": "Hướng dẫn cách phát triển ứng dụng client để tiêu thụ (consume) Web API đã xây dựng. Tập trung vào việc xử lý các phản hồi từ server và tích hợp dữ liệu vào giao diện.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Building Web API Consumer Applications",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành xây dựng ứng dụng gọi Web API",
+      "noi_dung_tom_tat": "Thực hành triển khai ứng dụng gọi Web API với các thao tác CRUD cơ bản. Sinh viên sẽ học cách xử lý lỗi và đồng bộ dữ liệu giữa client và server.",
+      "ma_clo": [
+        "L3",
+        "L4"
+      ],
+      "ten_bai_en": "Building Web API Consumer Applications Practical",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Thực hành xây dựng ứng dụng gọi Web API (tiếp)",
+      "noi_dung_tom_tat": "Tiếp tục hoàn thiện ứng dụng gọi Web API với các tính năng nâng cao như xác thực và xử lý dữ liệu bất đồng bộ. Đây là bước quan trọng cuối cùng để hoàn tất quy trình tích hợp hệ thống.",
+      "ma_clo": [
+        "L4"
+      ],
+      "ten_bai_en": "Building Web API Consumer Applications Practical (cont.)",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "5ef3199a49a09519e3bb17b5aadd2738"
+}

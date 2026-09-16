@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Data Directories
+
+
+# IDE
+.vscode/
+.idea/

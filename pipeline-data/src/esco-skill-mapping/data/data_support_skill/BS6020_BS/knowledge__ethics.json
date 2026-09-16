@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+    "preferred_label": "ethics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6020_BS",
+    "course_title": "Quan hệ lao động và việc làm"
+  },
+  "support_context": {
+    "support_concept_origin": "professional ethics",
+    "evidence_text": "It helps students proactively engage in the professional world after graduation"
+  },
+  "scoring": {
+    "final_score": 0.711134,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Labor relations involve navigating professional conduct, rights, and responsibilities, which inherently requires an understanding of workplace ethics and moral principles.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

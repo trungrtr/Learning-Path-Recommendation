@@ -1,0 +1,175 @@
+{
+  "course_code": "BS6038_BS",
+  "course_title": "Giải tích",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 14,
+    "skill_count": 4,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 11,
+      "SECONDARY": 3,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.7865135107480671,
+      "cross_encoder_score": 0.9878139495849609,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course explicitly covers computational methods for derivatives, integrals, and multivariable functions to solve practical engineering problems."
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.7213153818110323,
+      "cross_encoder_score": 0.9546985626220703,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content focuses on calculus and mathematical analysis, not computer programming or concurrent operations."
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.7161389697871263,
+      "cross_encoder_score": 0.8995192646980286,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course focuses on mathematical theory and application, not functional programming or software development."
+    },
+    {
+      "preferred_label": "integrate ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "confidence": 0.5767436492884315,
+      "cross_encoder_score": 0.7518941760063171,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "There is no mention of ICT data integration or data management in the course content."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.7453062571876568,
+      "cross_encoder_score": 0.9740785956382751,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course involves using mathematical modelling (calculus) to represent and solve practical engineering problems like work and force calculations."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.718824691020516,
+      "cross_encoder_score": 0.9369497895240784,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course teaches mathematical methods and formulas, not computational algorithms or automated reasoning."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.7276410104301821,
+      "cross_encoder_score": 0.9612526893615723,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly mentions applying mathematical tools to analyze and solve practical problems in engineering, which constitutes mathematical modelling."
+    },
+    {
+      "preferred_label": "task algorithmisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "confidence": 0.7088473365245502,
+      "cross_encoder_score": 0.9460092186927795,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on mathematical problem-solving rather than the algorithmic conversion of processes for computing."
+    },
+    {
+      "preferred_label": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "confidence": 0.693843433233315,
+      "cross_encoder_score": 0.9115448594093323,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "Embedded systems are not mentioned in the course content."
+    },
+    {
+      "preferred_label": "ICT system integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+      "confidence": 0.6752064366607855,
+      "cross_encoder_score": 0.8828991055488586,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "ICT system integration is outside the scope of this calculus course."
+    },
+    {
+      "preferred_label": "trading software",
+      "esco_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+      "confidence": 0.671365252854215,
+      "cross_encoder_score": 0.8950666189193726,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on calculus, mathematical analysis, and engineering applications, not financial or trading software."
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "confidence": 0.6708899954391678,
+      "cross_encoder_score": 0.88331139087677,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course content covers mathematical calculus and its applications in engineering, but does not address systems theory or organizational stability/regulation principles."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.5687867639025393,
+      "cross_encoder_score": 0.7474387288093567,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course is a foundational mathematics course and does not cover information system architecture or ICT frameworks."
+    },
+    {
+      "preferred_label": "unified modelling language",
+      "esco_uri": "http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3",
+      "confidence": 0.5434979218416818,
+      "cross_encoder_score": 0.7044115662574768,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content is limited to calculus and mathematical problem-solving; it does not include software development or system design modeling languages."
+    }
+  ],
+  "schema_version": "3.0"
+}

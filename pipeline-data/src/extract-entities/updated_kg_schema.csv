@@ -1,0 +1,28 @@
+﻿Type,Name (Label),Description,Properties,Source
+NODE,ChuongTrinhDaoTao,Chương trình đào tạo,"ma_ctdt, ten_ctdt, bac_dao_tao, phien_ban",GĐ1 — Trích xuất & chuẩn hóa
+NODE,NhomHocPhan,Nhóm học phần bắt buộc / tự chọn,"group_id, ten_nhom, loai_nhom, so_tin_chi_yeu_cau",GĐ1 — Trích xuất & chuẩn hóa
+NODE,HocPhan,Một môn học,"ma_hoc_phan, ten_vi, ten_en, so_tin_chi_tong, tin_chi_ly_thuyet, tin_chi_thuc_hanh_thi_nghiem, tin_chi_tieu_luan, tin_chi_bai_tap_lon, tin_chi_do_an_mon_hoc, tin_chi_thuc_tap, mo_ta_tom_tat, hoc_ky_goi_y, loai_hoc_phan, source_file, source_pages",GĐ1 — Trích xuất & chuẩn hóa
+NODE,MucTieuHocPhan,Mục tiêu học phần (kiến thức/kỹ năng/tự chủ),"mucTieu_id, loai_muc_tieu, ma_muc_tieu, noi_dung, so_ctdt[], source_page",GĐ1 — Trích xuất & chuẩn hóa
+NODE,CLO,Chuẩn đầu ra của học phần,"clo_id, ma_cdr_goc, noi_dung, pi_so[], muc_do[], source_page",GĐ1 — Trích xuất & chuẩn hóa
+NODE,Bai,Bài học / nội dung dạy-học chi tiết,"lesson_id, so_thu_tu, ten_bai, noi_dung_tom_tat, gio_truc_tiep, gio_truc_tuyen, gio_tu_hoc, hinh_thuc_day_hoc[], source_page",GĐ1 — Trích xuất & chuẩn hóa
+NODE,KyNangESCO,Kỹ năng chuẩn ESCO,"skill_uri (khóa), preferred_label, alternative_labels[], description, skill_type, broader_skill_uri, status",GĐ2 — Dữ liệu ESCO
+NODE,NgheNghiepESCO,Nghề nghiệp chuẩn ESCO,"occupation_uri (khóa), preferred_label, alternative_labels[], description",GĐ2 — Dữ liệu ESCO
+NODE,ConceptTag,"Các cụm từ khóa, khái niệm kỹ thuật hoặc kỹ năng mềm rút trích từ đề cương","normalized (khóa), text, loai",GĐ3 — Nhánh M4 & M5
+RELATIONSHIP,(ChuongTrinhDaoTao)-[:CO_HOC_PHAN]->(HocPhan),CTĐT có học phần,,GĐ1
+RELATIONSHIP,(HocPhan)-[:THUOC_NHOM]->(NhomHocPhan),Học phần thuộc nhóm,,GĐ1
+RELATIONSHIP,(HocPhan)-[:CO_CLO]->(CLO),Học phần có CLO,,GĐ1
+RELATIONSHIP,(HocPhan)-[:CO_MUC_TIEU]->(MucTieuHocPhan),Học phần có mục tiêu,,GĐ1
+RELATIONSHIP,(HocPhan)-[:CO_BAI]->(Bai),Học phần có bài học,,GĐ1
+RELATIONSHIP,(Bai)-[:HO_TRO_CLO]->(CLO),Bài học góp phần đạt CLO,,GĐ1
+RELATIONSHIP,(HocPhan)-[:TIEN_QUYET]->(HocPhan),Học phần tiên quyết,"is_explicitly_empty, source",GĐ1
+RELATIONSHIP,(HocPhan)-[:HOC_TRUOC]->(HocPhan),Học phần học trước,"is_explicitly_empty, source",GĐ1
+RELATIONSHIP,(HocPhan)-[:SONG_HANH]->(HocPhan),Học phần song hành,"confidence, method",BƯỚC HOÀN THIỆN KG
+RELATIONSHIP,(HocPhan)-[:TUONG_DUONG]->(HocPhan),Học phần tương đương,"confidence, method",BƯỚC HOÀN THIỆN KG
+RELATIONSHIP,(HocPhan)-[:BO_TRO]->(HocPhan),Học phần bổ trợ,"confidence, method",BƯỚC HOÀN THIỆN KG
+RELATIONSHIP,(HocPhan)-[:TEACHES_SKILL]->(KyNangESCO),Học phần dạy kỹ năng,"retrieval_score, rerank_score, validation_confidence, evidence_sources[], matched_mentions[], llm_reasoning",GĐ3 — Nhánh M4
+RELATIONSHIP,(HocPhan)-[:TEACHES_KNOWLEDGE]->(KyNangESCO),Học phần dạy kiến thức,"retrieval_score, rerank_score, validation_confidence, evidence_sources[], matched_mentions[], llm_reasoning",GĐ3 — Nhánh M4
+RELATIONSHIP,(HocPhan)-[:SUPPORTS_SKILL]->(KyNangESCO),Học phần hỗ trợ kỹ năng,"evidence_sources[], matched_mentions[], llm_reasoning, validation_confidence",GĐ3 — Nhánh M5
+RELATIONSHIP,(HocPhan)-[:SUPPORTS_KNOWLEDGE]->(KyNangESCO),Học phần hỗ trợ kiến thức,"evidence_sources[], matched_mentions[], llm_reasoning, validation_confidence",GĐ3 — Nhánh M5
+RELATIONSHIP,(NgheNghiepESCO)-[:REQUIRES_SKILL]->(KyNangESCO),Nghề nghiệp yêu cầu kỹ năng,importance_type,GĐ2
+RELATIONSHIP,(HocPhan)-[:HAS_CONCEPT]->(ConceptTag),Học phần bao hàm từ khóa/khái niệm,role (teach / support),GĐ3 — Nhánh M4 & M5
+RELATIONSHIP,(ConceptTag)-[:EVIDENCE_FOR]->(KyNangESCO),Từ khóa làm bằng chứng cho ESCO skill,"confidence, pipeline_source",GĐ3 — Nhánh M4 & M5

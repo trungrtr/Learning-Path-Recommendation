@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+    "preferred_label": "business analytics",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6236",
+    "course_title": "Data Mining and Applications"
+  },
+  "support_context": {
+    "support_concept_origin": "quantitative literacy; statistical intuition; systematic troubleshooting",
+    "evidence_text": "CLO: Ability to use data mining algorithms for several basic problems Ability to apply data mining techniques and software tools to practical problems"
+  },
+  "scoring": {
+    "final_score": 0.639074,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Business analytics relies heavily on the data mining techniques taught in this course to extract actionable insights from raw data.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

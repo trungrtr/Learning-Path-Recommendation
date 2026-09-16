@@ -1,0 +1,218 @@
+{
+  "course_code": "SC6266",
+  "concept_tags": [
+    {
+      "text": "system architecture design",
+      "normalized": "system architecture design",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "algorithmic thinking",
+      "normalized": "algorithmic thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation skills",
+      "normalized": "technical documentation skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "software lifecycle management",
+      "normalized": "software lifecycle management",
+      "loai": "foundational"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "user interface design principles",
+      "normalized": "user interface design principles",
+      "loai": "foundational"
+    },
+    {
+      "text": "abstract reasoning",
+      "normalized": "abstract reasoning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "methodological"
+    },
+    {
+      "text": "integration of disparate technologies",
+      "normalized": "integration of disparate technologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of technical trade-offs",
+      "normalized": "critical evaluation of technical trade-offs",
+      "loai": "cognitive"
+    },
+    {
+      "text": "computational efficiency awareness",
+      "normalized": "computational efficiency awareness",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6266",
+      "concept_tag": "system architecture design",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "algorithmic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "technical documentation skills",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "software lifecycle management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "user interface design principles",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "abstract reasoning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "integration of disparate technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "critical evaluation of technical trade-offs",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6266",
+      "concept_tag": "computational efficiency awareness",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.765248,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.765248,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.765248,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.649034,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+      "esco_label": "software architecture models",
+      "confidence": 0.649034,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "integration of disparate technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.617571,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system architecture design",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.617571,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.617571,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.576396,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "integration of disparate technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.573441,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle management",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.573441,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user interface design principles",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_label": "integrated development environment software",
+      "confidence": 0.573441,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 12
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "course_code": "SC6218",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "iterative problem solving",
+      "normalized": "iterative problem solving",
+      "loai": "cognitive"
+    },
+    {
+      "text": "creative thinking",
+      "normalized": "creative thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "user experience empathy",
+      "normalized": "user experience empathy",
+      "loai": "foundational"
+    },
+    {
+      "text": "cross-disciplinary collaboration",
+      "normalized": "cross-disciplinary collaboration",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "resilience in debugging",
+      "normalized": "resilience in debugging",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "methodological"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "quality assurance mindset",
+      "normalized": "quality assurance mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to new technologies",
+      "normalized": "adaptability to new technologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "resource optimization",
+      "normalized": "resource optimization",
+      "loai": "foundational"
+    },
+    {
+      "text": "presentation and communication skills",
+      "normalized": "presentation and communication skills",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6218",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "iterative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "creative thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "user experience empathy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "cross-disciplinary collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "resilience in debugging",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "quality assurance mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "adaptability to new technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "resource optimization",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6218",
+      "concept_tag": "presentation and communication skills",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.755849,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resource optimization",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.755849,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.662974,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "user experience empathy",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.662974,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quality assurance mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+      "esco_label": "quality assurance methodologies",
+      "confidence": 0.65606,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.646906,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quality assurance mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.646906,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.593173,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.593173,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.563213,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quality assurance mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.563213,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.563213,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.550184,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.550184,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.539249,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "presentation and communication skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.539249,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "esco_label": "software interaction design",
+      "confidence": 0.539249,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 17
+  }
+}

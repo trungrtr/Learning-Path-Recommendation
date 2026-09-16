@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+    "preferred_label": "ICT project management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6220",
+    "course_title": "Open Source Software"
+  },
+  "support_context": {
+    "support_concept_origin": "cross-cultural teamwork; project management",
+    "evidence_text": "Ability to research documentation, proficiency in planning, and application of acquired knowledge to deploy open-source software development solutions"
+  },
+  "scoring": {
+    "final_score": 0.657166,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course focuses on the development and deployment of software solutions, which is a core component of ICT project management.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,307 @@
+{
+  "course_code": "SC6214",
+  "course_title": "Web Programming in ASP.NET",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 26,
+    "skill_count": 11,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 21,
+      "SECONDARY": 5,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7117953183128541,
+      "cross_encoder_score": 0.9581472873687744,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course explicitly mentions building web interfaces using Razor, HTML5, and CSS3."
+    },
+    {
+      "preferred_label": "normalise data",
+      "esco_uri": "http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc",
+      "confidence": 0.7063590134328797,
+      "cross_encoder_score": 0.9409804344177246,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "While the course covers database operations via Entity Framework Core, there is no explicit mention of database normalization techniques."
+    },
+    {
+      "preferred_label": "ICT safety",
+      "esco_uri": "http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2",
+      "confidence": 0.6823955950649567,
+      "cross_encoder_score": 0.9127119779586792,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers user data security, legal regulations, and professional ethics regarding user data."
+    },
+    {
+      "preferred_label": "interact with users to gather requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "confidence": 0.6743626533346494,
+      "cross_encoder_score": 0.9086766839027405,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course objectives state the ability to build a web application from requirements analysis to deployment."
+    },
+    {
+      "preferred_label": "manage IT security compliances",
+      "esco_uri": "http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40",
+      "confidence": 0.6768855402993952,
+      "cross_encoder_score": 0.901415228843689,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course includes content on applying security standards and legal regulations for data processing."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.6796675508073552,
+      "cross_encoder_score": 0.9094341397285461,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course teaches the MVC architectural pattern and organizing source code scientifically."
+    },
+    {
+      "preferred_label": "maintain database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "confidence": 0.6682081579488205,
+      "cross_encoder_score": 0.889953076839447,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers general application security and authentication/authorization, but does not specifically focus on database-level security controls."
+    },
+    {
+      "preferred_label": "manage keys for data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+      "confidence": 0.6424232812872622,
+      "cross_encoder_score": 0.8622684478759766,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course explicitly covers mastering Authentication and Authorization principles."
+    },
+    {
+      "preferred_label": "apply information security policies",
+      "esco_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "confidence": 0.6336679187924179,
+      "cross_encoder_score": 0.8443264365196228,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers applying security standards and legal regulations for storing and processing user data."
+    },
+    {
+      "preferred_label": "perform data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+      "confidence": 0.6279823736753958,
+      "cross_encoder_score": 0.8369688987731934,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on data querying and ORM operations, not on data analysis or statistical evaluation."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.623433568375411,
+      "cross_encoder_score": 0.834658145904541,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly mentions mastering the Model-View-Controller (MVC) pattern to organize source code."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ASP.NET",
+      "esco_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "confidence": 0.7374170893688126,
+      "cross_encoder_score": 0.9729340076446533,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course title and content are entirely focused on ASP.NET Core development, including architecture, database operations, and security."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.729316871841765,
+      "cross_encoder_score": 0.9659386277198792,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "There is no mention of Ajax frameworks in the provided course content."
+    },
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.7139912585129186,
+      "cross_encoder_score": 0.9640405774116516,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on ASP.NET Core and Razor; no specific JavaScript frameworks are listed in the content."
+    },
+    {
+      "preferred_label": "SPARK",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "confidence": 0.7189918666272184,
+      "cross_encoder_score": 0.955510675907135,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course is based on the .NET ecosystem, not the Java-based SPARK framework."
+    },
+    {
+      "preferred_label": "World Wide Web Consortium standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+      "confidence": 0.7184511346575707,
+      "cross_encoder_score": 0.9613102674484253,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course content explicitly mentions the use of HTML5 and CSS3, which are core W3C standards."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.7021644392865659,
+      "cross_encoder_score": 0.9374446272850037,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers modern web architecture and the MVC architectural pattern."
+    },
+    {
+      "preferred_label": "WebCMS",
+      "esco_uri": "http://data.europa.eu/esco/skill/5c66ce3a-658d-43b1-9d8d-0f39be6c0f2e",
+      "confidence": 0.7008263130785453,
+      "cross_encoder_score": 0.9418609142303467,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course focuses on custom web application development rather than using existing WebCMS platforms."
+    },
+    {
+      "preferred_label": "Apache Tomcat",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "confidence": 0.7070121342631813,
+      "cross_encoder_score": 0.945502519607544,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on ASP.NET Core, not the Java-based Apache Tomcat server."
+    },
+    {
+      "preferred_label": "tools for software configuration management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "confidence": 0.685302456026191,
+      "cross_encoder_score": 0.9187614321708679,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "While deployment is mentioned, there is no explicit mention of software configuration management tools like Git or SVN."
+    },
+    {
+      "preferred_label": "Samurai Web Testing Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/baf1fadb-975a-42be-9744-d8ba02304d09",
+      "confidence": 0.6867378157702814,
+      "cross_encoder_score": 0.8997063040733337,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on ASP.NET Core development and general security principles, but does not mention the specific Samurai Web Testing Framework tool."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.6735882499849779,
+      "cross_encoder_score": 0.9044522047042847,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course mentions software development processes, it does not explicitly teach specific methodologies like Scrum, V-model, or Waterfall."
+    },
+    {
+      "preferred_label": "Oracle WebLogic",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "confidence": 0.6722171283103234,
+      "cross_encoder_score": 0.9051496386528015,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on the ASP.NET Core ecosystem and does not cover the Java EE-based Oracle WebLogic server."
+    },
+    {
+      "preferred_label": "IBM WebSphere",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "confidence": 0.6571000924827606,
+      "cross_encoder_score": 0.8831747770309448,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course focuses on the ASP.NET Core ecosystem and does not cover the Java EE-based IBM WebSphere server."
+    },
+    {
+      "preferred_label": "ICT security standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+      "confidence": 0.5700355165066712,
+      "cross_encoder_score": 0.7514638304710388,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly mentions mastering Authentication and Authorization, applying security standards, and complying with legal regulations for web applications."
+    },
+    {
+      "preferred_label": "data protection",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5",
+      "confidence": 0.5493266629610181,
+      "cross_encoder_score": 0.7214921712875366,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course content explicitly includes understanding regulations on user data security and applying legal regulations in storing and processing users' personal data."
+    }
+  ],
+  "schema_version": "3.0"
+}

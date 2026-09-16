@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+    "preferred_label": "software architecture models",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6205",
+    "course_title": "Data Structures and Algorithms"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling",
+    "evidence_text": "Course: Data Structures and Algorithms"
+  },
+  "scoring": {
+    "final_score": 0.604185,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "Software architecture relies on the selection of appropriate data structures and algorithms to ensure system performance, scalability, and efficiency.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

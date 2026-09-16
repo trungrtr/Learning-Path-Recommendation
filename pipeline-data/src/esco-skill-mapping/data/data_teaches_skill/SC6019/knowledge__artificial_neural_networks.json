@@ -1,0 +1,212 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+    "preferred_label": "artificial neural networks",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "SC6019",
+    "course_title": "Machine Learning",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.70482,
+    "cross_encoder_score": 0.901302,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The course provides students with fundamental machine learning methods, including algorithms, techniques, and implementations. On this basis, students can design learning systems and conduct deeper research into specific problems such as diagnosis and forecasting. Upon completion of this course, students will be able to experiment with several basic machine learning algorithms and design a suitable learning system for a given problem."
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Foundational knowledge of fundamental and modern machine learning algorithms and models.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Skills in data analysis, selecting, and applying appropriate machine learning models to solve real-world problems.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Ability to self-study, research documentation, and update new technologies in the field of artificial intelligence and machine learning.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Deploy software solutions meeting given computing requirements using machine learning tools and techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "I",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Evaluate software solutions meeting given computing requirements using machine learning techniques.",
+      "meta": {
+        "pi_so": [
+          "PI 5.3"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Apply software development processes to build computer-based machine learning solutions.",
+      "meta": {
+        "pi_so": [
+          "PI 6.1"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L4",
+      "text": "Apply machine learning theory in creating computer-based solutions.",
+      "meta": {
+        "pi_so": [
+          "PI 6."
+        ],
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L14",
+      "text": "Introduction to Machine Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "Regression Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "SVM Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L18",
+      "text": "Deep Learning Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L19",
+      "text": "Other Machine Learning Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L20",
+      "text": "Building Machine Learning Applications",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1L2L3L4"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L21",
+      "text": "Experiments on Regression Models",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L24",
+      "text": "Experiments on Deep Learning",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L25",
+      "text": "Experiments on Other Machine Learning Models",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 3,
+      "dense_rank": 1,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

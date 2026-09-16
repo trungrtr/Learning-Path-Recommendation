@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+    "preferred_label": "Process-based management",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6208",
+    "course_title": "Graduation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "project management; strategic planning",
+    "evidence_text": "being proactive in organizing, managing progress, solution quality, and making professional decisions within the scope of the assigned project"
+  },
+  "scoring": {
+    "final_score": 0.847905,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course involves managing information systems and project workflows, which supports the development of process-based management skills.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

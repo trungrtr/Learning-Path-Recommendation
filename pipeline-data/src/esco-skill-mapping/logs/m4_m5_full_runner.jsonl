@@ -1,0 +1,157 @@
+{"ts": "2026-09-08T01:18:28.367469", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=== STARTING FULL M4 + M5 PIPELINE BATCH RUN ==="}
+{"ts": "2026-09-08T01:18:28.377669", "module": "m4_m5_full_runner", "level": "INFO", "msg": "Discovered 69 courses in total."}
+{"ts": "2026-09-08T01:18:28.377669", "module": "m4_m5_full_runner", "level": "INFO", "msg": "\n=========================================="}
+{"ts": "2026-09-08T01:18:28.377669", "module": "m4_m5_full_runner", "level": "INFO", "msg": ">>> STAGE 1: RUNNING M4 (TEACHES PIPELINE)"}
+{"ts": "2026-09-08T01:18:28.377669", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=========================================="}
+{"ts": "2026-09-08T01:18:28.377669", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 1/69] Running M4 for course: BM6001_BS..."}
+{"ts": "2026-09-08T01:19:23.535433", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 2/69] Running M4 for course: BM6091_BS..."}
+{"ts": "2026-09-08T01:19:55.545378", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 3/69] Running M4 for course: BS6001_BS..."}
+{"ts": "2026-09-08T01:20:26.961675", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 4/69] Running M4 for course: BS6002_BS..."}
+{"ts": "2026-09-08T01:20:42.035220", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 5/69] Running M4 for course: BS6018_BS..."}
+{"ts": "2026-09-08T01:21:10.539292", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 6/69] Running M4 for course: BS6019_BS..."}
+{"ts": "2026-09-08T01:21:42.221869", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 7/69] Running M4 for course: BS6020_BS..."}
+{"ts": "2026-09-08T01:22:07.184313", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 8/69] Running M4 for course: BS6021_BS..."}
+{"ts": "2026-09-08T01:22:37.949138", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 9/69] Running M4 for course: BS6038_BS..."}
+{"ts": "2026-09-08T01:23:05.963324", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 10/69] Running M4 for course: BS6042_BS..."}
+{"ts": "2026-09-08T01:23:33.414317", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 11/69] Running M4 for course: BS6050_BS..."}
+{"ts": "2026-09-08T01:24:00.334593", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 12/69] Running M4 for course: BS6051_BS..."}
+{"ts": "2026-09-08T01:24:27.574605", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 13/69] Running M4 for course: BS6052_BS..."}
+{"ts": "2026-09-08T01:24:52.344616", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 14/69] Running M4 for course: BS6054_BS..."}
+{"ts": "2026-09-08T01:25:20.575183", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 15/69] Running M4 for course: IT6202_BS..."}
+{"ts": "2026-09-08T01:25:45.077631", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 16/69] Running M4 for course: IT6203_BS..."}
+{"ts": "2026-09-08T01:26:16.029834", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 17/69] Running M4 for course: IT6204..."}
+{"ts": "2026-09-08T01:26:58.045377", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 18/69] Running M4 for course: IT6205..."}
+{"ts": "2026-09-08T01:27:25.337747", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 19/69] Running M4 for course: IT6206..."}
+{"ts": "2026-09-08T01:27:47.419025", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 20/69] Running M4 for course: IT6207..."}
+{"ts": "2026-09-08T01:28:13.162961", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 21/69] Running M4 for course: IT6208..."}
+{"ts": "2026-09-08T01:28:45.712195", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 22/69] Running M4 for course: IT6217_BS..."}
+{"ts": "2026-09-08T01:29:27.441247", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 23/69] Running M4 for course: IT6218..."}
+{"ts": "2026-09-08T01:29:27.446275", "module": "m4_m5_full_runner", "level": "ERROR", "msg": "[M4 ERROR] Course IT6218 failed M4: Data contract file missing: D:\\NCKH_2026\\src\\pipeline-data\\src\\esco-skill-mapping\\..\\..\\contract\\hoc_phan\\IT6218\\IT6218__hoc_phan.json"}
+{"ts": "2026-09-08T01:29:27.447276", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 24/69] Running M4 for course: LP6010_BS..."}
+{"ts": "2026-09-08T01:29:58.202291", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 25/69] Running M4 for course: LP6021_BS..."}
+{"ts": "2026-09-08T01:30:25.872298", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 26/69] Running M4 for course: LP6022_BS..."}
+{"ts": "2026-09-08T01:30:53.732342", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 27/69] Running M4 for course: LP6025_BS..."}
+{"ts": "2026-09-08T01:31:23.219504", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 28/69] Running M4 for course: LP6026_BS..."}
+{"ts": "2026-09-08T01:31:55.914026", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 29/69] Running M4 for course: LP6027_BS..."}
+{"ts": "2026-09-08T01:32:26.096454", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 30/69] Running M4 for course: SC6013..."}
+{"ts": "2026-09-08T01:33:19.288393", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 31/69] Running M4 for course: SC6014..."}
+{"ts": "2026-09-08T01:33:55.616558", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 32/69] Running M4 for course: SC6016..."}
+{"ts": "2026-09-08T01:34:23.148111", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 33/69] Running M4 for course: SC6019..."}
+{"ts": "2026-09-08T01:35:02.970459", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 34/69] Running M4 for course: SC6200..."}
+{"ts": "2026-09-08T01:35:44.960423", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 35/69] Running M4 for course: SC6202..."}
+{"ts": "2026-09-08T01:36:10.296128", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 36/69] Running M4 for course: SC6205..."}
+{"ts": "2026-09-08T01:36:56.700781", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 37/69] Running M4 for course: SC6206..."}
+{"ts": "2026-09-08T01:37:34.038359", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 38/69] Running M4 for course: SC6208_BS..."}
+{"ts": "2026-09-08T01:38:08.475648", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 39/69] Running M4 for course: SC6210..."}
+{"ts": "2026-09-08T01:38:47.928326", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 40/69] Running M4 for course: SC6211..."}
+{"ts": "2026-09-08T01:39:31.598770", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 41/69] Running M4 for course: SC6212..."}
+{"ts": "2026-09-08T01:40:13.210866", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 42/69] Running M4 for course: SC6213..."}
+{"ts": "2026-09-08T01:40:47.969201", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 43/69] Running M4 for course: SC6214..."}
+{"ts": "2026-09-08T01:41:43.238259", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 44/69] Running M4 for course: SC6215..."}
+{"ts": "2026-09-08T01:42:47.862644", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 45/69] Running M4 for course: SC6218..."}
+{"ts": "2026-09-08T01:43:34.016596", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 46/69] Running M4 for course: SC6219..."}
+{"ts": "2026-09-08T01:45:09.028171", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 47/69] Running M4 for course: SC6220..."}
+{"ts": "2026-09-08T01:46:08.407823", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 48/69] Running M4 for course: SC6221..."}
+{"ts": "2026-09-08T01:46:45.134516", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 49/69] Running M4 for course: SC6222_BS..."}
+{"ts": "2026-09-08T01:47:19.205495", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 50/69] Running M4 for course: SC6223..."}
+{"ts": "2026-09-08T01:47:47.038928", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 51/69] Running M4 for course: SC6224..."}
+{"ts": "2026-09-08T01:48:32.905153", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 52/69] Running M4 for course: SC6228..."}
+{"ts": "2026-09-08T01:49:26.836610", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 53/69] Running M4 for course: SC6229..."}
+{"ts": "2026-09-08T01:50:20.182751", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 54/69] Running M4 for course: SC6232..."}
+{"ts": "2026-09-08T01:51:14.008745", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 55/69] Running M4 for course: SC6234..."}
+{"ts": "2026-09-08T01:52:11.418982", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 56/69] Running M4 for course: SC6236..."}
+{"ts": "2026-09-08T01:52:51.454487", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 57/69] Running M4 for course: SC6237..."}
+{"ts": "2026-09-08T01:53:29.232535", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 58/69] Running M4 for course: SC6239..."}
+{"ts": "2026-09-08T01:54:11.273851", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 59/69] Running M4 for course: SC6240..."}
+{"ts": "2026-09-08T01:54:46.837156", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 60/69] Running M4 for course: SC6241..."}
+{"ts": "2026-09-08T01:55:27.158766", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 61/69] Running M4 for course: SC6244..."}
+{"ts": "2026-09-08T01:55:57.684973", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 62/69] Running M4 for course: SC6260..."}
+{"ts": "2026-09-08T01:56:18.367648", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 63/69] Running M4 for course: SC6261..."}
+{"ts": "2026-09-08T01:56:54.822616", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 64/69] Running M4 for course: SC6262..."}
+{"ts": "2026-09-08T01:57:27.519221", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 65/69] Running M4 for course: SC6263..."}
+{"ts": "2026-09-08T01:57:57.229069", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 66/69] Running M4 for course: SC6265..."}
+{"ts": "2026-09-08T01:58:21.625120", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 67/69] Running M4 for course: SC6266..."}
+{"ts": "2026-09-08T01:58:44.130278", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 68/69] Running M4 for course: SC6267..."}
+{"ts": "2026-09-08T01:59:14.515086", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M4 69/69] Running M4 for course: SC6268..."}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=== STAGE 1 M4 COMPLETE: 68/69 Success, 1 Failed ==="}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "WARNING", "msg": "M4 Failed courses: ['IT6218']"}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "INFO", "msg": "\n=========================================="}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "INFO", "msg": ">>> STAGE 2: RUNNING M5 (SUPPORTS PIPELINE)"}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=========================================="}
+{"ts": "2026-09-08T01:59:56.769941", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 1/69] Running M5 for course: BM6001_BS..."}
+{"ts": "2026-09-08T02:00:12.573125", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 2/69] Running M5 for course: BM6091_BS..."}
+{"ts": "2026-09-08T02:00:28.804111", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 3/69] Running M5 for course: BS6001_BS..."}
+{"ts": "2026-09-08T02:00:45.038937", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 4/69] Running M5 for course: BS6002_BS..."}
+{"ts": "2026-09-08T02:01:01.482649", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 5/69] Running M5 for course: BS6018_BS..."}
+{"ts": "2026-09-08T02:01:17.541405", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 6/69] Running M5 for course: BS6019_BS..."}
+{"ts": "2026-09-08T02:01:33.439539", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 7/69] Running M5 for course: BS6020_BS..."}
+{"ts": "2026-09-08T02:01:49.782711", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 8/69] Running M5 for course: BS6021_BS..."}
+{"ts": "2026-09-08T02:02:05.414557", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 9/69] Running M5 for course: BS6038_BS..."}
+{"ts": "2026-09-08T02:02:21.215622", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 10/69] Running M5 for course: BS6042_BS..."}
+{"ts": "2026-09-08T02:02:37.087825", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 11/69] Running M5 for course: BS6050_BS..."}
+{"ts": "2026-09-08T02:02:52.977417", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 12/69] Running M5 for course: BS6051_BS..."}
+{"ts": "2026-09-08T02:03:08.628654", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 13/69] Running M5 for course: BS6052_BS..."}
+{"ts": "2026-09-08T02:03:24.517328", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 14/69] Running M5 for course: BS6054_BS..."}
+{"ts": "2026-09-08T02:03:40.450179", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 15/69] Running M5 for course: IT6202_BS..."}
+{"ts": "2026-09-08T02:03:56.414133", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 16/69] Running M5 for course: IT6203_BS..."}
+{"ts": "2026-09-08T02:04:12.455146", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 17/69] Running M5 for course: IT6204..."}
+{"ts": "2026-09-08T02:04:28.418510", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 18/69] Running M5 for course: IT6205..."}
+{"ts": "2026-09-08T02:04:44.199771", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 19/69] Running M5 for course: IT6206..."}
+{"ts": "2026-09-08T02:05:00.087256", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 20/69] Running M5 for course: IT6207..."}
+{"ts": "2026-09-08T02:05:15.841827", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 21/69] Running M5 for course: IT6208..."}
+{"ts": "2026-09-08T02:05:31.717782", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 22/69] Running M5 for course: IT6217_BS..."}
+{"ts": "2026-09-08T02:05:47.353094", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 23/69] Running M5 for course: IT6218..."}
+{"ts": "2026-09-08T02:05:47.358214", "module": "m4_m5_full_runner", "level": "ERROR", "msg": "[M5 ERROR] Course IT6218 failed M5: Data contract file missing: D:\\NCKH_2026\\src\\pipeline-data\\src\\esco-skill-mapping\\..\\..\\contract\\hoc_phan\\IT6218\\IT6218__hoc_phan.json"}
+{"ts": "2026-09-08T02:05:47.358214", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 24/69] Running M5 for course: LP6010_BS..."}
+{"ts": "2026-09-08T02:06:03.021589", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 25/69] Running M5 for course: LP6021_BS..."}
+{"ts": "2026-09-08T02:06:18.651015", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 26/69] Running M5 for course: LP6022_BS..."}
+{"ts": "2026-09-08T02:06:34.185253", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 27/69] Running M5 for course: LP6025_BS..."}
+{"ts": "2026-09-08T02:06:49.915162", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 28/69] Running M5 for course: LP6026_BS..."}
+{"ts": "2026-09-08T02:07:05.521540", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 29/69] Running M5 for course: LP6027_BS..."}
+{"ts": "2026-09-08T02:07:21.169317", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 30/69] Running M5 for course: SC6013..."}
+{"ts": "2026-09-08T02:07:36.862604", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 31/69] Running M5 for course: SC6014..."}
+{"ts": "2026-09-08T02:07:52.647660", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 32/69] Running M5 for course: SC6016..."}
+{"ts": "2026-09-08T02:08:08.213176", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 33/69] Running M5 for course: SC6019..."}
+{"ts": "2026-09-08T02:08:23.779185", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 34/69] Running M5 for course: SC6200..."}
+{"ts": "2026-09-08T02:08:39.525491", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 35/69] Running M5 for course: SC6202..."}
+{"ts": "2026-09-08T02:08:55.087211", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 36/69] Running M5 for course: SC6205..."}
+{"ts": "2026-09-08T02:09:10.849992", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 37/69] Running M5 for course: SC6206..."}
+{"ts": "2026-09-08T02:09:26.756279", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 38/69] Running M5 for course: SC6208_BS..."}
+{"ts": "2026-09-08T02:09:42.500907", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 39/69] Running M5 for course: SC6210..."}
+{"ts": "2026-09-08T02:09:58.152665", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 40/69] Running M5 for course: SC6211..."}
+{"ts": "2026-09-08T02:10:13.909956", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 41/69] Running M5 for course: SC6212..."}
+{"ts": "2026-09-08T02:10:29.368546", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 42/69] Running M5 for course: SC6213..."}
+{"ts": "2026-09-08T02:10:45.207735", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 43/69] Running M5 for course: SC6214..."}
+{"ts": "2026-09-08T02:11:00.935527", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 44/69] Running M5 for course: SC6215..."}
+{"ts": "2026-09-08T02:11:16.573524", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 45/69] Running M5 for course: SC6218..."}
+{"ts": "2026-09-08T02:11:31.873170", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 46/69] Running M5 for course: SC6219..."}
+{"ts": "2026-09-08T02:11:47.552367", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 47/69] Running M5 for course: SC6220..."}
+{"ts": "2026-09-08T02:12:03.295179", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 48/69] Running M5 for course: SC6221..."}
+{"ts": "2026-09-08T02:12:18.768183", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 49/69] Running M5 for course: SC6222_BS..."}
+{"ts": "2026-09-08T02:12:34.406234", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 50/69] Running M5 for course: SC6223..."}
+{"ts": "2026-09-08T02:12:50.088549", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 51/69] Running M5 for course: SC6224..."}
+{"ts": "2026-09-08T02:13:05.731497", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 52/69] Running M5 for course: SC6228..."}
+{"ts": "2026-09-08T02:13:21.280429", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 53/69] Running M5 for course: SC6229..."}
+{"ts": "2026-09-08T02:13:37.055104", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 54/69] Running M5 for course: SC6232..."}
+{"ts": "2026-09-08T02:13:52.728493", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 55/69] Running M5 for course: SC6234..."}
+{"ts": "2026-09-08T02:14:08.357440", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 56/69] Running M5 for course: SC6236..."}
+{"ts": "2026-09-08T02:14:23.948004", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 57/69] Running M5 for course: SC6237..."}
+{"ts": "2026-09-08T02:14:39.613137", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 58/69] Running M5 for course: SC6239..."}
+{"ts": "2026-09-08T02:14:55.161627", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 59/69] Running M5 for course: SC6240..."}
+{"ts": "2026-09-08T02:15:10.613202", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 60/69] Running M5 for course: SC6241..."}
+{"ts": "2026-09-08T02:15:26.237746", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 61/69] Running M5 for course: SC6244..."}
+{"ts": "2026-09-08T02:15:42.007343", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 62/69] Running M5 for course: SC6260..."}
+{"ts": "2026-09-08T02:15:57.528995", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 63/69] Running M5 for course: SC6261..."}
+{"ts": "2026-09-08T02:16:13.131996", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 64/69] Running M5 for course: SC6262..."}
+{"ts": "2026-09-08T02:16:28.589298", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 65/69] Running M5 for course: SC6263..."}
+{"ts": "2026-09-08T02:16:43.959160", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 66/69] Running M5 for course: SC6265..."}
+{"ts": "2026-09-08T02:16:59.529770", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 67/69] Running M5 for course: SC6266..."}
+{"ts": "2026-09-08T02:17:14.906834", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 68/69] Running M5 for course: SC6267..."}
+{"ts": "2026-09-08T02:17:30.589896", "module": "m4_m5_full_runner", "level": "INFO", "msg": "[M5 69/69] Running M5 for course: SC6268..."}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "\n=========================================="}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=== FULL M4 + M5 PIPELINE BATCH RUN COMPLETE ==="}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "Total Courses: 69"}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "M4 Stage: 68 Success | 1 Failed"}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "M5 Stage: 68 Success | 1 Failed"}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "Total Execution Time: 3557.97 seconds"}
+{"ts": "2026-09-08T02:17:46.339448", "module": "m4_m5_full_runner", "level": "INFO", "msg": "=========================================="}

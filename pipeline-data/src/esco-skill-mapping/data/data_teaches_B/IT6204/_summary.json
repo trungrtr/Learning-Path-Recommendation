@@ -1,0 +1,340 @@
+{
+  "course_code": "IT6204",
+  "course_title": "System Analysis and Design",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 29,
+    "skill_count": 18,
+    "knowledge_count": 11,
+    "tier_distribution": {
+      "PRIMARY": 29,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.8111605494529017,
+      "cross_encoder_score": 0.9917142987251282,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers system analysis, class design, data design, and building software solution designs based on requirements."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.7995297073911761,
+      "cross_encoder_score": 0.9932823181152344,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly mentions transposing requirements into technical design documentation and software solution designs."
+    },
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.7856075755149322,
+      "cross_encoder_score": 0.9922771453857422,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course content explicitly lists 'User Interface Design' as a lesson topic."
+    },
+    {
+      "preferred_label": "create database diagrams",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "confidence": 0.7822370704107172,
+      "cross_encoder_score": 0.9762753844261169,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers 'Class and Data Design' and the use of UML diagrams (like class diagrams) to model system structure."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.7848852923803249,
+      "cross_encoder_score": 0.9901553392410278,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course focuses on general system analysis and UML modeling rather than specific conversational or multi-modal interaction models."
+    },
+    {
+      "preferred_label": "interact with users to gather requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "confidence": 0.7777893304934922,
+      "cross_encoder_score": 0.9973512887954712,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'techniques for system investigation and requirements elicitation' and 'System Requirements Specification'."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.780102558346961,
+      "cross_encoder_score": 0.9921351671218872,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers class design and interface design, which involves defining components and their interactions."
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.779121352535983,
+      "cross_encoder_score": 0.9901835322380066,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course involves building software solution designs and technical documentation that align with system requirements."
+    },
+    {
+      "preferred_label": "design process",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3",
+      "confidence": 0.7721771924475195,
+      "cross_encoder_score": 0.9961037635803223,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course includes 'System Business Analysis Using Activity Diagrams' and functional analysis, which covers process and workflow modeling."
+    },
+    {
+      "preferred_label": "manage system testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db",
+      "confidence": 0.7706196049257397,
+      "cross_encoder_score": 0.9839053750038147,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The provided content focuses on analysis and design phases, not on the execution or management of system testing."
+    },
+    {
+      "preferred_label": "use methodologies for user-centered design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4",
+      "confidence": 0.7712540666445962,
+      "cross_encoder_score": 0.9925359487533569,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content explicitly includes 'user interface design' and 'requirements elicitation', which are core components of user-centered design."
+    },
+    {
+      "preferred_label": "deliver visual presentation of data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "confidence": 0.7635309361829803,
+      "cross_encoder_score": 0.9927226901054382,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers the use of UML diagrams (use case, class, sequence, state, activity) to model systems, which are visual representations of data and system processes."
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.7783044775876053,
+      "cross_encoder_score": 0.9782895445823669,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course includes 'user interface design' and the application of UML to model software systems based on requirements."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.7483134293750257,
+      "cross_encoder_score": 0.9810001850128174,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on analysis and design documentation, not software testing procedures or test outcome analysis."
+    },
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7618562628837147,
+      "cross_encoder_score": 0.9858389496803284,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course covers 'user interface design' at a conceptual/design level, but does not include implementation (coding) of front-end websites."
+    },
+    {
+      "preferred_label": "design graphics",
+      "esco_uri": "http://data.europa.eu/esco/skill/f058bf62-70d1-4f5e-be2a-8b26fac24a96",
+      "confidence": 0.7498678234035542,
+      "cross_encoder_score": 0.9659956693649292,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on system modeling and UI design, not graphic design or visual arts techniques."
+    },
+    {
+      "preferred_label": "use software design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "confidence": 0.7288188513445616,
+      "cross_encoder_score": 0.9171975255012512,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course covers class and data design, it does not explicitly mention the study or application of formal software design patterns."
+    },
+    {
+      "preferred_label": "design database scheme",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "confidence": 0.7107771323344001,
+      "cross_encoder_score": 0.928763747215271,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course explicitly includes 'data design' as a core topic."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "system design",
+      "esco_uri": "http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9",
+      "confidence": 0.7938689878810701,
+      "cross_encoder_score": 0.9957243204116821,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "System design is the primary focus of the course, covering architecture, components, and data design."
+    },
+    {
+      "preferred_label": "software design methodologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "confidence": 0.7930658002181171,
+      "cross_encoder_score": 0.98863285779953,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers the 'software development life cycle' and system analysis/design processes, which are foundational to software design methodologies."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.7920245904488059,
+      "cross_encoder_score": 0.9834536910057068,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers 'User Interface Design' generally, but does not explicitly mention teaching specific UI design patterns."
+    },
+    {
+      "preferred_label": "data engineering",
+      "esco_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+      "confidence": 0.7772696197732392,
+      "cross_encoder_score": 0.9945251941680908,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers 'data design' in the context of software systems, but not data engineering for large-scale data collection and analysis."
+    },
+    {
+      "preferred_label": "software interaction design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de0be6e8-644c-4cc9-9c8d-925dd98dda56",
+      "confidence": 0.7721457875881957,
+      "cross_encoder_score": 0.9945669174194336,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course includes 'User Interface Design' and 'requirements elicitation', which involve designing interactions to satisfy user needs."
+    },
+    {
+      "preferred_label": "network management system tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "confidence": 0.7675299660990239,
+      "cross_encoder_score": 0.9878949522972107,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on software system analysis and design, not network management or monitoring tools."
+    },
+    {
+      "preferred_label": "ICT system user requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/ca73ac82-867a-4afa-9732-834aebe896ff",
+      "confidence": 0.7518989012182916,
+      "cross_encoder_score": 0.9839287996292114,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course explicitly covers 'requirements elicitation', 'System Requirements Specification', and determining system requirements."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.756634764779146,
+      "cross_encoder_score": 0.9784128069877625,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "While the course covers design and modeling, it does not explicitly mention prototyping development as a methodology."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7538004740697661,
+      "cross_encoder_score": 0.9577734470367432,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on analysis and design, not the actual programming or implementation of software."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.7504123385617555,
+      "cross_encoder_score": 0.9865505695343018,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course covers structural analysis, class design, and building software solution designs, which are components of architectural frameworks."
+    },
+    {
+      "preferred_label": "product data management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "confidence": 0.7484847470806563,
+      "cross_encoder_score": 0.9834179282188416,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course covers data design for software systems, not product data management for tracking product lifecycles and costs."
+    }
+  ],
+  "schema_version": "3.0"
+}

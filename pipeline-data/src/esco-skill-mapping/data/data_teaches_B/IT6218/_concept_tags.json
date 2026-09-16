@@ -1,0 +1,1914 @@
+{
+  "course_code": "IT6218",
+  "concept_tags": [
+    {
+      "text": "database management system",
+      "normalized": "database management system"
+    },
+    {
+      "text": "database developer",
+      "normalized": "database developer"
+    },
+    {
+      "text": "database administrator",
+      "normalized": "database administrator"
+    },
+    {
+      "text": "relational data model",
+      "normalized": "relational data model"
+    },
+    {
+      "text": "functional programming",
+      "normalized": "functional programming"
+    },
+    {
+      "text": "data query procedures",
+      "normalized": "data query procedures"
+    },
+    {
+      "text": "DBMS administration",
+      "normalized": "dbms administration"
+    },
+    {
+      "text": "database design",
+      "normalized": "database design"
+    },
+    {
+      "text": "database maintenance",
+      "normalized": "database maintenance"
+    },
+    {
+      "text": "database troubleshooting",
+      "normalized": "database troubleshooting"
+    },
+    {
+      "text": "database system operation",
+      "normalized": "database system operation"
+    },
+    {
+      "text": "database construction",
+      "normalized": "database construction"
+    },
+    {
+      "text": "programming views",
+      "normalized": "programming views"
+    },
+    {
+      "text": "programming functions",
+      "normalized": "programming functions"
+    },
+    {
+      "text": "query procedures",
+      "normalized": "query procedures"
+    },
+    {
+      "text": "information security",
+      "normalized": "information security"
+    },
+    {
+      "text": "user administration",
+      "normalized": "user administration"
+    },
+    {
+      "text": "data backup",
+      "normalized": "data backup"
+    },
+    {
+      "text": "data recovery",
+      "normalized": "data recovery"
+    },
+    {
+      "text": "DBMS overview",
+      "normalized": "dbms overview"
+    },
+    {
+      "text": "SQL Server",
+      "normalized": "sql server"
+    },
+    {
+      "text": "Stored procedures",
+      "normalized": "stored procedures"
+    },
+    {
+      "text": "Database triggers",
+      "normalized": "database triggers"
+    },
+    {
+      "text": "Database security",
+      "normalized": "database security"
+    },
+    {
+      "text": "Database backup",
+      "normalized": "database backup"
+    },
+    {
+      "text": "Database recovery",
+      "normalized": "database recovery"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database management system",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MOTA_MAIN",
+        "IT6218_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database developer",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database administrator",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "relational data model",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "functional programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "data query procedures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "dbms administration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database maintenance",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database troubleshooting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database system operation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database construction",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L1",
+        "IT6218_BAIHOC_L01",
+        "IT6218_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "programming views",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L2",
+        "IT6218_BAIHOC_L03",
+        "IT6218_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "programming functions",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L2",
+        "IT6218_BAIHOC_L03",
+        "IT6218_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "query procedures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "information security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "user administration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "data backup",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "data recovery",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "dbms overview",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "sql server",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L01",
+        "IT6218_BAIHOC_L02",
+        "IT6218_BAIHOC_L03",
+        "IT6218_BAIHOC_L04",
+        "IT6218_BAIHOC_L05",
+        "IT6218_BAIHOC_L06",
+        "IT6218_BAIHOC_L07",
+        "IT6218_BAIHOC_L08",
+        "IT6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "stored procedures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L05",
+        "IT6218_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database triggers",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L05",
+        "IT6218_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database security",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L08",
+        "IT6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database backup",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L08",
+        "IT6218_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "IT6218",
+      "concept_tag": "database recovery",
+      "role": "teach",
+      "source_evidence_ids": [
+        "IT6218_BAIHOC_L08",
+        "IT6218_BAIHOC_L09"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+      "esco_label": "operate relational database management system",
+      "confidence": 0.8209915651246835,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "esco_label": "manage database",
+      "confidence": 0.8006753487716244,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+      "esco_label": "use query languages",
+      "confidence": 0.7891632628473102,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database maintenance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+      "esco_label": "maintain database security",
+      "confidence": 0.788240673186175,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+      "esco_label": "design database scheme",
+      "confidence": 0.783659737375137,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database maintenance",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+      "esco_label": "maintain database performance",
+      "confidence": 0.7816845513287636,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "esco_label": "write database documentation",
+      "confidence": 0.7812079498570387,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database maintenance",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stored procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+      "esco_label": "design database backup specifications",
+      "confidence": 0.7797837477919098,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f",
+      "esco_label": "create database diagrams",
+      "confidence": 0.7778591188820682,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+      "esco_label": "design database in the cloud",
+      "confidence": 0.7695016169962974,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stored procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+      "esco_label": "use databases",
+      "confidence": 0.767953711109751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database maintenance",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+      "esco_label": "balance database resources",
+      "confidence": 0.7613948509957821,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+      "esco_label": "define database physical structure",
+      "confidence": 0.7461481248730445,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+      "esco_label": "database management systems",
+      "confidence": 0.8077482325796034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stored procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+      "esco_label": "NoSQL",
+      "confidence": 0.7880633807542147,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+      "esco_label": "database development tools",
+      "confidence": 0.7665658628087044,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+      "esco_label": "query languages",
+      "confidence": 0.7641534879516961,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.7598282610025121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.7598282610025121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.7598282610025121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+      "esco_label": "SQL Server",
+      "confidence": 0.7598282610025121,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+      "esco_label": "database",
+      "confidence": 0.7622377127964538,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7609133324216736,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7609133324216736,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/70de94f5-9575-4edd-bca7-c797b023b9d6",
+      "esco_label": "Oracle WebLogic",
+      "confidence": 0.7609133324216736,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms overview",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "stored procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+      "esco_label": "MarkLogic",
+      "confidence": 0.7517297725616457,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+      "esco_label": "SPARQL",
+      "confidence": 0.7355300876901291,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+      "esco_label": "N1QL",
+      "confidence": 0.724428680493422,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relational data model",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+      "esco_label": "Oracle Relational Database",
+      "confidence": 0.7190918864589275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7119964456503082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7119964456503082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7119964456503082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "query procedures",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7119964456503082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+      "esco_label": "MySQL",
+      "confidence": 0.7119964456503082,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dbms administration",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database system operation",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+      "esco_label": "OpenEdge Database",
+      "confidence": 0.7087514729122303,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database management system",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database developer",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database design",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database construction",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database triggers",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database security",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "database backup",
+      "esco_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+      "esco_label": "Teradata Database",
+      "confidence": 0.6825474227882978,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "sql server",
+      "esco_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+      "esco_label": "IBM WebSphere",
+      "confidence": 0.6212570889667736,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 26,
+    "total_has_concept_edges": 26,
+    "total_evidence_for_edges": 224
+  }
+}

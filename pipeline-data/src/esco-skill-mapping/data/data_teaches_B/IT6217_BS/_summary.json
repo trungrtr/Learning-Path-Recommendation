@@ -1,0 +1,318 @@
+{
+  "course_code": "IT6217_BS",
+  "course_title": "Nhập môn về kỹ thuật",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 27,
+    "skill_count": 21,
+    "knowledge_count": 6,
+    "tier_distribution": {
+      "PRIMARY": 26,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "perform project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "confidence": 0.7360679465078486,
+      "cross_encoder_score": 0.9946298599243164,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course explicitly covers time management, planning skills, and includes a final project, which involves project management elements."
+    },
+    {
+      "preferred_label": "manage personal professional development",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+      "confidence": 0.7359157959283925,
+      "cross_encoder_score": 0.9766824245452881,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course includes 'Effective Learning Methods' and covers the 'Programming Profession' and 'Majors and Curriculum Framework', supporting professional development."
+    },
+    {
+      "preferred_label": "develop information standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "confidence": 0.74578329522325,
+      "cross_encoder_score": 0.9724583029747009,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course focuses on introductory knowledge and soft skills, not the development of technical information standards."
+    },
+    {
+      "preferred_label": "develop documentation in accordance with legal requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "confidence": 0.7298238765138454,
+      "cross_encoder_score": 0.9755090475082397,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers 'Documentation and Presentation Skills' and 'Professional Responsibility' regarding ethical and legal standards."
+    },
+    {
+      "preferred_label": "deliver visual presentation of data",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "confidence": 0.7262222149896135,
+      "cross_encoder_score": 0.9843350648880005,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly teaches presentation skills, which typically involves the use of visual data representation."
+    },
+    {
+      "preferred_label": "develop reporting software",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83",
+      "confidence": 0.7239733077992558,
+      "cross_encoder_score": 0.984198808670044,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers basic programming foundations but does not specifically teach the development of reporting software."
+    },
+    {
+      "preferred_label": "use presentation software",
+      "esco_uri": "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+      "confidence": 0.7232516552592401,
+      "cross_encoder_score": 0.9763996601104736,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course includes 'Documentation and Presentation Skills', which implies the use of software tools for presentations."
+    },
+    {
+      "preferred_label": "interpret technical texts",
+      "esco_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+      "confidence": 0.7357124684338997,
+      "cross_encoder_score": 0.991592526435852,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers technical report delivery and foundational knowledge of hardware/software, requiring the interpretation of technical texts."
+    },
+    {
+      "preferred_label": "write database documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c",
+      "confidence": 0.7167080210135628,
+      "cross_encoder_score": 0.9588798880577087,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers general documentation skills but does not specifically address database documentation."
+    },
+    {
+      "preferred_label": "manage staff",
+      "esco_uri": "http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "confidence": 0.7297233758080853,
+      "cross_encoder_score": 0.9952577948570251,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course teaches 'Teamwork Skills' for students, but not the professional management of staff or subordinates."
+    },
+    {
+      "preferred_label": "provide technical training",
+      "esco_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+      "confidence": 0.7247453950295366,
+      "cross_encoder_score": 0.9770869612693787,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course covers foundational knowledge of hardware and software but does not include training others on how to use specific equipment or system functions."
+    },
+    {
+      "preferred_label": "draft project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "confidence": 0.704827364585236,
+      "cross_encoder_score": 0.9442968368530273,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course explicitly includes 'Documentation and Presentation Skills' and 'Final Project', which involve preparing technical reports and documentation."
+    },
+    {
+      "preferred_label": "manage project information",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "confidence": 0.7192667749350485,
+      "cross_encoder_score": 0.9752155542373657,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "While the course teaches teamwork and documentation, it does not specifically cover the management of project information for stakeholders."
+    },
+    {
+      "preferred_label": "provide software testing documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "confidence": 0.7037326116536397,
+      "cross_encoder_score": 0.9425958395004272,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course covers basic programming and hardware/software structure, but does not include software testing procedures or documentation."
+    },
+    {
+      "preferred_label": "provide user documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "confidence": 0.7013651876894478,
+      "cross_encoder_score": 0.9513697624206543,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course teaches technical report writing, but not the specific skill of creating user manuals or documentation for product users."
+    },
+    {
+      "preferred_label": "ensure proper document management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "confidence": 0.7065549887336103,
+      "cross_encoder_score": 0.9633625745773315,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers documentation skills but does not address formal document management standards or version control."
+    },
+    {
+      "preferred_label": "use ICT hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "confidence": 0.6837795319823402,
+      "cross_encoder_score": 0.9270848631858826,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course includes 'Hardware and Software' as a lesson and aims to equip students with foundational knowledge of computer hardware."
+    },
+    {
+      "preferred_label": "manage a team",
+      "esco_uri": "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b",
+      "confidence": 0.676407140390364,
+      "cross_encoder_score": 0.913417398929596,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course teaches 'Teamwork Skills', but this is at a student level, not the professional management, recruitment, or disciplinary level described in the skill."
+    },
+    {
+      "preferred_label": "interact professionally in research and professional environments",
+      "esco_uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "confidence": 0.6733428442999861,
+      "cross_encoder_score": 0.9071442484855652,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course covers professional responsibilities, ethics, and teamwork skills, which align with interacting professionally in a field-related environment."
+    },
+    {
+      "preferred_label": "oversee development of software",
+      "esco_uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+      "confidence": 0.6818413835977987,
+      "cross_encoder_score": 0.9234743118286133,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course provides an introduction to programming and the profession, but does not cover the oversight or management of software development lifecycles."
+    },
+    {
+      "preferred_label": "identify legal requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac",
+      "confidence": 0.5707861801310704,
+      "cross_encoder_score": 0.7642035484313965,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course explicitly covers professional responsibilities based on ethical and legal standards in the field of information technology."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.6921517126486755,
+      "cross_encoder_score": 0.9322333931922913,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course covers information representation in computers, but does not explicitly teach the methods of information architecture as defined."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.7052488081277244,
+      "cross_encoder_score": 0.9543650150299072,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course covers curriculum frameworks and general hardware/software, but does not teach ICT architectural frameworks for information systems."
+    },
+    {
+      "preferred_label": "ICT hardware specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "confidence": 0.691294973516614,
+      "cross_encoder_score": 0.9341332316398621,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course explicitly includes lessons on hardware and software, covering their structure and characteristics."
+    },
+    {
+      "preferred_label": "ICT software specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "confidence": 0.6701617266113229,
+      "cross_encoder_score": 0.9082541465759277,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course explicitly includes lessons on hardware and software, covering their structure and characteristics."
+    },
+    {
+      "preferred_label": "network standards",
+      "esco_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "confidence": 0.6816605394934073,
+      "cross_encoder_score": 0.9241917729377747,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 7,
+      "llm_reasoning": "The course content does not mention network standards or interoperability guidelines."
+    },
+    {
+      "preferred_label": "visual presentation techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213",
+      "confidence": 0.6726123622274139,
+      "cross_encoder_score": 0.9048891067504883,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 6,
+      "llm_reasoning": "The course teaches presentation skills, but there is no evidence it covers specific visual representation techniques for data like histograms or scatter plots."
+    }
+  ],
+  "schema_version": "3.0"
+}

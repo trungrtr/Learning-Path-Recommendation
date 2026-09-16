@@ -1,0 +1,186 @@
+{
+  "course_code": "BS6002_BS",
+  "course_title": "Giải tích",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 15,
+    "skill_count": 7,
+    "knowledge_count": 8,
+    "tier_distribution": {
+      "PRIMARY": 10,
+      "SECONDARY": 5,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "execute analytical mathematical calculations",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "confidence": 0.8589461012227634,
+      "cross_encoder_score": 0.9910023808479309,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 37,
+      "llm_reasoning": "The course explicitly mentions training students in proficient calculation for practical requirements and solving computational problems using calculus."
+    },
+    {
+      "preferred_label": "execute integration testing",
+      "esco_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+      "confidence": 0.8254956974685494,
+      "cross_encoder_score": 0.9566631317138672,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 33,
+      "llm_reasoning": "The course focuses on mathematical calculus, not software or system component testing."
+    },
+    {
+      "preferred_label": "integrate ICT data",
+      "esco_uri": "http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc",
+      "confidence": 0.7575896585655845,
+      "cross_encoder_score": 0.9157938957214355,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 31,
+      "llm_reasoning": "The course does not cover ICT data integration."
+    },
+    {
+      "preferred_label": "integrate system components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "confidence": 0.7179650636877367,
+      "cross_encoder_score": 0.83045494556427,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 30,
+      "llm_reasoning": "The course does not cover hardware or software system integration."
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.7086834809962005,
+      "cross_encoder_score": 0.8549792170524597,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 29,
+      "llm_reasoning": "The course does not cover programming or concurrent operations."
+    },
+    {
+      "preferred_label": "conduct impact evaluation of ICT processes on business",
+      "esco_uri": "http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5",
+      "confidence": 0.6450368305179536,
+      "cross_encoder_score": 0.8027334809303284,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course does not cover business impact evaluation of ICT processes."
+    },
+    {
+      "preferred_label": "align software with system architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+      "confidence": 0.6337983834161363,
+      "cross_encoder_score": 0.7593836784362793,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course does not cover software architecture or system interoperability."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "confidence": 0.8039337738897492,
+      "cross_encoder_score": 0.9718568921089172,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 35,
+      "llm_reasoning": "The course involves using mathematical methods to analyze engineering problems, which constitutes quantitative analysis."
+    },
+    {
+      "preferred_label": "mathematical modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "confidence": 0.8079331864187539,
+      "cross_encoder_score": 0.9764392375946045,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 34,
+      "llm_reasoning": "The course teaches the application of calculus to analyze and solve practical engineering problems, which involves mathematical representation of real-world scenarios."
+    },
+    {
+      "preferred_label": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "confidence": 0.7356107907416632,
+      "cross_encoder_score": 0.8568792343139648,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 35,
+      "llm_reasoning": "The course teaches systematic methods (integration, differentiation) to solve problems, which are fundamental mathematical algorithms."
+    },
+    {
+      "preferred_label": "multidisciplinary research",
+      "esco_uri": "http://data.europa.eu/esco/skill/9fc400ac-8ed2-4aff-915f-aa4f2609ec7b",
+      "confidence": 0.7446168261817941,
+      "cross_encoder_score": 0.9041956067085266,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 30,
+      "llm_reasoning": "The course focuses on mathematical calculus and its application to engineering problems, but does not cover multidisciplinary research techniques involving multiple academic disciplines."
+    },
+    {
+      "preferred_label": "systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "confidence": 0.6991937180911413,
+      "cross_encoder_score": 0.8537977933883667,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 31,
+      "llm_reasoning": "The course content is limited to calculus and mathematical analysis; it does not address systems theory or the study of system organization and stability."
+    },
+    {
+      "preferred_label": "task algorithmisation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "confidence": 0.7039029234324865,
+      "cross_encoder_score": 0.8051782846450806,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 34,
+      "llm_reasoning": "The course emphasizes problem-solving skills, logical thinking, and scientific approaches to analyze engineering problems, which inherently involves converting complex problems into step-by-step mathematical sequences."
+    },
+    {
+      "preferred_label": "interfacing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "confidence": 0.6752292897279257,
+      "cross_encoder_score": 0.7196115255355835,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 38,
+      "llm_reasoning": "The course content focuses on mathematical theory and calculation rather than technical interfacing between software models or hardware components."
+    },
+    {
+      "preferred_label": "software components libraries",
+      "esco_uri": "http://data.europa.eu/esco/skill/484df271-bb52-49f1-8f50-f19624bf4df2",
+      "confidence": 0.6689178240129595,
+      "cross_encoder_score": 0.7883245348930359,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "There is no mention of software development, programming, or the use of software component libraries in the provided course description."
+    }
+  ],
+  "schema_version": "3.0"
+}

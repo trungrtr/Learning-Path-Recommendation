@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/5c606d18-6404-4047-b235-350f18e11827",
+    "preferred_label": "contract law",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "IT6207",
+    "course_title": "Graduation Internship"
+  },
+  "support_context": {
+    "support_concept_origin": "cross-functional collaboration; verbal and written professional communication",
+    "evidence_text": "develop teamwork and professional communication skills"
+  },
+  "scoring": {
+    "final_score": 0.849349,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course emphasizes awareness of legal regulations and professional responsibility in an enterprise setting, which provides a practical foundation for understanding contractual obligations.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

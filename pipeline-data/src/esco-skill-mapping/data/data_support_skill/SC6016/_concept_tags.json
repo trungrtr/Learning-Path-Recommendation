@@ -1,0 +1,270 @@
+{
+  "course_code": "SC6016",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "iterative development mindset",
+      "normalized": "iterative development mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "foundational"
+    },
+    {
+      "text": "resourcefulness",
+      "normalized": "resourcefulness",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "requirements gathering",
+      "normalized": "requirements gathering",
+      "loai": "cognitive"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "cognitive"
+    },
+    {
+      "text": "documentation discipline",
+      "normalized": "documentation discipline",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6016",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "iterative development mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "resourcefulness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "requirements gathering",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6016",
+      "concept_tag": "documentation discipline",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.803133,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resourcefulness",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.803133,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative development mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.796947,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.796947,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.68529,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.68529,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.672854,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.672854,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.637691,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative development mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.637691,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+      "esco_label": "systems development life-cycle",
+      "confidence": 0.637691,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.626494,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "iterative development mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.626494,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.626494,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "documentation discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "esco_label": "documentation types",
+      "confidence": 0.600348,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resourcefulness",
+      "esco_uri": "http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f",
+      "esco_label": "documentation types",
+      "confidence": 0.600348,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "documentation discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.585579,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.585579,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 18
+  }
+}

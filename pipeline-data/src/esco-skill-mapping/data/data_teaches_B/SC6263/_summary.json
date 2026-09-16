@@ -1,0 +1,285 @@
+{
+  "course_code": "SC6263",
+  "course_title": "Advanced Web Design",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 24,
+    "skill_count": 14,
+    "knowledge_count": 10,
+    "tier_distribution": {
+      "PRIMARY": 18,
+      "SECONDARY": 6,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "implement front-end website design",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb",
+      "confidence": 0.7634833959934813,
+      "cross_encoder_score": 0.986148476600647,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course explicitly covers building practical website interfaces using jQuery and Bootstrap."
+    },
+    {
+      "preferred_label": "compose description for web elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "confidence": 0.749695930621961,
+      "cross_encoder_score": 0.9631125330924988,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course content focuses on technical implementation (jQuery/Bootstrap) rather than content writing or accessibility descriptions."
+    },
+    {
+      "preferred_label": "perform online data analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+      "confidence": 0.7493237688297838,
+      "cross_encoder_score": 0.9855883121490479,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "There is no mention of data analysis, user behavior tracking, or optimization based on analytics."
+    },
+    {
+      "preferred_label": "maintain responsive design",
+      "esco_uri": "http://data.europa.eu/esco/skill/6ad40ca3-dc34-4442-b23f-0b1b28936f56",
+      "confidence": 0.7534227209606068,
+      "cross_encoder_score": 0.9792982339859009,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 13,
+      "llm_reasoning": "Bootstrap is a framework specifically designed for creating responsive, mobile-friendly website layouts."
+    },
+    {
+      "preferred_label": "translate requirements into visual design",
+      "esco_uri": "http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+      "confidence": 0.7466385125797742,
+      "cross_encoder_score": 0.9744422435760498,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on technical development using frameworks rather than the visual design process or requirements analysis."
+    },
+    {
+      "preferred_label": "enhance website visibility",
+      "esco_uri": "http://data.europa.eu/esco/skill/ef64005d-75bc-4597-8ed6-717edec5e55e",
+      "confidence": 0.7318304623007494,
+      "cross_encoder_score": 0.9783558249473572,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course does not cover SEO, marketing, or website promotion strategies."
+    },
+    {
+      "preferred_label": "manage online content",
+      "esco_uri": "http://data.europa.eu/esco/skill/c1f29568-f2bb-49d2-b6c2-28748bd1629b",
+      "confidence": 0.7381163217452332,
+      "cross_encoder_score": 0.9747080206871033,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course covers technical interaction with HTML via jQuery, but not content management or editorial standards."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.7027291530516947,
+      "cross_encoder_score": 0.9110264778137207,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course covers jQuery effects and interactions, but not the design of conversational or multi-modal interaction models."
+    },
+    {
+      "preferred_label": "create prototype of user experience solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812",
+      "confidence": 0.7005526583066525,
+      "cross_encoder_score": 0.9325929284095764,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course focuses on building interfaces, not the prototyping or UX testing phase."
+    },
+    {
+      "preferred_label": "design user interface",
+      "esco_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+      "confidence": 0.6701200636340604,
+      "cross_encoder_score": 0.8922653794288635,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course teaches the use of Bootstrap components and jQuery to create website interfaces, which is a core part of UI design."
+    },
+    {
+      "preferred_label": "manage ICT semantic integration",
+      "esco_uri": "http://data.europa.eu/esco/skill/fda917eb-0d6a-4371-8c93-2a10bf950966",
+      "confidence": 0.6678727480423201,
+      "cross_encoder_score": 0.8984357118606567,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 8,
+      "llm_reasoning": "The course focuses on jQuery and Bootstrap for interface design, not semantic data integration or database management."
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.6609956789072626,
+      "cross_encoder_score": 0.879736065864563,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course explicitly covers building website interfaces using jQuery and Bootstrap components."
+    },
+    {
+      "preferred_label": "interact with users to gather requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+      "confidence": 0.6352543600868966,
+      "cross_encoder_score": 0.8298155069351196,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of requirements gathering or user communication in the course content."
+    },
+    {
+      "preferred_label": "create software design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+      "confidence": 0.6075525666724018,
+      "cross_encoder_score": 0.8118215203285217,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course teaches students to design webpages using jQuery and Bootstrap, which constitutes a form of software/interface design."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "JavaScript Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+      "confidence": 0.7923359216243376,
+      "cross_encoder_score": 0.9697675704956055,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "jQuery is a widely used JavaScript library/framework, which is a core component of the course."
+    },
+    {
+      "preferred_label": "Ajax Framework",
+      "esco_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+      "confidence": 0.777600247843371,
+      "cross_encoder_score": 0.9661309719085693,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course content explicitly includes 'Integrating jQuery with Ajax'."
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.7340973239629461,
+      "cross_encoder_score": 0.946843147277832,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers web interface design using jQuery and Bootstrap, which involves web programming techniques."
+    },
+    {
+      "preferred_label": "web analytics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2",
+      "confidence": 0.7314770617625368,
+      "cross_encoder_score": 0.9776246547698975,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "Web analytics is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "SPARK",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "confidence": 0.7200241129797011,
+      "cross_encoder_score": 0.9550378322601318,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 10,
+      "llm_reasoning": "The course focuses on jQuery and Bootstrap; SPARK is not mentioned."
+    },
+    {
+      "preferred_label": "Apache Tomcat",
+      "esco_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+      "confidence": 0.715215486334027,
+      "cross_encoder_score": 0.9594725370407104,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "Apache Tomcat is not mentioned in the course content."
+    },
+    {
+      "preferred_label": "JSSS",
+      "esco_uri": "http://data.europa.eu/esco/skill/8785ccda-6f9f-4cf3-9033-fda10653d0be",
+      "confidence": 0.6071106540339195,
+      "cross_encoder_score": 0.7944062948226929,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course content focuses on jQuery and Bootstrap; there is no mention of JSSS (JavaScript Style Sheets)."
+    },
+    {
+      "preferred_label": "software UI design patterns",
+      "esco_uri": "http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816",
+      "confidence": 0.5405390052941682,
+      "cross_encoder_score": 0.6965495944023132,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers Bootstrap components and forms, which are standard UI design patterns and frameworks for web development."
+    },
+    {
+      "preferred_label": "interfacing techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a",
+      "confidence": 0.5403846096067818,
+      "cross_encoder_score": 0.7035596370697021,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course includes 'jQuery HTML Interaction' and 'Integrating jQuery with Ajax', which involve techniques for interfacing between web components and data sources."
+    },
+    {
+      "preferred_label": "CSS",
+      "esco_uri": "http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777",
+      "confidence": 0.5389544795212533,
+      "cross_encoder_score": 0.709035336971283,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 11,
+      "llm_reasoning": "Bootstrap is a CSS framework; learning to use Bootstrap components and forms inherently involves applying CSS for document presentation."
+    }
+  ],
+  "schema_version": "3.0"
+}

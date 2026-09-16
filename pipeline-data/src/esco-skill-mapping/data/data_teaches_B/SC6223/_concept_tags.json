@@ -1,0 +1,1815 @@
+{
+  "course_code": "SC6223",
+  "concept_tags": [
+    {
+      "text": "propositional logic",
+      "normalized": "propositional logic"
+    },
+    {
+      "text": "combinatorics",
+      "normalized": "combinatorics"
+    },
+    {
+      "text": "relations",
+      "normalized": "relations"
+    },
+    {
+      "text": "graphs",
+      "normalized": "graphs"
+    },
+    {
+      "text": "trees",
+      "normalized": "trees"
+    },
+    {
+      "text": "discrete mathematics",
+      "normalized": "discrete mathematics"
+    },
+    {
+      "text": "algorithms",
+      "normalized": "algorithms"
+    },
+    {
+      "text": "databases",
+      "normalized": "databases"
+    },
+    {
+      "text": "data structures",
+      "normalized": "data structures"
+    },
+    {
+      "text": "artificial intelligence",
+      "normalized": "artificial intelligence"
+    },
+    {
+      "text": "mathematical knowledge",
+      "normalized": "mathematical knowledge"
+    },
+    {
+      "text": "information technology",
+      "normalized": "information technology"
+    },
+    {
+      "text": "logical reasoning",
+      "normalized": "logical reasoning"
+    },
+    {
+      "text": "theoretical proof",
+      "normalized": "theoretical proof"
+    },
+    {
+      "text": "graph concepts",
+      "normalized": "graph concepts"
+    },
+    {
+      "text": "tree concepts",
+      "normalized": "tree concepts"
+    },
+    {
+      "text": "problem solving methods",
+      "normalized": "problem solving methods"
+    },
+    {
+      "text": "Predicate Logic",
+      "normalized": "predicate logic"
+    },
+    {
+      "text": "Mathematical Inference",
+      "normalized": "mathematical inference"
+    },
+    {
+      "text": "Counting Methods",
+      "normalized": "counting methods"
+    },
+    {
+      "text": "Combinatorial Analysis",
+      "normalized": "combinatorial analysis"
+    },
+    {
+      "text": "Advanced Counting Techniques",
+      "normalized": "advanced counting techniques"
+    },
+    {
+      "text": "Relations and Properties",
+      "normalized": "relations and properties"
+    },
+    {
+      "text": "Closures",
+      "normalized": "closures"
+    },
+    {
+      "text": "Equivalence Relations",
+      "normalized": "equivalence relations"
+    },
+    {
+      "text": "Graph Theory",
+      "normalized": "graph theory"
+    },
+    {
+      "text": "Eulerian Graphs",
+      "normalized": "eulerian graphs"
+    },
+    {
+      "text": "Hamiltonian Graphs",
+      "normalized": "hamiltonian graphs"
+    },
+    {
+      "text": "Shortest Path Problem",
+      "normalized": "shortest path problem"
+    },
+    {
+      "text": "Graph Coloring Problem",
+      "normalized": "graph coloring problem"
+    },
+    {
+      "text": "Concepts of Trees",
+      "normalized": "concepts of trees"
+    },
+    {
+      "text": "Tree Traversal Methods",
+      "normalized": "tree traversal methods"
+    },
+    {
+      "text": "Spanning Trees",
+      "normalized": "spanning trees"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6223",
+      "concept_tag": "propositional logic",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN",
+        "SC6223_CLO_L1",
+        "SC6223_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "combinatorics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN",
+        "SC6223_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "relations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN",
+        "SC6223_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "graphs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "trees",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "discrete mathematics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "algorithms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN",
+        "SC6223_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "databases",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "data structures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "artificial intelligence",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "mathematical knowledge",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "information technology",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "logical reasoning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "theoretical proof",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "graph concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "tree concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "problem solving methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "predicate logic",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "mathematical inference",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "counting methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "combinatorial analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "advanced counting techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "relations and properties",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "closures",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "equivalence relations",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "graph theory",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "eulerian graphs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "hamiltonian graphs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "shortest path problem",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "graph coloring problem",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "concepts of trees",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "tree traversal methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6223",
+      "concept_tag": "spanning trees",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6223_BAIHOC_L11"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "discrete mathematics",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced counting techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "shortest path problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7537967389710969,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "theoretical proof",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "predicate logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph coloring problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389",
+      "esco_label": "deliver visual presentation of data",
+      "confidence": 0.7167524439672156,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced counting techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph coloring problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522",
+      "esco_label": "use data processing techniques",
+      "confidence": 0.6499050155814411,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "shortest path problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph coloring problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7453188276007816,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete mathematics",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "theoretical proof",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced counting techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3",
+      "esco_label": "quantitative analysis",
+      "confidence": 0.7377602693522101,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "artificial intelligence",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "predicate logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2",
+      "esco_label": "principles of artificial intelligence",
+      "confidence": 0.7366809385128494,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+      "esco_label": "data models",
+      "confidence": 0.7276780498578456,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "artificial intelligence",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph coloring problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4",
+      "esco_label": "artificial neural networks",
+      "confidence": 0.7275128326724393,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorics",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced counting techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "shortest path problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7227279713904173,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+      "esco_label": "information structure",
+      "confidence": 0.7058218226966843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph coloring problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6",
+      "esco_label": "information categorisation",
+      "confidence": 0.7095040810852573,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorics",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "advanced counting techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "shortest path problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.6884027813699041,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "predicate logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f",
+      "esco_label": "computer simulation",
+      "confidence": 0.6879222076187795,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spanning trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "esco_label": "ICT architectural frameworks",
+      "confidence": 0.6958784028164449,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "data structures",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "algorithms",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "esco_label": "information architecture",
+      "confidence": 0.6691938938943851,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "artificial intelligence",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "predicate logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "esco_label": "object-oriented modelling",
+      "confidence": 0.679332322952755,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical knowledge",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "logical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "propositional logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "predicate logic",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "relations and properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "equivalence relations",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "concepts of trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "spanning trees",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+      "esco_label": "systems theory",
+      "confidence": 0.6426375688559064,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "theoretical proof",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical inference",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "counting methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "combinatorial analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "graph theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "tree traversal methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "eulerian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "hamiltonian graphs",
+      "esco_uri": "http://data.europa.eu/esco/skill/f6424ebb-8401-446b-9f7e-10d7c854da02",
+      "esco_label": "ICT network simulation",
+      "confidence": 0.644845200968193,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 33,
+    "total_has_concept_edges": 33,
+    "total_evidence_for_edges": 200
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "records": [
+    {
+      "ten_bai": "Tổng quan về bảo mật.",
+      "noi_dung_tom_tat": "Bài học cung cấp cái nhìn tổng quan về các khái niệm cơ bản trong an toàn thông tin, bao gồm các mục tiêu bảo mật như tính bí mật, tính toàn vẹn và tính sẵn sàng. Sinh viên sẽ tìm hiểu về các mối đe dọa an ninh phổ biến và tầm quan trọng của việc bảo vệ dữ liệu trong hệ thống mạng.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Overview of Security",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Cơ sở toán học cho mật mã",
+      "noi_dung_tom_tat": "Bài học tập trung vào các nền tảng toán học thiết yếu cho mật mã học, bao gồm lý thuyết số, số học mô-đun và các trường hữu hạn. Đây là cơ sở logic quan trọng để hiểu và xây dựng các thuật toán mã hóa hiện đại sau này.",
+      "ma_clo": [
+        "L1"
+      ],
+      "ten_bai_en": "Mathematical Foundations for Cryptography",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mật mã cổ diễn",
+      "noi_dung_tom_tat": "Bài học giới thiệu về các phương pháp mã hóa lịch sử như mã hóa dịch chuyển, mã hóa thay thế và mã hóa hoán vị. Qua đó, sinh viên nắm bắt được các nguyên lý cơ bản của mật mã học và cách thức giải mã các hệ thống cổ điển.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Classical Cryptography",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mật mã khóa đối xứng (KT TX1)",
+      "noi_dung_tom_tat": "Bài học đi sâu vào các thuật toán mã hóa khối và mã hóa dòng như DES, AES và các chế độ vận hành. Sinh viên sẽ học cách triển khai và phân tích độ an toàn của các hệ thống mật mã đối xứng trong thực tế.",
+      "ma_clo": [
+        "L1",
+        "L2"
+      ],
+      "ten_bai_en": "Symmetric-Key Cryptography (KT TX1)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Mật mã khóa công khai",
+      "noi_dung_tom_tat": "Bài học nghiên cứu về cơ chế mật mã bất đối xứng như RSA, ECC và Diffie-Hellman dựa trên các bài toán toán học khó. Nội dung giúp sinh viên hiểu cách thiết lập trao đổi khóa an toàn và bảo mật trên môi trường mạng mở.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Public-Key Cryptography",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Hàm băm và chữ ký số (KT TX2)",
+      "noi_dung_tom_tat": "Bài học trình bày về cơ chế tạo giá trị băm để xác thực tính toàn vẹn của dữ liệu và ứng dụng chữ ký số trong xác thực thực thể. Sinh viên sẽ tìm hiểu cách đảm bảo tính không thể phủ nhận của thông điệp trong các giao dịch trực tuyến.",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Hash Functions and Digital Signatures (KT TX2)",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Quản lý và phân phối khóa trong mật mã",
+      "noi_dung_tom_tat": "Bài học đề cập đến quy trình quản lý, lưu trữ và phân phối các khóa mật mã trong một hệ thống lớn. Nội dung tập trung vào các giao thức trao đổi khóa và vai trò của hạ tầng khóa công khai (PKI).",
+      "ma_clo": [
+        "L2"
+      ],
+      "ten_bai_en": "Key Management and Distribution in Cryptography",
+      "noi_dung_tom_tat_en": null
+    },
+    {
+      "ten_bai": "Hướng dẫn BTL",
+      "noi_dung_tom_tat": "Hướng dẫn thực hiện bài tập lớn nhằm áp dụng các kiến thức đã học vào việc giải quyết một vấn đề bảo mật cụ thể. Sinh viên sẽ được định hướng cách phân tích yêu cầu, thiết kế hệ thống và đánh giá hiệu quả giải pháp mã hóa.",
+      "ma_clo": [
+        "L2",
+        "L3"
+      ],
+      "ten_bai_en": "Assignment Guidelines",
+      "noi_dung_tom_tat_en": null
+    }
+  ],
+  "source_hash": "42312e27cfd44c496a3a98e3a9b5be5a"
+}

@@ -1,0 +1,53 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+    "preferred_label": "XQuery",
+    "skill_type": "knowledge",
+    "concept_type": "knowledge",
+    "relation_type": "TEACHES_KNOWLEDGE"
+  },
+  "course": {
+    "course_code": "BS6050_BS",
+    "course_title": "Âm nhạc",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.554181,
+    "cross_encoder_score": 0.755557,
+    "tier": "SECONDARY",
+    "confidence_level": "MED",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The course provides general knowledge of music, including the history and development of world and Vietnamese music, musical genres, and basic music theory. It helps students develop artistic appreciation in general and musical appreciation in particular, catering to their personal interests and talents. The course also enhances students' teamwork skills and social competencies to adapt and integrate into the working environment, while contributing to improving their overall quality of life."
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "General Overview of World Music History and Vietnamese Music History",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "knowledge",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 2,
+      "dense_rank": 20,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

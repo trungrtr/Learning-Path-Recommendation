@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/979cf728-896f-4f2c-8fa8-2698ca0d4930",
+    "preferred_label": "publish academic research",
+    "skill_type": "skill/competence",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "BS6019_BS",
+    "course_title": "Nhập môn nghiên cứu khoa học"
+  },
+  "support_context": {
+    "support_concept_origin": "academic integrity; structured communication",
+    "evidence_text": "Enhancing self-study capacity, self-research capability, critical thinking, and a sense of responsibility in the process of carrying out academic activities and scientific research"
+  },
+  "scoring": {
+    "final_score": 0.716292,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course provides the foundational skills for report writing, presenting research results, and understanding the research lifecycle, which are essential prerequisites for academic publishing.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

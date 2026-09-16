@@ -1,0 +1,159 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+    "preferred_label": "align software with system architectures",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "IT6204",
+    "course_title": "System Analysis and Design",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.753564,
+    "cross_encoder_score": 0.985011,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "This course provides students with knowledge and skills in systems analysis and design, including: techniques for system investigation and requirements elicitation, functional analysis, structural and behavioral systems analysis, class design, data design, and user interface design."
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "Explain the role of analysis and design in the software development life cycle;",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G1",
+      "text": "Explain the process of elicitation, requirement gathering, and analysis of system functionality, structure, and behavior using UML diagrams: use case diagrams, class diagrams, sequence diagrams, state machine diagrams, and activity diagrams. Explain the process of class design, data design, and user interface design.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G2",
+      "text": "Apply the analysis and design process, use software design tools and the UML language to model a specific software system, and develop technical design documents and software solution designs that meet requirements. Apply teamwork skills to achieve learning objectives.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "G3",
+      "text": "Develop a sense of responsibility and professional ethics in conducting system analysis and design activities. Demonstrate initiative in gathering and processing information, updating new knowledge and software development trends.",
+      "meta": {
+        "loai_muc_tieu": "TU_CHU_TRACH_NHIEM"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply information technology knowledge to determine system requirements, structure, and processing logic",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KIEN_THUC"
+      }
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L3",
+      "text": "Propose system design solutions using UML modeling language and software design tools",
+      "meta": {
+        "pi_so": [
+          "PI 5.2"
+        ],
+        "muc_do": "IT",
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "Overview of Software Systems Analysis and Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L14",
+      "text": "System Functional Analysis Using Use Case Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1",
+          "L2"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L15",
+      "text": "System Business Analysis Using Activity Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "System Structural Analysis Using Class Diagrams",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ]
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L20",
+      "text": "User Interface Design",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2",
+          "L3"
+        ]
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_knowledge",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 4,
+      "dense_rank": 6,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_knowledge+escoxlmr_skill+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

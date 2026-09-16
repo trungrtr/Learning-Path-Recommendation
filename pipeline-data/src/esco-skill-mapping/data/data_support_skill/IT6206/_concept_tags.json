@@ -1,0 +1,280 @@
+{
+  "course_code": "IT6206",
+  "concept_tags": [
+    {
+      "text": "project management",
+      "normalized": "project management",
+      "loai": "foundational"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "technical documentation",
+      "normalized": "technical documentation",
+      "loai": "methodological"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "cognitive"
+    },
+    {
+      "text": "ethical decision-making",
+      "normalized": "ethical decision-making",
+      "loai": "foundational"
+    },
+    {
+      "text": "resourcefulness",
+      "normalized": "resourcefulness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "stakeholder management",
+      "normalized": "stakeholder management",
+      "loai": "foundational"
+    },
+    {
+      "text": "systemic thinking",
+      "normalized": "systemic thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "resilience",
+      "normalized": "resilience",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical writing",
+      "normalized": "technical writing",
+      "loai": "cognitive"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6206",
+      "concept_tag": "project management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "technical documentation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "ethical decision-making",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "resourcefulness",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "stakeholder management",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "systemic thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "resilience",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6206",
+      "concept_tag": "technical writing",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.79388,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.79388,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.750957,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.750957,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.733121,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.733121,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resourcefulness",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d30ad07-9e39-4899-81dd-02b280f162f9",
+      "esco_label": "apply systemic design thinking",
+      "confidence": 0.724124,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/4d30ad07-9e39-4899-81dd-02b280f162f9",
+      "esco_label": "apply systemic design thinking",
+      "confidence": 0.724124,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.707504,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.707504,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.674438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.674438,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.65044,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.65044,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "resilience",
+      "esco_uri": "http://data.europa.eu/esco/skill/79f24a62-7718-46e1-9b41-37be0560a5ca",
+      "esco_label": "organisational resilience",
+      "confidence": 0.635374,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "stakeholder management",
+      "esco_uri": "http://data.europa.eu/esco/skill/79f24a62-7718-46e1-9b41-37be0560a5ca",
+      "esco_label": "organisational resilience",
+      "confidence": 0.635374,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical decision-making",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.534218,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systemic thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0ffdb6ac-03b5-4f1c-bfcc-3d9cb874fdf9",
+      "esco_label": "ethical hacking principles",
+      "confidence": 0.534218,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 14,
+    "total_has_concept_edges": 14,
+    "total_evidence_for_edges": 18
+  }
+}

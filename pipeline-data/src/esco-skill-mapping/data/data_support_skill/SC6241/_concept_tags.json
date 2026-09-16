@@ -1,0 +1,249 @@
+{
+  "course_code": "SC6241",
+  "concept_tags": [
+    {
+      "text": "critical thinking",
+      "normalized": "critical thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "attention to detail",
+      "normalized": "attention to detail",
+      "loai": "cognitive"
+    },
+    {
+      "text": "problem decomposition",
+      "normalized": "problem decomposition",
+      "loai": "foundational"
+    },
+    {
+      "text": "risk assessment",
+      "normalized": "risk assessment",
+      "loai": "foundational"
+    },
+    {
+      "text": "technical communication",
+      "normalized": "technical communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "process orientation",
+      "normalized": "process orientation",
+      "loai": "foundational"
+    },
+    {
+      "text": "evidence-based decision making",
+      "normalized": "evidence-based decision making",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional collaboration",
+      "normalized": "professional collaboration",
+      "loai": "foundational"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking",
+      "loai": "foundational"
+    },
+    {
+      "text": "troubleshooting mindset",
+      "normalized": "troubleshooting mindset",
+      "loai": "cognitive"
+    },
+    {
+      "text": "quality assurance mindset",
+      "normalized": "quality assurance mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "adaptability to new technologies",
+      "normalized": "adaptability to new technologies",
+      "loai": "foundational"
+    },
+    {
+      "text": "structured documentation",
+      "normalized": "structured documentation",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6241",
+      "concept_tag": "critical thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "attention to detail",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "risk assessment",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "technical communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "process orientation",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "evidence-based decision making",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "professional collaboration",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "systems thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "troubleshooting mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "quality assurance mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "adaptability to new technologies",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6241",
+      "concept_tag": "structured documentation",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "problem decomposition",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.838949,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "quality assurance mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+      "esco_label": "levels of software testing",
+      "confidence": 0.838949,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.752966,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.752966,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.752966,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "structured documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.666422,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.666422,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "risk assessment",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.629945,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+      "esco_label": "software metrics",
+      "confidence": 0.629945,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.610678,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "technical communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.610678,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability to new technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.608659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "process orientation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+      "esco_label": "application usability",
+      "confidence": 0.608659,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "process orientation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.583023,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional collaboration",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.583023,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 13,
+    "total_has_concept_edges": 13,
+    "total_evidence_for_edges": 15
+  }
+}

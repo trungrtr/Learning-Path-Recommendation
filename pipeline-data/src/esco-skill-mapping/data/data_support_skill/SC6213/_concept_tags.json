@@ -1,0 +1,232 @@
+{
+  "course_code": "SC6213",
+  "concept_tags": [
+    {
+      "text": "architectural thinking",
+      "normalized": "architectural thinking",
+      "loai": "cognitive"
+    },
+    {
+      "text": "technical documentation literacy",
+      "normalized": "technical documentation literacy",
+      "loai": "methodological"
+    },
+    {
+      "text": "system design mindset",
+      "normalized": "system design mindset",
+      "loai": "foundational"
+    },
+    {
+      "text": "complex problem decomposition",
+      "normalized": "complex problem decomposition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "professional communication",
+      "normalized": "professional communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "intellectual property awareness",
+      "normalized": "intellectual property awareness",
+      "loai": "cognitive"
+    },
+    {
+      "text": "self-directed learning",
+      "normalized": "self-directed learning",
+      "loai": "cognitive"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management",
+      "loai": "methodological"
+    },
+    {
+      "text": "debugging and troubleshooting methodology",
+      "normalized": "debugging and troubleshooting methodology",
+      "loai": "foundational"
+    },
+    {
+      "text": "software lifecycle awareness",
+      "normalized": "software lifecycle awareness",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical evaluation of technology stacks",
+      "normalized": "critical evaluation of technology stacks",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative project management",
+      "normalized": "collaborative project management",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6213",
+      "concept_tag": "architectural thinking",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "technical documentation literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "system design mindset",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "complex problem decomposition",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "professional communication",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "intellectual property awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "self-directed learning",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "time management",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "debugging and troubleshooting methodology",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "software lifecycle awareness",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "critical evaluation of technology stacks",
+      "role": "support"
+    },
+    {
+      "course_code": "SC6213",
+      "concept_tag": "collaborative project management",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.745289,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+      "esco_label": "SPARK",
+      "confidence": 0.745289,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.635699,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/9ce670ec-318c-4a91-9179-03437db728dc",
+      "esco_label": "ICT software specifications",
+      "confidence": 0.635699,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+      "esco_label": "Eclipse (integrated development environment software)",
+      "confidence": 0.605425,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+      "esco_label": "Eclipse (integrated development environment software)",
+      "confidence": 0.605425,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.600552,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system design mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.600552,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_label": "KDevelop",
+      "confidence": 0.587971,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "debugging and troubleshooting methodology",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_label": "KDevelop",
+      "confidence": 0.587971,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_label": "KDevelop",
+      "confidence": 0.587971,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical evaluation of technology stacks",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.575369,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "software lifecycle awareness",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.575369,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "system design mindset",
+      "esco_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+      "esco_label": "software frameworks",
+      "confidence": 0.575369,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 14
+  }
+}

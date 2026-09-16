@@ -1,0 +1,142 @@
+{
+  "course_code": "BS6051_BS",
+  "course_title": "Nghệ thuật học đại cương",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 11,
+    "skill_count": 5,
+    "knowledge_count": 6,
+    "tier_distribution": {
+      "PRIMARY": 10,
+      "SECONDARY": 1,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "develop digital content",
+      "esco_uri": "http://data.europa.eu/esco/skill/5fd5c985-eaaa-47aa-8314-62359c54505a",
+      "confidence": 0.7401875596935793,
+      "cross_encoder_score": 0.9851861596107483,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 11,
+      "llm_reasoning": "The course focuses on art theory, appreciation, and history, not on the creation or editing of digital content."
+    },
+    {
+      "preferred_label": "compose description for web elements",
+      "esco_uri": "http://data.europa.eu/esco/skill/e8d9ce55-7bc3-4f09-8412-0a393d4b5b96",
+      "confidence": 0.7165867897482266,
+      "cross_encoder_score": 0.9377760887145996,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course does not cover web development or writing descriptions for web elements."
+    },
+    {
+      "preferred_label": "design interaction model",
+      "esco_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+      "confidence": 0.7303701648534261,
+      "cross_encoder_score": 0.982586681842804,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content is related to art theory and appreciation, not software interaction design."
+    },
+    {
+      "preferred_label": "creatively use digital technologies",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "confidence": 0.7278233944529676,
+      "cross_encoder_score": 0.9773348569869995,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course does not involve the use of digital technologies for innovation or problem-solving in digital environments."
+    },
+    {
+      "preferred_label": "develop documentation in accordance with legal requirements",
+      "esco_uri": "http://data.europa.eu/esco/skill/695c3249-18e7-4435-bdb8-54a16011159d",
+      "confidence": 0.7200792289870842,
+      "cross_encoder_score": 0.9723865985870361,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 9,
+      "llm_reasoning": "The course does not cover technical documentation or legal requirements for product/service descriptions."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "content development processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e74f4f21-8d45-412c-b5c3-652e6167ee32",
+      "confidence": 0.7398311298100295,
+      "cross_encoder_score": 0.965950071811676,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course focuses on artistic content and theory, not the technical processes of digital content development for publishing."
+    },
+    {
+      "preferred_label": "ICT architectural frameworks",
+      "esco_uri": "http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27",
+      "confidence": 0.720777229724182,
+      "cross_encoder_score": 0.9748072028160095,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not cover information systems or ICT architecture."
+    },
+    {
+      "preferred_label": "information architecture",
+      "esco_uri": "http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4",
+      "confidence": 0.7055166402521359,
+      "cross_encoder_score": 0.9468019008636475,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 12,
+      "llm_reasoning": "The course does not cover information architecture or data management methods."
+    },
+    {
+      "preferred_label": "augmented reality",
+      "esco_uri": "http://data.europa.eu/esco/skill/abdc7ac8-151f-40c6-bc1a-1e9b4b073290",
+      "confidence": 0.6735831126518336,
+      "cross_encoder_score": 0.8905880451202393,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course does not cover augmented reality technology."
+    },
+    {
+      "preferred_label": "style sheet languages",
+      "esco_uri": "http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794",
+      "confidence": 0.6725856240681677,
+      "cross_encoder_score": 0.8879954814910889,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course does not cover computer programming or style sheet languages like CSS."
+    },
+    {
+      "preferred_label": "copyright legislation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2103a1d-4a84-47a9-b4f7-774787573449",
+      "confidence": 0.5460333733241269,
+      "cross_encoder_score": 0.7185646295547485,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "REJECT",
+      "evidence_count": 13,
+      "llm_reasoning": "The course content focuses on art theory, appreciation, and the characteristics of various art forms, but does not mention copyright legislation or legal frameworks for protecting authors' rights."
+    }
+  ],
+  "schema_version": "3.0"
+}

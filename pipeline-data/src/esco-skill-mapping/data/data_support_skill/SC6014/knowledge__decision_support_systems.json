@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b",
+    "preferred_label": "decision support systems",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6014",
+    "course_title": "Foundation Project"
+  },
+  "support_context": {
+    "support_concept_origin": "accountability; strategic decision-making",
+    "evidence_text": "and gain skills in planning and operating a basic information systems project"
+  },
+  "scoring": {
+    "final_score": 0.594508,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "As the course focuses on information systems design, it provides the foundational knowledge necessary to understand how such systems support organizational decision-making.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

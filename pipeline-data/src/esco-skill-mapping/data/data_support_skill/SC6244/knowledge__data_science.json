@@ -1,0 +1,33 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01",
+    "preferred_label": "data science",
+    "skill_type": "knowledge",
+    "relation_type": "SUPPORTS_SKILL"
+  },
+  "course": {
+    "course_code": "SC6244",
+    "course_title": "Artificial Intelligence"
+  },
+  "support_context": {
+    "support_concept_origin": "abstract modeling; quantitative analysis; self-directed learning",
+    "evidence_text": "Objectives: The course equips students with knowledge of search strategies, knowledge representation, regression, basic machine learning, and neural networks"
+  },
+  "scoring": {
+    "final_score": 0.730581,
+    "rrf_score": 0.0,
+    "escoxlmr_score": 0.0,
+    "evidence_score": 0.0,
+    "candidate_rank": 0
+  },
+  "retrieval": {
+    "bm25_rank": null,
+    "faiss_rank": null,
+    "escoxlmr_rank": null
+  },
+  "evidence": [],
+  "review_status": "accepted",
+  "llm_reasoning": "The course covers machine learning and regression, which are essential components of the data science field.",
+  "method": "LLM-Concept+BM25+FAISS+ESCOXLMR+RRF+MultiSignal",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,218 @@
+{
+  "course_code": "IT6217_BS",
+  "concept_tags": [
+    {
+      "text": "academic discipline",
+      "normalized": "academic discipline",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional identity formation",
+      "normalized": "professional identity formation",
+      "loai": "foundational"
+    },
+    {
+      "text": "metacognition",
+      "normalized": "metacognition",
+      "loai": "cognitive"
+    },
+    {
+      "text": "interdisciplinary communication",
+      "normalized": "interdisciplinary communication",
+      "loai": "foundational"
+    },
+    {
+      "text": "critical self-reflection",
+      "normalized": "critical self-reflection",
+      "loai": "foundational"
+    },
+    {
+      "text": "collaborative problem solving",
+      "normalized": "collaborative problem solving",
+      "loai": "foundational"
+    },
+    {
+      "text": "information literacy",
+      "normalized": "information literacy",
+      "loai": "cognitive"
+    },
+    {
+      "text": "adaptability",
+      "normalized": "adaptability",
+      "loai": "foundational"
+    },
+    {
+      "text": "professional accountability",
+      "normalized": "professional accountability",
+      "loai": "foundational"
+    },
+    {
+      "text": "organizational skills",
+      "normalized": "organizational skills",
+      "loai": "methodological"
+    },
+    {
+      "text": "persuasive communication",
+      "normalized": "persuasive communication",
+      "loai": "interpersonal"
+    },
+    {
+      "text": "ethical reasoning",
+      "normalized": "ethical reasoning",
+      "loai": "foundational"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "academic discipline",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "professional identity formation",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "metacognition",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "interdisciplinary communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "critical self-reflection",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "collaborative problem solving",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "information literacy",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "adaptability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "professional accountability",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "organizational skills",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "persuasive communication",
+      "role": "support"
+    },
+    {
+      "course_code": "IT6217_BS",
+      "concept_tag": "ethical reasoning",
+      "role": "support"
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "academic discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/89f6560b-2194-45c9-9ece-d33049a73eef",
+      "esco_label": "computer engineering",
+      "confidence": 0.826338,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "academic discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.769661,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "critical self-reflection",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.769661,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "interdisciplinary communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b26f08b-88bc-45f0-b901-530d7786466b",
+      "esco_label": "scientific computing",
+      "confidence": 0.769661,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "academic discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.769119,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "collaborative problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.769119,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+      "esco_label": "ethics",
+      "confidence": 0.769119,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "academic discipline",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.649407,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "adaptability",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.649407,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional accountability",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.649407,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "ethical reasoning",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.602383,
+      "pipeline_source": "supports_M5"
+    },
+    {
+      "concept_tag": "professional identity formation",
+      "esco_uri": "http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92",
+      "esco_label": "data ethics",
+      "confidence": 0.602383,
+      "pipeline_source": "supports_M5"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 12,
+    "total_has_concept_edges": 12,
+    "total_evidence_for_edges": 12
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2",
+    "preferred_label": "perform online data analysis",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "SC6228",
+    "course_title": "E-commerce Application Development",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.7676133152352923,
+    "cross_encoder_score": 0.9845458269119263,
+    "tier": "PRIMARY",
+    "confidence_level": "HIGH",
+    "decision_status": "ACCEPT",
+    "over_soft_cap": false,
+    "mismatch_flagged": false,
+    "mismatch_penalty_applied": false,
+    "llm_reasoning": "The course includes connecting the website with analytics tools like Google Analytics."
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "M",
+      "text": "This course provides students with in-depth knowledge and practical skills in developing e-commerce applications on the WordPress platform. The course content focuses on the design and construction process of popular website types: from professional news sites to fully featured online sales systems. Through the course, students can master the CMS system, independently customize professional interfaces, and set up commercial processes from inventory management to automated payment configuration with WooCommerce.",
+      "meta": {
+        "matched_mention": "e-commerce applications"
+      },
+      "evidence_weight": 0.25,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT1",
+      "text": "The course equips students with advanced knowledge and practical skills on the WordPress platform to build popular types of websites in e-commerce. Students are capable of deploying everything from professional news sites to fully-featured integrated online sales systems.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "online sales systems; e-commerce websites"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT2",
+      "text": "Understanding the WordPress ecosystem: Mastering the open-source code structure, and the operational mechanisms of Themes and Plugins.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "WordPress ecosystem"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT3",
+      "text": "Mastering the design process: Understanding content presentation principles for news sites and the structure of an SEO-standard E-commerce website.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "SEO-standard E-commerce website"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT4",
+      "text": "Understanding WooCommerce: Explaining the management process of products, orders, inventory, and online payment/shipping methods.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "online payment methods"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT5",
+      "text": "Knowledge of security and optimization: Understanding basic website security methods and page load speed optimization techniques for e-commerce sites.",
+      "meta": {
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "e-commerce site optimization"
+      },
+      "evidence_weight": 0.7,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT6",
+      "text": "Building news sites: Designing layouts, managing categories and articles, and integrating interactive features (comments, social media sharing).",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "news site design"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT7",
+      "text": "Designing sales systems: Professionally configuring WooCommerce tools to create online stores integrated with auxiliary news.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "online store integration"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT8",
+      "text": "Interface Customization: Proficiently using Page Builders to create eye-catching Landing Pages and homepages without deep intervention in code.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Page Builders"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT9",
+      "text": "Multi-channel integration: Connecting the website with analytics tools (Google Analytics), maps, and supporting sales affiliate tools.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "Google Analytics"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "MUC_TIEU",
+      "source_id": "MT13",
+      "text": "Having the ability to self-search and install new solutions to meet the changing demands of the e-commerce market.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "e-commerce market demands"
+      },
+      "evidence_weight": 0.65,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L1",
+      "text": "Apply technology knowledge and principles of content management systems to rapidly deploy e-commerce sales websites.",
+      "meta": {
+        "pi_so": [
+          "PI 1.2"
+        ],
+        "muc_do": "T",
+        "loai_muc_tieu": "KIEN_THUC",
+        "matched_mention": "content management systems"
+      },
+      "evidence_weight": 0.9,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "CLO",
+      "source_id": "L2",
+      "text": "Apply information technology principles to analyze, customize, and develop sales websites meeting the practical requirements of small businesses and individuals.",
+      "meta": {
+        "pi_so": [
+          "PI 1.3"
+        ],
+        "muc_do": "ITU",
+        "loai_muc_tieu": "KY_NANG",
+        "matched_mention": "sales website development"
+      },
+      "evidence_weight": 0.85,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L01",
+      "text": "Overview of E-commerce and WordPress Installation",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "E-commerce overview"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L03",
+      "text": "WordPress Themes and Structure",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "Website structure"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L04",
+      "text": "Practice: Building a News Website with WordPress",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L1"
+        ],
+        "matched_mention": "WordPress development; News website building"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L05",
+      "text": "Plugins and PHP Programming",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "WordPress plugins"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L07",
+      "text": "Building an E-commerce Website with WooCommerce",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "E-commerce website building"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L09",
+      "text": "Practice: Interface Customization and News Integration",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "News integration"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L10",
+      "text": "Website Optimization, Security, and Deployment",
+      "meta": {
+        "content_richness": "title_only",
+        "linked_clo": [
+          "L2"
+        ],
+        "matched_mention": "Website optimization"
+      },
+      "evidence_weight": 0.3,
+      "is_boilerplate": false
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "llm_extraction",
+      "matched_head_type": null,
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 4,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "LLM_Extraction+FAISS_BM25_RRF+UniSkill",
+    "schema_version": "3.0"
+  }
+}

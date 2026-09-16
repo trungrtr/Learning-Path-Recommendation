@@ -1,0 +1,296 @@
+{
+  "course_code": "SC6232",
+  "course_title": "Embedded Programming and IoT",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 25,
+    "skill_count": 10,
+    "knowledge_count": 15,
+    "tier_distribution": {
+      "PRIMARY": 25,
+      "SECONDARY": 0,
+      "OPTIONAL": 0,
+      "low_confidence": 0
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "keep up with the latest information systems solutions",
+      "esco_uri": "http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416",
+      "confidence": 0.8168376723863311,
+      "cross_encoder_score": 0.9846261143684387,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course focuses on foundational embedded and IoT programming rather than researching or keeping up with the latest market-wide information systems solutions."
+    },
+    {
+      "preferred_label": "deploy ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/71c2f41e-14de-4b23-82ad-5dbcd54ba5b0",
+      "confidence": 0.8016682428347455,
+      "cross_encoder_score": 0.9844508171081543,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course explicitly includes CLOs and lessons on deploying embedded and IoT systems to solve practical problems."
+    },
+    {
+      "preferred_label": "develop ICT device driver",
+      "esco_uri": "http://data.europa.eu/esco/skill/85616cc4-98bf-4355-9cf1-72ff11752848",
+      "confidence": 0.7819978561102073,
+      "cross_encoder_score": 0.979351282119751,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 22,
+      "llm_reasoning": "The course covers application software and programming peripherals (GPIO, ADC, PWM), but does not explicitly cover the development of low-level device drivers."
+    },
+    {
+      "preferred_label": "integrate system components",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+      "confidence": 0.7734582328818135,
+      "cross_encoder_score": 0.9891349077224731,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course involves integrating hardware (sensors, motors, displays) with software through various programming practices."
+    },
+    {
+      "preferred_label": "apply ICT systems theory",
+      "esco_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+      "confidence": 0.7738913931300276,
+      "cross_encoder_score": 0.9791227579116821,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers embedded systems architecture, network architecture, and IoT protocols, which are foundational theories for these systems."
+    },
+    {
+      "preferred_label": "install electronic communication equipment",
+      "esco_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "confidence": 0.7534015551921823,
+      "cross_encoder_score": 0.9639551639556885,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course includes practice with Bluetooth, Wi-Fi modules, and IoT network protocols, which constitutes setting up electronic communication equipment."
+    },
+    {
+      "preferred_label": "design information system",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "confidence": 0.7629971931775131,
+      "cross_encoder_score": 0.9840074181556702,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 16,
+      "llm_reasoning": "The course covers embedded systems and IoT architectures, which involves defining components and interfaces for these systems."
+    },
+    {
+      "preferred_label": "use ICT hardware",
+      "esco_uri": "http://data.europa.eu/esco/skill/6474fc36-67ae-436b-9d39-c14402c6a89b",
+      "confidence": 0.7527162773808561,
+      "cross_encoder_score": 0.9622568488121033,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course focuses on specialized embedded hardware (microcontrollers, sensors) rather than general ICT hardware like monitors or scanners."
+    },
+    {
+      "preferred_label": "acquire system component",
+      "esco_uri": "http://data.europa.eu/esco/skill/90be83d9-56f1-46a4-a6bc-96c51f6c9025",
+      "confidence": 0.7558668131033692,
+      "cross_encoder_score": 0.9821975231170654,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course content does not mention the procurement or acquisition process for system components."
+    },
+    {
+      "preferred_label": "implement ICT network diagnostic tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "confidence": 0.7142404951258842,
+      "cross_encoder_score": 0.9252340793609619,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "While the course covers IoT protocols, it does not explicitly teach the use of diagnostic tools for monitoring network performance or bottlenecks."
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "embedded systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2180bd8c-86de-4889-8165-adac902eee9d",
+      "confidence": 0.8244589280205126,
+      "cross_encoder_score": 0.9862411022186279,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course explicitly covers embedded systems architectures, programming techniques, and development tools like Arduino."
+    },
+    {
+      "preferred_label": "ICT help platforms",
+      "esco_uri": "http://data.europa.eu/esco/skill/778ca7ad-6c5d-4868-9b96-a7777dca799c",
+      "confidence": 0.812166301762678,
+      "cross_encoder_score": 0.9722230434417725,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 23,
+      "llm_reasoning": "There is no mention of help platforms for operating systems in the course content."
+    },
+    {
+      "preferred_label": "hardware architectures",
+      "esco_uri": "http://data.europa.eu/esco/skill/e043aeeb-78f5-4049-afbf-12bba52225bc",
+      "confidence": 0.7834958291223354,
+      "cross_encoder_score": 0.9891536831855774,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 19,
+      "llm_reasoning": "The course includes lessons on embedded systems hardware and network architecture."
+    },
+    {
+      "preferred_label": "ICT system programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+      "confidence": 0.7883597052248,
+      "cross_encoder_score": 0.974024772644043,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course covers programming techniques, system software, and interfacing techniques for embedded and IoT modules."
+    },
+    {
+      "preferred_label": "business ICT systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+      "confidence": 0.7828115570473141,
+      "cross_encoder_score": 0.9772233963012695,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 21,
+      "llm_reasoning": "The course focuses on technical embedded and IoT systems rather than business-specific ICT systems like ERP or CRM."
+    },
+    {
+      "preferred_label": "digital systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+      "confidence": 0.7763503964481838,
+      "cross_encoder_score": 0.9785240888595581,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course covers hardware, software, and network protocols used to process and transmit information in embedded and IoT systems."
+    },
+    {
+      "preferred_label": "incremental development",
+      "esco_uri": "http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876",
+      "confidence": 0.7572839925892448,
+      "cross_encoder_score": 0.9726563096046448,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 18,
+      "llm_reasoning": "While the course involves practical development, it does not explicitly teach the incremental development methodology."
+    },
+    {
+      "preferred_label": "ICT hardware specifications",
+      "esco_uri": "http://data.europa.eu/esco/skill/3497ebe1-d417-4105-a68f-f7bbcac7ee5f",
+      "confidence": 0.7554816248696183,
+      "cross_encoder_score": 0.9656513929367065,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 20,
+      "llm_reasoning": "The course covers hardware components like sensors, actuators, and microcontrollers (Arduino/ESP8266) and their operations."
+    },
+    {
+      "preferred_label": "building systems monitoring technology",
+      "esco_uri": "http://data.europa.eu/esco/skill/0e8d16c9-e2db-4862-ac06-1567f01ef806",
+      "confidence": 0.7545610827321805,
+      "cross_encoder_score": 0.9500601887702942,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 17,
+      "llm_reasoning": "The course focuses on general embedded and IoT systems rather than specific building automation technologies."
+    },
+    {
+      "preferred_label": "ICT infrastructure",
+      "esco_uri": "http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523",
+      "confidence": 0.7619994036634987,
+      "cross_encoder_score": 0.9787647724151611,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course covers IoT network protocols and the development of IoT systems, which are components of ICT infrastructure."
+    },
+    {
+      "preferred_label": "operating systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+      "confidence": 0.7476113563494208,
+      "cross_encoder_score": 0.9705830812454224,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "The course content focuses on embedded systems and IoT programming using Arduino and specific modules, but does not mention the study of general-purpose operating systems like Linux, Windows, or MacOS."
+    },
+    {
+      "preferred_label": "iterative development",
+      "esco_uri": "http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb",
+      "confidence": 0.7449775222162149,
+      "cross_encoder_score": 0.9705014824867249,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 14,
+      "llm_reasoning": "While the course involves practical development, there is no explicit mention of the iterative development methodology."
+    },
+    {
+      "preferred_label": "integrated development environment software",
+      "esco_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "confidence": 0.7406960082796036,
+      "cross_encoder_score": 0.9649989008903503,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 15,
+      "llm_reasoning": "The course includes extensive practice with Arduino programming, which inherently requires the use of an Integrated Development Environment (IDE) to write, compile, and upload code to the hardware."
+    },
+    {
+      "preferred_label": "Prototyping development",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "confidence": 0.7506628597175279,
+      "cross_encoder_score": 0.9707833528518677,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 18,
+      "llm_reasoning": "The course content explicitly lists 'Development of several practical embedded systems' and 'Development of several practical IoT systems', which involves building prototypes using hardware like Arduino, sensors, and modules."
+    },
+    {
+      "preferred_label": "DevOps",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4",
+      "confidence": 0.7451796381399903,
+      "cross_encoder_score": 0.9758185148239136,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "REJECT",
+      "evidence_count": 15,
+      "llm_reasoning": "There is no mention of DevOps practices, automation, or collaboration frameworks in the provided course content."
+    }
+  ],
+  "schema_version": "3.0"
+}

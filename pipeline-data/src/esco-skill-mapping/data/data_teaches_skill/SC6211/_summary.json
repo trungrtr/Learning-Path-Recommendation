@@ -1,0 +1,160 @@
+{
+  "course_code": "SC6211",
+  "course_title": "Object Oriented Programming",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 14,
+    "skill_count": 6,
+    "knowledge_count": 8,
+    "tier_distribution": {
+      "PRIMARY": 4,
+      "SECONDARY": 2,
+      "OPTIONAL": 8
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "use object-oriented programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "confidence": 0.781,
+      "cross_encoder_score": 0.9574,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "use concurrent programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "confidence": 0.6889,
+      "cross_encoder_score": 0.8977,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "use functional programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "confidence": 0.451,
+      "cross_encoder_score": 0.5532,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "design application interfaces",
+      "esco_uri": "http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "confidence": 0.4285,
+      "cross_encoder_score": 0.4878,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 10
+    },
+    {
+      "preferred_label": "use logic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "confidence": 0.3876,
+      "cross_encoder_score": 0.4805,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "use automatic programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "confidence": 0.3706,
+      "cross_encoder_score": 0.4072,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 8
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "object-oriented modelling",
+      "esco_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+      "confidence": 0.839,
+      "cross_encoder_score": 0.9893,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 9
+    },
+    {
+      "preferred_label": "computer programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "confidence": 0.7732,
+      "cross_encoder_score": 0.9696,
+      "tier": "PRIMARY",
+      "confidence_level": "HIGH",
+      "decision_status": "ACCEPT",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "ObjectStore",
+      "esco_uri": "http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54",
+      "confidence": 0.639,
+      "cross_encoder_score": 0.8323,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "web programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28",
+      "confidence": 0.6222,
+      "cross_encoder_score": 0.7725,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "Python (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "confidence": 0.5066,
+      "cross_encoder_score": 0.6548,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 8
+    },
+    {
+      "preferred_label": "Assembly (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "confidence": 0.4165,
+      "cross_encoder_score": 0.531,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "Objective-C",
+      "esco_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "confidence": 0.3782,
+      "cross_encoder_score": 0.4554,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 7
+    },
+    {
+      "preferred_label": "Java (computer programming)",
+      "esco_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "confidence": 0.3615,
+      "cross_encoder_score": 0.4583,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 6
+    }
+  ],
+  "schema_version": "3.0"
+}

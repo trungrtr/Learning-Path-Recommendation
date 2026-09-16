@@ -1,0 +1,69 @@
+{
+  "esco_concept": {
+    "uri": "http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab",
+    "preferred_label": "develop data processing applications",
+    "skill_type": "skill/competence",
+    "concept_type": "skill",
+    "relation_type": "TEACHES_SKILL"
+  },
+  "course": {
+    "course_code": "BS6054_BS",
+    "course_title": "Vật lý đại cương",
+    "course_type": "SPECIALIZED"
+  },
+  "decision": {
+    "confidence": 0.441467,
+    "cross_encoder_score": 0.572801,
+    "tier": "OPTIONAL",
+    "confidence_level": "LOW",
+    "decision_status": "REVIEW",
+    "over_soft_cap": false,
+    "mismatch_flagged": false
+  },
+  "evidence": [
+    {
+      "source_type": "MO_TA",
+      "source_id": "MAIN",
+      "text": "The General Physics course consists of two parts: theory and laboratory. - The theory part provides students with basic knowledge of Physics in the fields of Mechanics (particle mechanics, systems of particles, and rigid body mechanics) and Electromagnetism (electrostatic fields, capacitors, direct current, magnetic fields of direct current, electromagnetic induction phenomena, and electromagnetic fields). + Mechanics equips students with basic knowledge of acceleration, velocity, angular acceleration, angular velocity, angle of rotation, force, torque, and the investigation of basic motion types of rigid bodies and mechanical systems in practice: translational motion, rotational motion; the transformation of work, energy, and momentum of objects and systems of objects during motion. + Electromagnetism equips students with basic knowledge of electric fields, electric field intensity, electric potential, elements in practical electrical circuits: resistors, capacitors, diodes, transistors, power sources, methods of applying Ohm's law and Kirchhoff's rules to investigate direct current circuits; magnetic interactions, magnetic fields, magnetic induction, magnetic field strength; electromagnetic induction phenomena, applications of electromagnetic induction in engineering and daily life; electromagnetic fields, electromagnetic waves, Maxwell's postulates and Maxwell's equations, the electromagnetic spectrum. - The laboratory part helps reinforce knowledge of mechanics and electromagnetism, trains experimental skills, skills in using measuring instruments, analyzing experimental data, and calculating errors. The knowledge and skills that students acquire from the General Physics course will serve as a basis for conveniently absorbing knowledge in technology and engineering foundational courses such as Electrical Engineering, Mechanical Processes and Equipment, Food Physics, Computer Architecture and Operating Systems, etc. In addition, the General Physics course will contribute to forming a scientific worldview and logical thinking for students."
+    },
+    {
+      "source_type": "CLO",
+      "source_id": null,
+      "text": "Perform experimental data processing, error calculation, and analysis of measurement results in general physics experiments.",
+      "meta": {
+        "loai_muc_tieu": "KY_NANG"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L12",
+      "text": "General Physics Laboratory – Data Processing in Physics Experiments. Using Length Measuring Instruments",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    },
+    {
+      "source_type": "BAI_HOC",
+      "source_id": "L16",
+      "text": "General Physics Laboratory – Determination of the Acceleration Due to Gravity Using a Physical Pendulum. Using Electrical Measuring Instruments",
+      "meta": {
+        "content_richness": "title_only"
+      }
+    }
+  ],
+  "pipeline_provenance": {
+    "extraction": {
+      "source": "escoxlmr_skill",
+      "matched_head_type": "skill",
+      "esco_type_agrees": true
+    },
+    "retrieval": {
+      "bm25_rank": 1,
+      "dense_rank": 7,
+      "esco_extract_skill_rank": null,
+      "rrf_rank": null
+    },
+    "method": "escoxlmr_skill+escoxlmr_knowledge+UniSkill-CrossEncoder",
+    "schema_version": "3.0"
+  }
+}

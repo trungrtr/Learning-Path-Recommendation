@@ -1,0 +1,1740 @@
+{
+  "course_code": "SC6267",
+  "concept_tags": [
+    {
+      "text": "information systems design",
+      "normalized": "information systems design"
+    },
+    {
+      "text": "data processing",
+      "normalized": "data processing"
+    },
+    {
+      "text": "software solutions evaluation",
+      "normalized": "software solutions evaluation"
+    },
+    {
+      "text": "teamwork",
+      "normalized": "teamwork"
+    },
+    {
+      "text": "project reporting",
+      "normalized": "project reporting"
+    },
+    {
+      "text": "independent research",
+      "normalized": "independent research"
+    },
+    {
+      "text": "systems thinking",
+      "normalized": "systems thinking"
+    },
+    {
+      "text": "innovation",
+      "normalized": "innovation"
+    },
+    {
+      "text": "software solution design",
+      "normalized": "software solution design"
+    },
+    {
+      "text": "information systems",
+      "normalized": "information systems"
+    },
+    {
+      "text": "software solution evaluation",
+      "normalized": "software solution evaluation"
+    },
+    {
+      "text": "technical criteria",
+      "normalized": "technical criteria"
+    },
+    {
+      "text": "performance analysis",
+      "normalized": "performance analysis"
+    },
+    {
+      "text": "information system quality",
+      "normalized": "information system quality"
+    },
+    {
+      "text": "self-study",
+      "normalized": "self-study"
+    },
+    {
+      "text": "self-research",
+      "normalized": "self-research"
+    },
+    {
+      "text": "innovative thinking",
+      "normalized": "innovative thinking"
+    },
+    {
+      "text": "entrepreneurial mindset",
+      "normalized": "entrepreneurial mindset"
+    },
+    {
+      "text": "project presentation",
+      "normalized": "project presentation"
+    },
+    {
+      "text": "Project Initiation",
+      "normalized": "project initiation"
+    },
+    {
+      "text": "Project Planning",
+      "normalized": "project planning"
+    },
+    {
+      "text": "Project Execution",
+      "normalized": "project execution"
+    },
+    {
+      "text": "Project Documentation",
+      "normalized": "project documentation"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6267",
+      "concept_tag": "information systems design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "data processing",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "software solutions evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "teamwork",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project reporting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "independent research",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "systems thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "innovation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "software solution design",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "information systems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "software solution evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "technical criteria",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "performance analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "information system quality",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "self-study",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "self-research",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "innovative thinking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "entrepreneurial mindset",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_CLO_L3",
+        "SC6267_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project initiation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project execution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6267",
+      "concept_tag": "project documentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6267_BAIHOC_L04"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7609664372592071,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7601368710709169,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7582065533815299,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7525240219004155,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7474279715220364,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.7611048037479,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.755661407667311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.7493372197681748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "independent research",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7473915517705524,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.746002994853034,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.739935467442067,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7247202526400264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7247202526400264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7247202526400264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e",
+      "esco_label": "design information system",
+      "confidence": 0.7247202526400264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a",
+      "esco_label": "provide cost benefit analysis reports",
+      "confidence": 0.7390527174228679,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "independent research",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+      "esco_label": "report analysis results",
+      "confidence": 0.7254459613190039,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "performance analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552",
+      "esco_label": "analyse pipeline database information",
+      "confidence": 0.721099399632935,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "innovative thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d",
+      "esco_label": "consult with business clients",
+      "confidence": 0.7203619247623934,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "innovation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_label": "develop software prototype",
+      "confidence": 0.718846071790713,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information system quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b",
+      "esco_label": "provide user documentation",
+      "confidence": 0.7156672662758937,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "technical criteria",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+      "esco_label": "provide software testing documentation",
+      "confidence": 0.7154483433677971,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "independent research",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d74df140-eb69-43e2-bac9-1cafc824d702",
+      "esco_label": "execute feasibility study",
+      "confidence": 0.7067567799276646,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.7520913627025698,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.7499837975493224,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e",
+      "esco_label": "software design methodologies",
+      "confidence": 0.7330619801808239,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "innovation",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7457112686010542,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.7440477840711819,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.7435476510656723,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.7330667551809615,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solutions evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7168268556562691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7168268556562691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7168268556562691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b",
+      "esco_label": "solution deployment",
+      "confidence": 0.7168268556562691,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.7246018120689497,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information systems design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "systems thinking",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "innovation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "software solution design",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project initiation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project documentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c",
+      "esco_label": "Prototyping development",
+      "confidence": 0.7112562759647734,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 23,
+    "total_has_concept_edges": 23,
+    "total_evidence_for_edges": 207
+  }
+}

@@ -1,0 +1,2216 @@
+{
+  "course_code": "SC6202",
+  "concept_tags": [
+    {
+      "text": "optimization problems",
+      "normalized": "optimization problems"
+    },
+    {
+      "text": "linear programming problems",
+      "normalized": "linear programming problems"
+    },
+    {
+      "text": "discrete optimization problems",
+      "normalized": "discrete optimization problems"
+    },
+    {
+      "text": "mathematical models",
+      "normalized": "mathematical models"
+    },
+    {
+      "text": "optimization problem classification",
+      "normalized": "optimization problem classification"
+    },
+    {
+      "text": "solution methods",
+      "normalized": "solution methods"
+    },
+    {
+      "text": "result evaluation",
+      "normalized": "result evaluation"
+    },
+    {
+      "text": "optimization models",
+      "normalized": "optimization models"
+    },
+    {
+      "text": "quantitative analysis",
+      "normalized": "quantitative analysis"
+    },
+    {
+      "text": "optimization problem formats",
+      "normalized": "optimization problem formats"
+    },
+    {
+      "text": "optimization problem solving",
+      "normalized": "optimization problem solving"
+    },
+    {
+      "text": "General Optimization Problems",
+      "normalized": "general optimization problems"
+    },
+    {
+      "text": "Optimization Problem Properties",
+      "normalized": "optimization problem properties"
+    },
+    {
+      "text": "Simplex Method",
+      "normalized": "simplex method"
+    },
+    {
+      "text": "Linear Programming Forms",
+      "normalized": "linear programming forms"
+    },
+    {
+      "text": "Dual Linear Programming",
+      "normalized": "dual linear programming"
+    },
+    {
+      "text": "Duality Theorems",
+      "normalized": "duality theorems"
+    },
+    {
+      "text": "Transportation Problem",
+      "normalized": "transportation problem"
+    },
+    {
+      "text": "Transportation Problem Solving Methods",
+      "normalized": "transportation problem solving methods"
+    },
+    {
+      "text": "Discrete Optimization Methods",
+      "normalized": "discrete optimization methods"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MOTA_MAIN"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "linear programming problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MOTA_MAIN",
+        "SC6202_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "discrete optimization problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MOTA_MAIN",
+        "SC6202_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "mathematical models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization problem classification",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT1"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "solution methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "result evaluation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT2"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization models",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "quantitative analysis",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization problem formats",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization problem solving",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "general optimization problems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "optimization problem properties",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "simplex method",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "linear programming forms",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "dual linear programming",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "duality theorems",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "transportation problem",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "transportation problem solving methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6202",
+      "concept_tag": "discrete optimization methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6202_BAIHOC_L08"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_label": "create solutions to problems",
+      "confidence": 0.7653844132267965,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical models",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+      "esco_label": "execute analytical mathematical calculations",
+      "confidence": 0.7637984203510505,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+      "esco_label": "develop strategy to solve problems",
+      "confidence": 0.7590884662592347,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+      "esco_label": "optimise choice of ICT solution",
+      "confidence": 0.7437265674365994,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "duality theorems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+      "esco_label": "problem-solving with digital tools",
+      "confidence": 0.7572667495283213,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/118efbcd-8fc5-4668-81d1-c383a0d16070",
+      "esco_label": "handle helpdesk problems",
+      "confidence": 0.750145221701324,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14",
+      "esco_label": "improve business processes",
+      "confidence": 0.732487733995735,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical models",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "duality theorems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+      "esco_label": "address problems critically",
+      "confidence": 0.7418052456732849,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "esco_label": "troubleshoot",
+      "confidence": 0.7290963915270972,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9",
+      "esco_label": "creatively use digital technologies",
+      "confidence": 0.7375460926659838,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_label": "use concurrent programming",
+      "confidence": 0.7238471804037283,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+      "esco_label": "perform ICT troubleshooting",
+      "confidence": 0.7329780795779091,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7292182227838514,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757",
+      "esco_label": "manage data collection systems",
+      "confidence": 0.7266369522129568,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "result evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7247326502469282,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a0bf9b9d-e53f-418c-a839-5d99eff718fe",
+      "esco_label": "conduct search engine optimisation",
+      "confidence": 0.7238924503499721,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d3eccb86-f02d-4950-bfbd-20b9510774a1",
+      "esco_label": "apply organisational techniques",
+      "confidence": 0.7194729083301751,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_label": "use logic programming",
+      "confidence": 0.6891011596250164,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+      "esco_label": "solve ICT system problems",
+      "confidence": 0.6981583976822748,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical models",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "result evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "simplex method",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_label": "use functional programming",
+      "confidence": 0.6472560385849269,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9",
+      "esco_label": "business analytics",
+      "confidence": 0.7436068851285791,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38",
+      "esco_label": "algorithms",
+      "confidence": 0.7416262738840854,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_label": "ICT problem management techniques",
+      "confidence": 0.7366232952451428,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "result evaluation",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quantitative analysis",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_label": "ICT performance analysis methods",
+      "confidence": 0.7339068117478914,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "mathematical models",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "duality theorems",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8",
+      "esco_label": "mathematical modelling",
+      "confidence": 0.7313566737761917,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7482a123-e801-48de-9733-262125671410",
+      "esco_label": "task algorithmisation",
+      "confidence": 0.7327247441778271,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem classification",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization models",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem formats",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem solving",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "general optimization problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "optimization problem properties",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "transportation problem solving methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "discrete optimization methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7361001977604045,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.667659614858777,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.667659614858777,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_label": "computer programming",
+      "confidence": 0.667659614858777,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming problems",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.6258554680949311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "solution methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.6258554680949311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "linear programming forms",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.6258554680949311,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "dual linear programming",
+      "esco_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_label": "APL",
+      "confidence": 0.6258554680949311,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 20,
+    "total_has_concept_edges": 20,
+    "total_evidence_for_edges": 280
+  }
+}

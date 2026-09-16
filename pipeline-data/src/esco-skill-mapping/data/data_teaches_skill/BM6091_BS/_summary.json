@@ -1,0 +1,49 @@
+{
+  "course_code": "BM6091_BS",
+  "course_title": "Quản lý dự án",
+  "course_type": "SPECIALIZED",
+  "statistics": {
+    "total_records": 3,
+    "skill_count": 2,
+    "knowledge_count": 1,
+    "tier_distribution": {
+      "SECONDARY": 1,
+      "OPTIONAL": 2
+    }
+  },
+  "skills": [
+    {
+      "preferred_label": "perform resource planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "confidence": 0.6161,
+      "cross_encoder_score": 0.6426,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 12
+    },
+    {
+      "preferred_label": "attend to ICT systems quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/7f0b1a66-ebaf-4c8a-b606-4c1844eb692e",
+      "confidence": 0.5425,
+      "cross_encoder_score": 0.6995,
+      "tier": "OPTIONAL",
+      "confidence_level": "LOW",
+      "decision_status": "REVIEW",
+      "evidence_count": 8
+    }
+  ],
+  "knowledges": [
+    {
+      "preferred_label": "ICT process quality models",
+      "esco_uri": "http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66",
+      "confidence": 0.6286,
+      "cross_encoder_score": 0.8229,
+      "tier": "SECONDARY",
+      "confidence_level": "MED",
+      "decision_status": "ACCEPT",
+      "evidence_count": 6
+    }
+  ],
+  "schema_version": "3.0"
+}

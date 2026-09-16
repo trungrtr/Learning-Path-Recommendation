@@ -1,0 +1,4145 @@
+{
+  "course_code": "SC6013",
+  "concept_tags": [
+    {
+      "text": "IT project management processes",
+      "normalized": "it project management processes"
+    },
+    {
+      "text": "project initiation",
+      "normalized": "project initiation"
+    },
+    {
+      "text": "project planning",
+      "normalized": "project planning"
+    },
+    {
+      "text": "project execution",
+      "normalized": "project execution"
+    },
+    {
+      "text": "monitoring and controlling",
+      "normalized": "monitoring and controlling"
+    },
+    {
+      "text": "WBS",
+      "normalized": "wbs"
+    },
+    {
+      "text": "Gantt Chart",
+      "normalized": "gantt chart"
+    },
+    {
+      "text": "PERT",
+      "normalized": "pert"
+    },
+    {
+      "text": "CPM",
+      "normalized": "cpm"
+    },
+    {
+      "text": "MS Project",
+      "normalized": "ms project"
+    },
+    {
+      "text": "project scope management",
+      "normalized": "project scope management"
+    },
+    {
+      "text": "cost management",
+      "normalized": "cost management"
+    },
+    {
+      "text": "schedule management",
+      "normalized": "schedule management"
+    },
+    {
+      "text": "human resources management",
+      "normalized": "human resources management"
+    },
+    {
+      "text": "risk management",
+      "normalized": "risk management"
+    },
+    {
+      "text": "IT project management plans",
+      "normalized": "it project management plans"
+    },
+    {
+      "text": "project management tools",
+      "normalized": "project management tools"
+    },
+    {
+      "text": "project management techniques",
+      "normalized": "project management techniques"
+    },
+    {
+      "text": "IT project concepts",
+      "normalized": "it project concepts"
+    },
+    {
+      "text": "project teams",
+      "normalized": "project teams"
+    },
+    {
+      "text": "contracts",
+      "normalized": "contracts"
+    },
+    {
+      "text": "project handbooks",
+      "normalized": "project handbooks"
+    },
+    {
+      "text": "project management processes",
+      "normalized": "project management processes"
+    },
+    {
+      "text": "project progress tracking",
+      "normalized": "project progress tracking"
+    },
+    {
+      "text": "teamwork collaboration",
+      "normalized": "teamwork collaboration"
+    },
+    {
+      "text": "project results presentation",
+      "normalized": "project results presentation"
+    },
+    {
+      "text": "project risk control",
+      "normalized": "project risk control"
+    },
+    {
+      "text": "cost control",
+      "normalized": "cost control"
+    },
+    {
+      "text": "time management",
+      "normalized": "time management"
+    },
+    {
+      "text": "quality control",
+      "normalized": "quality control"
+    },
+    {
+      "text": "project management concepts",
+      "normalized": "project management concepts"
+    },
+    {
+      "text": "project scope",
+      "normalized": "project scope"
+    },
+    {
+      "text": "project schedule",
+      "normalized": "project schedule"
+    },
+    {
+      "text": "project cost",
+      "normalized": "project cost"
+    },
+    {
+      "text": "project quality",
+      "normalized": "project quality"
+    },
+    {
+      "text": "scope management",
+      "normalized": "scope management"
+    },
+    {
+      "text": "quality management",
+      "normalized": "quality management"
+    },
+    {
+      "text": "legal compliance",
+      "normalized": "legal compliance"
+    },
+    {
+      "text": "professional ethics",
+      "normalized": "professional ethics"
+    },
+    {
+      "text": "project management methods",
+      "normalized": "project management methods"
+    },
+    {
+      "text": "teamwork skills",
+      "normalized": "teamwork skills"
+    },
+    {
+      "text": "information technology project management",
+      "normalized": "information technology project management"
+    },
+    {
+      "text": "Budget Management",
+      "normalized": "budget management"
+    },
+    {
+      "text": "Human Resource Management",
+      "normalized": "human resource management"
+    },
+    {
+      "text": "Project Communication",
+      "normalized": "project communication"
+    },
+    {
+      "text": "Project Reporting",
+      "normalized": "project reporting"
+    },
+    {
+      "text": "Modern Project Management Tools",
+      "normalized": "modern project management tools"
+    },
+    {
+      "text": "IT Project Management Methods",
+      "normalized": "it project management methods"
+    },
+    {
+      "text": "Project Management Skills",
+      "normalized": "project management skills"
+    }
+  ],
+  "has_concept_edges": [
+    {
+      "course_code": "SC6013",
+      "concept_tag": "it project management processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1",
+        "SC6013_BAIHOC_L02"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project initiation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project planning",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project execution",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "monitoring and controlling",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "wbs",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "gantt chart",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "pert",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "cpm",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "ms project",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project scope management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "cost management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1",
+        "SC6013_CLO_L2",
+        "SC6013_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "schedule management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1",
+        "SC6013_CLO_L2",
+        "SC6013_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "human resources management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1",
+        "SC6013_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "risk management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G1",
+        "SC6013_CLO_L2",
+        "SC6013_BAIHOC_L07"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "it project management plans",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G2",
+        "SC6013_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management techniques",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_G2"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "it project concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project teams",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "contracts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project handbooks",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management processes",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT3",
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project progress tracking",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "teamwork collaboration",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project results presentation",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project risk control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "cost control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "time management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4",
+        "SC6013_BAIHOC_L04"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "quality control",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_MUCTIEU_MT4"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management concepts",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project scope",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project schedule",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project cost",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project quality",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L1"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "scope management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L2",
+        "SC6013_BAIHOC_L03"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "quality management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L2",
+        "SC6013_BAIHOC_L08"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "legal compliance",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "professional ethics",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L2"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L3",
+        "SC6013_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "teamwork skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L3"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "information technology project management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_CLO_L3",
+        "SC6013_BAIHOC_L01"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "budget management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L05"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "human resource management",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L06"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project communication",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project reporting",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L09"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "modern project management tools",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L10"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "it project management methods",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L11"
+      ]
+    },
+    {
+      "course_code": "SC6013",
+      "concept_tag": "project management skills",
+      "role": "teach",
+      "source_evidence_ids": [
+        "SC6013_BAIHOC_L11"
+      ]
+    }
+  ],
+  "evidence_for_edges": [
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68",
+      "esco_label": "perform project management",
+      "confidence": 0.8393481551383171,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6",
+      "esco_label": "manage project information",
+      "confidence": 0.8115185244578437,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality control",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7",
+      "esco_label": "manage ICT project",
+      "confidence": 0.8006701080705388,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051",
+      "esco_label": "perform resource planning",
+      "confidence": 0.7912031540024141,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+      "esco_label": "carry out project activities",
+      "confidence": 0.7905651295174336,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247",
+      "esco_label": "manage project changes",
+      "confidence": 0.8046318983200436,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317",
+      "esco_label": "perform risk analysis",
+      "confidence": 0.7875601393459472,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project handbooks",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729",
+      "esco_label": "draft project documentation",
+      "confidence": 0.7839696208143467,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project scope",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead",
+      "esco_label": "create project specifications",
+      "confidence": 0.7781696638184843,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project planning",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project results presentation",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/c3687b34-fe53-4db2-ad1b-5055a6c5b6fd",
+      "esco_label": "organise project meetings",
+      "confidence": 0.7843713692237693,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a",
+      "esco_label": "plan product management",
+      "confidence": 0.773359071892021,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938",
+      "esco_label": "advice on security risk management",
+      "confidence": 0.7667224708853997,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project execution",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d",
+      "esco_label": "maintain a central project repository",
+      "confidence": 0.7789350548991322,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "monitoring and controlling",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality control",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166",
+      "esco_label": "ensure proper document management",
+      "confidence": 0.773840899482225,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca",
+      "esco_label": "apply change management",
+      "confidence": 0.7700499858371757,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality control",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project quality",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "professional ethics",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979",
+      "esco_label": "develop information standards",
+      "confidence": 0.769300473917518,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081",
+      "esco_label": "manage standard enterprise resource planning system",
+      "confidence": 0.7613394545552264,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+      "esco_label": "project management",
+      "confidence": 0.8311361085204487,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13",
+      "esco_label": "project configuration management",
+      "confidence": 0.830572948646527,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project reporting",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+      "esco_label": "lean project management",
+      "confidence": 0.8263204390994687,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+      "esco_label": "Process-based management",
+      "confidence": 0.835113565700263,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+      "esco_label": "Agile project management",
+      "confidence": 0.818462203340275,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resources management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "esco_label": "ICT project management methodologies",
+      "confidence": 0.8238668602615188,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "budget management",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project communication",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d",
+      "esco_label": "ICT project management",
+      "confidence": 0.7923077531745402,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost control",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project cost",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0",
+      "esco_label": "cost management",
+      "confidence": 0.7881226503590492,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management techniques",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0",
+      "esco_label": "risk management",
+      "confidence": 0.7695244500701295,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management plans",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project risk control",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/0daaf096-1639-461c-bf1a-bbeea77e6b67",
+      "esco_label": "internal risk management policy",
+      "confidence": 0.7681294776577308,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project progress tracking",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management concepts",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "information technology project management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management skills",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/e2d0daae-2aa1-40cc-99e2-b340b02f97d3",
+      "esco_label": "product data management",
+      "confidence": 0.7647813482221703,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "project management processes",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "time management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality control",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "scope management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "schedule management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "cost management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "human resource management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "risk management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "quality management",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "modern project management tools",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    },
+    {
+      "concept_tag": "it project management methods",
+      "esco_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_label": "tools for software configuration management",
+      "confidence": 0.7463828097094743,
+      "pipeline_source": "teaches_B"
+    }
+  ],
+  "statistics": {
+    "total_concept_tags": 49,
+    "total_has_concept_edges": 49,
+    "total_evidence_for_edges": 504
+  }
+}
